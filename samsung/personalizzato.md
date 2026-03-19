@@ -3,6 +3,8 @@
 > Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
 
 
+
+
 La storia di Samsung, nata dalle ambizioni di Lee Byung-chul nel 1938, è un racconto di resilienza e crescita, un’eco di tre stelle che brillano attraverso i decenni. Da umile commerciante di prodotti locali a conglomerato globale, la sua evoluzione riflette il dinamismo del mercato e l’ingegno umano, incarnando il concetto taoista del *wu wei* – l'azione senza sforzo, l'armonia con il flusso del cambiamento. Come il fiume che segue il suo letto naturale, Samsung si è adattata e prosperata, non imponendo la propria volontà, ma rispondendo alle esigenze del mondo.
 
 *   Il fondatore Lee Byung-chul, dopo la devastazione della guerra, ha saputo trasformare la necessità di un rifornimento di zuccheri in un'opportunità, fondando un’azienda che avrebbe poi abbracciato l’elettronica di consumo.
@@ -15,6 +17,8 @@ Samsung si è affermata come uno dei principali attori globali in diversi settor
 
 
 ![samsung](https://image-us.samsung.com/us/smartphones/galaxy-s23-ultra/images/gallery/Red/1.jpg)
+
+
 
 
 

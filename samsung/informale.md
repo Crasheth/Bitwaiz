@@ -1,6 +1,8 @@
 # Samsung
 
-> Homepage: Samsung - La Storia Dietro i Tre Stelle
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
+
 
 
 
@@ -12,6 +14,8 @@ Ecco i punti chiave della storia di Samsung:
 *   **Diversificazione e leadership globale:** Negli anni 2000, Samsung ha continuato a diversificarsi, espandendosi in settori come l'assicurazione (Samsung Life Insurance) e la pubblicità (Samsung Advertising). Oggi, l'azienda è un leader globale in una vasta gamma di settori, tra cui elettronica, semiconduttori, telecomunicazioni e assicurazioni.
 
 Samsung è un esempio di come un'azienda possa trasformarsi e adattarsi ai cambiamenti del mercato, rimanendo sempre all'avanguardia dell'innovazione. La sua storia è un racconto di ambizione, perseveranza e successo, che continua a ispirare imprenditori e innovatori in tutto il mondo.
+
+
 
 
 

@@ -3,6 +3,8 @@
 > Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
 
 
+
+
 Secondo le fonti, Samsung nasce nel 1938 con l'imprenditore Lee Byung-chul, che fonda Mitsuboshi Trading Company a Daegu, Corea del Sud. Inizialmente, l'azienda si concentra sul commercio di prodotti agricoli, ma rapidamente si espande nel settore delle bevande e del commercio estero. Nel 1969, Lee Byung-chul fonda Samsung Electronics, dando il via a un'era di innovazione tecnologica.
 
 *   L'azienda ha iniziato come un piccolo commerciante di prodotti agricoli.
@@ -20,6 +22,8 @@ Oggi, Samsung è una delle aziende più grandi e innovative al mondo, con una va
 *   Samsung è una delle aziende più grandi e innovative al mondo.
 *   L'azienda ha una vasta gamma di prodotti e servizi che coprono diversi settori.
 *   Samsung continua a investire in ricerca e sviluppo.
+
+
 
 
 

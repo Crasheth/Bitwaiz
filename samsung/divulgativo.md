@@ -4,6 +4,8 @@
 
 
 
+
+
 A continuación, se resumen los hitos clave en la evolución de Samsung:
 
 *   **1938: Orígenes en el Comercio:** Lee Byung-chul funda Mitsui Bussan Co., Ltd. (más tarde Samsung Sanghoe), comenzando como un pequeño negocio de comercio de congee y otros productos alimenticios locales. Este primer paso, basado en la observación de las necesidades del mercado y la adaptación, sentó las bases para el enfoque empresarial de la compañía.
@@ -20,6 +22,8 @@ Samsung continúa adaptándose a los cambios del mercado y a las nuevas tendenci
 - [Samsung - Wikipedia](https://en.wikipedia.org/wiki/SAMSUNG)
 - [Samsung Electronics - Wikipedia](https://en.wikipedia.org/wiki/Samsung_Electronics)
 - [Samsung](https://grokipedia.com/page/Samsung)
+
+
 
 
 ## Fonti
