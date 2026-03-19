@@ -1,3 +1,4 @@
-# Netlify - sito statico
+# Netlify - sito statico pre-buildato (nessun comando di build)
 [build]
   publish = "."
+  # Nessun command: il pipeline genera i file prima del push

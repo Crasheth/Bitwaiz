@@ -3,71 +3,89 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/png" href="../favicon.png">
+  <link rel="icon" type="image/png" href="favicon.png">
   <link rel="stylesheet" href="style.css">
   <title>BITWAIZ - Articoli su tecnologia e cybersecurity</title>
 </head>
 <body>
   <nav class="nav">
-    <a href="." class="logo">BITWAIZ</a>
-    <div class="nav-links">
-      <a href="#home">Home</a>
-      <a href="#articoli">Articoli</a>
-      <a href="#about">Chi Sono</a>
-    </div>
-    <a href="mailto:info@bitwaiz.it" class="btn btn-primary" target="_blank">Contattaci</a>
-  </nav>
-
+  <a href="." class="logo">BITWAIZ</a>
+  <div class="nav-links"><a href="#home">Home</a><a href="#articoli">Articoli</a><a href="#about">Chi sono</a><a href="./privacy.html">Privacy</a></div>
+  <a href="https://www.bitwaiz.it/#contatti" class="btn btn-primary" target="_blank">contattami</a>
+</nav>
   <header class="hero" id="home">
     <span class="hero-badge">● Nuovi articoli su tecnologia e cybersecurity</span>
     <h1>Esplora il futuro della <span class="accent">tecnologia</span>.</h1>
-    <p class="hero-sub">Articoli su trend tech, cybersecurity e innovazione. Contenuti in più toni: divulgativo, tecnico, informale, professionale.</p>
+    <p class="hero-sub">Articoli su trend tech, cybersecurity e innovazione. Contenuti in 5 toni: divulgativo, tecnico, informale, professionale oppure secondo il mio stile!</p>
     <div class="hero-ctas">
       <a href="#articoli" class="btn btn-primary">Leggi gli articoli →</a>
-      
-  </header>
-
-  <section class="section" id="about">
-    <div class="about">
-      <h2>Chi sono?</h2>
-      <div class="about-content">
-        BITWAIZ è la pronuncia letterale di <strong>bitwise</strong>, un termine tecnico in ambito informatico che si riferisce all'elaborazione dei dati "bit per bit".
-        Si collega all'espressione "un passo alla volta": affrontare ogni sfida un bit alla volta.
-        L'approccio sottolinea pazienza (Be Patient) e determinazione (But with Persistence).
-      </div>
-      <p><strong>Christian Cioffi (Crasheth)</strong></p>
-      <div class="expertise-grid">
-        <div class="expertise-item"><strong>Cybersecurity</strong><span>SOC, Incident Handling, SIEM (Splunk, QRadar, ArcSight)</span></div>
-        <div class="expertise-item"><strong>EDR/XDR</strong><span>FireEye, CrowdStrike, Microsoft Defender</span></div>
-        <div class="expertise-item"><strong>Malware Analysis</strong><span>Analisi statica e dinamica, reverse engineering</span></div>
-        <div class="expertise-item"><strong>SPAM & IOC</strong><span>Indicatori di compromissione, threat intelligence</span></div>
-        <div class="expertise-item"><strong>Hardware Hacking</strong><span>Passione per l'elettronica e dedizione all'hardware hacking, esplorando nuove frontiere dell'innovazione tecnologica.
-</span></div>
-       <div class="expertise-item"><strong><em>Eye on the Horizon</em></strong><span>Focus su AI/ML, LLM agents, cybersecurity automation e tecnologie emergenti</span>
-  </div>
-
-      </div>
+      <a href="https://www.bitwaiz.it" class="btn btn-outline" target="_blank">Scopri chi sono</a>
     </div>
-  </section>
-
+  </header>
+  <section class="section bmc-section">
+  <p>Nel flusso del Tao, non accumulo — condivido.</p>
+  <p>"Tesoro condiviso non si esaurisce" — Tao Te Ching</p>
+  <div id="bmc-widget"><script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="crasheth" data-color="#FFDD00" data-emoji="💪" data-font="Cookie" data-text="Sostieni il progetto!" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff"></script></div>
+</section>
+  <section class="section" id="about">
+  <div class="about">
+    <h2>Chi sono?</h2>
+    <div class="about-content">BITWAIZ è la pronuncia letterale di <strong>bitwise</strong>, un termine tecnico in ambito informatico che si riferisce all'elaborazione dei dati "bit per bit".
+    Si collega all'espressione "un passo alla volta": affrontare ogni sfida un bit alla volta.
+    L'approccio sottolinea pazienza (Be Patient) e determinazione (But with Persistence).</div>
+    <p><strong>Christian Cioffi (Crasheth)</strong></p>
+    <div class="expertise-grid"><div class="expertise-item"><strong>Cybersecurity</strong><span>SOC, Incident Handling, SIEM (Splunk, QRadar, ArcSight)</span></div><div class="expertise-item"><strong>EDR/XDR</strong><span>FireEye, CrowdStrike, Microsoft Defender</span></div><div class="expertise-item"><strong>Malware Analysis</strong><span>Analisi statica e dinamica, reverse engineering</span></div><div class="expertise-item"><strong>SPAM & IOC</strong><span>Indicatori di compromissione, threat intelligence</span></div><div class="expertise-item"><strong>Hardware Hacking</strong><span>Passione per l'elettronica e dedizione all'hardware hacking, esplorando nuove frontiere dell'innovazione tecnologica.</span></div><div class="expertise-item"><strong><em>Eye on the Horizon</em></strong><span>Focus su AI/ML, LLM agents, cybersecurity automation e tecnologie emergenti</span></div></div>
+  </div>
+</section>
   <section class="section" id="articoli">
     <div class="section-header">
-      <h2>Scegli <span class="accent">un argomento</span></h2>
+      <h2>Scegli <span class="accent">un argomento</span> ed il <span class="accent-alt">tono di lettura!</span></h2>
     </div>
-    <div class="card-grid">
-      <a href="esempio-articolo/" class="card">
-        <h3>Articolo di esempio</h3>
-        <p>Anteprima: clicca e leggi l'articolo in diversi toni.</p>
-      </a>
-      <div class="card" style="opacity: 0.8; pointer-events: none; border-style: dashed;">
-        <h3>Prossimi articoli</h3>
-        <p></p>
-      </div>
-    </div>
+    <div class="search-box">
+  <div class="search-wrapper">
+    <input type="search" id="article-search" placeholder="Cerca articoli per argomento..." autocomplete="off" aria-label="Cerca articoli">
+  </div>
+  <p class="search-no-results" id="search-no-results">Nessun articolo trovato per questa ricerca.</p>
+</div>
+    <div class="category-tabs"><button class="category-tab active" data-cat="*" type="button">Tutti<span>(1)</span></button><button class="category-tab" data-cat="Altro" type="button">Altro<span>(1)</span></button></div>
+    <div class="card-grid"><a href="samsung/" class="card" data-category="Altro" data-topic="samsung"><h3>samsung</h3><p class="card-date">19 mar 2026</p><p>La storia di Samsung, nata dalle ambizioni di Lee Byung-chul nel 1938, è un racconto di resilienza e crescita, un’eco di tre stelle che bril…</p></a></div>
   </section>
-
   <footer class="footer">
-    <p>BITWAIZ — Be Patient, But With Persistence</p>
+    <p>© 2026 BITWAIZ — Be Patient, But With Persistence</p>
   </footer>
+  <script>
+    (function() {
+      const cards = document.querySelectorAll('.card-grid .card');
+      const searchInput = document.getElementById('article-search');
+      const noResults = document.getElementById('search-no-results');
+      let currentCat = '*';
+
+      function applyFilters() {
+        const q = (searchInput?.value || '').trim().toLowerCase();
+        let visible = 0;
+        cards.forEach(card => {
+          const matchCat = currentCat === '*' || card.dataset.category === currentCat;
+          const topic = (card.dataset.topic || card.querySelector('h3')?.textContent || '').toLowerCase();
+          const category = (card.dataset.category || '').toLowerCase();
+          const matchSearch = !q || topic.includes(q) || category.includes(q);
+          const show = matchCat && matchSearch;
+          card.classList.toggle('hidden-by-filter', !show);
+          if (show) visible++;
+        });
+        if (noResults) noResults.classList.toggle('visible', visible === 0 && cards.length > 0);
+      }
+
+      document.querySelectorAll('.category-tab').forEach(btn => {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.category-tab').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          currentCat = btn.dataset.cat;
+          applyFilters();
+        });
+      });
+
+      if (searchInput) searchInput.addEventListener('input', applyFilters);
+    })();
+  </script>
 </body>
 </html>
