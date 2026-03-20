@@ -4,6 +4,7 @@
 
 
 
+
 L'intelligenza artificiale sta trasformando il mondo, ma il suo cuore pulsante è il *machine learning*, o apprendimento automatico. In poche parole, si tratta di insegnare ai computer a imparare dai dati, senza essere esplicitamente programmati per ogni singola situazione. Immagina di addestrare un cucciolo: gli mostri esempi, lo premi quando fa la cosa giusta, e alla fine impara a riconoscere i comandi. Il machine learning funziona in modo simile, ma con dati e algoritmi.
 
 Ecco alcuni concetti chiave:
@@ -19,6 +20,7 @@ Il machine learning ha applicazioni innumerevoli, dalla diagnosi medica alla gui
 
 
 ![machine learning algorithms](https://cdn.mindmajix.com/blog/images/types-of-machine-learning-algorithms.png)
+
 
 
 

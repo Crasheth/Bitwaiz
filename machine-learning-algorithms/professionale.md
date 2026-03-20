@@ -4,6 +4,7 @@
 
 
 
+
 Il machine learning (ML) è un campo dell'intelligenza artificiale (AI) che consente ai sistemi di apprendere dai dati senza essere esplicitamente programmati. Invece di seguire istruzioni passo passo, gli algoritmi di ML identificano schemi e prendono decisioni basate sui dati di input. Questo approccio permette ai sistemi di migliorare le loro prestazioni nel tempo man mano che vengono esposti a nuovi dati.
 
 Il machine learning si basa su diversi concetti chiave. Innanzitutto, i dati sono fondamentali. Gli algoritmi di ML necessitano di dati per imparare. Questi dati possono essere strutturati (come tabelle di database) o non strutturati (come testo o immagini). In secondo luogo, gli algoritmi di ML utilizzano modelli matematici per rappresentare le relazioni nei dati. Questi modelli vengono poi regolati utilizzando i dati di addestramento. Infine, la valutazione è essenziale: si misura quanto bene il modello riesce a generalizzare su dati nuovi.
@@ -20,6 +21,7 @@ Il machine learning ha un'ampia gamma di applicazioni in diversi settori. Ad ese
 
 
 Il machine learning è un campo in rapida evoluzione con un enorme potenziale per trasformare il modo in cui viviamo e lavoriamo.  Con la continua crescita della quantità di dati disponibili e il progresso degli algoritmi, il machine learning è destinato a svolgere un ruolo sempre più importante nel futuro.
+
 
 
 

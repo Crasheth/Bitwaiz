@@ -5,6 +5,7 @@
 
 
 
+
 Il machine learning, o apprendimento automatico, rappresenta un approccio rivoluzionario all'interno dell'intelligenza artificiale, un flusso continuo di dati che, anziché essere rigidamente programmati, permettono ai sistemi di apprendere e migliorare autonomamente. Non si tratta di impartire istruzioni esplicite, ma di fornire un ambiente in cui un algoritmo può "osservare" i dati, identificare schemi e, di conseguenza, affinare le proprie capacità di previsione o decisione. Immaginate il fiume del Tao: non si forza con la mano, ma segue il corso naturale, adattandosi al terreno, trasportando la conoscenza verso il punto più basso.
 
 Ecco alcuni aspetti chiave del machine learning:
@@ -24,6 +25,7 @@ Il machine learning non è quindi una semplice tecnologia, ma un nuovo modo di i
 
 
 ![machine learning algorithms](https://cdn.mindmajix.com/blog/images/types-of-machine-learning-algorithms.png)
+
 
 
 
