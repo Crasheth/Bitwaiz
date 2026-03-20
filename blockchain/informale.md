@@ -4,6 +4,7 @@
 
 
 
+
 La blockchain, in parole povere, è come un registro digitale condiviso e immutabile. Immagina un libro mastro che tutti possono vedere, ma nessuno può modificare da solo. Ogni volta che avviene una transazione (un pagamento, un trasferimento di proprietà, qualsiasi cosa), viene registrata in un "blocco". Questo blocco viene poi aggiunto alla "catena" di blocchi esistente, rendendo la storia delle transazioni permanente e trasparente.
 
 Ecco i punti chiave:
@@ -14,6 +15,7 @@ Ecco i punti chiave:
 *   **Consenso:** Prima che un nuovo blocco venga aggiunto alla catena, deve essere approvato dalla maggior parte dei computer nella rete. Questo processo di consenso garantisce che tutte le transazioni siano valide.
 
 Secondo le fonti, la blockchain ha un impatto enorme in diversi settori, dalla finanza alla logistica, passando per la sanità e il voto elettronico.
+
 
 
 

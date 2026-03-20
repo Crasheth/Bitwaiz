@@ -1,6 +1,7 @@
 # Cloud Computing
 
-> Tutto ciò che può essere digitalizzato verrà digitalizzato. — Nicholas Negroponte.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 Cloud computing è un modo di usare servizi informatici – come archiviare file, eseguire app o usare computer potenti – tramite internet invece che sul tuo dispositivo. Immagina di usare l'elettricità: ti connetti e lo usi senza sapere come funziona la centrale elettrica o se ne possiedi una. Il “cloud” si riferisce a grandi server remoti gestiti da aziende come Google, Amazon o Microsoft. Questo ti permette di accedere da qualsiasi dispositivo con internet, semplificando le cose e pagando solo per quello che usi, con la possibilità di aumentare o diminuire la potenza in base alle necessità.
@@ -16,6 +17,7 @@ Ecco alcuni punti chiave:
 *   **Innovazione:** Il cloud offre accesso a tecnologie all'avanguardia come l'intelligenza artificiale e il machine learning.
 
 Il cloud computing è diventato un elemento fondamentale per le aziende di tutte le dimensioni e per i singoli utenti. Permette di ridurre i costi, aumentare l'efficienza e accelerare l'innovazione.
+
 
 
 

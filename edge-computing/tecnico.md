@@ -1,6 +1,7 @@
 # Edge Computing: Il Futuro dell'Elaborazione Dati
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
 
 
 
@@ -25,6 +26,7 @@ La crescente domanda di dati e l'esplosione di dispositivi IoT stanno mettendo a
     *   **Sicurezza:** Proteggere i nodi edge da attacchi informatici.
     *   **Gestione:** Gestire e monitorare una rete distribuita di nodi edge.
     *   **Standardizzazione:** Sviluppare standard per garantire l'interoperabilità tra diversi dispositivi e piattaforme edge.
+
 
 
 

@@ -1,6 +1,7 @@
 # Automazione
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
 
 
 
@@ -17,6 +18,7 @@ L’automazione non è un concetto nuovo: le prime forme di automazione risalgon
 
 
 ![automazione](https://www.kablator.com/wp-content/uploads/2024/03/Automazione-robotica-industriale-Kablator.png)
+
 
 
 

@@ -1,6 +1,7 @@
 # Mephedrone: Un Flusso di Informazioni
 
-> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+> La tecnologia migliore è quella che scompare. — Mark Weiser.
+
 
 
 
@@ -17,6 +18,7 @@ Ecco alcuni punti chiave riguardanti il mephedrone:
 
 
 ![drone](https://cdn.thewirecutter.com/wp-content/media/2022/10/drones-2048px-0698.jpg)
+
 
 
 
