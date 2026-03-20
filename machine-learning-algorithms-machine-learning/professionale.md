@@ -3,6 +3,7 @@
 > Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
 
 
+
 Il campo dell’intelligenza artificiale si basa su un’orchestra di algoritmi, ciascuno specializzato in un compito specifico. Comprendere la varietà di questi strumenti è fondamentale per sfruttare appieno il potenziale dell’IA. Questo articolo esplora alcuni degli algoritmi di machine learning più diffusi, evidenziando le loro caratteristiche distintive e le aree di applicazione.
 
 *   **Regressione Lineare:** Questo algoritmo è uno dei più semplici e ampiamente utilizzati. Predice un valore numerico continuo basandosi su una relazione lineare tra le variabili di input e l’output. È ideale per problemi come la previsione dei prezzi delle case o la stima delle vendite.
@@ -16,6 +17,7 @@ Il campo dell’intelligenza artificiale si basa su un’orchestra di algoritmi,
 *   **Reti Neurali:** Composte da strati di neuroni interconnessi, le reti neurali sono in grado di apprendere modelli complessi dai dati. Sono particolarmente efficaci in problemi come il riconoscimento di immagini e la traduzione automatica.
 
 La scelta dell’algoritmo appropriato dipende dalle caratteristiche dei dati e dagli obiettivi del progetto. Spesso, un approccio ibrido, che combina diversi algoritmi, può portare a risultati ottimali.
+
 
 
 

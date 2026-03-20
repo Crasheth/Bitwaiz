@@ -3,6 +3,7 @@
 > Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
 
 
+
 L'intelligenza artificiale sta rivoluzionando il mondo, e al suo cuore ci sono gli algoritmi di machine learning. Questi algoritmi permettono ai computer di imparare dai dati senza essere esplicitamente programmati per ogni compito. Ma cosa sono esattamente e come funzionano? Questa guida introduttiva esplorerà alcuni degli algoritmi più comuni, spiegandoli in modo semplice e accessibile.
 
 
@@ -37,6 +38,7 @@ Gli algoritmi di machine learning sono utilizzati in una vasta gamma di applicaz
 ## Conclusione
 
 Gli algoritmi di machine learning sono strumenti potenti che stanno trasformando il modo in cui viviamo e lavoriamo. Comprendere i diversi tipi di algoritmi e le loro applicazioni può aiutarti a sfruttare al meglio il potenziale dell'intelligenza artificiale.
+
 
 
 

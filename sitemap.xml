@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://www.bitwaiz.it/</loc><lastmod>2026-03-20</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://www.bitwaiz.it/privacy.html</loc><lastmod>2026-03-20</lastmod><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.bitwaiz.it/machine-learning-algorithms-machine-learning/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.bitwaiz.it/machine-learning-models/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://www.bitwaiz.it/machine-learning-algorithms/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.bitwaiz.it/machine-learning-algorithms-machine-learning/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
 </urlset>

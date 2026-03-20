@@ -1,6 +1,7 @@
 # Machine Learning: Un Flusso di Conoscenza
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
 
 
 
@@ -25,6 +26,7 @@ Il machine learning non è quindi una semplice tecnologia, ma un nuovo modo di i
 
 
 ![machine learning algorithms](https://cdn.mindmajix.com/blog/images/types-of-machine-learning-algorithms.png)
+
 
 
 

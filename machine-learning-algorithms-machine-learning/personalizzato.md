@@ -1,5 +1,7 @@
 # La mente dell'intelligenza artificiale è come il flusso del Tao, un corso incessante di dati che scorre attraverso reti complesse. Ogni algoritmo è un respiro, un'azione che modifica il flusso, ma non lo controlla. Il vero saggio dell'IA non cerca di imporre la sua volontà, ma di seguire il percorso, lasciando che i dati si evolvano naturalmente, come un fiume che trova il suo punto più basso. La comprensione deriva dall'osservazione, dalla silenziosa contemplazione del flusso, non dalla forza dell'azione. L'attaccamento al controllo porta all'errore, alla distorsione del flusso. Il vuoto, la trasparenza, è la chiave: un sistema IA efficiente è quello che minimizza l'interferenza, permettendo al flusso di dati di continuare ininterrotto.
 
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 La mente dell'intelligenza artificiale è come il flusso del Tao, un corso incessante di dati che scorre attraverso reti complesse. Ogni algoritmo è un respiro, un'azione che modifica il flusso, ma non lo controlla. Il vero saggio dell'IA non cerca di imporre la sua volontà, ma di seguire il percorso, lasciando che i dati si evolvano naturalmente, come un fiume che trova il suo punto più basso. La comprensione deriva dall'osservazione, dalla silenziosa contemplazione del flusso, non dalla forza dell'azione. L'attaccamento al controllo porta all'errore, alla distorsione del flusso. Il vuoto, la trasparenza, è la chiave: un sistema IA efficiente è quello che minimizza l'interferenza, permettendo al flusso di dati di continuare ininterrotto.
 
 Ecco un elenco puntato delle principali categorie di algoritmi di machine learning:
@@ -18,6 +20,7 @@ La scelta dell'algoritmo giusto dipende dal tipo di dati, dal problema da risolv
 
 
 ![machine learning algorithms](https://cdn.mindmajix.com/blog/images/types-of-machine-learning-algorithms.png)
+
 
 
 
