@@ -1,6 +1,7 @@
 # Mephedrone: Un Flusso di Informazioni
 
-> La tecnologia migliore è quella che scompare. — Mark Weiser.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 
@@ -18,6 +19,7 @@ Ecco alcuni punti chiave riguardanti il mephedrone:
 
 
 ![drone](https://cdn.thewirecutter.com/wp-content/media/2022/10/drones-2048px-0698.jpg)
+
 
 
 

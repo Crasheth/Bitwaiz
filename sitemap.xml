@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://www.bitwaiz.it/</loc><lastmod>2026-03-20</lastmod><changefreq>daily</changefreq></url>
   <url><loc>https://www.bitwaiz.it/privacy.html</loc><lastmod>2026-03-20</lastmod><changefreq>monthly</changefreq></url>
-  <url><loc>https://www.bitwaiz.it/wearable/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
-  <url><loc>https://www.bitwaiz.it/intelligenza-artificiale/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
-  <url><loc>https://www.bitwaiz.it/iot/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://www.bitwaiz.it/machine-learning-models/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://www.bitwaiz.it/metaverso/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://www.bitwaiz.it/quantum-computing/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.bitwaiz.it/wearable/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.bitwaiz.it/intelligenza-artificiale/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.bitwaiz.it/iot/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.bitwaiz.it/edge-computing/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.bitwaiz.it/5g/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.bitwaiz.it/automazione/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://www.bitwaiz.it/blockchain/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://www.bitwaiz.it/bticino-smart-home/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://www.bitwaiz.it/chatbot/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://www.bitwaiz.it/cloud-computing/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://www.bitwaiz.it/cybersecurity/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://www.bitwaiz.it/drone/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://www.bitwaiz.it/droni/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
-  <url><loc>https://www.bitwaiz.it/edge-computing/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
-  <url><loc>https://www.bitwaiz.it/5g/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
-  <url><loc>https://www.bitwaiz.it/automazione/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
-  <url><loc>https://www.bitwaiz.it/blockchain/</loc><lastmod>2026-03-20</lastmod><changefreq>weekly</changefreq></url>
 </urlset>

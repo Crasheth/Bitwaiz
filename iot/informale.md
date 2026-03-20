@@ -1,6 +1,7 @@
 # L'Internet delle Cose: Un'Evoluzione Inarrestabile
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 
@@ -17,6 +18,7 @@ Ecco i punti chiave:
 
 
 L'IoT non è solo un insieme di gadget connessi; è un'infrastruttura fondamentale per il futuro, con il potenziale di trasformare radicalmente il modo in cui viviamo e lavoriamo.  E' un'evoluzione inarrestabile, che promette di ottimizzare processi, migliorare l'efficienza e creare nuove opportunità di business.
+
 
 
 
