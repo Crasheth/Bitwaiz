@@ -1,6 +1,7 @@
 # Machine Learning Algorithms: Un’Armonia di Strumenti per l'Intelligenza Artificiale
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 
 
@@ -17,6 +18,7 @@ Il campo dell’intelligenza artificiale si basa su un’orchestra di algoritmi,
 *   **Reti Neurali:** Composte da strati di neuroni interconnessi, le reti neurali sono in grado di apprendere modelli complessi dai dati. Sono particolarmente efficaci in problemi come il riconoscimento di immagini e la traduzione automatica.
 
 La scelta dell’algoritmo appropriato dipende dalle caratteristiche dei dati e dagli obiettivi del progetto. Spesso, un approccio ibrido, che combina diversi algoritmi, può portare a risultati ottimali.
+
 
 
 

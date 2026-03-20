@@ -1,6 +1,7 @@
 # Algoritmi di Machine Learning: Una Guida Introduttiva
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 
 
@@ -38,6 +39,7 @@ Gli algoritmi di machine learning sono utilizzati in una vasta gamma di applicaz
 ## Conclusione
 
 Gli algoritmi di machine learning sono strumenti potenti che stanno trasformando il modo in cui viviamo e lavoriamo. Comprendere i diversi tipi di algoritmi e le loro applicazioni può aiutarti a sfruttare al meglio il potenziale dell'intelligenza artificiale.
+
 
 
 

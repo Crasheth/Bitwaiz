@@ -1,6 +1,7 @@
 # Machine Learning: Un'Introduzione Pratica
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
 
 
 
@@ -33,6 +34,7 @@ Il ML viene utilizzato in una vasta gamma di applicazioni, tra cui:
 **Iniziare con il Machine Learning**
 
 Se sei interessato a imparare di più sul ML, ci sono molte risorse disponibili online e offline. Alcuni dei linguaggi di programmazione più popolari per il ML includono Python e R. Ci sono anche molte librerie e framework disponibili, come TensorFlow e PyTorch, che semplificano lo sviluppo di modelli di ML.
+
 
 
 

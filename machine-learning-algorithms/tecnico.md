@@ -1,6 +1,7 @@
 # L'Intelligenza Artificiale è la nuova elettricità. — Andrew Ng
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
 
 
 
@@ -17,6 +18,7 @@ Nonostante queste sfide, il potenziale del machine learning è enorme. Man mano 
 Un altro aspetto cruciale è l'importanza di un approccio etico e responsabile allo sviluppo e all'implementazione del machine learning. È fondamentale considerare le implicazioni sociali ed etiche del machine learning e garantire che venga utilizzato per il bene dell'umanità. Ciò include affrontare problemi come il bias algoritmico, la privacy dei dati e l'impatto del machine learning sul lavoro.
 
 Il machine learning non è solo una nuova tecnologia; è un nuovo modo di pensare. Ci sfida a ripensare il modo in cui risolviamo i problemi, prendiamo decisioni e interagiamo con il mondo che ci circonda. Con un'attenta pianificazione e un impegno per l'etica e la responsabilità, possiamo sfruttare il potere del machine learning per creare un futuro migliore per tutti.
+
 
 
 

@@ -1,6 +1,7 @@
 # Machine Learning: Un'Introduzione
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
 
 
 
@@ -22,6 +23,7 @@ Il machine learning ha un'ampia gamma di applicazioni in diversi settori. Ad ese
 
 
 Il machine learning è un campo in rapida evoluzione con un enorme potenziale per trasformare il modo in cui viviamo e lavoriamo.  Con la continua crescita della quantità di dati disponibili e il progresso degli algoritmi, il machine learning è destinato a svolgere un ruolo sempre più importante nel futuro.
+
 
 
 

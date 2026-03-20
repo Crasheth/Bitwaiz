@@ -1,6 +1,7 @@
 # Machine Learning: Un'Esplorazione Approfondita
 
-> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 
 Il machine learning (ML), o apprendimento automatico, rappresenta un paradigma rivoluzionario nell'informatica, permettendo ai sistemi di apprendere dai dati senza essere esplicitamente programmati. Invece di seguire istruzioni passo-passo, gli algoritmi di ML identificano pattern, fanno previsioni e migliorano le proprie prestazioni con l'esperienza. Questo processo si basa su tecniche statistiche e di ottimizzazione, consentendo ai computer di risolvere problemi complessi che sarebbero impossibili da affrontare con approcci tradizionali.
@@ -12,6 +13,7 @@ Il cuore del machine learning risiede nell'addestramento di modelli su set di da
 *   **Apprendimento per rinforzo:** Il modello impara attraverso l'interazione con un ambiente, ricevendo ricompense o penalità per le sue azioni. Questo approccio è spesso utilizzato per addestrare agenti intelligenti in ambienti complessi, come i giochi.
 
 Le applicazioni del machine learning sono innumerevoli e in continua espansione. Dal riconoscimento di immagini e voce alla diagnosi medica, dalla guida autonoma alla previsione finanziaria, il ML sta trasformando settori chiave dell'economia e della società. La sua capacità di analizzare grandi quantità di dati e di identificare pattern complessi lo rende uno strumento potente per risolvere problemi complessi e per creare nuove opportunità. Come osservava Leo Cherne, "I computer sono incredibilmente veloci, accurati e stupidi." - Leo Cherne, il ML si concentra sull'automazione di compiti "stupidi" per liberare l'intelligenza umana per compiti più creativi e strategici.
+
 
 
 

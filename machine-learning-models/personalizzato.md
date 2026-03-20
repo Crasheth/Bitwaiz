@@ -1,6 +1,7 @@
 # Machine Learning: Un Flusso di Informazioni
 
-> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 
 
@@ -16,6 +17,7 @@ Le applicazioni del machine learning sono vastissime e in continua espansione. D
 
 
 ![machine learning models](https://learn.g2.com/hs-fs/hubfs/G2CM_FI453_Learn_Article_Images-[Machine_learning_models]_Infographic_image1_V1a-png-2.png?width=690)
+
 
 
 

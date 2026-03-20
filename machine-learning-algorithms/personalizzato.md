@@ -1,6 +1,7 @@
 # Machine Learning: Un Flusso di Conoscenza
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
 
 
 
@@ -26,6 +27,7 @@ Il machine learning non è quindi una semplice tecnologia, ma un nuovo modo di i
 
 
 ![machine learning algorithms](https://cdn.mindmajix.com/blog/images/types-of-machine-learning-algorithms.png)
+
 
 
 

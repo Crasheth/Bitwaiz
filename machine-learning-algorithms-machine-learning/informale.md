@@ -1,6 +1,7 @@
 # Machine Learning Algorithms: A Practical Overview
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 
 
@@ -13,6 +14,7 @@ L'intelligenza artificiale, come un fiume in piena, sta plasmando il nostro mond
 *   **Naive Bayes:**  Questo algoritmo si basa sul teorema di Bayes e assume che le caratteristiche siano indipendenti. È un metodo semplice ed efficiente per la classificazione del testo, come l'analisi dello spam.
 *   **Random Forest:**  Immagina di avere un consiglio di esperti, ognuno con un punto di vista leggermente diverso. La Random Forest combina le previsioni di molti alberi decisionali per ottenere una previsione più robusta e accurata.
 *   **Gradient Boosting:**  Questo algoritmo costruisce un modello in modo iterativo, correggendo gli errori del modello precedente. È un metodo potente per ottenere alte prestazioni in una varietà di compiti di machine learning.
+
 
 
 

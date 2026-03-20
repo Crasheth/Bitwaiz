@@ -1,6 +1,7 @@
 # Machine Learning: Un'introduzione accessibile
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
 
 
 
@@ -21,6 +22,7 @@ Il machine learning ha applicazioni innumerevoli, dalla diagnosi medica alla gui
 
 
 ![machine learning algorithms](https://cdn.mindmajix.com/blog/images/types-of-machine-learning-algorithms.png)
+
 
 
 
