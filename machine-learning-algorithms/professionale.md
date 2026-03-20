@@ -1,6 +1,7 @@
 # Machine Learning: Un'Introduzione
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 Il machine learning (ML) è un campo dell'intelligenza artificiale (AI) che consente ai sistemi di apprendere dai dati senza essere esplicitamente programmati. Invece di seguire istruzioni passo passo, gli algoritmi di ML identificano schemi e prendono decisioni basate sui dati di input. Questo approccio permette ai sistemi di migliorare le loro prestazioni nel tempo man mano che vengono esposti a nuovi dati.
@@ -19,6 +20,7 @@ Il machine learning ha un'ampia gamma di applicazioni in diversi settori. Ad ese
 
 
 Il machine learning è un campo in rapida evoluzione con un enorme potenziale per trasformare il modo in cui viviamo e lavoriamo.  Con la continua crescita della quantità di dati disponibili e il progresso degli algoritmi, il machine learning è destinato a svolgere un ruolo sempre più importante nel futuro.
+
 
 
 

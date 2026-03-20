@@ -1,6 +1,7 @@
 # Machine Learning: Un'introduzione accessibile
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 L'intelligenza artificiale sta trasformando il mondo, ma il suo cuore pulsante è il *machine learning*, o apprendimento automatico. In poche parole, si tratta di insegnare ai computer a imparare dai dati, senza essere esplicitamente programmati per ogni singola situazione. Immagina di addestrare un cucciolo: gli mostri esempi, lo premi quando fa la cosa giusta, e alla fine impara a riconoscere i comandi. Il machine learning funziona in modo simile, ma con dati e algoritmi.
@@ -18,6 +19,7 @@ Il machine learning ha applicazioni innumerevoli, dalla diagnosi medica alla gui
 
 
 ![machine learning algorithms](https://cdn.mindmajix.com/blog/images/types-of-machine-learning-algorithms.png)
+
 
 
 

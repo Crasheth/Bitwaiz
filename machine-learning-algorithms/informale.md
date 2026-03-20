@@ -1,6 +1,7 @@
 # Machine Learning: Un'Introduzione Pratica
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 Il machine learning (ML) è diventato un argomento centrale nel mondo della tecnologia, ma spesso il suo nome evoca immagini di algoritmi complessi e scienziati dei dati. In realtà, il ML è un insieme di tecniche che permettono ai computer di imparare dai dati senza essere esplicitamente programmati. In questo articolo, ti forniremo un'introduzione pratica a questo campo, spiegando i concetti chiave e le applicazioni più comuni.
@@ -30,6 +31,7 @@ Il ML viene utilizzato in una vasta gamma di applicazioni, tra cui:
 **Iniziare con il Machine Learning**
 
 Se sei interessato a imparare di più sul ML, ci sono molte risorse disponibili online e offline. Alcuni dei linguaggi di programmazione più popolari per il ML includono Python e R. Ci sono anche molte librerie e framework disponibili, come TensorFlow e PyTorch, che semplificano lo sviluppo di modelli di ML.
+
 
 
 

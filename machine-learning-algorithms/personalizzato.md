@@ -1,6 +1,7 @@
 # Machine Learning: Un Flusso di Conoscenza
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 
@@ -23,6 +24,7 @@ Il machine learning non è quindi una semplice tecnologia, ma un nuovo modo di i
 
 
 ![machine learning algorithms](https://cdn.mindmajix.com/blog/images/types-of-machine-learning-algorithms.png)
+
 
 
 
