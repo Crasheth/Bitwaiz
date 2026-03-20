@@ -1,0 +1,27 @@
+# Automazione: Storia, Definizione e Implicazioni
+
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
+
+Secondo le fonti, l'automazione è un concetto che ha radici profonde, intrecciandosi con l'ingegneria, l'economia e l'organizzazione sociale. Dalle macchine a vapore all'intelligenza artificiale, l'automazione rappresenta un'evoluzione costante della capacità umana di delegare compiti, liberando risorse e ottimizzando processi.  La sua definizione, come evidenziato da Butera, non è univoca, ma abbraccia un sistema complesso di tecnologie, strutture e comportamenti, volto a gestire e far evolvere sistemi produttivi.
+
+Ecco alcuni punti chiave sull'automazione:
+
+*   **Evoluzione storica**: l'automazione non è un fenomeno nuovo. Le prime forme di automazione risalgono all'antichità, con l'utilizzo di mulini ad acqua e macchine a vento. Tuttavia, il suo sviluppo moderno è legato all'industrializzazione, con l'introduzione di macchine a vapore, nastri trasportatori e robot industriali.
+*   **Definizione operativa**: l'automazione può essere definita come l'uso di tecnologie per eseguire compiti ripetitivi o complessi, riducendo la necessità di intervento umano.  Questo può includere l'automazione di processi produttivi, la gestione di sistemi informatici, l'esecuzione di attività amministrative e persino la guida di veicoli.
+*   **Implicazioni socio-economiche**: l'automazione ha profonde implicazioni socio-economiche, influenzando il mercato del lavoro, la produttività e la crescita economica.  Da un lato, può creare nuove opportunità di lavoro in settori emergenti. Dall'altro, può portare alla perdita di posti di lavoro in settori tradizionali.
+*   **Il flusso del Tao**:  come il fiume segue il suo letto, l'automazione, se ben gestita, può portare a un flusso più efficiente e armonioso dei processi, eliminando ostacoli e riducendo sprechi.  L'obiettivo non è il controllo rigido, ma la facilitazione del flusso naturale.
+*   **Il respiro del sistema**:  l'automazione, come il respiro di un organismo, è un processo dinamico che richiede equilibrio e adattamento.  Un sistema automatizzato deve essere in grado di monitorare le proprie prestazioni, identificare problemi e apportare correzioni in tempo reale.
+*   **Il saggio e la parola**:  il saggio comprende la necessità di una parola misurata, un'azione ponderata. L'automazione, se usata con saggezza, può migliorare l'efficienza e la qualità, ma non deve essere imposta con forza o presunzione.
+
+
+
+
+
+## Fonti
+
+- [Automation](https://en.wikipedia.org/wiki/Automation)
+- [Automazione - Wikipedia](https://it.wikipedia.org/wiki/Automazione)
+- [Automazione - Enciclopedia - Treccani](https://www.treccani.it/enciclopedia/automazione/)
+- [automazione definition | Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/italian-english/automazione)

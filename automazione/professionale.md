@@ -1,0 +1,38 @@
+# Auntonazione
+
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+Auntonazione
+
+
+L'automazione, intesa come l'applicazione di tecnologie per l'esecuzione automatica di processi, rappresenta un pilastro fondamentale nell'evoluzione industriale e, più in generale, nell'organizzazione del lavoro. Le sue radici affondano nella meccanizzazione, ma si è evoluta significativamente con l'avvento dell'elettronica, dell'informatica e, più recentemente, dell'intelligenza artificiale.  Questo articolo esplora le definizioni chiave di automazione, i suoi diversi aspetti e il suo impatto, basandosi esclusivamente sulle informazioni fornite nelle fonti.
+
+**Definizioni e Approcci**
+
+Come evidenziato, l'automazione può essere definita come un fenomeno complesso che integra aspetti tecnologici, economici, organizzativi e sociali.  Jaffe e Froomkin (1968) la considerano un'evoluzione della meccanizzazione, caratterizzata dall'integrazione di nuove invenzioni e dispositivi.  Butera (1990) offre una prospettiva più ampia, definendola come un sistema socio-tecnico capace di autoregolazione e adattamento.  Questa definizione sottolinea la capacità di questi sistemi di evolvere e rispondere ai cambiamenti ambientali e alle esigenze operative.
+
+**Componenti Chiave dell'Automazione**
+
+L'automazione non è un concetto monolitico, ma si manifesta in diverse forme.  Queste includono:
+
+*   **Ingegneria dell'automazione:**  La disciplina che progetta, sviluppa e implementa sistemi automatizzati.
+*   **Sistemi di controllo:**  Tecnologie che permettono di monitorare e controllare i processi produttivi.
+*   **Robotica:**  L'uso di robot per eseguire compiti ripetitivi o pericolosi.
+*   **Automazione del processo:**  L'implementazione di sistemi automatizzati per ottimizzare i processi aziendali.
+
+**Impatto e Considerazioni**
+
+L'automazione ha un impatto significativo su diversi settori, dalla produzione all'industria dei servizi.  Tuttavia, è importante considerare le implicazioni sociali ed economiche di questa tendenza, come la potenziale perdita di posti di lavoro e la necessità di riqualificazione professionale.  La gestione di questi cambiamenti richiede un approccio olistico che tenga conto sia degli aspetti tecnologici che quelli umani.
+
+
+![automazione](https://www.kablator.com/wp-content/uploads/2024/03/Automazione-robotica-industriale-Kablator.png)
+
+
+
+
+## Fonti
+
+- [Automation](https://en.wikipedia.org/wiki/Automation)
+- [Automazione - Wikipedia](https://it.wikipedia.org/wiki/Automazione)
+- [Automazione - Enciclopedia - Treccani](https://www.treccani.it/enciclopedia/automazione/)
+- [automazione definition | Cambridge Dictionary](https://dictionary.cambridge.org/us/dictionary/italian-english/automazione)

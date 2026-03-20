@@ -1,0 +1,40 @@
+# Smart Home: la casa intelligente e connessa
+
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+
+
+Bticino propone soluzioni domotiche avanzate per la gestione intelligente della tua casa, combinando funzionalità, sicurezza e connettività. Che tu stia cercando di automatizzare le tue attività quotidiane, migliorare l'efficienza energetica o aumentare la sicurezza della tua proprietà, la Smart Home di Bticino offre una vasta gamma di prodotti e servizi per soddisfare le tue esigenze.
+
+Ecco alcuni vantaggi chiave dell'adozione di una Smart Home con Bticino:
+
+*   **Controllo centralizzato:** Gestisci tutti i tuoi dispositivi smart da un'unica app intuitiva, semplificando la vita e risparmiando tempo.
+*   **Automazione:** Crea scenari personalizzati per automatizzare le tue attività quotidiane, come accendere le luci, regolare il termostato o controllare gli elettrodomestici.
+*   **Efficienza energetica:** Monitora e controlla il tuo consumo energetico per ridurre le bollette e contribuire alla sostenibilità ambientale.
+*   **Sicurezza:** Proteggi la tua casa e i tuoi cari con sistemi di sicurezza avanzati, come allarmi, telecamere di sorveglianza e controllo accessi.
+*   **Connettività:** Collega i tuoi dispositivi smart alla tua rete Wi-Fi per un accesso remoto e un controllo da qualsiasi luogo.
+
+Bticino offre una vasta gamma di prodotti per la Smart Home, tra cui:
+
+*   **Sensori:** Rileva movimenti, temperatura, umidità, apertura porte e finestre.
+*   **Attuatori:** Controllano l'accensione e lo spegnimento di luci, elettrodomestici e valvole.
+*   **Termostati:** Regola la temperatura ambiente per il massimo comfort e l'efficienza energetica.
+*   **Telecamere di sicurezza:** Monitora la tua casa in tempo reale e registra eventi sospetti.
+*   **Sistemi di allarme:** Protegge la tua casa da intrusioni e incendi.
+*   **App Home + Project:** Il cuore del sistema, permette il controllo centralizzato e la gestione degli scenari.
+
+
+Per scoprire di più sulle soluzioni Smart Home di Bticino e come possono migliorare la tua casa, visita il nostro sito web o contatta un nostro rivenditore autorizzato.
+
+
+![bticino smart home](https://professionisti.bticino.it/sites/default/files/2022-05/03_SMARTHOME_1.jpg)
+
+
+
+
+## Fonti
+
+- [Smart Home | Domotica - Impianto Domotico per la Tua Casa](https://www.bticino.it/smart-home)
+- [Bticino Living NOW Smart | Smart Home: la casa intelligente– Patabit](https://www.patabit.it/collections/bticino-living-now-smart)
+- [Smart Home: la casa intelligente | BTicino Portale Professionisti](https://professionisti.bticino.it/idee-e-soluzioni/smart-home-la-casa-intelligente)
+- [BTicino Domotica e Smart Home in Vendita Online](https://www.windowo.it/bticino)

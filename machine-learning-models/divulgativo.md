@@ -1,0 +1,29 @@
+# Machine Learning: Una Guida Introduttiva
+
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
+
+Il machine learning (ML) è un campo dell'intelligenza artificiale che permette ai sistemi di imparare dai dati senza essere esplicitamente programmati. Immagina di insegnare a un bambino a riconoscere un gatto: gli mostri esempi di gatti, e lui alla fine impara a identificarli anche in situazioni nuove. Il machine learning funziona in modo simile, ma con algoritmi matematici e enormi quantità di dati.
+
+Il cuore del machine learning risiede nella capacità di identificare schemi e relazioni nei dati. Questi schemi vengono poi utilizzati per fare previsioni o prendere decisioni. Esistono diversi tipi di machine learning, tra cui:
+
+*   **Apprendimento supervisionato:** In questo caso, l'algoritmo viene addestrato su un set di dati "etichettato", ovvero dati in cui la risposta corretta è già nota. Ad esempio, se mostriamo all'algoritmo migliaia di immagini di cani e gatti, etichettate come "cane" o "gatto", imparerà a distinguere tra le due specie.
+*   **Apprendimento non supervisionato:** Qui, l'algoritmo viene addestrato su un set di dati non etichettato e deve trovare autonomamente schemi e strutture nascoste. Ad esempio, potrebbe raggruppare i clienti di un negozio online in base alle loro abitudini di acquisto.
+*   **Apprendimento per rinforzo:** In questo caso, l'algoritmo impara attraverso tentativi ed errori, ricevendo una ricompensa quando fa qualcosa di giusto e una penalità quando fa qualcosa di sbagliato. Ad esempio, si potrebbe addestrare un algoritmo a giocare a scacchi, premiandolo ogni volta che fa una mossa vincente e penalizzandolo ogni volta che fa una mossa perdente.
+
+Il machine learning ha un impatto enorme su molti settori, tra cui la sanità, la finanza, l'automotive e il marketing. Ad esempio, viene utilizzato per diagnosticare malattie, rilevare frodi, guidare auto a sé stanti e personalizzare le pubblicità.
+
+
+
+Il machine learning sta trasformando il modo in cui viviamo e lavoriamo, e il suo potenziale è ancora in gran parte inesplorato.
+
+
+
+
+## Fonti
+
+- [Machine learning model](https://en.wikipedia.org/wiki/Machine_learning_model)
+- [Machine learning - Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
+- [Refined and dynamic susceptibility assessment of landslides using InSAR and machine learning models](https://grokipedia.com/page/Refined_and_dynamic_susceptibility_assessment_of_landslides_using_InSAR_and_machine_learning_models)
+- [What are Machine Learning Models?](https://www.databricks.com/glossary/machine-learning-models)

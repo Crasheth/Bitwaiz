@@ -1,0 +1,24 @@
+# Il Metaverso: Un Sogno Svanito?
+
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
+
+La realtà virtuale e aumentata hanno fatto grandi promesse, ma il metaverso di Meta, e in generale l'entusiasmo attorno a questa tecnologia, sembra svanire rapidamente. Dopo miliardi di dollari investiti, il futuro che si prospettava – riunioni immersive, giochi social, un'economia digitale – non si è materializzato come previsto. Cosa è successo?
+
+*   Il costo di sviluppo è proibitivo. Creare un'esperienza VR realistica richiede hardware e software di ultima generazione, un investimento enorme per qualsiasi azienda.
+*   La tecnologia non è ancora matura. La latenza, la qualità delle immagini, il comfort degli headset: tutti questi aspetti devono migliorare significativamente per rendere il metaverso un'esperienza davvero coinvolgente.
+*   L'hype ha superato la sostanza. L'entusiasmo iniziale ha portato a un'eccessiva aspettativa, che poi è stata delusa dalla mancanza di applicazioni concrete e dall'esperienza utente ancora imperfetta.
+*   Il crypto e il Web3 hanno perso slancio. L'interesse per le criptovalute e gli NFT, che avevano alimentato le prime speranze per il metaverso, è diminuito drasticamente a causa della crisi del mercato crypto.
+
+Il metaverso di Meta, con la sua piattaforma Horizon Worlds, ha raggiunto un picco di 300.000 utenti mensili, ma questo numero non è sufficiente a sostenere un ecosistema digitale in crescita. La concorrenza è agguerrita e le aspettative degli utenti sono alte.
+
+
+
+
+## Fonti
+
+- [Metaverse](https://en.wikipedia.org/wiki/Metaverse)
+- [Il metaverso è il futuro della connessione digitale | Meta](https://www.meta.com/it-it/metaverse/)
+- [E il metaverso?](https://www.ilpost.it/2025/01/13/metaverso-che-fine-ha-fatto/)
+- [La Mappa Del Metaverso • Osservatorio Metaverso](https://osservatoriometaverso.it/la-mappa-del-metaverso/)

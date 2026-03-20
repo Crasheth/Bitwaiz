@@ -1,0 +1,34 @@
+# Homepage # 5G: La Nuova Era delle Comunicazioni
+
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+Homepage # 5G: La Nuova Era delle Comunicazioni
+
+
+Il 5G rappresenta un salto quantico nell'architettura delle reti di comunicazione, promettendo velocità, capacità e latenza radicalmente superiori rispetto alle generazioni precedenti. Questa tecnologia, definita dall'ITU come IMT-2020, non è semplicemente un aggiornamento, ma un cambio di paradigma che impatta su settori chiave come l'industria, la sanità e le città intelligenti.
+
+Le principali caratteristiche del 5G si concentrano su tre pilastri fondamentali:
+
+*   **Enhanced Mobile Broadband (eMBB):**  Questo aspetto si traduce in velocità di download e upload significativamente più elevate, consentendo esperienze immersive con contenuti multimediali ad alta definizione, realtà virtuale e aumentata. Le specifiche ITU definiscono picchi di 20 Gbps per il download e 10 Gbps per l'upload in ambienti urbani densi, con velocità utente di 100 Mbps per il download e 50 Mbps per l'upload.
+*   **Ultra-Reliable Low-Latency Communications (URLLC):**  Questa caratteristica è cruciale per applicazioni che richiedono una risposta in tempo reale e una comunicazione affidabile, come la guida autonoma, il controllo remoto di macchinari industriali e la chirurgia a distanza. L'ITU impone requisiti di latenza inferiore a 1 millisecondo e un'affidabilità quasi del 100% per questo scenario.
+*   **Massive Machine-Type Communications (mMTC):**  Il 5G abilita la connessione di un numero massivo di dispositivi IoT (Internet of Things), come sensori, contatori intelligenti e dispositivi indossabili, con un'efficienza energetica ottimizzata. L'ITU specifica una densità di connessione fino a un milione di dispositivi per chilometro quadrato, supportando applicazioni di smart city, agricoltura di precisione e monitoraggio ambientale.
+
+La tecnologia 5G si basa su innovazioni chiave, tra cui:
+
+*   **Onde millimetriche:**  L'utilizzo di frequenze più alte consente di ottenere larghezze di banda maggiori e di supportare un numero maggiore di dispositivi.
+*   **Massive MIMO (Multiple-Input Multiple-Output):**  Questa tecnica consente di aumentare la capacità della rete e di migliorare l'efficienza spettrale.
+*   **Network Slicing:**  Questa funzionalità permette di creare reti virtuali dedicate per diversi servizi, ottimizzando le prestazioni e la sicurezza.
+
+Il 5G non è solo una tecnologia di rete, ma un ecosistema che abilita nuove applicazioni e modelli di business.  La sua implementazione, sebbene complessa, apre la strada a un futuro in cui la connettività è onnipresente e la comunicazione è più veloce, affidabile e flessibile che mai.
+
+
+![5G](https://sim-unlock.net/foto/11_28_38_22b367ef-1d46-45e6-8760.jpg)
+
+
+
+
+## Fonti
+
+- [5G](https://en.wikipedia.org/wiki/5G)
+- [5G](https://grokipedia.com/page/5G)
+- [5G | Definition, Speed, Benefits, Health Concerns, & Conspiracy ...](https://www.britannica.com/topic/5G)

@@ -1,0 +1,29 @@
+# Ecco i punti chiave:
+
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+Ecco i punti chiave:
+
+
+![wearable](https://images.datainsightsmarket.com/pmr/banner/chart-Wearable-Fire-Insulation-Materials.png)
+
+*   **Diversi tipi:** Ci sono tracker per il fitness (contano passi, calorie, sonno), smartwatch (fanno chiamate, mandano messaggi, controllano app), dispositivi medici (monitorano parametri vitali) e persino occhiali che sovrappongono immagini digitali al mondo reale.
+*   **Tecnologia alla base:** Dietro tutto c'è l'elettronica, i sensori e la connettività (Bluetooth, Wi-Fi, cellulare).
+*   **Evoluzione:** La tecnologia si sta evolvendo velocemente, con nuove funzionalità e dispositivi che emergono continuamente.
+*   **Implicazioni:** Gli indossabili hanno un impatto enorme sulla salute, l'attività fisica, l'intrattenimento e persino il modo in cui interagiamo con il mondo.
+
+Ora, parliamo di un dispositivo specifico: il cardioverter defibrillatore indossabile (WCD). Questi dispositivi sono progettati per ripristinare il battito cardiaco in caso di arresto cardiaco improvviso. Essenzialmente, sono come un defibrillatore che indossi.
+
+Come funzionano: un WCD rileva anomalie nel ritmo cardiaco e, se necessario, somministra una scarica elettrica per ripristinare il normale battito. Sono spesso utilizzati in persone con problemi cardiaci, come l'insufficienza cardiaca.
+
+Le prove sull'efficacia dei WCD sono ancora in corso, ma i risultati iniziali sono promettenti.  Alcuni studi hanno dimostrato che i WCD possono aumentare le possibilità di sopravvivenza in caso di arresto cardiaco improvviso.
+
+
+
+
+## Fonti
+
+- [Wearable technology - Wikipedia](https://en.wikipedia.org/wiki/Wearable_technology)
+- [Wearable cardioverter defibrillator](https://grokipedia.com/page/Wearable_cardioverter_defibrillator)
+- [Galaxy Wearable - Apps on Google PlayHomepage - WareableWearable technology - WikipediaWhat Is Wearable Technology? Types, Uses & RisksWearable Technology News, Products, & Reviews – Wearables.comWhat is Wearable Technology? Definition, Uses and ExamplesWearables Guide: Pros, Cons, and Real-World Applications](https://play.google.com/store/apps/details?id=com.samsung.android.app.watchmanager&hl=en-US)
+- [What Is Wearable Technology? Types, Uses & Risks](https://scienceinsights.org/what-is-wearable-technology-types-uses-risks/)

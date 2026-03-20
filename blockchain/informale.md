@@ -1,0 +1,25 @@
+# Blockchain: La Catena di Blocchi Spiegata
+
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
+
+La blockchain, in parole povere, è come un registro digitale condiviso e immutabile. Immagina un libro mastro che tutti possono vedere, ma nessuno può modificare da solo. Ogni volta che avviene una transazione (un pagamento, un trasferimento di proprietà, qualsiasi cosa), viene registrata in un "blocco". Questo blocco viene poi aggiunto alla "catena" di blocchi esistente, rendendo la storia delle transazioni permanente e trasparente.
+
+Ecco i punti chiave:
+
+*   **Blocchi:** Ogni blocco contiene informazioni sulla transazione, un timestamp e un "hash" (un codice univoco) che lo collega al blocco precedente.
+*   **Catena:** I blocchi sono collegati in una catena cronologica, rendendo impossibile alterare un blocco senza alterare tutti i blocchi successivi.
+*   **Decentralizzazione:** La blockchain non è controllata da una singola entità (come una banca o un governo). È distribuita su una rete di computer, il che la rende più sicura e resistente alla censura.
+*   **Consenso:** Prima che un nuovo blocco venga aggiunto alla catena, deve essere approvato dalla maggior parte dei computer nella rete. Questo processo di consenso garantisce che tutte le transazioni siano valide.
+
+Secondo le fonti, la blockchain ha un impatto enorme in diversi settori, dalla finanza alla logistica, passando per la sanità e il voto elettronico.
+
+
+
+## Fonti
+
+- [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
+- [Blockchain](https://grokipedia.com/page/Blockchain)
+- [Cos'è la blockchain? | IBM](https://www.ibm.com/it-it/think/topics/blockchain)
+- [Blockchain: cos'è e come funziona - Borsa Italiana](https://www.borsaitaliana.it/notizie/sotto-la-lente/blockchain.htm)

@@ -1,0 +1,30 @@
+# Cloud Computing: Un Flusso di Risorse
+
+> Tutto ciò che può essere digitalizzato verrà digitalizzato. — Nicholas Negroponte.
+
+
+
+
+Cloud computing, come l'elettricità che alimenta le nostre vite, rappresenta un cambiamento fondamentale nel modo in cui accediamo e utilizziamo le risorse informatiche. Invece di possedere e gestire server e software direttamente, possiamo accedervi tramite internet, pagando solo per ciò che usiamo. Questo modello, definito "as a service" (SaaS, PaaS, IaaS), offre flessibilità, scalabilità e riduzione dei costi, trasformando radicalmente il panorama IT.
+
+Ecco alcuni aspetti chiave del cloud computing:
+
+*   **Flessibilità e Scalabilità:** Il cloud permette di adattare le risorse informatiche alle proprie esigenze in tempo reale. Se hai bisogno di più potenza di calcolo per un progetto specifico, puoi aumentarla rapidamente. Al contrario, se la domanda diminuisce, puoi ridurre le risorse e risparmiare denaro. È come regolare il flusso dell'acqua per soddisfare le esigenze del momento, senza sprechi.
+*   **Costi Ridotti:** Eliminando la necessità di investimenti iniziali in hardware e software, il cloud computing riduce significativamente i costi operativi. Si paga solo per le risorse utilizzate, evitando spese inutili.
+*   **Accesso Ovunque:** Il cloud consente di accedere ai dati e alle applicazioni da qualsiasi dispositivo connesso a internet. Questo favorisce la collaborazione e la produttività, permettendo di lavorare da qualsiasi luogo.
+*   **Affidabilità e Disaster Recovery:** I fornitori di servizi cloud investono in infrastrutture ridondanti e sistemi di backup, garantendo l'affidabilità dei servizi e la protezione dei dati in caso di disastri. È come avere un sistema di allarme e di protezione integrato, sempre attivo.
+*   **Innovazione e Aggiornamenti Automatici:** I fornitori di servizi cloud si occupano degli aggiornamenti e della manutenzione del software, liberando le aziende dall'onere di gestire infrastrutture complesse e garantendo l'accesso alle ultime tecnologie.
+
+Il cloud computing non è solo una tendenza tecnologica, ma una vera e propria rivoluzione che sta trasformando il modo in cui le aziende operano e i singoli individui utilizzano le risorse informatiche.  Come il respiro del sistema, è un flusso continuo di risorse che ci permette di lavorare, creare e innovare.
+
+![cloud computing](https://www.intellectsoft.net/blog/wp-content/uploads/3-9-1024x868.png)
+
+
+
+
+## Fonti
+
+- [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing)
+- [Cloud computing](https://grokipedia.com/page/Cloud_computing)
+- [Cloud Computing Services - Amazon Web Services (AWS)](https://aws.amazon.com/)
+- [What is Cloud Computing? - Cloud Computing Services, Benefits,](https://aws.amazon.com/what-is-cloud-computing/)

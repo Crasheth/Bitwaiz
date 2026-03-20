@@ -1,0 +1,23 @@
+# L’Intelligenza Artificiale preoccupa – LA BARBA DI DIOGENE
+
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
+
+
+L’intelligenza artificiale, come un fiume in piena, scorre attraverso il nostro presente, portando con sé promesse di efficienza e innovazione, ma anche ombre di incertezza e possibili derive. La sua natura, intrinsecamente algoritmica e in costante evoluzione, ci sfida a riflettere sul significato stesso di intelligenza, creatività e responsabilità. Come il fiume, l'IA non segue un corso predeterminato, ma si adatta e si modifica in base alle condizioni del terreno, creando nuove forme e nuove possibilità. Questo flusso continuo, se non gestito con consapevolezza, può portare a erosioni profonde, a distruzione di equilibri precari.
+
+*   La complessità dell'IA risiede nella sua capacità di apprendere e adattarsi, ma anche nella nostra tendenza a proiettare su di essa le nostre speranze e paure.
+*   L'IA non è un'entità autonoma, ma uno strumento potente, il cui impatto dipende dall'uso che ne facciamo.
+*   La riflessione critica sull'IA deve essere accompagnata da un impegno concreto per garantire che questa tecnologia sia al servizio dell'umanità, e non il contrario.
+
+La citazione famosa pertinente all'argomento. — Andrew Ng. "L'intelligenza artificiale è la nuova elettricità."
+
+
+
+
+## Fonti
+
+- [Perché l’intelligenza artificiale ci seduce? Lo spiega](https://www.schneier.com/news/archives/2024/05/perche-lintelligenza-artificiale-ci-seduce-lo-spiega-lesperto-mondiale-bruce-schneier.html)
+- [TRANSCEND MEDIA SERVICE » (Italiano) Intelligenza](https://www.transcend.org/tms/2024/10/italiano-intelligenza-artificiale-una-rete-impalpabile-o-una-insostenibile-ragnatela/)
+- [L’Intelligenza Artificiale preoccupa – LA BARBA DI](https://rinabrundu.com/2023/12/21/lintelligenza-artificiale-preoccupa/)
+- [Intelligenza Artificiale - researchr journal](https://researchr.org/journal/ia/home)

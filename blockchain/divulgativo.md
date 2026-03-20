@@ -1,0 +1,34 @@
+# Blockchain: la catena di fiducia
+
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
+
+
+Immagina un registro pubblico, immutabile e distribuito, dove ogni transazione viene registrata in un "blocco" collegato al precedente, formando una "catena". Questo, in sintesi, è una blockchain. Non si tratta di un singolo database controllato da una banca o da un'azienda, ma di una rete di computer che collaborano per verificare e registrare le informazioni. È come avere migliaia di persone che controllano la stessa cosa, rendendo quasi impossibile frodi o manipolazioni.
+
+Ecco come funziona, passo dopo passo:
+
+*   **Transazione:** Qualcuno effettua una transazione (ad esempio, invia denaro, registra un contratto, ecc.).
+*   **Blocco:** La transazione viene raggruppata con altre transazioni in un "blocco".
+*   **Verifica:** I computer della rete (chiamati "nodi") verificano la validità del blocco attraverso complessi calcoli.
+*   **Aggiunta alla catena:** Una volta verificato, il blocco viene aggiunto alla catena, diventando permanente e immutabile.
+*   **Distribuzione:** La nuova versione della catena viene distribuita a tutti i nodi della rete.
+
+Questa tecnologia ha implicazioni enormi in diversi settori: dalla finanza (criptovalute come Bitcoin) alla logistica (tracciamento di merci), fino alla sanità (gestione sicura di cartelle cliniche) e al voto elettronico. La blockchain offre trasparenza, sicurezza e efficienza, eliminando intermediari e riducendo i costi.
+
+Ma la blockchain non è solo tecnologia. È un cambiamento di paradigma, un modo nuovo di pensare alla fiducia. Invece di affidarsi a un'autorità centrale, la blockchain si basa sulla fiducia distribuita, sulla matematica e sulla collaborazione. È un po' come creare una società perfetta, dove tutti sono responsabili e nessuno può ingannare gli altri.
+
+Nonostante il suo potenziale, la blockchain è ancora in fase di sviluppo. Ci sono sfide da affrontare, come la scalabilità (la capacità di gestire un gran numero di transazioni) e la regolamentazione. Tuttavia, la blockchain rappresenta un passo importante verso un futuro più trasparente, sicuro e decentralizzato.
+
+![blockchain](https://emilyandblair.com/wp-content/uploads/2022/12/blockchain.jpg)
+
+
+
+
+## Fonti
+
+- [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
+- [Blockchain](https://grokipedia.com/page/Blockchain)
+- [Cos'è la blockchain? | IBM](https://www.ibm.com/it-it/think/topics/blockchain)
+- [Blockchain: cos'è e come funziona - Borsa Italiana](https://www.borsaitaliana.it/notizie/sotto-la-lente/blockchain.htm)

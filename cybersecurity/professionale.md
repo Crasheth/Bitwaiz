@@ -1,0 +1,30 @@
+# ➙ # Cybersecurity: Una Panoramica
+
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
+➙ # Cybersecurity: Una Panoramica
+
+
+![cybersecurity](https://invortech.com/wp-content/uploads/2024/03/DALL·E-2024-07-05-21.53.06-An-engaging-image-depicting-the-five-types-of-cybersecurity-working-together.-Represent-network-security-with-a-firewall-or-fortress-application-secu-e1720198477628.webp)
+
+
+Cybersecurity, o sicurezza informatica, è un campo in continua evoluzione focalizzato sulla protezione di sistemi informatici, reti e dati da accessi non autorizzati, danni o furti. Con la crescente digitalizzazione delle attività aziendali e personali, la cybersecurity è diventata un aspetto critico per garantire la continuità operativa, la riservatezza e l'integrità delle informazioni.
+
+Ecco alcuni punti chiave relativi alla cybersecurity:
+
+*   **Definizione e Ambito:** La cybersecurity comprende una vasta gamma di discipline, tra cui la sicurezza delle reti, la sicurezza delle applicazioni, la sicurezza dei dati, la gestione delle vulnerabilità e la risposta agli incidenti. Si concentra sulla prevenzione, la rilevazione e la mitigazione delle minacce informatiche.
+*   **Minacce Informatiche:** Le minacce alla cybersecurity sono in costante aumento e includono malware (virus, worm, ransomware), phishing, attacchi denial-of-service (DoS), violazioni dei dati, attacchi zero-day e sfruttamento delle vulnerabilità software.
+*   **Misure di Sicurezza:** Le organizzazioni implementano una varietà di misure di sicurezza per proteggere i propri asset informatici. Queste includono firewall, sistemi di rilevamento delle intrusioni (IDS), sistemi di prevenzione delle intrusioni (IPS), crittografia, autenticazione a più fattori (MFA), gestione delle identità e degli accessi (IAM), e politiche di sicurezza.
+*   **Framework e Standard:** Esistono diversi framework e standard di cybersecurity che forniscono linee guida e best practice per la gestione del rischio e la protezione delle informazioni. Esempi includono il framework NIST Cybersecurity Framework, ISO 27001 e il Common Criteria.
+*   **Responsabilità:** La responsabilità della cybersecurity è condivisa tra organizzazioni, governi e individui. Le organizzazioni sono responsabili di implementare misure di sicurezza adeguate, mentre i governi stabiliscono normative e standard, e gli individui devono adottare pratiche di sicurezza informatica consapevoli.
+
+La cybersecurity è un campo dinamico e in continua evoluzione, guidato dall’innovazione tecnologica e dalle nuove minacce informatiche. La capacità di adattarsi rapidamente a queste sfide è fondamentale per garantire la sicurezza dei sistemi informatici e dei dati.
+
+
+
+## Fonti
+
+- [Cybersecurity](https://en.wikipedia.org/wiki/Cybersecurity)
+- [Cybersecurity](https://grokipedia.com/page/Cybersecurity)
+- [Cybersecurity Best Practices | Cybersecurity and Infrastructure](https://www.cisa.gov/topics/cybersecurity-best-practices)
+- [Industrial Control Systems (ICS) Cybersecurity Conference - The](https://www.icscybersecurityconference.com/)

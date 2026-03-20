@@ -1,0 +1,31 @@
+# TfChatbot - La guida completa per principianti e non solo
+
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+TfChatbot - La guida completa per principianti e non solo
+
+
+Un chatbot, o agente virtuale, è un programma software progettato per simulare una conversazione con un utente umano, solitamente tramite testo o voce. Ma cosa c'è di nuovo in questo campo in continua evoluzione? E come funzionano esattamente questi "assistenti digitali"?
+
+Ecco una panoramica completa, pensata per essere chiara e concisa, con un focus sulle basi e le ultime tendenze:
+
+*   **Cosa fanno i chatbot?** I chatbot possono eseguire una vasta gamma di compiti, tra cui rispondere a domande, fornire assistenza clienti, prenotare appuntamenti, effettuare ordini, automatizzare processi e molto altro. La loro capacità di apprendere e adattarsi alle esigenze dell'utente li rende strumenti versatili per aziende e privati.
+*   **Come funzionano?** La maggior parte dei chatbot moderni si basa su tecnologie di Intelligenza Artificiale (AI) e Machine Learning (ML). In particolare, i Large Language Models (LLM) come ChatGPT sono alla base di molte interazioni fluide e naturali. Questi modelli sono stati addestrati su enormi quantità di dati testuali, permettendo loro di comprendere il linguaggio umano e generare risposte pertinenti.
+*   **Tipi di chatbot:** Esistono diverse tipologie di chatbot, a seconda della loro complessità e delle funzionalità offerte:
+    *   **Chatbot basati su alberi decisionali:** Sono i più semplici, guidano l'utente attraverso percorsi predefiniti.
+    *   **Chatbot basati su prompting su modelli generativi:** Utilizzano LLM per conversazioni più naturali e flessibili.
+*   **Applicazioni pratiche:** I chatbot sono sempre più utilizzati in diversi settori:
+    *   **Servizio clienti:** Rispondono a domande frequenti, risolvono problemi e indirizzano i clienti al supporto umano quando necessario.
+    *   **E-commerce:** Aiutano gli utenti a trovare prodotti, effettuare ordini e tracciare le spedizioni.
+    *   **Sanità:** Forniscono informazioni mediche, fissano appuntamenti e monitorano i pazienti.
+    *   **Finanza:** Offrono consulenza finanziaria, gestiscono transazioni e forniscono assistenza clienti.
+
+
+
+
+## Fonti
+
+- [Chatbot](https://en.wikipedia.org/wiki/Chatbot)
+- [Chat bot - Wikipedia](https://it.wikipedia.org/wiki/Chat_bot)
+- [Chatbot](https://grokipedia.com/page/Chatbot)
+- [Che cos'è un chatbot? | IBM](https://www.ibm.com/it-it/think/topics/chatbots)

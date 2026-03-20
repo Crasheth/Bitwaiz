@@ -1,0 +1,33 @@
+# Blockchain: Fondamenti e Implicazioni
+
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
+
+La blockchain è un registro distribuito, immutabile e trasparente che registra transazioni in blocchi concatenati crittograficamente. Questa tecnologia ha rivoluzionato diversi settori, dalla finanza alla logistica, grazie alla sua capacità di garantire sicurezza, efficienza e tracciabilità. Il concetto è nato nel 2008 con il whitepaper di Satoshi Nakamoto, il cui scopo era creare un sistema di pagamento peer-to-peer decentralizzato, resistente alla censura e al controllo centralizzato.
+
+*   **Struttura del Blocco:** Ogni blocco contiene un hash del blocco precedente, un timestamp, i dati delle transazioni e un nonce (un numero casuale utilizzato per la validazione tramite Proof-of-Work). Questa struttura a catena rende la blockchain resistente alla manomissione: qualsiasi modifica a un blocco richiederebbe la modifica di tutti i blocchi successivi, un'operazione computazionalmente impraticabile per un attaccante.
+*   **Consenso:** Il consenso tra i nodi della rete è fondamentale per la validazione delle transazioni e l'aggiunta di nuovi blocchi alla catena. Diversi meccanismi di consenso sono utilizzati, tra cui Proof-of-Work (utilizzato da Bitcoin) e Proof-of-Stake (utilizzato da Ethereum e altre blockchain), ognuno con i propri vantaggi e svantaggi in termini di efficienza energetica, sicurezza e scalabilità.
+*   **Tipi di Blockchain:** Esistono diverse tipologie di blockchain:
+    *   **Pubbliche:** Aperte a tutti, chiunque può partecipare alla rete e validare le transazioni (es. Bitcoin, Ethereum).
+    *   **Private:** Accesso limitato a un gruppo specifico di partecipanti, gestite da un'entità centrale.
+    *   **Consortium:** Gestite da un gruppo di organizzazioni, offrendo un compromesso tra privacy e decentralizzazione.
+
+La blockchain offre una serie di vantaggi, tra cui:
+
+*   **Sicurezza:** La crittografia e il consenso distribuito rendono la blockchain estremamente sicura e resistente alla manomissione.
+*   **Trasparenza:** Tutte le transazioni sono registrate pubblicamente sulla blockchain, garantendo la trasparenza e la tracciabilità.
+*   **Decentralizzazione:** La blockchain elimina la necessità di intermediari centralizzati, riducendo i costi e aumentando l'efficienza.
+*   **Immutabilità:** Una volta che una transazione è stata registrata sulla blockchain, non può essere alterata o cancellata.
+
+Nonostante i suoi vantaggi, la blockchain presenta anche alcune sfide, tra cui la scalabilità (la capacità di gestire un elevato numero di transazioni), il consumo energetico (soprattutto nei sistemi Proof-of-Work) e la regolamentazione.
+
+
+
+
+## Fonti
+
+- [Blockchain](https://en.wikipedia.org/wiki/Blockchain)
+- [Blockchain](https://grokipedia.com/page/Blockchain)
+- [Cos'è la blockchain? | IBM](https://www.ibm.com/it-it/think/topics/blockchain)
+- [Blockchain: cos'è e come funziona - Borsa Italiana](https://www.borsaitaliana.it/notizie/sotto-la-lente/blockchain.htm)

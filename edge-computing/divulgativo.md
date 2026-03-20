@@ -1,0 +1,27 @@
+# Degree Computing # Degree Computing
+
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+Degree Computing # Degree Computing
+
+Il concetto di “edge computing” può sembrare complesso, ma in realtà si tratta di un’idea piuttosto semplice: portare l’elaborazione dei dati più vicino alla fonte da cui provengono. Immagina una città: invece di dover spedire tutte le informazioni al centro di controllo principale per essere analizzate, si creano piccoli centri di elaborazione locali, ognuno dei quali gestisce le informazioni specifiche del proprio quartiere. Questo rende tutto più veloce, efficiente e affidabile.
+
+In sostanza, l’edge computing significa spostare il calcolo e l’archiviazione dei dati da server centralizzati nel cloud a dispositivi più vicini alla fonte dei dati – come sensori, telecamere, smartphone o dispositivi industriali. Questo ha implicazioni enormi, specialmente con l'esplosione di dispositivi connessi che generano quantità di dati sempre maggiori. Invece di inviare tutti questi dati a un server lontano per essere elaborati, l’edge computing permette di farlo localmente, riducendo la latenza (il ritardo), il consumo di banda e la dipendenza dalla connessione internet.
+
+Ecco alcuni punti chiave per capire meglio:
+
+*   **Meno latenza:**  Quando i dati vengono elaborati vicino alla loro fonte, il tempo necessario per ottenere una risposta è drasticamente ridotto. Questo è cruciale per applicazioni in tempo reale come la guida autonoma, la robotica industriale e la sanità remota.
+*   **Maggiore efficienza:** Riducendo la quantità di dati che devono essere trasmessi, l’edge computing diminuisce il consumo di banda e i costi di trasmissione.
+*   **Resilienza:** Se la connessione internet si interrompe, i dispositivi edge possono continuare a funzionare e a elaborare i dati localmente, garantendo la continuità delle operazioni.
+*   **Privacy e sicurezza:** Elaborare i dati localmente può migliorare la privacy e la sicurezza, poiché meno informazioni sensibili devono essere inviate a un server centrale.
+
+L'edge computing non è una novità: le reti di content delivery network (CDN) sono un esempio di edge computing in azione, ma l'attuale ondata di interesse è guidata da fattori come l'IoT, la 5G e l'intelligenza artificiale.  Con l'aumento esponenziale di dispositivi connessi che generano dati, l'edge computing diventa sempre più essenziale per gestire questi flussi di dati in modo efficiente e affidabile.  È un elemento chiave per trasformare i dati grezzi in informazioni utili e per abilitare nuove applicazioni e servizi in una vasta gamma di settori.
+
+
+
+
+## Fonti
+
+- [Edge computing](https://en.wikipedia.org/wiki/Edge_computing)
+- [Edge computing](https://grokipedia.com/page/Edge_computing)
+- [EdgeComputing: The Backbone of Scalable, Low-Latency IoT](https://www.linkedin.com/pulse/edge-computing-backbone-scalable-low-latency-iot-cthings-co-cj39f)
