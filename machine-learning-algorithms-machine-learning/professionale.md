@@ -1,6 +1,7 @@
 # Machine Learning Algorithms: Un’Armonia di Strumenti per l'Intelligenza Artificiale
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
 
 
 
@@ -18,6 +19,7 @@ Il campo dell’intelligenza artificiale si basa su un’orchestra di algoritmi,
 *   **Reti Neurali:** Composte da strati di neuroni interconnessi, le reti neurali sono in grado di apprendere modelli complessi dai dati. Sono particolarmente efficaci in problemi come il riconoscimento di immagini e la traduzione automatica.
 
 La scelta dell’algoritmo appropriato dipende dalle caratteristiche dei dati e dagli obiettivi del progetto. Spesso, un approccio ibrido, che combina diversi algoritmi, può portare a risultati ottimali.
+
 
 
 

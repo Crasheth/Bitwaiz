@@ -1,6 +1,7 @@
 # Machine Learning: Un Flusso di Conoscenza
 
-> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
 
 
 
@@ -27,6 +28,7 @@ Il machine learning non è quindi una semplice tecnologia, ma un nuovo modo di i
 
 
 ![machine learning algorithms](https://cdn.mindmajix.com/blog/images/types-of-machine-learning-algorithms.png)
+
 
 
 

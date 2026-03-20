@@ -1,6 +1,7 @@
 # Machine Learning: Un'Introduzione Pratica
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
 
 
 
@@ -13,6 +14,7 @@ Ecco alcuni aspetti chiave del machine learning:
 *   **Apprendimento per rinforzo:** L'algoritmo impara attraverso tentativi ed errori, ricevendo "ricompense" per le azioni corrette e "punizioni" per quelle sbagliate. È come addestrare un cane: lo incoraggi quando fa le cose giuste, e lo correggi quando sbaglia.
 
 Il machine learning ha applicazioni in una vasta gamma di settori, dalla medicina alla finanza, passando per l'automotive e l'intrattenimento. È uno strumento potente che, se usato correttamente, può risolvere problemi complessi e migliorare la nostra vita.
+
 
 
 

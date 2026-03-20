@@ -1,6 +1,7 @@
 # Refined and dynamic landslide susceptibility assessment using InSAR and machine learning
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 
 L'intelligenza artificiale è la nuova elettricità. — Andrew Ng. Questo nuovo approccio per valutare il rischio di frane, sviluppato da Wei et al. (2024), combina la potenza dei sensori InSAR con l'intelligenza delle macchine learning, offrendo una visione più dinamica e precisa rispetto ai metodi tradizionali. In pratica, il sistema non si limita a una mappa statica di rischio, ma monitora costantemente le deformazioni del terreno, permettendo di anticipare e gestire meglio le situazioni di pericolo.
@@ -13,6 +14,7 @@ Ecco i punti chiave di questo approccio:
 *   **Machine learning per l'analisi:** I modelli di machine learning analizzano i dati di deformazione e i fattori di rischio per creare mappe di suscettibilità accurate.
 *   **Valutazione dinamica:** Il sistema monitora costantemente le deformazioni del terreno, permettendo di aggiornare le mappe di suscettibilità e di prevedere potenziali frane.
 *   **Applicazione pratica:** Il metodo è stato applicato con successo nella contea di Hualong, in Cina, un'area particolarmente vulnerabile a frane.
+
 
 
 

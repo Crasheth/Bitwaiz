@@ -1,6 +1,7 @@
 # Machine Learning Models
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
 
 
 
@@ -18,6 +19,7 @@ Ogni modello ha i suoi punti di forza e di debolezza, e la scelta del modello gi
 
 
 ![machine learning models](https://learn.g2.com/hs-fs/hubfs/G2CM_FI453_Learn_Article_Images-[Machine_learning_models]_Infographic_image1_V1a-png-2.png?width=690)
+
 
 
 

@@ -1,6 +1,7 @@
 # Machine Learning: Un'Esplorazione Approfondita
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
 
 
 
@@ -13,6 +14,7 @@ Il cuore del machine learning risiede nell'addestramento di modelli su set di da
 *   **Apprendimento per rinforzo:** Il modello impara attraverso l'interazione con un ambiente, ricevendo ricompense o penalità per le sue azioni. Questo approccio è spesso utilizzato per addestrare agenti intelligenti in ambienti complessi, come i giochi.
 
 Le applicazioni del machine learning sono innumerevoli e in continua espansione. Dal riconoscimento di immagini e voce alla diagnosi medica, dalla guida autonoma alla previsione finanziaria, il ML sta trasformando settori chiave dell'economia e della società. La sua capacità di analizzare grandi quantità di dati e di identificare pattern complessi lo rende uno strumento potente per risolvere problemi complessi e per creare nuove opportunità. Come osservava Leo Cherne, "I computer sono incredibilmente veloci, accurati e stupidi." - Leo Cherne, il ML si concentra sull'automazione di compiti "stupidi" per liberare l'intelligenza umana per compiti più creativi e strategici.
+
 
 
 

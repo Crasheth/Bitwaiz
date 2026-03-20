@@ -1,6 +1,7 @@
 # Refined and dynamic susceptibility assessment of landslides using InSAR and machine learning models
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 
 
@@ -14,6 +15,7 @@ Ecco le azioni operative principali del metodo:
 *   **Validazione:** La metodologia è stata validata attraverso metriche di confusione matrice, indagini sul campo e rilievi aerei con droni, confermando l'affidabilità delle mappe raffinate che evidenziano concentrazioni di rischio elevate nel sud-ovest, nel centro-sud e nel sud-est della regione di studio.
 
 L'applicazione del metodo nel conteggio di Hualong, nella provincia cinese dello Xinjiang, illustra il potenziale di questa strategia per la riduzione del rischio di fruttivolumi. Il metodo si rivela particolarmente efficace nel distinguere tra zone ad alto e molto alto rischio, fornendo informazioni cruciali per la pianificazione territoriale e le misure di mitigazione. La combinazione di dati radar e machine learning rappresenta una potente sinergia, capace di superare i limiti delle valutazioni tradizionali basate su fattori statici. Il processo, come un'abitudine ben consolidata, si basa sulla comprensione che la stabilità del territorio non è un dato immutabile, ma un equilibrio dinamico influenzato da molteplici fattori.
+
 
 
 ## Fonti

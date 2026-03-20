@@ -1,6 +1,7 @@
 # Refined and dynamic susceptibility assessment of landslides using InSAR and machine learning models
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 
 Secondo le fonti, il nuovo metodo per valutare la suscettibilità alle frane integra il monitoraggio temporale delle deformazioni tramite SBAS-InSAR con modelli di machine learning per una maggiore precisione. Questo approccio supera le limitazioni dei modelli statici, che spesso non tengono conto dei cambiamenti nel tempo dovuti a fattori come le precipitazioni e le attività umane.  L'integrazione di dati di deformazione tramite InSAR, combinata con modelli di machine learning come random forest, logistic regression e gradient boosting decision tree, permette di creare mappe di suscettibilità più accurate e dinamiche.
@@ -14,6 +15,7 @@ Ecco i punti chiave:
 *   **Risultati:** Il metodo ha prodotto mappe di suscettibilità più accurate e dinamiche, con aree ad alto e molto alto rischio concentrate nella parte occidentale della regione.
 
 Secondo le fonti, la combinazione di dati di deformazione e modelli di machine learning ha migliorato notevolmente la precisione della valutazione della suscettibilità alle frane rispetto all'utilizzo di modelli statici. L'integrazione di dati di deformazione permette di catturare i cambiamenti nel tempo dovuti a fattori come le precipitazioni e le attività umane, rendendo la valutazione più dinamica e affidabile. La validazione del metodo tramite confusione matrice, indagini sul campo e rilievi con droni UAV ha confermato l'affidabilità delle mappe risultanti.
+
 
 
 

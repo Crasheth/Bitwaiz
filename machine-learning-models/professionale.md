@@ -1,6 +1,7 @@
 # Crane Game: Il Futuro del Gioco e dell'Intelligenza Artificiale
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
 
 Crane Game: Il Futuro del Gioco e dell'Intelligenza Artificiale
 
@@ -20,6 +21,7 @@ L'uso dell'AI nel Crane Game non è solo un'innovazione ludica, ma anche un camp
 **Il Futuro del Crane Game:**
 
 Si prevede che l'integrazione dell'AI nel Crane Game continuerà a crescere nei prossimi anni.  Ciò che vedremo sarà un'evoluzione verso giochi sempre più sofisticati, in cui l'AI e il giocatore collaborano per creare un'esperienza di gioco unica e personalizzata.  Questo potrebbe portare a nuove forme di intrattenimento e a nuove opportunità di ricerca scientifica.
+
 
 
 
