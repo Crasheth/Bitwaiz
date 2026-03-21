@@ -27,6 +27,7 @@
 
 
 
+
 L'Italia si trova in una posizione di particolare vulnerabilità nel panorama globale della cybersecurity, caratterizzata da un aumento esponenziale degli attacchi ransomware e macro-malware, come evidenziato dai dati di Trend Micro Research del 2022 e confermato dal Censis “DeepCyber” Report. Nonostante l'elevata concentrazione di attacchi, il paese presenta ancora lacune significative in termini di consapevolezza e competenze, con solo il 40% dei lavoratori che hanno ricevuto una formazione specifica e una percentuale ancora più bassa (meno della terza parte) che intraprende azioni concrete per proteggere i propri dispositivi. Il programma “Ambizione Italia” della Fondazione Mondo Digitale, in collaborazione উঠেছিল con Microsoft e altri partner, mira a colmare queste lacune attraverso iniziative di formazione, sensibilizzazione e sviluppo di competenze, focalizzandosi sull'implementazione di soluzioni di sicurezza avanzate e sull'adozione di pratiche di threat-hunting e analisi forense.
 
 *   **Implementazione di Framework di Sicurezza:**  L'adozione di framework di sicurezza riconosciuti a livello internazionale, come NIST Cybersecurity Framework o ISO 27001, rappresenta un passo fondamentale per migliorare la postura di sicurezza delle organizzazioni italiane. Questo include la mappatura dei rischi, la definizione di policy di sicurezza, l'implementazione di controlli di sicurezza e la conduzione di audit periodici.
@@ -38,6 +39,7 @@ L’Italia, supportata da eventi come l’ItaliaSec Cyber Summit, sta gradualmen
 
 
 ![cybersecurity italia](https://www.cybersecitalia.it/wp-content/uploads/2022/03/cybersec2022-prima-edizione.jpg)
+
 
 
 
