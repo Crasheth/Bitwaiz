@@ -1,6 +1,7 @@
 # Home Assistant: Il Potente Assistente Domotico Open Source
 
-> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
 
 
 
@@ -64,6 +65,7 @@ Ecco un esempio di automazione che puoi creare in Home Assistant:
 *   [Home Assistant](https://grokipedia.com/page/Home_Assistant)
 *   [Home Assistant](https://www.home-assistant.io/)
 *   [Installation - Home Assistant](https://www.home-assistant.io/installation/)
+
 
 
 
