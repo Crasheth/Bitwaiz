@@ -1,6 +1,7 @@
 # Italia: Cyberattacchi in Crescita, ma la Cultura della Sicurezza è Ancora un Debole
 
-> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
 
 
 
@@ -45,6 +46,7 @@ Quindi, cosa possiamo fare?  Dobbiamo aumentare la consapevolezza, investire in 
 
 
 ![cybersecurity italia](https://www.cybersecitalia.it/wp-content/uploads/2022/03/cybersec2022-prima-edizione.jpg)
+
 
 
 

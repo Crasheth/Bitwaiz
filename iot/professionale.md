@@ -1,6 +1,7 @@
 # L'Internet delle Cose: Un'Analisi Approfondita
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
 
 
 
@@ -47,6 +48,7 @@ Ecco alcuni aspetti chiave dell'IoT:
 *   **Tecnologie abilitanti:**  Le tecnologie alla base dell'IoT includono RFID (identificazione a radiofrequenza), codici QR, telefoni cellulari e altre reti di comunicazione.
 *   **Applicazioni:**  Le applicazioni dell'IoT sono estremamente variegate, spaziando dall'industria (monitoraggio dei processi produttivi), alla logistica e all'infomobilità, fino all'efficienza energetica, all'assistenza remota e alla tutela ambientale.
 *   **E-E-A-T:** L'IoT dimostra esperienza, competenza, autorevolezza e affidabilità, grazie alla sua crescente rilevanza e al suo impatto su diversi settori.
+
 
 
 
