@@ -643,6 +643,8 @@ h3 { font-size: 1.25rem; }
   background: transparent;
 }
 
+/* Batte eventuali style inline esportati da Brevo (sfondo chiaro / bordo grigio) */
+.brevo-newsletter #sib-container,
 .brevo-newsletter #sib-container.brevo-sib-card {
   text-align: left;
   max-width: 540px !important;
@@ -652,6 +654,48 @@ h3 { font-size: 1.25rem; }
   border-radius: var(--radius-lg) !important;
   box-shadow: 0 24px 60px rgba(0, 0, 0, 0.4);
   padding: 1.75rem 1.5rem 2rem !important;
+  color: var(--fg);
+  direction: ltr;
+}
+
+.brevo-newsletter #sib-container .sib-form-block p {
+  color: inherit;
+}
+
+.brevo-newsletter #sib-container .entry__label {
+  color: var(--fg-muted) !important;
+  font-family: 'Inter', -apple-system, sans-serif !important;
+}
+
+.brevo-newsletter #sib-container .sib-text-form-block p {
+  color: var(--fg-muted) !important;
+  font-family: 'Inter', -apple-system, sans-serif !important;
+}
+
+.brevo-newsletter #sib-container .entry__field .input:not(.brevo-input) {
+  border-radius: var(--radius) !important;
+  border: 1px solid rgba(255, 255, 255, 0.14) !important;
+  background: rgba(0, 0, 0, 0.45) !important;
+  color: var(--fg) !important;
+}
+
+.brevo-newsletter #sib-container .entry__error--primary {
+  color: #fecaca !important;
+  background: rgba(127, 29, 29, 0.35) !important;
+  border-color: rgba(248, 113, 113, 0.35) !important;
+}
+
+.brevo-newsletter #sib-container .entry__specification {
+  color: var(--fg-muted) !important;
+}
+
+.brevo-newsletter #sib-container .checkbox_tick_positive {
+  border-color: rgba(255, 255, 255, 0.25);
+}
+
+.brevo-newsletter input.input_replaced:checked + .checkbox_tick_positive {
+  background: var(--accent);
+  border-color: var(--accent);
 }
 
 .brevo-newsletter .sib-padding-block {
@@ -787,6 +831,12 @@ h3 { font-size: 1.25rem; }
 .brevo-newsletter .g-recaptcha {
   display: flex;
   justify-content: center;
+  padding: 0.5rem 0;
+}
+
+/* Widget reCAPTCHA v2: tema dark coerente con lo sfondo nero */
+.brevo-newsletter .g-recaptcha iframe {
+  border-radius: var(--radius);
 }
 
 @media (max-width: 480px) {

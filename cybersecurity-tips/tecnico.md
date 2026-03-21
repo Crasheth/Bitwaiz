@@ -1,6 +1,8 @@
 # 5 Essential Cybersecurity Tips You’re Probably Overlooking
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
+
 
 
 
@@ -33,6 +35,8 @@ In un panorama digitale in continua evoluzione, la sicurezza informatica spesso 
 *   **Utilizzo di Containerizzazione e Orchestrazione (Docker, Kubernetes):** La containerizzazione, tramite Docker, e l'orchestrazione, tramite Kubernetes, offre un ambiente di sviluppo e distribuzione flessibile e sicuro. L'isolamento delle applicazioni in container limita l'impatto di eventuali compromissioni, mentre Kubernetes semplifica la gestione e il scaling di queste applicazioni.
 
 *   **Implementazione di un Sistema di Gestione degli Eventi e della Sicurezza (SIEM) con Integrazione di Threat Intelligence:** Un SIEM centralizza i log di sicurezza provenienti da diverse fonti (firewall, server, applicazioni) e li analizza per rilevare attività sospette. L'integrazione di feed di threat intelligence (ad esempio, da fonti come Recorded Future o Mandiant) arricchisce l'analisi dei log, consentendo di identificare minacce emergenti e attacchi avanzati.
+
+
 
 
 

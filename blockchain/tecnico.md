@@ -1,6 +1,8 @@
 # Blockchain: Fondamenti e Implicazioni
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> Il denaro è uno strumento che ci permette di ottenere ciò che vogliamo. — Naval Ravikant.
+
+
 
 
 
@@ -47,6 +49,8 @@ La blockchain offre una serie di vantaggi, tra cui:
 *   **Immutabilità:** Una volta che una transazione è stata registrata sulla blockchain, non può essere alterata o cancellata.
 
 Nonostante i suoi vantaggi, la blockchain presenta anche alcune sfide, tra cui la scalabilità (la capacità di gestire un elevato numero di transazioni), il consumo energetico (soprattutto nei sistemi Proof-of-Work) e la regolamentazione.
+
+
 
 
 
