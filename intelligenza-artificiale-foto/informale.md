@@ -4,6 +4,7 @@
 
 
 
+
 Ok, quindi parliamo di come usare l'AI per creare immagini. Ci sono diverse opzioni, alcune gratuite, altre a pagamento. Partiamo dalle più accessibili:
 
 *   **Runway ML:** Ottima per sperimentare, ha un periodo di prova gratuito. Puoi generare immagini da testo (Text to Image) e poi giocarci con strumenti di editing. Il limite di risoluzione è di 512p, ma puoi fare upgrade per immagini più grandi.
@@ -23,6 +24,7 @@ E poi ci sono le piattaforme più avanzate, come:
 
 
 ![intelligenza artificiale foto](https://www.donne.it/wp-content/uploads/2023/10/intelligenza-artificiale.jpg)
+
 
 
 

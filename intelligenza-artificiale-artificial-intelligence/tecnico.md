@@ -1,6 +1,7 @@
 # Artificial Intelligence
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 
@@ -28,6 +29,7 @@ I benchmark di performance per l'AI includono il dataset ImageNet per la classif
 
 ### Come l'AI viene utilizzata nei settori?
 [L'AI viene utilizzata in vari settori, tra cui sanità, finanza, trasporti, produzione e marketing, per automatizzare le attività, migliorare il processo decisionale, personalizzare le esperienze dei clienti e creare nuovi prodotti e servizi.]
+
 
 
 

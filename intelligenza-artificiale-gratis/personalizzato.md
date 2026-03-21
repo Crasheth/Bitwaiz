@@ -1,6 +1,7 @@
 # 10 App di Intelligenza Artificiale Gratuite per un Futuro Intelligente
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
 
 
 
@@ -68,6 +69,7 @@ Sebbene non ci siano molte app di intelligenza artificiale gratuite che permetto
 Requisiti:
 - Le domande devono essere pertinenti all'argomento e utili per i lettori e per i rich snippet FAQ.
 - Nessuna domanda duplicata; niente domande senza risposta nelle fonti (in quel caso ometti la domanda).
+
 
 ## Fonti
 

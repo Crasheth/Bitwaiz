@@ -3,6 +3,7 @@
 > L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
 
 
+
 L'intelligenza artificiale sta rapidamente trasformando il modo in cui creiamo immagini, rendendo il processo accessibile a chiunque, indipendentemente dalle proprie competenze artistiche. Immaginate di poter trasformare un semplice testo in un'opera d'arte, o di generare immagini realistiche di luoghi o oggetti che esistono solo nella vostra mente. Piattaforme come Midjourney, DALL-E e Google Gemini lo rendono possibile, aprendo nuove frontiere per l'espressione creativa e l'innovazione. Ma come funziona esattamente questo processo, e quali sono gli strumenti migliori per iniziare?
 
 Ecco una panoramica delle opzioni disponibili, strutturata per facilitarne la comprensione:
@@ -18,6 +19,7 @@ Come il buddismo insegna, la chiarezza di pensiero è essenziale per raggiungere
 
 
 ![intelligenza artificiale foto](https://www.donne.it/wp-content/uploads/2023/10/intelligenza-artificiale.jpg)
+
 
 
 

@@ -1,6 +1,7 @@
 # Artificial Intelligence (AI) – Una Panoramica
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 
@@ -23,6 +24,7 @@ Le prestazioni dei sistemi di intelligenza artificiale sono valutate attraverso 
 ### Quali sono le principali sfide nello sviluppo dell'intelligenza artificiale generale?
 
 Lo sviluppo dell'AGI rappresenta una sfida complessa, che richiede progressi significativi in diversi campi, tra cui l'architettura del computer, l'algoritmi di apprendimento e la comprensione del linguaggio naturale. La mancanza di una definizione univoca di "intelligenza" e la difficoltà di replicare processi cognitivi complessi come la coscienza e l'intuizione rappresentano ostacoli significativi.
+
 
 
 

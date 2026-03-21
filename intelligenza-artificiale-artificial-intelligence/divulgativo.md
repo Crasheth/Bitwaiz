@@ -1,6 +1,7 @@
 # Intelligenza Artificiale: Un Nuovo Tipo di Intelligenza
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 
@@ -25,6 +26,7 @@ Ecco alcuni punti chiave:
 
 ### Quali sono i rischi e le sfide dell'IA?
 [Nonostante i suoi numerosi vantaggi, l'IA presenta anche alcuni rischi e sfide, tra cui il potenziale impatto sull'occupazione, il rischio di bias negli algoritmi, la questione della responsabilità in caso di errori e la necessità di garantire che l'IA venga utilizzata in modo etico e responsabile.  È importante affrontare questi rischi e sfide per garantire che l'IA sia utilizzata a beneficio dell'umanità.](https://en.wikipedia.org/wiki/Artificial_intelligence)
+
 
 
 

@@ -1,6 +1,7 @@
 # Artificial Intelligence
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 
@@ -27,6 +28,7 @@ L'AI viene utilizzata in una vasta gamma di settori, tra cui la sanità, la fina
 
 
 ![ai](https://nextunicorn.ventures/wp-content/uploads/2024/12/iStock-1495819409.jpg)
+
 
 
 

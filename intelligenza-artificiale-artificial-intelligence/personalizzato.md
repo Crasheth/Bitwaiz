@@ -1,5 +1,7 @@
 # iguë# Artificial intelligence
 
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 iguë# Artificial intelligence
 
 
@@ -13,6 +15,7 @@ Le azioni operative principali nell'ambito dell'AI includono:
 *   **Sviluppo di algoritmi:**  Gli algoritmi sono i "motori" dell'AI, e la scelta dell'algoritmo appropriato è fondamentale per il successo del progetto.
 *   **Addestramento dei modelli:**  L'addestramento dei modelli implica l'esposizione del sistema a grandi quantità di dati, consentendogli di apprendere e migliorare le proprie prestazioni.
 *   **Valutazione e ottimizzazione:**  La valutazione e l'ottimizzazione dei modelli comportano la misurazione delle prestazioni del sistema e l'implementazione di modifiche per migliorarle.
+
 
 
 

@@ -1,6 +1,7 @@
 # Home Assistant: Il Potente Assistente Domotico Open Source
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 
@@ -40,6 +41,7 @@ Ecco un esempio di automazione che puoi creare in Home Assistant:
 *   [Home Assistant](https://grokipedia.com/page/Home_Assistant)
 *   [Home Assistant](https://www.home-assistant.io/)
 *   [Installation - Home Assistant](https://www.home-assistant.io/installation/)
+
 
 
 

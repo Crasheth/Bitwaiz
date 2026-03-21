@@ -1,6 +1,7 @@
 # L’Intelligenza Artificiale preoccupa – LA BARBA DI DIOGENE
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
 
 
 
@@ -16,6 +17,7 @@ L’intelligenza artificiale, come un fiume in piena, scorre attraverso il nostr
 *   La riflessione critica sull'IA deve essere accompagnata da un impegno concreto per garantire che questa tecnologia sia al servizio dell'umanità, e non il contrario.
 
 La citazione famosa pertinente all'argomento. — Andrew Ng. "L'intelligenza artificiale è la nuova elettricità."
+
 
 
 

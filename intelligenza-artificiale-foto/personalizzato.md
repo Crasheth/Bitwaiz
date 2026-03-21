@@ -1,5 +1,7 @@
 # FIGURES # Genera Immagini con l'Intelligenza Artificiale: Un Flusso Creativo
 
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 FIGURES # Genera Immagini con l'Intelligenza Artificiale: Un Flusso Creativo
 
 
@@ -9,6 +11,7 @@ Il processo di creazione di immagini con l'intelligenza artificiale può essere 
 *   **Il Prompt come Intenzione:** La qualità del prompt è fondamentale. Non si tratta solo di descrivere l'immagine desiderata, ma di comunicare l'intenzione, l'emozione, l'atmosfera che si vuole evocare. Un prompt ben formulato è come una preghiera, un'invocazione che risveglia il potenziale creativo del sistema.
 *   **Iterazione e Raffinamento:** Il processo di creazione di immagini con l'IA è raramente lineare. Spesso, i risultati iniziali non sono perfetti, ma rappresentano un punto di partenza. Come il fiume che erode la roccia, l'IA può essere utilizzata per iterare, raffinare e perfezionare l'immagine fino a raggiungere il risultato desiderato. Il "seguire il percorso del fiume verso il punto più basso" è un'analogia per l'utilizzo di feedback per migliorare costantemente l'output.
 *   **Il Vuoto e la Trasparenza:** Il vuoto digitale, il punto di partenza del processo creativo, è una tela bianca, un'opportunità per creare qualcosa di nuovo. La trasparenza, l'assenza di preconcetti e aspettative, è essenziale per permettere all'IA di esprimere il suo potenziale creativo.
+
 
 
 

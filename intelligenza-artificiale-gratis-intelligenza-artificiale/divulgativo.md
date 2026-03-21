@@ -1,6 +1,7 @@
 # Le Chiavi dell'Intelligenza Artificiale: Strumenti Gratuiti per il Tuo Mondo
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 
@@ -29,6 +30,7 @@ Canva, con la sua funzione di IA, semplifica la creazione di immagini accattivan
 
 
 ![intelligenza artificiale gratis](https://passioneinformatica.it/wp-content/uploads/2025/05/A_2D_digital_graphic_design_features_a_bold_blue_b.jpg)
+
 
 
 

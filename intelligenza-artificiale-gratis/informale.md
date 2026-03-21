@@ -1,5 +1,7 @@
 # La IA sta spopolando, e non solo tra gli sviluppatori. Ognuno di noi può sfruttare il potenziale dell’intelligenza artificiale per semplificare la vita, aumentare la produttività o semplicemente divertirsi. Ma con così tante app disponibili, scegliere quella giusta può essere un incubo. Ecco una panoramica delle 10 migliori app di IA gratuite, pensate per chi vuole iniziare a esplorare questo mondo.
 
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
 La IA sta spopolando, e non solo tra gli sviluppatori. Ognuno di noi può sfruttare il potenziale dell’intelligenza artificiale per semplificare la vita, aumentare la produttività o semplicemente divertirsi. Ma con così tante app disponibili, scegliere quella giusta può essere un incubo. Ecco una panoramica delle 10 migliori app di IA gratuite, pensate per chi vuole iniziare a esplorare questo mondo.
 
 1.  Claude: Il chatbot più potente
@@ -29,7 +31,6 @@ Puoi usare l'intelligenza artificiale per migliorare la tua vita in molti modi, 
 *   Imparare cose nuove
 *   Divertirti
 
-> L'intelligenza artificiale è la nuova elettricità." — Andrew Ng.
 
 ### Cosa rende queste app così speciali?
 
@@ -80,6 +81,7 @@ Sebbene non ci siano molte app di intelligenza artificiale gratuite che permetto
 Requisiti:
 - Le domande devono essere pertinenti all'argomento e utili per i lettori e per i rich snippet FAQ.
 - Nessuna domanda duplicata; niente domande senza risposta nelle fonti (in quel caso ometti la domanda).
+
 
 ## Fonti
 

@@ -1,5 +1,7 @@
 # ## Domande frequenti
 
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
 ## Domande frequenti
 
 ### Quali sono le migliori app di intelligenza artificiale gratuite disponibili oggi?
@@ -32,6 +34,7 @@ Sebbene non ci siano molte app di intelligenza artificiale gratuite che permetto
 Requisiti:
 - Le domande devono essere pertinenti all'argomento e utili per i lettori e per i rich snippet FAQ.
 - Nessuna domanda duplicata; niente domande senza risposta nelle fonti (in quel caso ometti la domanda).
+
 
 ## Fonti
 

@@ -1,6 +1,7 @@
 # Intelligenza Artificiale Foto
 
-> L'intelligenza artificiale è la nuova elettricità.” — Andrew Ng.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 La generazione di immagini basata sull'intelligenza artificiale (AI) sta rapidamente trasformando il panorama creativo e il flusso di lavoro in vari settori. Piattaforme come Gemini e DALL-E consentono agli utenti di creare immagini realistiche e artistiche a partire da semplici descrizioni testuali, aprendo nuove possibilità per l'espressione creativa, la prototipazione e la comunicazione visiva. Questo documento fornisce una panoramica delle principali piattaforme disponibili e delle loro funzionalità chiave.
 
@@ -20,6 +21,7 @@ Queste piattaforme offrono in genere le seguenti funzionalità:
 
 
 ![intelligenza artificiale foto](https://www.donne.it/wp-content/uploads/2023/10/intelligenza-artificiale.jpg)
+
 
 
 

@@ -1,5 +1,7 @@
 # L’articolo esplora le piattaforme attuali per la generazione di immagini tramite intelligenza artificiale, concentrandosi su strumenti accessibili e le loro funzionalità principali. L’analisi si focalizza su tre piattaforme chiave: Midjourney, DALL·E e Runway, valutandone le capacità, i limiti e la facilità d’uso. La generazione di immagini AI sta rapidamente diventando uno strumento accessibile per creatori di contenuti, designer e chiunque necessiti di visualizzazioni rapide.
 
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 L’articolo esplora le piattaforme attuali per la generazione di immagini tramite intelligenza artificiale, concentrandosi su strumenti accessibili e le loro funzionalità principali. L’analisi si focalizza su tre piattaforme chiave: Midjourney, DALL·E e Runway, valutandone le capacità, i limiti e la facilità d’uso. La generazione di immagini AI sta rapidamente diventando uno strumento accessibile per creatori di contenuti, designer e chiunque necessiti di visualizzazioni rapide.
 
 *   **Midjourney:** Questo servizio si distingue per la sua capacità di produrre immagini altamente dettagliate e artistiche, basate su prompt testuali. L'algoritmo è basato su un modello di deep learning addestrato su un vasto dataset di immagini, consentendo una notevole flessibilità nella generazione di stili e soggetti. La velocità di esecuzione è un punto di forza, ma la gestione del flusso di lavoro può risultare complessa per utenti inesperti.  L'integrazione con diverse piattaforme e la comunità attiva sono vantaggi significativi.
@@ -7,6 +9,7 @@ L’articolo esplora le piattaforme attuali per la generazione di immagini trami
 *   **Runway:** Runway è una piattaforma basata su machine learning che offre una suite completa di strumenti per la creazione di contenuti digitali, inclusa la generazione di immagini. L'interfaccia utente è accessibile e intuitiva, e la piattaforma supporta una vasta gamma di modelli di intelligenza artificiale. Il limite di 105 tentativi gratuiti, con una risoluzione massima di 512p, rappresenta un compromesso tra facilità d'uso e qualità dell'output. L'utilizzo di Runway si presta bene a progetti iterativi e sperimentali.
 
 Ogni piattaforma presenta punti di forza e di debolezza, e la scelta dipende dalle esigenze specifiche dell'utente.  L'analisi dei prompt, la gestione delle risorse computazionali e la comprensione dei limiti intrinseci dei modelli di deep learning sono elementi cruciali per ottenere risultati soddisfacenti. L'integrazione con workflow esistenti e la possibilità di personalizzare i modelli di AI rappresentano aree di sviluppo future.
+
 
 
 
