@@ -1,6 +1,8 @@
 # Dispositivi medici indossabili per la gestione dell'aritmia: un'analisi delle evidenze
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
+
 
 
 
@@ -19,6 +21,8 @@ In conclusione, i dispositivi medici indossabili rappresentano uno strumento pro
 
 
 ![wearable](https://images.datainsightsmarket.com/pmr/banner/chart-Wearable-Fire-Insulation-Materials.png)
+
+
 
 
 

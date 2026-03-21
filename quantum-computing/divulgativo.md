@@ -1,6 +1,8 @@
 # ophyte: Quantum Computing: Un’Introduzione per Tutti
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
+
 
 
 
@@ -28,6 +30,8 @@ Nonostante il suo potenziale, il quantum computing è ancora in una fase inizial
 
 
 ![quantum computing](https://www.popsci.com/wp-content/uploads/2022/09/06/IMG_6219-1-scaled.jpg?quality=85&w=2048)
+
+
 
 
 
