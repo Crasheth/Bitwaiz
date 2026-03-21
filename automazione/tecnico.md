@@ -1,6 +1,7 @@
 # 💶 Automazione: Un’analisi tecnica e strategica 💶
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
 
 
 
@@ -37,6 +38,7 @@ L'adozione dell'automazione presenta vantaggi significativi, tra cui:
 *   **Riduzione dei costi:** L'automazione può ridurre i costi operativi, eliminando la necessità di manodopera per compiti ripetitivi e riducendo gli errori.
 *   **Miglioramento della qualità:** L'automazione può migliorare la qualità dei prodotti e dei servizi, riducendo la variabilità e gli errori umani.
 *   **Maggiore sicurezza:** L'automazione può migliorare la sicurezza sul lavoro, eliminando la necessità di svolgere compiti pericolosi.
+
 
 
 

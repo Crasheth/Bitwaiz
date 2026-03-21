@@ -1,6 +1,7 @@
 # Computer Quantistici: Un'Introduzione
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
 
 
 
@@ -53,6 +54,7 @@ Nonostante il loro potenziale, i computer quantistici sono ancora in una fase in
 ## Conclusioni
 
 Il calcolo quantistico è un campo in rapida evoluzione con il potenziale di trasformare radicalmente il modo in cui risolviamo i problemi. Sebbene ci siano ancora sfide da superare, i progressi recenti suggeriscono che i computer quantistici potrebbero diventare una realtà nel prossimo futuro, aprendo nuove possibilità in una vasta gamma di settori.
+
 
 
 

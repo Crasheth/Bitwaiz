@@ -1,6 +1,7 @@
 # Cloud Computing: The Invisible Power Behind Everything
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Il cloud è solo il computer di qualcun altro. — Variante di Larry Ellison.
+
 
 
 
@@ -37,6 +38,7 @@ Il cloud computing è diventato sempre più popolare negli ultimi anni, e per bu
 
 
 ![cloud computing](https://www.intellectsoft.net/blog/wp-content/uploads/3-9-1024x868.png)
+
 
 
 
