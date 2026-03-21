@@ -1,6 +1,11 @@
 # Ecco i punti chiave:
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
+
+
+
+
 
 
 
@@ -29,6 +34,11 @@ Ora, parliamo di un dispositivo specifico: il cardioverter defibrillatore indoss
 Come funzionano: un WCD rileva anomalie nel ritmo cardiaco e, se necessario, somministra una scarica elettrica per ripristinare il normale battito. Sono spesso utilizzati in persone con problemi cardiaci, come l'insufficienza cardiaca.
 
 Le prove sull'efficacia dei WCD sono ancora in corso, ma i risultati iniziali sono promettenti.  Alcuni studi hanno dimostrato che i WCD possono aumentare le possibilità di sopravvivenza in caso di arresto cardiaco improvviso.
+
+
+
+
+
 
 
 

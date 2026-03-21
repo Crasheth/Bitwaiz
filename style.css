@@ -460,6 +460,78 @@ h3 { font-size: 1.25rem; }
   opacity: 0.95;
 }
 
+/* Newsletter / Netlify form */
+.nl-section {
+  padding-top: 2rem;
+}
+.nl-intro { color: var(--fg-muted); }
+.nl-card {
+  max-width: 420px;
+  margin: 0 auto;
+  padding: 2rem;
+  background: var(--bg-card);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: var(--radius-lg);
+}
+.nl-card form { display: flex; flex-direction: column; gap: 1.25rem; }
+.nl-honey {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+.nl-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  text-align: left;
+}
+.nl-field label {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--fg-muted);
+}
+.nl-field input {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border-radius: var(--radius);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(0, 0, 0, 0.35);
+  color: var(--fg);
+  font-family: inherit;
+  font-size: 1rem;
+}
+.nl-field input:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px rgba(168, 85, 247, 0.2);
+}
+.nl-consent { text-align: left; }
+.nl-consent-label {
+  display: flex;
+  gap: 0.6rem;
+  align-items: flex-start;
+  font-size: 0.85rem;
+  color: var(--fg-muted);
+  cursor: pointer;
+  line-height: 1.45;
+}
+.nl-consent-label input {
+  margin-top: 0.2rem;
+  flex-shrink: 0;
+  accent-color: var(--accent);
+}
+.nl-consent-label a { color: var(--accent-light); }
+.nl-submit { align-self: flex-start; margin-top: 0.25rem; }
+.nl-footnote {
+  margin-top: 1.25rem;
+  font-size: 0.75rem;
+  color: var(--fg-muted);
+  line-height: 1.4;
+  text-align: center;
+}
+
 /* Footer */
 .footer {
   text-align: center;

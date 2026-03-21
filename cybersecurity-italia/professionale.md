@@ -8,6 +8,11 @@
 
 
 
+
+
+
+
+
 L'Italia si trova ad affrontare una sfida significativa nel panorama della cybersecurity, caratterizzata da un aumento esponenziale di attacchi informatici, in particolare ransomware e malware macro, che la pongono al primo posto in Europa in termini di incidenza. Secondo dati di Trend Micro Research (2022) e il Censis “DeepCyber” Report, la situazione richiede un intervento strategico e coordinato per affrontare la crescente minaccia. L'iniziativa “Ambizione Italia per la Cybersecurity”, promossa dalla Fondazione Mondo Digitale in collaborazione con Microsoft Italia, si pone come elemento chiave per invertire questa tendenza.
 
 L'iniziativa si articola in diverse azioni operative, mirate a colmare il divario di competenze e a promuovere una cultura della sicurezza diff என்பதன் மூலம். In particolare, il programma prevede:
@@ -22,6 +27,11 @@ Secondo rapporti come il 2023 CyberEdge report, il numero di attacchi subiti dal
 L'Italia, in linea con le normative GDPR, è un punto focale per discussioni e implementazioni nel campo della cybersecurity. L'ItaliaSec Cyber Summit, in programma a Milano, si propone di accelerare questo processo, favorendo lo scambio di conoscenze e la collaborazione tra esperti e leader del settore.
 
 ![cybersecurity italia](https://www.cybersecitalia.events/cybersec2026/wp-content/uploads/2025/10/Locandina-CyberSEC2026-1920x1080-1.jpg)
+
+
+
+
+
 
 
 

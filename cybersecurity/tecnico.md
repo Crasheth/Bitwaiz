@@ -1,6 +1,11 @@
 # Cybersecurity
 
-> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
+
+
+
 
 
 
@@ -28,6 +33,11 @@ La cybersecurity è un campo in continua evoluzione, con nuove minacce e vulnera
 
 
 ![cybersecurity](https://invortech.com/wp-content/uploads/2024/03/DALL·E-2024-07-05-21.53.06-An-engaging-image-depicting-the-five-types-of-cybersecurity-working-together.-Represent-network-security-with-a-firewall-or-fortress-application-secu-e1720198477628.webp)
+
+
+
+
+
 
 
 
