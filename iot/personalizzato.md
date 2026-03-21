@@ -1,6 +1,7 @@
 # L'Internet delle Cose: Un Flusso di Dati e Presenze
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
 
 
 
@@ -45,6 +46,7 @@ Secondo le fonti, l'Internet delle Cose (IoT) rappresenta un paradigma in cui og
 *   **Azioni:** Implementazione di azioni in base ai dati analizzati, automatizzando processi e ottimizzando performance.
 
 Il potenziale dell'IoT è vastissimo, ma la sua implementazione solleva anche questioni importanti. La quantità di dati generati da questi dispositivi è enorme, e la loro gestione e analisi rappresentano una sfida significativa.  Il rischio di sorveglianza e manipolazione è reale, e richiede un approccio etico e responsabile.  Tuttavia, se gestito con saggezza, l'IoT può essere uno strumento potente per migliorare la nostra vita, ottimizzare le risorse e creare un mondo più connesso e sostenibile.
+
 
 
 
