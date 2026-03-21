@@ -1,6 +1,7 @@
 # Automazione
 
-> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 
@@ -37,6 +38,7 @@ Ecco alcuni punti chiave sull'automazione:
 
 
 ![automazione](https://www.kablator.com/wp-content/uploads/2024/03/Automazione-robotica-industriale-Kablator.png)
+
 
 
 
