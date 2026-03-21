@@ -38,6 +38,7 @@
 
 
 
+
 Bustin’ + Dronin’ non è semplicemente un album: è un'immersione. Un’esplorazione sonora del balletto del suono, un’intersezione tra il virtuosismo di Jurgita Dronina, ballerina di danza contemporanea, e la tecnologia di Garuda Droni, un produttore di droni specializzato in audio spaziale. L'album, un esclusivo progetto giapponese, è nato dall’idea di creare un’esperienza sensoriale unica, dove il movimento umano e la tecnologia si fondono in un’armonia inaspettata.
 
 L'album si articola in due sezioni principali. La prima, intitolata “Danza”, presenta registrazioni audio catturate durante le performance di Dronina, riprese con i droni di Garuda. Questi droni non agiscono come semplici strumenti di registrazione; sono posizionati strategicamente per creare un campo sonoro tridimensionale, permettendo all'ascoltatore di percepire il movimento di Dronina in ogni sua sfumatura: il respiro, il passo, il contatto con il pavimento. La tecnologia di Garuda, che utilizza algoritmi di elaborazione del suono avanzati, trasforma i dati grezzi del movimento in un'esperienza sonora immersiva, quasi come se l’ascoltatore stesse assistendo a uno spettacolo dal vivo.
@@ -45,6 +46,7 @@ L'album si articola in due sezioni principali. La prima, intitolata “Danza”,
 La seconda parte, “Risonanze”, è un'interpretazione musicale di questi dati. Il produttore, utilizzando i dati audio raccolti dai droni, ha creato paesaggi sonori astratti, combinando campioni di suoni ambientali, sintetizzatori e manipolazioni digitali. L'obiettivo non è replicare la performance di Dronina, ma piuttosto esplorare le "risonanze" che il suo movimento genera nell'ambiente circostante. In altre parole, l’album è un’interpretazione del movimento, un tentativo di catturare l'essenza del movimento stesso, non la sua forma visiva.
 
 Il progetto di Bustin’ + Dronin’ solleva interrogativi interessanti sul rapporto tra arte, tecnologia e percezione. Ci invita a riflettere su come la tecnologia possa essere utilizzata non solo per documentare il mondo, ma anche per trasformarlo, per creare nuove forme di esperienza sensoriale. È un esempio di come l'innovazione tecnologica possa arricchire la nostra comprensione del mondo e della nostra stessa esistenza.
+
 
 
 

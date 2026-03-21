@@ -1,6 +1,7 @@
 # Machine Learning: Un'Introduzione Pratica
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 
@@ -70,6 +71,7 @@ Le applicazioni del machine learning sono innumerevoli e in continua espansione.
 *   **Finanza:** Rilevazione di frodi, previsione dei mercati finanziari.
 *   **Marketing:** Personalizzazione delle offerte, analisi del comportamento dei clienti.
 *   **Trasporti:** Guida autonoma, ottimizzazione del traffico.
+
 
 
 
