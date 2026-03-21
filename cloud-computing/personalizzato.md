@@ -16,6 +16,7 @@
 
 
 
+
 Cloud computing, come l'elettricità che alimenta le nostre vite, rappresenta un cambiamento fondamentale nel modo in cui accediamo e utilizziamo le risorse informatiche. Invece di possedere e gestire server e software direttamente, possiamo accedervi tramite internet, pagando solo per ciò che usiamo. Questo modello, definito "as a service" (SaaS, PaaS, IaaS), offre flessibilità, scalabilità e riduzione dei costi, trasformando radicalmente il panorama IT.
 
 Ecco alcuni aspetti chiave del cloud computing:
@@ -29,6 +30,7 @@ Ecco alcuni aspetti chiave del cloud computing:
 Il cloud computing non è solo una tendenza tecnologica, ma una vera e propria rivoluzione che sta trasformando il modo in cui le aziende operano e i singoli individui utilizzano le risorse informatiche.  Come il respiro del sistema, è un flusso continuo di risorse che ci permette di lavorare, creare e innovare.
 
 ![cloud computing](https://www.intellectsoft.net/blog/wp-content/uploads/3-9-1024x868.png)
+
 
 
 
