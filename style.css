@@ -66,6 +66,17 @@ h3 { font-size: 1.25rem; }
 
 .nav-links a:hover { color: var(--fg); }
 
+.nav-links a.nav-feed {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.nav-feed .nav-feed-icon {
+  display: block;
+  flex-shrink: 0;
+}
+
 .btn {
   display: inline-block;
   padding: 0.6rem 1.5rem;
@@ -540,4 +551,185 @@ h3 { font-size: 1.25rem; }
   font-size: 0.9rem;
   border-top: 1px solid rgba(255,255,255,0.06);
   margin-top: 4rem;
+}
+
+/* Brevo newsletter — allineato al tema scuro BitWaiz */
+.brevo-newsletter {
+  padding-bottom: 1rem;
+}
+
+.brevo-newsletter-intro {
+  max-width: 36rem;
+  margin: 0 auto 2rem;
+  text-align: center;
+  color: var(--fg-muted);
+}
+
+.brevo-newsletter-inner {
+  display: flex;
+  justify-content: center;
+  padding: 0 1rem;
+}
+
+.brevo-newsletter .sib-form {
+  width: 100%;
+  max-width: 540px;
+  background: transparent !important;
+}
+
+.brevo-newsletter #sib-form-container {
+  background: transparent;
+}
+
+.brevo-newsletter #sib-container.brevo-sib-card {
+  text-align: left;
+  max-width: 540px !important;
+  margin: 0 auto;
+  background: var(--bg-card) !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  border-radius: var(--radius-lg) !important;
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.4);
+  padding: 1.75rem 1.5rem 2rem !important;
+}
+
+.brevo-newsletter .sib-padding-block {
+  padding: 0.5rem 0;
+}
+
+.brevo-newsletter .brevo-form-title p {
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 1.75rem;
+  font-weight: 600;
+  color: var(--fg);
+  margin: 0;
+  text-align: center;
+}
+
+.brevo-newsletter .brevo-form-subtitle p {
+  font-size: 1rem;
+  color: var(--fg-muted);
+  text-align: center;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.brevo-newsletter .brevo-label {
+  color: var(--fg-muted) !important;
+  font-weight: 600 !important;
+  font-family: 'Inter', -apple-system, sans-serif !important;
+  font-size: 0.9rem !important;
+}
+
+.brevo-newsletter .brevo-input {
+  width: 100%;
+  padding: 0.75rem 1rem !important;
+  border-radius: var(--radius) !important;
+  border: 1px solid rgba(255, 255, 255, 0.14) !important;
+  background: rgba(0, 0, 0, 0.45) !important;
+  color: var(--fg) !important;
+  font-family: 'Inter', -apple-system, sans-serif !important;
+  font-size: 1rem !important;
+}
+
+.brevo-newsletter .brevo-input:focus {
+  outline: none;
+  border-color: var(--accent) !important;
+  box-shadow: 0 0 0 2px rgba(168, 85, 247, 0.25);
+}
+
+.brevo-newsletter .brevo-input::placeholder {
+  color: var(--fg-muted);
+  opacity: 0.7;
+}
+
+.brevo-newsletter .brevo-hint {
+  color: var(--fg-muted) !important;
+  font-size: 0.8rem !important;
+  font-family: 'Inter', -apple-system, sans-serif !important;
+}
+
+.brevo-newsletter .brevo-msg {
+  max-width: 540px !important;
+  margin: 0 auto 1rem !important;
+  border-radius: var(--radius) !important;
+  border: 1px solid transparent !important;
+  padding: 0.75rem 1rem !important;
+}
+
+.brevo-newsletter .brevo-msg--error {
+  color: #fecaca !important;
+  background: rgba(127, 29, 29, 0.4) !important;
+  border-color: rgba(248, 113, 113, 0.35) !important;
+}
+
+.brevo-newsletter .brevo-msg--ok {
+  color: #bbf7d0 !important;
+  background: rgba(20, 83, 45, 0.4) !important;
+  border-color: rgba(74, 222, 128, 0.35) !important;
+}
+
+.brevo-newsletter .brevo-submit-btn {
+  display: inline-flex !important;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.75rem 2rem !important;
+  font-size: 1rem !important;
+  font-weight: 700 !important;
+  font-family: 'Inter', -apple-system, sans-serif !important;
+  color: #fff !important;
+  background: var(--gradient) !important;
+  border: none !important;
+  border-radius: 999px !important;
+  cursor: pointer;
+  transition: opacity 0.2s;
+  min-width: 11rem;
+}
+
+.brevo-newsletter .brevo-submit-btn:hover {
+  opacity: 0.92;
+}
+
+.brevo-newsletter .brevo-legal p {
+  font-size: 0.8rem !important;
+  line-height: 1.5;
+  color: var(--fg-muted);
+  text-align: center;
+  margin: 0;
+}
+
+.brevo-newsletter .brevo-legal a,
+.brevo-newsletter #sib-container a {
+  color: var(--accent-light) !important;
+  text-decoration: underline;
+}
+
+.brevo-newsletter .brevo-checkbox-label {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.65rem;
+  cursor: pointer;
+  text-align: left;
+}
+
+.brevo-newsletter .brevo-checkbox-text {
+  font-size: 0.85rem;
+  color: var(--fg-muted);
+  line-height: 1.45;
+}
+
+.brevo-newsletter .brevo-checkbox-text a {
+  color: var(--accent-light);
+}
+
+.brevo-newsletter .g-recaptcha {
+  display: flex;
+  justify-content: center;
+}
+
+@media (max-width: 480px) {
+  .brevo-newsletter .g-recaptcha {
+    transform: scale(0.9);
+    transform-origin: top center;
+  }
 }

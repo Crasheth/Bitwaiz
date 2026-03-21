@@ -2,3 +2,15 @@
 [build]
   publish = "."
   # Nessun command: il pipeline genera i file prima del push
+
+# Feed e sitemap con Content-Type espliciti (lettori RSS / validatori / tool esterni)
+[[headers]]
+  for = "/feed.xml"
+  [headers.values]
+    Content-Type = "application/rss+xml; charset=UTF-8"
+    Access-Control-Allow-Origin = "*"
+
+[[headers]]
+  for = "/sitemap.xml"
+  [headers.values]
+    Content-Type = "application/xml; charset=UTF-8"

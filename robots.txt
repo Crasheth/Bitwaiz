@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.bitwaiz.it/sitemap.xml
+Sitemap: https://bitwaiz.it/sitemap.xml
