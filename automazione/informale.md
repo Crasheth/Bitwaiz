@@ -1,6 +1,8 @@
 # Automazione
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
+
 
 
 
@@ -35,6 +37,8 @@ Ecco alcuni punti chiave sull'automazione:
 
 
 ![automazione](https://www.kablator.com/wp-content/uploads/2024/03/Automazione-robotica-industriale-Kablator.png)
+
+
 
 
 

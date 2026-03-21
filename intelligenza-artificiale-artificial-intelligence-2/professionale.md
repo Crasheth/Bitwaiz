@@ -1,6 +1,8 @@
 # Intelligenza Artificiale: Una Panoramica
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
+
 
 
 La intelligenza artificiale (IA) è un campo dell'informatica che si concentra sulla creazione di macchine in grado di simulare l'intelligenza umana. Ciò include la capacità di apprendere, ragionare, risolvere problemi e comprendere il linguaggio naturale. L'IA ha un impatto crescente su molti settori, tra cui sanità, finanza, trasporti e intrattenimento.
@@ -47,6 +49,8 @@ Le fonti suggeriscono di iniziare con corsi online (Coursera, Udacity, edX), lib
 
 ### Qual è il futuro dell'IA?
 Le fonti prevedono un'ulteriore crescita esponenziale dell'IA, con un impatto sempre più profondo sulla società e sull'economia. Si prevede che l'IA diventerà sempre più integrata nella nostra vita quotidiana, automatizzando compiti, migliorando l'efficienza e creando nuove opportunità.
+
+
 
 ## Fonti
 

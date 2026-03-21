@@ -1,6 +1,8 @@
 # Home Assistant: Il Potente Assistente Domotico Open Source
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
+
 
 
 
@@ -41,6 +43,8 @@ Ecco un esempio di automazione che puoi creare in Home Assistant:
 *   [Home Assistant](https://grokipedia.com/page/Home_Assistant)
 *   [Home Assistant](https://www.home-assistant.io/)
 *   [Installation - Home Assistant](https://www.home-assistant.io/installation/)
+
+
 
 
 

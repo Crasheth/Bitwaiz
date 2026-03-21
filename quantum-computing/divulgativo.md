@@ -1,6 +1,8 @@
 # ophyte: Quantum Computing: Un’Introduzione per Tutti
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -31,6 +33,8 @@ Nonostante il suo potenziale, il quantum computing è ancora in una fase inizial
 
 
 ![quantum computing](https://www.popsci.com/wp-content/uploads/2022/09/06/IMG_6219-1-scaled.jpg?quality=85&w=2048)
+
+
 
 
 

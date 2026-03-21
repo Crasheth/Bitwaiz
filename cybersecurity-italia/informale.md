@@ -1,0 +1,29 @@
+# Italia: Cyberattacchi in Crescita, ma la Cultura della Sicurezza è Ancora un Debole
+
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
+
+
+Ok, ragazzi, la situazione in Italia sulla cybersecurity è un po’ preoccupante. Dati freschi di Trend Micro e Censis ci dicono che siamo in testa in Europa per ransomware e malware macro, e il problema non è solo la quantità di attacchi, ma anche che la maggior parte degli italiani non fa quasi nulla per proteggere i propri dispositivi. Solo il 40% ha ricevuto una formazione specifica e la maggior parte è completamente ignara dei rischi.  Sembra che la gente non capisca cosa significhi realmente la cybersecurity.
+
+Ecco i punti chiave:
+
+*   **Attacchi in aumento:** Dati di Clusit e CyberEdge mostrano un picco negli intrusion attempts (67% per le grandi aziende secondo Milan थकान Polytechnic) e un aumento degli attacchi riusciti (22% di aziende italiane colpite da 6 o più attacchi l'anno).
+*   **Budget in crescita:** Le aziende italiane stanno aumentando i loro budget per la sicurezza informatica, con un aumento previsto del 10% nel 2024 (secondo Cisco Readiness Index).
+*   **GDPR e conformità:**  La conformità al GDPR rende la situazione ancora più complessa, spingendo le aziende a investire in nuove tecnologie e processi per proteggere i dati.
+*   **Focus sul competitivo advantage:**  Non si tratta solo di difendere, ma di usare la cybersecurity come un fattore di crescita.  Come dice Kudsia Kaker, QG Media, "Oggi, come vediamo una trasformazione digitale senza precedenti in Italia, la cybersecurity non è più solo una protezione – è un vantaggio competitivo che spinge le aziende in avanti."
+*   **Summit a Milano:** Il ItaliaSec Cyber Summit a Milano è un'occasione cruciale per confrontarsi, scambiare idee e vedere le ultime novità in tema di cybersecurity.
+
+Quindi, cosa possiamo fare?  Dobbiamo aumentare la consapevolezza, investire in formazione e adottare misure di sicurezza più efficaci.  E non dimentichiamoci che la cybersecurity è un processo continuo, non una soluzione una tantum.  Il National Cybersecurity Agency sta lavorando per fornire supporto e risorse, ma la responsabilità finale ricade su ognuno di noi.
+
+
+![cybersecurity italia](https://www.cybersecitalia.it/wp-content/uploads/2022/03/cybersec2022-prima-edizione.jpg)
+
+
+
+## Fonti
+
+- [Ambizione Italia per la cybersecurity](https://www.mondodigitale.org/en/projects/ambizione-italia-la-cybersecurity)
+- [Cybersecurity Professions](https://www.mondodigitale.org/en/news/cybersecurity-professions)
+- [ItaliaSec Cyber Summit: Harnessing Cybersecurity for a](https://ismg.io/italiasec-cyber-summit-harnessing-cybersecurity-for-a-competitive-advantage/)
+- [National Cybersecurity Agency Equips Italy to Tackle Modern](https://greydynamics.com/national-cybersecurity-agency-equips-italy-to-tackle-modern-threats/)

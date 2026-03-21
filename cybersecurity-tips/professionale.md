@@ -1,0 +1,23 @@
+# 5 Essential Cybersecurity Tips You’ examin’t Probably Overlooking
+
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
+
+
+Secondo le fonti, la sicurezza informatica è un aspetto cruciale per individui e organizzazioni nell’era digitale. Sebbene molte persone adottino pratiche di base come l’utilizzo di password complesse e l’attivazione dell’autenticazione a due fattori, esistono ulteriori misure che possono migliorare significativamente la protezione dei dati e dei sistemi. Di seguito, vengono presentate cinque strategie di cybersecurity meno note che possono rafforzare la postura di sicurezza complessiva.
+
+*   **Aggiorna Regolarmente il Software:** Mantenere aggiornati tutti i software, inclusi sistemi operativi, browser web e applicazioni, è fondamentale per correggere le vulnerabilità di sicurezza. I produttori rilasciano regolarmente patch per risolvere falle di sicurezza note. Ignorare questi aggiornamenti espone i sistemi a potenziali attacchi.
+*   **Utilizza la Crittografia:** La crittografia protegge i dati sensibili rendendoli illeggibili a chiunque non abbia la chiave di decrittazione. Utilizza la crittografia per proteggere i dati archiviati su dispositivi mobili, computer portatili e server.
+*   **Implementa l’Autenticazione a Fattori Multipli (MFA):** L’MFA aggiunge un ulteriore livello di sicurezza richiedendo agli utenti di fornire più di una forma di identificazione per accedere a un account o a un sistema. Questo rende molto più difficile per gli aggressori accedere anche se hanno rubato la password di un utente.
+*   **Sii Cauto con le Email e i Link:** Le email di phishing sono un metodo comune per i criminali informatici per ingannare gli utenti affinché divulghino informazioni personali o scarichino malware. Sii cauto con le email di posta elettronica non richieste, in particolare quelle che richiedono informazioni personali o che contengono link o allegati.
+*   **Esegui Regolari Backup dei Dati:** Esegui regolarmente il backup dei tuoi dati su un dispositivo di archiviazione esterno o su un servizio di archiviazione cloud. In caso di attacco ransomware o di altra perdita di dati, i backup possono essere utilizzati per ripristinare i dati.
+
+Queste misure, insieme alle pratiche di base, contribuiscono a creare una difesa più solida contro le minacce informatiche. La consapevolezza e l’adozione di queste strategie, secondo le fonti, possono ridurre significativamente il rischio di incidenti di sicurezza.
+
+
+
+## Fonti
+
+- [The Cyber Security and First Responder Tech Park](https://en.wikipedia.org/wiki/The_Cyber_Security_and_First_Responder_Tech_Park)
+- [Find and save ideas aboutcybersecuritytipsfor users on Pinterest.](https://www.pinterest.com/ideas/cybersecurity-tips-for-users/942234953514/)
+- [5 EssentialCybersecurityTipsYou’re Probably Overlooking](https://www.linkedin.com/pulse/5-essential-cybersecurity-tips-youre-probably-xavier-raurich-2ejmf)

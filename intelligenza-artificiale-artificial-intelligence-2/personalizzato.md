@@ -1,6 +1,8 @@
 # AI: Il Flusso del Tao nell'Era dell'Intelligenza Artificiale
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
+
 
 
 Citazione famosa pertinente all'argomento: "L'intelligenza artificiale è la nuova elettricità." — Andrew Ng.
@@ -35,6 +37,8 @@ Le fonti suggeriscono di iniziare con corsi online (Coursera, Udacity, edX), lib
 
 ### Qual è il futuro dell'IA?
 Le fonti prevedono un'ulteriore crescita esponenziale dell'IA, con un impatto sempre più profondo sulla società e sull'economia. Si prevede che l'IA diventerà sempre più integrata nella nostra vita quotidiana, automatizzando compiti, migliorando l'efficienza e creando nuove opportunità.
+
+
 
 ## Fonti
 

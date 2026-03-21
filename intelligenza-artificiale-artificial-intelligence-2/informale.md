@@ -1,6 +1,8 @@
 # Intelligenza Artificiale: Cosa Devi Sapere Ora
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
+
 
 
 L'intelligenza artificiale (AI) sta rapidamente trasformando il nostro mondo, e capire cosa è, come funziona e quali sono le sue implicazioni è diventato cruciale. Questo articolo ti fornirà una panoramica chiara e concisa di questo campo in rapida evoluzione, concentrandosi sui concetti chiave e sulle applicazioni più rilevanti.
@@ -54,6 +56,8 @@ Le fonti suggeriscono di iniziare con corsi online (Coursera, Udacity, edX), lib
 
 ### Qual è il futuro dell'IA?
 Le fonti prevedono un'ulteriore crescita esponenziale dell'IA, con un impatto sempre più profondo sulla società e sull'economia. Si prevede che l'IA diventerà sempre più integrata nella nostra vita quotidiana, automatizzando compiti, migliorando l'efficienza e creando nuove opportunità.
+
+
 
 ## Fonti
 
