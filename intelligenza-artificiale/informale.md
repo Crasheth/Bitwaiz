@@ -1,6 +1,9 @@
 # L’Intelligenza Artificiale preoccupa – LA BARBA DI DIOGENE
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
+
+
 
 
 
@@ -39,6 +42,9 @@ Ecco alcuni punti chiave da considerare:
 *   **L'impatto sociale:** L'IA sta già trasformando il mondo del lavoro, l'arte e la cultura. È importante considerare le implicazioni sociali di queste trasformazioni e lavorare per garantire che l'IA sia utilizzata per il bene comune.
 
 La sfida non è quella di demonizzare l'IA, ma di comprenderla appieno e di utilizzarla in modo responsabile.  Dobbiamo sviluppare un approccio critico, basato sulla consapevolezza dei suoi limiti e delle sue potenzialità.  Solo così potremo sfruttare il potenziale dell'IA per il progresso umano, evitando al contempo i suoi pericoli.
+
+
+
 
 
 

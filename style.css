@@ -543,6 +543,68 @@ h3 { font-size: 1.25rem; }
   text-align: center;
 }
 
+/* CTA newsletter (home + articoli) */
+.flusso-cta {
+  max-width: 900px;
+  margin: 2.5rem auto 0;
+  padding: 0 1rem;
+}
+
+.section .flusso-cta {
+  margin-top: 3rem;
+  margin-bottom: 0;
+}
+
+.article-layout .flusso-cta {
+  margin-top: 2.5rem;
+  margin-bottom: 0;
+}
+
+.flusso-cta-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 1.25rem;
+  text-align: center;
+  padding: 1.5rem 1.35rem;
+  background: linear-gradient(145deg, rgba(168, 85, 247, 0.14) 0%, rgba(236, 72, 153, 0.08) 55%, rgba(13, 13, 13, 0.95) 100%);
+  border: 1px solid rgba(168, 85, 247, 0.35);
+  border-radius: var(--radius-lg);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35);
+}
+
+.flusso-cta-text {
+  margin: 0;
+  font-size: 1.05rem;
+  color: var(--fg-muted);
+  line-height: 1.55;
+}
+
+.flusso-cta-btn {
+  align-self: center;
+  white-space: nowrap;
+}
+
+@media (min-width: 640px) {
+  .flusso-cta-inner {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    text-align: left;
+    padding: 1.35rem 1.75rem;
+  }
+
+  .flusso-cta-text {
+    text-align: left;
+    max-width: 26rem;
+  }
+
+  .flusso-cta-btn {
+    align-self: center;
+    flex-shrink: 0;
+  }
+}
+
 /* Footer */
 .footer {
   text-align: center;

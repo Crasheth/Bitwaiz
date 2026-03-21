@@ -1,0 +1,63 @@
+/*
+ * Dopo sib-styles.css. Brevo usa .sib-form-message-panel { display:none } e
+ * .sib-form-message-panel--active { display:inline-block }.
+ * Forziamo il nascondimento solo SENZA --active (fix tema che altrimenti mostra il contenuto).
+ * Flex order: il modulo (#sib-container) resta per primo a schermo; i messaggi sotto quando attivi.
+ */
+.brevo-newsletter .brevo-sib-form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.brevo-newsletter .brevo-sib-form-container #sib-container {
+  order: 1;
+  width: 100%;
+}
+
+.brevo-newsletter .brevo-sib-form-container #error-message,
+.brevo-newsletter .brevo-sib-form-container #success-message {
+  order: 2;
+  width: 100%;
+  max-width: 540px;
+}
+
+.brevo-newsletter #sib-form-container #error-message.sib-form-message-panel:not(.sib-form-message-panel--active),
+.brevo-newsletter #sib-form-container #success-message.sib-form-message-panel:not(.sib-form-message-panel--active) {
+  display: none !important;
+  visibility: hidden !important;
+  max-height: 0 !important;
+  overflow: hidden !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: none !important;
+  min-height: 0 !important;
+}
+
+/* Icone SVG nei pannelli (evita cerchi enormi quando il messaggio è visibile) */
+.brevo-newsletter .sib-form-message-panel .sib-notification__icon {
+  width: 1.35rem;
+  height: 1.35rem;
+  flex-shrink: 0;
+}
+
+.brevo-newsletter .sib-form-message-panel .sib-form-message-panel__text {
+  display: flex;
+  align-items: center;
+  gap: 0.65rem;
+  text-align: left;
+}
+
+/* Segnaposto come nell’embed Brevo: non occupano spazio */
+.brevo-newsletter .brevo-sib-spacer {
+  display: none !important;
+}
+
+/* Quando Brevo attiva il messaggio, ripristina visibilità (sovrascrive collapse sopra) */
+.brevo-newsletter #error-message.sib-form-message-panel--active,
+.brevo-newsletter #success-message.sib-form-message-panel--active {
+  visibility: visible !important;
+  max-height: none !important;
+  overflow: visible !important;
+  min-height: unset !important;
+}

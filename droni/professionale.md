@@ -25,6 +25,9 @@
 
 
 
+
+
+
 AMENTE - TITOLO:
 
 Bustin' + Dronin': Un'Analisi Approfondita della Compilazione di Remix di Blur
@@ -41,6 +44,9 @@ L'album "Bustin' + Dronin'" non ha raggiunto un grande successo commerciale, ma 
 
 In sintesi, "Bustin' + Dronin'" è un'opera affascinante che offre uno sguardo inedito sulla creatività e l'innovazione di Blur, e che dimostra come la sperimentazione sonora possa portare a risultati sorprendenti.
 ---
+
+
+
 
 
 

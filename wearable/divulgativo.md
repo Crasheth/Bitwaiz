@@ -28,6 +28,9 @@
 
 
 
+
+
+
 I dispositivi indossabili, come suggerisce il nome, sono dispositivi elettronici progettati per essere indossati direttamente sul corpo umano. Questi dispositivi vanno ben oltre gli orologi e le fotocamere digitali; comprendono una vasta gamma di prodotti, tra cui smartwatch, fitness tracker, occhiali intelligenti, sensori indossabili e persino abbigliamento intelligente. La loro funzione principale risiede nella capacità di raccogliere dati sul corpo dell'utente, sull'ambiente circostante e sulle sue attività, elaborando poi queste informazioni per fornire informazioni, migliorare le prestazioni o persino automatizzare determinate azioni.
 
 Ecco alcuni punti chiave da considerare:
@@ -40,6 +43,9 @@ Ecco alcuni punti chiave da considerare:
 
 
 ![wearable](https://images.datainsightsmarket.com/pmr/banner/chart-Wearable-Fire-Insulation-Materials.png)
+
+
+
 
 
 
