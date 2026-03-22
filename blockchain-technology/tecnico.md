@@ -1,6 +1,8 @@
 # Blockchain: เทคโนโลยีพื้นฐานสำหรับการจัดเก็บข้อมูลแบบกระจายศูนย์
 
-> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+> Il denaro è uno strumento che ci permette di ottenere ciò che vogliamo. — Naval Ravikant.
+
+
 
 
 
@@ -31,6 +33,8 @@ La blockchain è un registro digitale, immutabile e distribuito che registra le 
 
 
 ![blockchain technology](https://static.vecteezy.com/system/resources/previews/011/494/437/original/blockchain-technology-isometric-flat-illustration-concept-hi-tech-block-chain-data-structure-visualization-vector.jpg)
+
+
 
 
 
