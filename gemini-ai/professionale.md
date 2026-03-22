@@ -1,0 +1,33 @@
+# Gemini: il nuovo chatbot di Google basato su modelli AI
+
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
+
+
+Gemini è il più recente chatbot di Google progettato per competere con modelli di linguaggio di grandi dimensioni (LLM) come ChatGPT. Sviluppato da Google AI, Gemini si basa su una famiglia di modelli di intelligenza artificiale, con versioni di base, Pro e Ultra, che offrono livelli di prestazioni e funzionalità diversi. Il chatbot è disponibile tramite l'interfaccia web di Google e l'app Gemini, ed è progettato per aiutare gli utenti con una vasta gamma di attività, tra cui la generazione di testo, la traduzione di lingue e la risposta a domande.
+
+
+## Domande frequenti
+
+### Cosa è Gemini?
+Gemini è il nuovo chatbot di Google AI, basato su modelli linguistici di grandi dimensioni (LLM) progettati per una vasta gamma di compiti, dalla generazione di testo alla traduzione linguistica. È stato sviluppato per competere con ChatGPT di OpenAI.
+
+### Come funziona Gemini?
+Gemini utilizza una combinazione di modelli di linguaggio avanzati, tra cui PaLM 2 e altri modelli proprietari, per elaborare le richieste degli utenti e generare risposte. Google sta lavorando per ridurre l'allucinazione nei modelli, ovvero la tendenza a generare informazioni false o senza fondamento.
+
+### Quali sono le funzionalità di Gemini?
+Gemini offre funzionalità come la generazione di testo creativo, la risposta a domande complesse, la traduzione linguistica, la scrittura di codice e l'esecuzione di calcoli. È integrato in diversi prodotti Google, tra cui Ricerca Google e Google Workspace.
+
+### Quali sono i piani di abbonamento per Gemini?
+Attualmente, Google offre diverse opzioni di abbonamento per Gemini, tra cui un piano gratuito con funzionalità limitate e piani premium con accesso a funzionalità avanzate e modelli più potenti come Gemini 3.1 Pro.
+
+### Come posso accedere a Gemini?
+Puoi accedere a Gemini tramite il sito web ufficiale di Google AI ([https://gemini.google/it/subscriptions/?hl=it](https://gemini.google/it/subscriptions/?hl=it)) o tramite l'app mobile di Google.
+
+
+## Fonti
+
+- [Gemini Air Cargo](https://en.wikipedia.org/wiki/Gemini_Air_Cargo)
+- [Gemini (chat bot) - Wikipedia](https://it.wikipedia.org/wiki/Gemini_(chat_bot)
+- [Gemini (language model)](https://grokipedia.com/page/Gemini_language_model)
+- [Google AI Pro e Ultra: accedi a Gemini 3.1 Pro e altro ancora](https://gemini.google/it/subscriptions/?hl=it)

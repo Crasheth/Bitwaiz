@@ -1,0 +1,25 @@
+# Blockchain: Un'Osservazione del Flusso
+
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
+
+
+
+La blockchain, nel suo nucleo, è un registro distribuito, un flusso di dati che si auto-convalida attraverso una rete di nodi. Immaginatela come un libro mastro digitale, non custodito da un'unica entità, ma replicato e verificato da innumerevoli partecipanti. Ogni transazione, ogni "blocco" di dati, è legato al precedente in una catena cronologica, rendendo praticamente impossibile la manipolazione senza lasciare tracce evidenti. Questo non è un semplice database; è un sistema progettato per la resilienza, la trasparenza e l'immutabilità, principi che risuonano con l'osservazione del flusso naturale delle cose – come l'acqua che scorre, o il ciclo delle stagioni.
+
+*   **Struttura della Catena:** Ogni blocco contiene un timestamp, dati transazionali e un "hash" crittografico del blocco precedente. Questo hash agisce come impronta digitale, garantendo che qualsiasi alterazione al blocco precedente invalidi tutti i blocchi successivi.
+*   **Consenso Distribuito:** La validazione delle transazioni avviene attraverso un meccanismo di consenso, come il "Proof-of-Work" (utilizzato da Bitcoin) o "Proof-of-Stake" (utilizzato da Ethereum). Questo processo garantisce che solo transazioni valide vengano aggiunte alla catena.
+*   **Decentralizzazione:** La natura distribuita della blockchain elimina il bisogno di un'autorità centrale per la validazione e il controllo dei dati. Questo rende il sistema resistente alla censura e agli attacchi.
+*   **Applicazioni Oltre le Criptovalute:** Sebbene Bitcoin sia stato il primo grande successo della blockchain, le sue applicazioni si estendono ben oltre le criptovalute. La blockchain può essere utilizzata per tracciare la provenienza dei prodotti, gestire identità digitali, votare in modo sicuro e molto altro.
+
+Il concetto di blockchain, quindi, non è solo una tecnologia; è una nuova mentalità. È un invito a ripensare il modo in cui gestiamo i dati, le transazioni e le relazioni, basandosi su principi di fiducia, trasparenza e decentralizzazione. Come coltivare un giardino, il successo di una blockchain dipende dalla cura, dalla manutenzione e dalla comprensione del suo flusso interno. La robustezza di questa architettura si basa sulla resilienza della rete, sulla diversità delle opinioni e sulla capacità di adattamento ai cambiamenti esterni. Il "threat hunting" in un ambiente blockchain implica proprio questo: osservare attentamente il flusso, identificare anomalie e prevenire attacchi prima che possano causare danni.
+
+
+
+
+## Fonti
+
+- [Blockchain technology](https://en.wikipedia.org/wiki/Blockchain_technology)
+- [Blockchain - Wikipedia](https://en.wikipedia.org/wiki/Blockchain)
+- [Decentralized Applications: Harnessing Bitcoin's Blockchain Technology (book)](https://grokipedia.com/page/decentralized_applications_harnessing_bitcoins_blockchain_technology_(book)
+- [Blockchain: What It Is, How It Works, Why It Matters | Built In](https://builtin.com/blockchain)

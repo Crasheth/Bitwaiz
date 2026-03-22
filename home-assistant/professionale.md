@@ -35,6 +35,8 @@
 
 
 
+
+
 Home Assistant è un potente assistente domotico open source che ti permette di controllare e automatizzare tutti i tuoi dispositivi smart home da un'unica interfaccia. Grazie alla sua flessibilità e alla vasta comunità di sviluppatori, Home Assistant è diventato una delle soluzioni domotiche più popolari al mondo.
 
 ## Cos'è Home Assistant?
@@ -71,6 +73,8 @@ Ecco un esempio di automazione che puoi creare in Home Assistant:
 *   [Home Assistant](https://grokipedia.com/page/Home_Assistant)
 *   [Home Assistant](https://www.home-assistant.io/)
 *   [Installation - Home Assistant](https://www.home-assistant.io/installation/)
+
+
 
 
 
