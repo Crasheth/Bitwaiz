@@ -42,6 +42,8 @@
 
 
 
+
+
 Homepage # 5G: La Nuova Era delle Comunicazioni
 
 
@@ -63,6 +65,8 @@ Il 5G non è solo una tecnologia di rete, ma un ecosistema che abilita nuove app
 
 
 ![5G](https://sim-unlock.net/foto/11_28_38_22b367ef-1d46-45e6-8760.jpg)
+
+
 
 
 

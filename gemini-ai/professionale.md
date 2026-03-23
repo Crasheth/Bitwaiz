@@ -1,6 +1,8 @@
 # Gemini: il nuovo chatbot di Google basato su modelli AI
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
+
 
 
 
@@ -25,6 +27,8 @@ Attualmente, Google offre diverse opzioni di abbonamento per Gemini, tra cui un 
 
 ### Come posso accedere a Gemini?
 Puoi accedere a Gemini tramite il sito web ufficiale di Google AI ([https://gemini.google/it/subscriptions/?hl=it](https://gemini.google/it/subscriptions/?hl=it)) o tramite l'app mobile di Google.
+
+
 
 
 

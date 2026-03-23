@@ -44,6 +44,8 @@
 
 
 
+
+
 La computazione in nuvole, o cloud computing, può sembrare un concetto astratto, ma in realtà è la forza invisibile che alimenta moltissimo di ciò che facciamo online e, sempre più, anche offline. Immaginate di avere una grande fabbrica di energia elettrica, ma invece di generare corrente direttamente nelle vostre case, vi vendete solo l'elettricità che usate. Ecco, il cloud computing è un po' così: invece di possedere e gestire server e computer enormi, usate le risorse informatiche di altre aziende, pagandole solo per quello che usate.
 
 Il cloud computing è un modo per accedere a computer, software e storage su Internet. Invece di avere un computer nel tuo ufficio o a casa, puoi usare un computer in un data center gestito da un'altra azienda. Questo significa che non devi preoccuparti di acquistare, mantenere o aggiornare hardware o software. Tutto è gestito dall'azienda che fornisce il servizio cloud.
@@ -67,6 +69,8 @@ Il cloud computing è diventato sempre più popolare negli ultimi anni, e per bu
 
 
 ![cloud computing](https://www.intellectsoft.net/blog/wp-content/uploads/3-9-1024x868.png)
+
+
 
 
 
