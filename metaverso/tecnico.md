@@ -1,6 +1,7 @@
 # Metaverso
 
-> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -56,6 +57,7 @@ Le principali difficoltà risiedono in diversi ambiti:
 *   **Interoperabilità:** La frammentazione del metaverso in piattaforme isolate, ciascuna con le proprie regole e standard, ostacola l’interoperabilità e la creazione di un’esperienza utente fluida. La mancanza di un’architettura aperta e standardizzata limita la possibilità di creare un metaverso veramente globale e connesso.
 
 Nonostante queste sfide, il metaverso continua a rappresentare un’area di ricerca e sviluppo promettente. L’avanzamento delle tecnologie VR/AR, l’evoluzione delle criptovalute e l’interesse crescente da parte di aziende e istituzioni accademiche suggeriscono che il metaverso potrebbe evolvere in futuro verso forme più mature e integrate nella vita quotidiana. Tuttavia, è fondamentale affrontare le sfide attuali in modo pragmatico e collaborativo, con l’obiettivo di creare un metaverso che sia accessibile, sicuro e sostenibile.
+
 
 
 

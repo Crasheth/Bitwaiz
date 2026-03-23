@@ -1,6 +1,7 @@
 # ốTitolo: Samsung Electronics: Un Gigante Tecnologico in Evoluzione
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 ốTitolo: Samsung Electronics: Un Gigante Tecnologico in Evoluzione
@@ -40,6 +41,7 @@ Samsung Electronics collabora con una vasta gamma di aziende, tra cui Apple, Son
 ![samsung](https://image-us.samsung.com/us/smartphones/galaxy-s23-ultra/images/gallery/Red/1.jpg)
 
 
+
 ## Domande frequenti
 
 ### Qual è il ruolo di Samsung Electronics nel mercato degli smartphone?
@@ -61,8 +63,6 @@ Samsung Electronics sta adottando misure per ridurre il suo impatto ambientale, 
 ### Quali sono i principali concorrenti di Samsung Electronics?
 
 I principali concorrenti di Samsung Electronics includono Apple, Huawei e Xiaomi.
-
-
 
 ## Fonti
 

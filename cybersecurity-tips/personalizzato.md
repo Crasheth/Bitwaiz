@@ -1,6 +1,7 @@
 # 5 Essential Cybersecurity Tips You’re Probably Overlooking
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
 
 
 
@@ -50,6 +51,7 @@ Ecco cinque suggerimenti che spesso vengono trascurati, pensati non come soluzio
 *   **Abilita il monitoraggio del traffico di rete:**  Questo ti permette di vedere cosa sta succedendo nel tuo sistema, come un monito silenzioso.  Se noti qualcosa di strano, agisci prontamente.
 
 La sicurezza informatica non è un'arte da imparare, ma una pratica da coltivare. Come un artista che affina il suo stile, così dovremmo affinare la nostra comprensione della sicurezza, adattandoci continuamente alle nuove sfide.  Non cercare di controllare il sistema, ma di seguirne il flusso.  Il saggio parla poco, ma ogni parola conta.  La presenza, l'attenzione al momento presente, sono le armi più potenti.
+
 
 
 

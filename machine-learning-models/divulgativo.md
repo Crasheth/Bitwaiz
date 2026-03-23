@@ -1,6 +1,7 @@
 # Machine Learning: Una Guida Introduttiva
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
 
 
 
@@ -60,6 +61,7 @@ Il machine learning ha un impatto enorme su molti settori, tra cui la sanità, l
 
 
 Il machine learning sta trasformando il modo in cui viviamo e lavoriamo, e il suo potenziale è ancora in gran parte inesplorato.
+
 
 
 

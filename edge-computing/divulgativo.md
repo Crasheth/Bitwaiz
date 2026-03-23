@@ -1,6 +1,7 @@
 # Degree Computing # Degree Computing
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -59,6 +60,7 @@ Ecco alcuni punti chiave per capire meglio:
 *   **Privacy e sicurezza:** Elaborare i dati localmente può migliorare la privacy e la sicurezza, poiché meno informazioni sensibili devono essere inviate a un server centrale.
 
 L'edge computing non è una novità: le reti di content delivery network (CDN) sono un esempio di edge computing in azione, ma l'attuale ondata di interesse è guidata da fattori come l'IoT, la 5G e l'intelligenza artificiale.  Con l'aumento esponenziale di dispositivi connessi che generano dati, l'edge computing diventa sempre più essenziale per gestire questi flussi di dati in modo efficiente e affidabile.  È un elemento chiave per trasformare i dati grezzi in informazioni utili e per abilitare nuove applicazioni e servizi in una vasta gamma di settori.
+
 
 
 

@@ -43,6 +43,7 @@
 
 
 
+
 Home Assistant è un progetto open-source che ti permette di controllare e automatizzare i dispositivi intelligenti della tua casa, trasformandola in un vero e proprio "domo intelligente". Non è un singolo dispositivo, ma un sistema operativo che gira su un computer, un Raspberry Pi o persino un vecchio laptop, agendo come il cervello centrale della tua casa automatizzata. L'obiettivo è semplice: integrare tutti i tuoi dispositivi, indipendentemente dal marchio, in un'unica piattaforma controllabile tramite un'interfaccia intuitiva e personalizzabile.
 
 Il cuore di Home Assistant è la sua flessibilità.  Non è vincolato a un singolo produttore o protocollo, il che significa che puoi utilizzare dispositivi Zigbee, Z-Wave, Wi-Fi, Bluetooth e persino quelli più vecchi.  Puoi creare automatismi complessi, come accendere le luci al tramonto, regolare il termostato in base alla tua posizione o ricevere notifiche quando la porta d'ingresso viene aperta.  E tutto questo senza dipendere da servizi cloud proprietari, garantendo maggiore privacy e controllo sui tuoi dati.  La comunità di Home Assistant è enorme e attiva, offrendo supporto, integrazioni e personalizzazioni per quasi ogni dispositivo immaginabile.
@@ -54,6 +55,7 @@ Ecco le azioni operative principali che puoi fare con Home Assistant:
 *   **Controlla la tua casa da qualsiasi luogo:** Utilizza l'app mobile di Home Assistant per monitorare e controllare la tua casa da remoto.
 *   **Personalizza l'interfaccia:** Adatta l'interfaccia utente alle tue esigenze, creando dashboard personalizzate e visualizzando le informazioni che ti interessano.
 *   **Sfrutta la potenza della community:** Accedi a una vasta gamma di integrazioni, personalizzazioni e supporto offerti dalla comunità di Home Assistant.
+
 
 
 
