@@ -1,6 +1,7 @@
 # Redmi: L'Ascesa di un Brand Smartphone Innovativo
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
 
 
 
@@ -26,6 +27,21 @@ Il successo di Redmi si basa in gran parte sulle sue serie di smartphone, in par
 Redmi è ben posizionato per continuare la sua crescita nel mercato degli smartphone, grazie al suo impegno per l'innovazione, alla sua attenzione al cliente e alla sua solida base di supporto da parte di Xiaomi. Con l'introduzione di nuove tecnologie come il 5G e l'intelligenza artificiale, Redmi è pronto a rimanere un attore chiave nell'industria degli smartphone per gli anni a venire. Il brand continua a espandersi a livello globale, sfruttando digital supply chains e pratiche sostenibili per offrire valore ai suoi utenti in tutto il mondo.
 
 
+
+
+## Domande frequenti
+
+### Redmi e Xiaomi sono la stessa azienda?
+Redmi e un brand di Xiaomi: usa l'ecosistema Xiaomi ma con una linea prodotto pensata soprattutto per il rapporto qualita/prezzo.
+
+### In quale fascia di mercato si posiziona Redmi?
+Principalmente nella fascia medio-bassa e media, con modelli che puntano a prestazioni solide e prezzo competitivo.
+
+### Quali sono le serie piu importanti di Redmi?
+Le serie piu note sono Redmi Note (equilibrio tra prezzo e funzionalita) e Redmi K (maggiore focus su performance).
+
+### Redmi produce solo smartphone?
+No. Oltre agli smartphone, Redmi propone anche prodotti IoT come tablet, TV e accessori audio, integrati nell'ecosistema Xiaomi.
 
 ## Fonti
 

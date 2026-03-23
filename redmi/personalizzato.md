@@ -1,4 +1,4 @@
-# Redmi: Il Successo di Xiaomi nel Segmento Smartphone
+# Redmi: perche sta crescendo davvero
 
 > Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
 

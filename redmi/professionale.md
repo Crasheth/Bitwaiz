@@ -1,6 +1,7 @@
 # Redmi: Un'Analisi del Brand e dei Prodotti
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
 
 
 
@@ -28,6 +29,21 @@ I prodotti Redmi si distinguono per il loro focus su qualità e innovazione, con
 
 
 
+
+
+## Domande frequenti
+
+### Redmi e Xiaomi sono la stessa azienda?
+Redmi e un brand di Xiaomi: usa l'ecosistema Xiaomi ma con una linea prodotto pensata soprattutto per il rapporto qualita/prezzo.
+
+### In quale fascia di mercato si posiziona Redmi?
+Principalmente nella fascia medio-bassa e media, con modelli che puntano a prestazioni solide e prezzo competitivo.
+
+### Quali sono le serie piu importanti di Redmi?
+Le serie piu note sono Redmi Note (equilibrio tra prezzo e funzionalita) e Redmi K (maggiore focus su performance).
+
+### Redmi produce solo smartphone?
+No. Oltre agli smartphone, Redmi propone anche prodotti IoT come tablet, TV e accessori audio, integrati nell'ecosistema Xiaomi.
 
 ## Fonti
 
