@@ -1,6 +1,7 @@
 # Il Metaverso: Un Sogno Svanito?
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
 
 
 
@@ -57,6 +58,7 @@ La realtà virtuale e aumentata hanno fatto grandi promesse, ma il metaverso di 
 *   Il crypto e il Web3 hanno perso slancio. L'interesse per le criptovalute e gli NFT, che avevano alimentato le prime speranze per il metaverso, è diminuito drasticamente a causa della crisi del mercato crypto.
 
 Il metaverso di Meta, con la sua piattaforma Horizon Worlds, ha raggiunto un picco di 300.000 utenti mensili, ma questo numero non è sufficiente a sostenere un ecosistema digitale in crescita. La concorrenza è agguerrita e le aspettative degli utenti sono alte.
+
 
 
 

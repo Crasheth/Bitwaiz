@@ -1,6 +1,7 @@
 # 5G: La Quinta Generazione di Connettività
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il cloud è solo il computer di qualcun altro. — Variante di Larry Ellison.
+
 
 
 
@@ -61,6 +62,7 @@ Ecco i punti chiave del 5G:
 *   **Nuovi modelli di business:** Oltre alle applicazioni tradizionali, il 5G favorisce lo sviluppo di nuovi modelli di business, come l'Internet of Things, l'edge computing e i servizi digitali personalizzati.
 
 Il 5G non è solo una tecnologia, ma un ecosistema in evoluzione che sta trasformando il modo in cui viviamo e lavoriamo. Le sue potenzialità sono enormi, ma è importante affrontare le sfide legate alla sua implementazione, come la copertura della rete, la sicurezza e l'accessibilità.
+
 
 
 

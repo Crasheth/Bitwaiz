@@ -1,6 +1,7 @@
 # Dispositivi indossabili: un'analisi di base
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
 
 
 
@@ -62,6 +63,7 @@ Ecco alcuni punti chiave da considerare:
 
 
 ![wearable](https://images.datainsightsmarket.com/pmr/banner/chart-Wearable-Fire-Insulation-Materials.png)
+
 
 
 
