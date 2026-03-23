@@ -1,6 +1,7 @@
 # Redmi: la chiave e semplicita con sostanza
 
-> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 Quando si parla di Redmi, non si tratta solo di un altro brand di smartphone. È una strategia. Una risposta intelligente a un mercato saturo dove il lusso e le caratteristiche eccessive spesso non compensano il prezzo. Ho pensato a Redmi e ho capito che la loro forza non sta nell'essere i più avanzati, ma nel fornire il giusto equilibrio, il punto dove la funzionalità incontra la convenienza.
@@ -33,6 +34,7 @@ Le serie piu note sono Redmi Note (equilibrio tra prezzo e funzionalita) e Redmi
 
 ### Redmi produce solo smartphone?
 No. Oltre agli smartphone, Redmi propone anche prodotti IoT come tablet, TV e accessori audio, integrati nell'ecosistema Xiaomi.
+
 
 ## Fonti
 

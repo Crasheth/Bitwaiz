@@ -49,6 +49,7 @@
 
 
 
+
 Immagina un registro pubblico, immutabile e distribuito, dove ogni transazione viene registrata in un "blocco" collegato al precedente, formando una "catena". Questo, in sintesi, è una blockchain. Non si tratta di un singolo database controllato da una banca o da un'azienda, ma di una rete di computer che collaborano per verificare e registrare le informazioni. È come avere migliaia di persone che controllano la stessa cosa, rendendo quasi impossibile frodi o manipolazioni.
 
 Ecco come funziona, passo dopo passo:
@@ -66,6 +67,7 @@ Ma la blockchain non è solo tecnologia. È un cambiamento di paradigma, un modo
 Nonostante il suo potenziale, la blockchain è ancora in fase di sviluppo. Ci sono sfide da affrontare, come la scalabilità (la capacità di gestire un gran numero di transazioni) e la regolamentazione. Tuttavia, la blockchain rappresenta un passo importante verso un futuro più trasparente, sicuro e decentralizzato.
 
 ![blockchain](https://emilyandblair.com/wp-content/uploads/2022/12/blockchain.jpg)
+
 
 
 

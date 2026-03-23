@@ -1,6 +1,7 @@
 # Samsung: Costruire il Futuro, Un Pixel alla Volta
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
 
 
 Samsung, osservarla è come vedere un fiume che si dirama e si riunisce, spesso in luoghi inaspettati. Non è un gigante monolitico, ma un ecosistema in costante evoluzione, alimentato da un’implacabile ricerca dell’innovazione. L'ho notato, ad esempio, nel passaggio dai display LCD ai Super AMOLED: un'evoluzione non dettata da un unico genio, ma da un processo iterativo, fallimenti inclusi, e un'audace accettazione di nuove tecnologie.
@@ -40,6 +41,7 @@ Samsung Electronics sta adottando misure per ridurre il suo impatto ambientale, 
 ### Quali sono i principali concorrenti di Samsung Electronics?
 
 I principali concorrenti di Samsung Electronics includono Apple, Huawei e Xiaomi.
+
 
 ## Fonti
 

@@ -1,6 +1,7 @@
 # Chatbot: Storia, Evoluzione e Prospettive
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 
 
@@ -55,6 +56,7 @@ Il concetto di chatbot risale agli anni '70, con primi tentativi di creare progr
 La vera rivoluzione è arrivata con l'avvento del machine learning e, più recentemente, dei modelli linguistici di grandi dimensioni (LLM).  Questi modelli, come ChatGPT, sono in grado di apprendere dai dati e di generare testo in modo coerente e naturale.  Non si limitano a rispondere a domande, ma possono anche creare storie, tradurre lingue, scrivere codice e persino partecipare a conversazioni creative.  Il loro funzionamento è simile a quello di un bambino che impara parlando e ascoltando: analizzano enormi quantità di testo per identificare schemi e relazioni, e poi utilizzano queste conoscenze per generare nuove frasi e risposte.
 
 La capacità di questi modelli di "comprendere" il linguaggio naturale li rende incredibilmente versatili.  Oggi, i chatbot sono utilizzati in una vasta gamma di applicazioni, dall'assistenza clienti al servizio di informazioni, alla creazione di contenuti e all'intrattenimento.  E la loro evoluzione è tutt'altro che conclusa.  Il futuro dei chatbot promette interazioni ancora più naturali, intelligenti e personalizzate, con un impatto potenzialmente profondo su tutti gli aspetti della nostra vita.
+
 
 
 

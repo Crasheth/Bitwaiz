@@ -1,6 +1,7 @@
 # Machine Learning: Una Guida Introduttiva
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
 
 
 
@@ -61,6 +62,7 @@ Il machine learning ha un impatto enorme su molti settori, tra cui la sanità, l
 
 
 Il machine learning sta trasformando il modo in cui viviamo e lavoriamo, e il suo potenziale è ancora in gran parte inesplorato.
+
 
 
 
