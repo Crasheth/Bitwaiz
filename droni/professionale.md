@@ -1,6 +1,7 @@
 # AMENTE - TITOLO:
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> La tecnologia migliore è quella che scompare. — Mark Weiser.
+
 
 
 
@@ -67,6 +68,7 @@ L'album "Bustin' + Dronin'" non ha raggiunto un grande successo commerciale, ma 
 
 In sintesi, "Bustin' + Dronin'" è un'opera affascinante che offre uno sguardo inedito sulla creatività e l'innovazione di Blur, e che dimostra come la sperimentazione sonora possa portare a risultati sorprendenti.
 ---
+
 
 
 

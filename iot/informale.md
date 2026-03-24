@@ -1,6 +1,7 @@
 # L'Internet delle Cose: Un'Evoluzione Inarrestabile
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
 
 
 
@@ -65,6 +66,7 @@ Ecco i punti chiave:
 
 
 L'IoT non è solo un insieme di gadget connessi; è un'infrastruttura fondamentale per il futuro, con il potenziale di trasformare radicalmente il modo in cui viviamo e lavoriamo.  E' un'evoluzione inarrestabile, che promette di ottimizzare processi, migliorare l'efficienza e creare nuove opportunità di business.
+
 
 
 

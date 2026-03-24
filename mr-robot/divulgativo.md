@@ -6,6 +6,7 @@
 
 
 
+
 La serie *Mr. Robot* non è solo un thriller tecnologico avvincente; è un’esplorazione profonda della psiche umana, filtrata attraverso il prisma della cybersecurity e dell’hacking. Al centro della narrazione troviamo Elliot Alderson, un giovane uomo tormentato da ansia sociale, depressione e un disturbo dissociativo dell’identità. La serie ci presenta un personaggio complesso, un individuo che, per affrontare le proprie ferite interiori, si immerge in un mondo di codice e criptovalute, trasformandosi in un vigilante digitale.
 
 Ecco alcuni punti chiave che emergono dall'analisi della serie:
@@ -24,6 +25,19 @@ In definitiva, *Mr. Robot* è una serie che ci invita a riflettere sulla nostra 
 
 
 
+
+
+
+## Domande frequenti
+
+### Che cos'e Mr. Robot: Un’analisi psicologica di un’anima digitale?
+E una tecnologia o un brand da valutare in base al contesto d'uso e agli obiettivi reali.
+
+### Qual e il vantaggio pratico di Mr. Robot: Un’analisi psicologica di un’anima digitale?
+Dipende dal caso d'uso: in genere il valore sta nel rapporto tra prestazioni, costo e semplicita operativa.
+
+### Quali limiti devo considerare su Mr. Robot: Un’analisi psicologica di un’anima digitale?
+Prima di adottarlo valuta limiti tecnici, lock-in, costi nel tempo e qualita del supporto/documentazione.
 
 ## Fonti
 

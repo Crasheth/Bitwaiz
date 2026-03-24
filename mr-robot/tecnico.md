@@ -3,6 +3,7 @@
 > L'innovazione distingue un leader da un follower. — Steve Jobs.
 
 
+
 _<Titolo> Mr. Robot: Analisi Tecnica della Serie Televisiva_
 
 
@@ -19,6 +20,19 @@ La serie, pur essendo un prodotto di intrattenimento, offre spunti di riflession
 
 
 
+
+
+
+## Domande frequenti
+
+### Che cos'e Mr. Robot: Un’analisi psicologica di un’anima digitale?
+E una tecnologia o un brand da valutare in base al contesto d'uso e agli obiettivi reali.
+
+### Qual e il vantaggio pratico di Mr. Robot: Un’analisi psicologica di un’anima digitale?
+Dipende dal caso d'uso: in genere il valore sta nel rapporto tra prestazioni, costo e semplicita operativa.
+
+### Quali limiti devo considerare su Mr. Robot: Un’analisi psicologica di un’anima digitale?
+Prima di adottarlo valuta limiti tecnici, lock-in, costi nel tempo e qualita del supporto/documentazione.
 
 ## Fonti
 
