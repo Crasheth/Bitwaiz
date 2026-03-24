@@ -1,6 +1,7 @@
 # Mr. Robot
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 
@@ -11,6 +12,7 @@ Il fulcro della narrazione risiede nella fsociety, un gruppo di attivisti inform
 Le azioni di Elliot e della fsociety non sono solo atti di hacking; sono anche un'esplorazione della natura dell'identità e della percezione. Elliot, con la sua complessa personalità frammentata, rappresenta un'immagine del caos e dell'incertezza che permea la nostra società. La sua capacità di vedere il mondo attraverso una lente distorta, di percepire le connessioni nascoste tra le cose, lo rende un agente di cambiamento inaspettato. La serie suggerisce che la vera rivoluzione non risiede nella distruzione, ma nella capacità di vedere il mondo in un modo nuovo, di mettere in discussione le nostre assunzioni e di abbracciare l'impermanenza.
 
 Il finale, con la sua ambigua risoluzione, sottolinea ulteriormente questo tema. La fsociety ha raggiunto il suo obiettivo, ma il costo è stato alto. Elliot si trova di fronte a una scelta cruciale, una decisione che determinerà il suo destino e il futuro della società.
+
 
 
 

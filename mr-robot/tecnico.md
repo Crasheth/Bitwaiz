@@ -1,6 +1,7 @@
 # _<Titolo> Mr. Robot: Analisi Tecnica della Serie Televisiva_
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 _<Titolo> Mr. Robot: Analisi Tecnica della Serie Televisiva_
 
@@ -14,6 +15,7 @@ Mr. Robot, la serie televisiva USA Network, offre un'analisi complessa di temi l
 *   **Sicurezza del Cloud:** La serie presenta anche aspetti relativi alla sicurezza del cloud, come la gestione delle credenziali degli utenti, la protezione dei dati archiviati nel cloud e la prevenzione di attacchi DDoS (Distributed Denial of Service).
 
 La serie, pur essendo un prodotto di intrattenimento, offre spunti di riflessione importanti per professionisti della sicurezza informatica e per chiunque sia interessato alla comprensione delle minacce informatiche contemporanee. La sua rappresentazione realistica delle tecniche di hacking e delle vulnerabilità dei sistemi informatici la rende un valido strumento didattico.
+
 
 
 

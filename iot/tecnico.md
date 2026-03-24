@@ -1,6 +1,7 @@
 # Yuki! # Internet delle cose: un'analisi tecnica
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 
 
@@ -59,6 +60,7 @@ Il concetto rappresenta una possibile evoluzione dell’uso della rete internet:
 I campi di applicabilità sono molteplici: dalle applicazioni industriali (processi produttivi), alla logistica e all’infomobilità, fino all’efficienza energetica, all’assistenza remota e alla tutela ambientale [12]. Le tecnologie abilitanti includono reti wireless (Wi-Fi, Bluetooth, Zigbee, LoRaWAN), sensori, dispositivi embedded, piattaforme IoT, servizi cloud e applicazioni mobili.  L'IoT si integra con altre tecnologie come l'analisi dei dati, il machine learning (ML) e l'intelligenza artificiale (AI) per creare soluzioni più intelligenti e automatizzate. Ad esempio, i sensori IoT possono raccogliere dati su temperatura, umidità, pressione, movimento e altri parametri, che vengono poi analizzati utilizzando algoritmi di ML per identificare tendenze, prevedere guasti o ottimizzare processi.  Inoltre, l'IoT è spesso combinato con la sicurezza informatica per proteggere i dispositivi e i dati connessi da minacce esterne.
 
 Secondo le fonti, i campi di applicazione sono svariati: dalle applicazioni industriali (processi produttivi), alla logistica e all’infomobilità, fino all’efficienza energetica, all’assistenza remota e alla tutela ambientale [12].  Un esempio concreto è l'utilizzo dell'IoT nella gestione intelligente degli edifici, dove i sensori monitorano la temperatura, l'illuminazione e l'umidità per ottimizzare il consumo energetico e migliorare il comfort degli occupanti.  Un altro esempio è l'uso dell'IoT nella produzione industriale, dove i sensori monitorano lo stato delle macchine e dei processi per prevenire guasti, ottimizzare la produzione e migliorare la qualità dei prodotti.
+
 
 
 

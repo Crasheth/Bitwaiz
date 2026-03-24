@@ -1,6 +1,7 @@
 # Mr Robot
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 
@@ -14,6 +15,7 @@ Mr. Robot, la serie TV di USA Network, è un vero e proprio caso di successo, un
 *   **Successo Culturale:** Mr. Robot ha generato un forte seguito di fan, che apprezzano la sua originalità, la sua trama avvincente e la sua critica sociale. La serie è diventata un fenomeno culturale, ispirando cosplay, fan fiction e discussioni online.
 
 In sintesi, Mr. Robot è una serie televisiva intelligente, ben realizzata e coinvolgente, che offre una riflessione stimolante sul mondo della tecnologia e sulla società contemporanea. La sua combinazione di azione, suspense, dramma psicologico e critica sociale la rende una delle serie TV più apprezzate degli ultimi anni.
+
 
 
 

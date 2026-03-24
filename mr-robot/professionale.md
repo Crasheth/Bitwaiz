@@ -1,6 +1,7 @@
 # Mr. Robot: Analisi di una Serie Televisiva Psicologica
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 
@@ -17,6 +18,7 @@ I punti chiave che caratterizzano "Mr. Robot" includono:
 *   **Temi sociali:** La serie affronta temi importanti come la disuguaglianza economica, la sorveglianza governativa e l'impatto della tecnologia sulla società.
 
 "Mr. Robot" ha ottenuto un vasto successo di critica e di pubblico, grazie alla sua originalità, alla sua qualità tecnica e alla sua capacità di suscitare riflessioni profonde. La serie ha contribuito a consolidare la reputazione di Sam Esmail come uno dei registi più innovativi e talentuosi della televisione contemporanea.
+
 
 
 

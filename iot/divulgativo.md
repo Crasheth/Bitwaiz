@@ -1,6 +1,7 @@
 # L'Internet delle Cose: Quando le Cose Diventano Intelligenti
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 
 
@@ -70,6 +71,7 @@ L'IoT non è solo una questione di tecnologia; è anche una questione di dati. L
 
 
 Il futuro dell'IoT è promettente, ma è fondamentale affrontare le sfide con un approccio responsabile e sostenibile.  L'IoT non è solo una tecnologia, ma un'opportunità per creare un mondo più efficiente, intelligente e connesso.
+
 
 
 

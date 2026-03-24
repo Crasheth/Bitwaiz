@@ -1,6 +1,7 @@
 # Mr. Robot: Un’analisi psicologica di un’anima digitale
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 
@@ -19,6 +20,7 @@ In definitiva, *Mr. Robot* è una serie che ci invita a riflettere sulla nostra 
 
 
 ![mr robot](https://static1.moviewebimages.com/wordpress/wp-content/uploads/2023/02/malek-in-mr-robot.jpg)
+
 
 
 

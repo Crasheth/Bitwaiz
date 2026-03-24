@@ -1,6 +1,7 @@
 # Il metaverso: promesse e delusioni di un futuro digitale
 
-> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -65,6 +66,7 @@ Secondo le fonti, il metaverso non è ancora una tecnologia di utilizzo quotidia
 
 
 Nonostante le sfide, il metaverso rimane un campo in evoluzione, con potenziali applicazioni in settori come l'intrattenimento, l'istruzione, il commercio e il lavoro. Il futuro del metaverso dipenderà dalla capacità di superare le attuali difficoltà e di sviluppare esperienze utente coinvolgenti e significative.
+
 
 
 

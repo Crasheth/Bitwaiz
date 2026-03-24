@@ -1,6 +1,7 @@
 # Robot Multifunzione: Un'Analisi Operativa
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
 
 
 
@@ -17,6 +18,7 @@ Questi robot multifunzione sono utili soprattutto per chi ha poco spazio in cuci
 
 
 ![robot multifunzione](https://data.clickforshop.it/imgprodotto/moulinex-hf800a-cuisine-companion-robot-multifunzione-da-cucina-1550-watt-capacità-4-5-litri-colore-argento-bianco_111554.jpg)
+
 
 
 

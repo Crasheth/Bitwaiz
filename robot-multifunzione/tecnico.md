@@ -1,6 +1,7 @@
 # Robot Multifunzione: Analisi delle Capacità e Applicazioni
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
 
 
 
@@ -15,6 +16,7 @@ L'analisi dei robot multifunzione in commercio rivela un panorama diversificato,
 
 
 ![robot multifunzione](https://static.tecnichenuove.it/01smartlife/2025/07/Moulinex-I-Companion-Touch-Pro_ambientata.png)
+
 
 
 

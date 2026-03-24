@@ -1,6 +1,7 @@
 # Robot Multifunzione: Un'Arma Silenziosa per la Cucina
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
 
 
 
@@ -19,6 +20,7 @@ Questi robot, quindi, non sono solo strumenti di cucina; sono un'opportunità pe
 
 
 ![robot multifunzione](https://static.tecnichenuove.it/01smartlife/2025/07/Moulinex-I-Companion-Touch-Pro_ambientata.png)
+
 
 
 

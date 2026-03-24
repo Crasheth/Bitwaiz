@@ -1,6 +1,7 @@
 # Blockchain: Una Panoramica Tecnica
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 
@@ -65,6 +66,7 @@ Ecco i punti chiave:
 *   **Consenso:** I partecipanti alla rete utilizzano meccanismi di consenso per validare le transazioni e aggiungere nuovi blocchi alla catena.
 
 La tecnologia blockchain ha il potenziale per trasformare settori come la finanza, la logistica, la sanità e il voto elettronico. Sebbene sia ancora una tecnologia emergente, la sua crescente adozione e i continui sviluppi promettono di ridefinire il modo in cui conduciamo affari e interagiamo nel mondo digitale.
+
 
 
 
