@@ -1,6 +1,7 @@
 # La rete ₅G si presenta come un fiume in piena, un flusso inarrestabile di dati e connessioni, un'onda di innovazione che promette di trasformare il mondo. Ma come ogni grande corso d'acqua, richiede una comprensione profonda delle sue correnti, delle sue sorgenti e del suo destino. La sua architettura, basata su principi di efficienza e flessibilità, è un riflesso del Tao Te Ching: "Il saggio si muove con il flusso, non contro il flusso." (Citazione famosa pertinente all'argomento. — Lao Tzu).
 
-> Tutto ciò che può essere digitalizzato verrà digitalizzato. — Nicholas Negroponte.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -120,8 +121,10 @@ La ₅G è un'opportunità per creare un mondo più connesso, intelligente e sos
 
 
 
+
 ## Fonti
 
 - [5G](https://en.wikipedia.org/wiki/5G)
 - [5G](https://grokipedia.com/page/5G)
 - [5G | Definition, Speed, Benefits, Health Concerns, & Conspiracy ...](https://www.britannica.com/topic/5G)
+- [5G](https://sim-unlock.net/foto/11_28_38_22b367ef-1d46-45e6-8760.jpg)

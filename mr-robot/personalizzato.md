@@ -1,6 +1,7 @@
 # Mr. Robot: Un'Analisi del Caos e del Controllo
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 Mr. Robot non è solo un thriller tecnologico; è una lente deformante attraverso cui osservare la fragilità del controllo, l'ossessione per la sicurezza e il paradosso della connessione in un mondo sempre più interconnesso. La serie, nella sua rappresentazione cruda dell'hacking e della psiche di Elliot Alderson, offre spunti sorprendentemente pratici per chiunque lavori nel campo della cybersecurity, del management del rischio o, in generale, in ambienti ad alta pressione.
@@ -28,6 +29,7 @@ Dipende dal caso d'uso: in genere il valore sta nel rapporto tra prestazioni, co
 
 ### Quali limiti devo considerare su Mr. Robot: Un’analisi psicologica di un’anima digitale?
 Prima di adottarlo valuta limiti tecnici, lock-in, costi nel tempo e qualita del supporto/documentazione.
+
 
 ## Fonti
 
