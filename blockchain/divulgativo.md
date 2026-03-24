@@ -1,6 +1,8 @@
 # Blockchain: la catena di fiducia
 
-> Blockchain è la tecnologia. Bitcoin è meramente la prima manifestazione. — Marc Andreessen.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
+
 
 
 
@@ -68,6 +70,8 @@ Ma la blockchain non è solo tecnologia. È un cambiamento di paradigma, un modo
 Nonostante il suo potenziale, la blockchain è ancora in fase di sviluppo. Ci sono sfide da affrontare, come la scalabilità (la capacità di gestire un gran numero di transazioni) e la regolamentazione. Tuttavia, la blockchain rappresenta un passo importante verso un futuro più trasparente, sicuro e decentralizzato.
 
 ![blockchain](https://emilyandblair.com/wp-content/uploads/2022/12/blockchain.jpg)
+
+
 
 
 

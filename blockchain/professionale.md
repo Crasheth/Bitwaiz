@@ -1,6 +1,8 @@
 # Blockchain: Una Panoramica Tecnica
 
-> Blockchain è la tecnologia. Bitcoin è meramente la prima manifestazione. — Marc Andreessen.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
+
 
 
 
@@ -63,6 +65,8 @@ Ecco i punti chiave:
 *   **Consenso:** I partecipanti alla rete utilizzano meccanismi di consenso per validare le transazioni e aggiungere nuovi blocchi alla catena.
 
 La tecnologia blockchain ha il potenziale per trasformare settori come la finanza, la logistica, la sanità e il voto elettronico. Sebbene sia ancora una tecnologia emergente, la sua crescente adozione e i continui sviluppi promettono di ridefinire il modo in cui conduciamo affari e interagiamo nel mondo digitale.
+
+
 
 
 

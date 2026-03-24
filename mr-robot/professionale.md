@@ -1,0 +1,29 @@
+# Mr. Robot: Analisi di una Serie Televisiva Psicologica
+
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
+
+
+
+La serie televisiva "Mr. Robot", creata da Sam Esmail e trasmessa su USA Network, è un thriller psicologico che esplora temi complessi come l'ansia sociale, la depressione, il disturbo dissociativo dell'identità e la disillusione nei confronti delle istituzioni. La serie segue le vicende di Elliot Alderson, un giovane informatico con una vita segreta: è un hacker che fa parte di fsociety, un gruppo di attivisti che si propone di rovesciare le grandi corporazioni attraverso attacchi informatici. L'opera si distingue per la sua narrazione non lineare, l'uso innovativo della cinematografia e la profondità psicologica dei suoi personaggi.
+
+Le azioni operative principali della serie ruotano attorno alla missione di fsociety di eliminare il debito da tutti i conti bancari, un gesto simbolico di ribellione contro il sistema finanziario globale. Questa ambizione è guidata da una visione radicale di Elliot, che vede il mondo come corrotto e necessita di una profonda trasformazione. La serie esplora le conseguenze di questa visione, mettendo in luce le sfide morali e psicologiche che Elliot e i suoi compagni affrontano. La trama è intrecciata con elementi di suspense, azione e dramma psicologico, creando un'esperienza coinvolgente e stimolante per lo spettatore.
+
+I punti chiave che caratterizzano "Mr. Robot" includono:
+
+*   **Narrazione non lineare:** La serie utilizza flashback, sogni e alterazioni della realtà per creare una narrazione complessa e sfaccettata, riflettendo la mente frammentata di Elliot.
+*   **Cinematografia innovativa:** L'uso di angolazioni insolite, movimenti di macchina fluidi e effetti visivi crea un'atmosfera tesa e claustrofobica, amplificando l'impatto emotivo della storia.
+*   **Sviluppo dei personaggi:** I personaggi della serie sono profondamente complessi e sfaccettati, con motivazioni ambigue e conflitti interiori che li rendono realistici e credibili.
+*   **Temi sociali:** La serie affronta temi importanti come la disuguaglianza economica, la sorveglianza governativa e l'impatto della tecnologia sulla società.
+
+"Mr. Robot" ha ottenuto un vasto successo di critica e di pubblico, grazie alla sua originalità, alla sua qualità tecnica e alla sua capacità di suscitare riflessioni profonde. La serie ha contribuito a consolidare la reputazione di Sam Esmail come uno dei registi più innovativi e talentuosi della televisione contemporanea.
+
+
+
+
+## Fonti
+
+- [Mr robot](https://en.wikipedia.org/wiki/Mr_robot)
+- [Mr. Robot - Wikipedia](https://en.wikipedia.org/wiki/Mr._Robot)
+- [List of Mr. Robot episodes - Wikipedia](https://en.wikipedia.org/wiki/List_of_Mr._Robot_episodes)
+- [Mr. Robot (video game)](https://grokipedia.com/page/mr_robot_video_game)
