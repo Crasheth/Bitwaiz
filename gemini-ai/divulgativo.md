@@ -1,6 +1,7 @@
 # porcelana # Gemini: il nuovo gigante dell'IA di Google
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
 
 
 
@@ -76,6 +77,7 @@ Attualmente, Google offre diverse opzioni di abbonamento per Gemini, tra cui un 
 
 ### Come posso accedere a Gemini?
 Puoi accedere a Gemini tramite il sito web ufficiale di Google AI ([https://gemini.google/it/subscriptions/?hl=it](https://gemini.google/it/subscriptions/?hl=it)) o tramite l'app mobile di Google.
+
 
 
 

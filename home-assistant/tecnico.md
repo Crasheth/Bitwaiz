@@ -1,6 +1,7 @@
 # laine_Assistant # Home Assistant: Il Potente Sistema Open Source per la Domotica
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
 
 
 
@@ -64,6 +65,7 @@ Ecco i punti chiave di Home Assistant:
 *   **Hardware Versatile:** Home Assistant può essere installato su una vasta gamma di hardware, dai Raspberry Pi economici ai server dedicati. Questa flessibilità consente di adattare la soluzione alle proprie esigenze e al proprio budget.
 
 L'installazione di Home Assistant richiede un po' di impegno iniziale, soprattutto per chi non ha familiarità con il mondo Linux e la configurazione di sistemi domotici. Tuttavia, la sua flessibilità e le numerose risorse disponibili online lo rendono una scelta eccellente per chi desidera assumere il pieno controllo della propria casa intelligente. La sua natura open source e la sua comunità attiva garantiscono un futuro promettente per questo potente sistema.
+
 
 
 
