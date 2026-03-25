@@ -1,0 +1,49 @@
+# NIST Cybersecurity Framework
+
+> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+
+
+
+
+Il NIST Cybersecurity Framework (CSF) è un'iniziativa del National Institute of Standards and Technology (NIST) degli Stati Uniti, nato per aiutare organizzazioni di tutte le dimensioni e settori a gestire i rischi informatici in modo più efficace. In parole povere, si tratta di un insieme di linee guida e best practice che aiutano a strutturare la gestione della sicurezza, rendendola più chiara e applicabile. Ma a cosa serve esattamente e perché è così importante?
+
+Il CSF nasce dalla necessità di fornire un approccio standardizzato alla sicurezza informatica, superando la frammentazione di standard e linee guida esistenti. Non impone regole rigide, ma offre un framework flessibile che può essere adattato alle specifiche esigenze di ogni organizzazione. Il framework si basa su due componenti principali: il *Core* e il *Supplements*. Il *Core* definisce cinque funzioni di sicurezza fondamentali: Identità (Identify), Protezione (Protect), Rilevamento (Detect), Risposta (Respond) e Ripristino (Recover). Il *Supplements* fornisce indicazioni più specifiche su come implementare queste funzioni, tenendo conto di fattori come il rischio, la conformità normativa e le caratteristiche dell’organizzazione.
+
+Il CSF si è rapidamente diffuso a livello globale, diventando un punto di riferimento per le aziende, le pubbliche amministrazioni e le organizzazioni non profit. La sua natura volontaria e il suo approccio basato sul rischio lo rendono particolarmente adatto a contesti in cui le risorse sono limitate e la complessità delle minacce informatiche è in continua crescita. Il framework aiuta a concentrare gli sforzi di sicurezza sulle aree più critiche, migliorando l’efficacia delle misure di protezione e riducendo il rischio di incidenti informatici.
+
+
+## Domande Frequenti
+
+### Cosa è il NIST Cybersecurity Framework?
+
+Il NIST Cybersecurity Framework (CSF) è un quadro di riferimento volontario per la gestione del rischio di cybersecurity, sviluppato dal NIST, che fornisce un approccio flessibile per aiutare le organizzazioni a migliorare la propria postura di sicurezza e ridurre i rischi.
+
+### Quali sono i cinque corridoi del CSF?
+
+I cinque corridoi del CSF sono: Funzionale, Rischio e Singoli Tassi. Ogni corridoio fornisce un livello diverso di dettaglio e supporto per la gestione del rischio di cybersecurity.
+
+### Come posso implementare il CSF nella mia organizzazione?
+
+L'implementazione del CSF prevede la valutazione delle proprie esigenze di sicurezza, la selezione delle funzioni e dei corridoi appropriati e l'implementazione di controlli di sicurezza per mitigare i rischi identificati.
+
+### Qual è la differenza tra il CSF e altri framework di sicurezza?
+
+Il CSF è unico per la sua natura volontaria, adattabile e orientata al rischio. A differenza di altri framework, non impone standard obbligatori, ma fornisce un quadro di riferimento flessibile per la gestione del rischio di cybersecurity.
+
+### Qual è l'importanza del CSF per le piccole e medie imprese (PMI)?
+
+Il CSF è particolarmente importante per le PMI, che spesso hanno risorse limitate per la sicurezza informatica. Il framework fornisce un approccio pratico e orientato al rischio per aiutare le PMI a proteggere i propri asset digitali e a ridurre i rischi.
+
+## Vedi anche
+
+*   **Threat Intelligence:** La raccolta e l'analisi di informazioni sulle minacce informatiche per migliorare la consapevolezza e la capacità di risposta.
+*   **Security Orchestration, Automation and Response (SOAR):**  Soluzioni che automatizzano e orchestrano le attività di sicurezza per migliorare l'efficienza e la reattività.
+*   **MisP (MITRE ATT&CK):** Un knowledge base che descrive le tattiche e le tecniche utilizzate dagli aggressori informatici.
+
+
+## Fonti
+
+- [NIST Cybersecurity Framework](https://en.wikipedia.org/wiki/NIST_Cybersecurity_Framework)
+- [NIST Cybersecurity Framework](https://grokipedia.com/page/NIST_Cybersecurity_Framework)
+- [Cybersecurity Framework | NIST](https://www.nist.gov/cyberframework)
+- [The NIST Cybersecurity Framework (CSF) 2](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)

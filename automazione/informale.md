@@ -1,6 +1,8 @@
 # Automazione
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La tecnologia migliore è quella che scompare. — Mark Weiser.
+
+
 
 
 
@@ -80,6 +82,8 @@ Ecco alcuni punti chiave sull'automazione:
 
 
 ![automazione](https://www.kablator.com/wp-content/uploads/2024/03/Automazione-robotica-industriale-Kablator.png)
+
+
 
 
 

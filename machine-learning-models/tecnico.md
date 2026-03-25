@@ -1,6 +1,8 @@
 # Machine Learning Models
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
+
 
 
 
@@ -66,6 +68,8 @@ I modelli di machine learning possono essere classificati in diverse categorie, 
 La scelta del modello di machine learning appropriato dipende dal tipo di dati, dal problema da risolvere e dagli obiettivi specifici. La valutazione delle prestazioni del modello è fondamentale per garantire che il modello sia accurato e affidabile.
 
 La comprensione dei modelli di machine learning è fondamentale per chiunque lavori con dati e cerchi di estrarre informazioni utili. Con la continua evoluzione del campo, nuovi modelli e tecniche emergono costantemente, ampliando le possibilità di applicazione del machine learning in diversi settori.
+
+
 
 
 

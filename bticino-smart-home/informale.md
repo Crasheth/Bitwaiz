@@ -1,6 +1,8 @@
 # <unused1053>τίτο: Smart Home con BTicino: la casa connessa che fa per te
 
-> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
+
 
 
 
@@ -67,6 +69,8 @@ Stai pensando di trasformare la tua casa in un ambiente intelligente? Con BTicin
 BTicino offre una vasta gamma di prodotti per la smart home, dai sistemi di illuminazione intelligenti ai termostati connessi, fino ai sistemi di sicurezza avanzati. Puoi creare la tua soluzione personalizzata in base alle tue esigenze e al tuo budget. E con l’app Home + Project, la gestione della tua casa intelligente è sempre a portata di mano.
 
 Sei pronto a vivere la comodità e l'efficienza di una smart home? Scopri di più sui prodotti BTicino e inizia a creare la casa del futuro oggi stesso!
+
+
 
 
 
