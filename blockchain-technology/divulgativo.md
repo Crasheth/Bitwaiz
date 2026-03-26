@@ -35,6 +35,7 @@
 
 
 
+
 La blockchain, in sostanza, è un modo rivoluzionario di gestire informazioni. Immaginate un libro mastro digitale, condiviso tra molte persone, dove ogni aggiunta è verificata e registrata in modo permanente e trasparente. Non è un singolo libro, ma una catena di "blocchi" collegati tra loro, da cui il nome. Ogni blocco contiene dati (come transazioni finanziarie, informazioni mediche, o anche voti elettorali) e un "impronta digitale" univoca, il "hash", che lo lega al blocco precedente. Se qualcuno tentasse di modificare anche una singola informazione in un blocco, l'hash cambierebbe, e tutti gli altri blocchi della catena diventerebbero invalidi, rendendo la manomissione praticamente impossibile.
 
 Ecco come funziona in pratica:
@@ -48,6 +49,7 @@ Il concetto è simile al principio buddista del "non-attaccamento": una volta ch
 
 
 ![blockchain technology](https://static.vecteezy.com/system/resources/previews/011/494/437/original/blockchain-technology-isometric-flat-illustration-concept-hi-tech-block-chain-data-structure-visualization-vector.jpg)
+
 
 
 

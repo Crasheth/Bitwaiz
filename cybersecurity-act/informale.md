@@ -17,6 +17,7 @@
 
 
 
+
 Questo articolo spiega in modo accessibile l'AI Act dell'UE, concentrandosi sulle implicazioni per le aziende e i professionisti IT. Affronteremo la definizione di AI Act, i suoi requisiti chiave e l'impatto previsto sull'innovazione e sulla conformità. Imparerai come l'AI Act cambierà il modo in cui sviluppi, distribuisci e utilizzi i sistemi di IA.
 
 
@@ -45,6 +46,7 @@ Secondo le fonti, il CISA prevede la creazione di un'agenzia governativa (Cyber 
 ## Vedi anche
 
 *   EU Cybersecurity Act | Shaping Europe’s digital future
+
 
 
 
