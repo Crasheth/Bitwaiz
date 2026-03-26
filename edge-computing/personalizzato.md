@@ -66,6 +66,7 @@
 
 
 
+
 Edge computing, secondo le fonti, non è semplicemente un'evoluzione tecnologica, ma un nuovo paradigma computazionale. Immaginate un fiume: i dati, come l'acqua, fluiscono da diverse sorgenti – sensori, dispositivi mobili, macchinari industriali – verso un punto di raccolta centrale (il cloud). Edge computing, invece, crea dei piccoli canali, dei rami che si diramano lungo il corso del fiume, avvicinando la potenza di calcolo e l'archiviazione ai punti di origine. Questo non è solo per ridurre la latenza, ma per seguire il flusso naturale del Tao, l'armonia dell'universo, dove ogni azione e reazione sono interconnesse.
 
 Il concetto chiave è la decentralizzazione. Invece di inviare tutti i dati grezzi al cloud per l'analisi, l'elaborazione avviene localmente, vicino alla fonte. Questo significa che i dispositivi possono prendere decisioni in tempo reale, come un monaco che medita, basandosi su dati contestuali, senza dover attendere il ritardo di una trasmissione a lunga distanza.  Questo approccio non è solo più efficiente dal punto di vista della rete, ma anche più resiliente. Se la connessione al cloud si interrompe, il dispositivo continua a funzionare, come un fiume che trova sempre un percorso verso il mare.  La gestione di questa rete distribuita, come l'allenamento di un monaco, richiede un'attenta comprensione del flusso dei dati e delle interdipendenze.
@@ -82,6 +83,7 @@ L'applicazione di edge computing si estende a una vasta gamma di settori, dall'a
 
 
 ![edge computing](https://lh4.googleusercontent.com/hJjupTvL1O7AanqsJFLpkVFYmDdEjYnUfYwQtM4xWfWgeIYpZcYwyWuDciOygaDqlJNwqeHi8tHlAEWezqUaEmB8ZOHzxms_26cp9A223aVnTOOc3oZVkMxU0nNKiyqvfIxDbsHU)
+
 
 
 

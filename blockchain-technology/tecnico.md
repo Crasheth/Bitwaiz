@@ -1,6 +1,7 @@
 # Blockchain: เทคโนโลยีพื้นฐานสำหรับการจัดเก็บข้อมูลแบบกระจายศูนย์
 
-> Il denaro è uno strumento che ci permette di ottenere ciò che vogliamo. — Naval Ravikant.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
 
 
 
@@ -55,6 +56,7 @@ La blockchain è un registro digitale, immutabile e distribuito che registra le 
 
 
 ![blockchain technology](https://static.vecteezy.com/system/resources/previews/011/494/437/original/blockchain-technology-isometric-flat-illustration-concept-hi-tech-block-chain-data-structure-visualization-vector.jpg)
+
 
 
 

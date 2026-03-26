@@ -2,10 +2,12 @@ let inMemory = [];
 
 exports.handler = async function(event) {
   let store = null;
+  let storeReady = false;
   try {
     const blobs = require("@netlify/blobs");
     if (blobs && typeof blobs.getStore === "function") {
       store = blobs.getStore("bmc-supporters");
+      storeReady = true;
     }
   } catch (_) {}
 
@@ -34,7 +36,7 @@ exports.handler = async function(event) {
     return {
       statusCode: 200,
       headers: { "content-type": "application/json" },
-      body: JSON.stringify({ ok: true, endpoint: "bmc-webhook", method: "GET", items }),
+      body: JSON.stringify({ ok: true, endpoint: "bmc-webhook", method: "GET", items, store: storeReady ? "blobs" : "memory" }),
     };
   }
   if (event.httpMethod !== "POST") {
@@ -98,6 +100,6 @@ exports.handler = async function(event) {
   return {
     statusCode: 200,
     headers: { "content-type": "application/json" },
-    body: JSON.stringify({ ok: true, received: true, stored: !!message }),
+    body: JSON.stringify({ ok: true, received: true, stored: !!message, store: storeReady ? "blobs" : "memory" }),
   };
 };
