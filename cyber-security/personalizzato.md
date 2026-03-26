@@ -1,6 +1,7 @@
 # La Sicurezza Informatica come Culto Familiare
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 
 ## La Sicurezza Informatica come Culto Familiare
@@ -46,6 +47,7 @@ Per migliorare la sicurezza delle tue informazioni, dovresti implementare una se
 *   Conformità normativa
 *   Sicurezza delle reti
 *   Sicurezza delle applicazioni
+
 
 
 

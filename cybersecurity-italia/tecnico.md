@@ -1,6 +1,7 @@
 # Italia: Un Ecosistema Cybersecurity in Crescita ma Ancora Fragile
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
 
 
 
@@ -64,6 +65,7 @@ L’Italia, supportata da eventi come l’ItaliaSec Cyber Summit, sta gradualmen
 
 
 ![cybersecurity italia](https://www.cybersecitalia.it/wp-content/uploads/2022/03/cybersec2022-prima-edizione.jpg)
+
 
 
 

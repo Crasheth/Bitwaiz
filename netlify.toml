@@ -3,6 +3,9 @@
   publish = "."
   # Nessun command: il pipeline genera i file prima del push
 
+[functions]
+  directory = "netlify/functions"
+
 # Feed e sitemap con Content-Type espliciti (lettori RSS / validatori / tool esterni)
 [[headers]]
   for = "/feed.xml"
@@ -14,3 +17,8 @@
   for = "/sitemap.xml"
   [headers.values]
     Content-Type = "application/xml; charset=UTF-8"
+
+[[redirects]]
+  from = "/webhooks/buymeacoffee"
+  to = "/.netlify/functions/bmc-webhook"
+  status = 200

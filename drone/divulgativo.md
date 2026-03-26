@@ -1,6 +1,7 @@
 # Spy Drone
 
-> La tecnologia migliore è quella che scompare. — Mark Weiser.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -75,6 +76,7 @@ Ecco alcuni punti chiave sull’evoluzione e le applicazioni dei droni:
     *   **Fotografia e videografia:** Per la realizzazione di riprese aeree di alta qualità per film, documentari, matrimoni e altri eventi.
 *   **Sfide e regolamentazione:** L’uso diffuso dei droni solleva anche alcune sfide, come la sicurezza, la privacy e il controllo del traffico aereo. Per questo motivo, le normative sull’uso dei droni sono in continua evoluzione, con l’obiettivo di garantire un utilizzo sicuro e responsabile di questa tecnologia.
 *   **Il futuro dei droni:** Il futuro dei droni è promettente, con lo sviluppo di droni sempre più autonomi, intelligenti e versatili. Si prevede che i droni giocheranno un ruolo sempre più importante in una vasta gamma di settori, contribuendo a migliorare la nostra vita quotidiana e a risolvere alcune delle sfide globali.
+
 
 
 
