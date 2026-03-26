@@ -1,6 +1,7 @@
 # Automazione
 
-> La tecnologia migliore è quella che scompare. — Mark Weiser.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
 
 
 
@@ -95,6 +96,7 @@ Ecco alcuni punti chiave sull'automazione:
 
 
 ![automazione](https://www.kablator.com/wp-content/uploads/2024/03/Automazione-robotica-industriale-Kablator.png)
+
 
 
 

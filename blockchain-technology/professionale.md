@@ -30,6 +30,7 @@
 
 
 
+
 La tecnologia blockchain rappresenta un'innovazione significativa nel campo della gestione dei dati e delle transazioni. In sostanza, si tratta di un registro digitale distribuito, immutabile e trasparente, che consente di verificare e validare le informazioni senza la necessità di un'autorità centrale. Questo approccio rivoluzionario ha implicazioni di vasta portata in diversi settori, dalla finanza alla supply chain, alla sanità e oltre.
 
 Il funzionamento di una blockchain si basa su una serie di blocchi interconnessi, ognuno dei quali contiene un insieme di transazioni, un timestamp e un hash crittografico del blocco precedente. Questa struttura a catena rende estremamente difficile alterare i dati, in quanto qualsiasi modifica a un blocco richiederebbe la modifica di tutti i blocchi successivi, un'operazione computazionalmente complessa e, in una rete distribuita, praticamente impossibile da realizzare senza il consenso della maggioranza dei nodi. I nodi, o partecipanti, nella rete blockchain verificano e convalidano le transazioni, garantendo l’integrità del registro.
@@ -42,6 +43,7 @@ Le principali azioni operative associate alla tecnologia blockchain includono:
 *   **Consenso distribuito:** I nodi raggiungono un consenso sulla validità delle transazioni e sull'ordine dei blocchi, garantendo l'affidabilità del registro.
 
 La sicurezza e la trasparenza offerte dalla blockchain la rendono particolarmente adatta a scenari in cui è fondamentale la fiducia e la verifica indipendente.  Nonostante le sue potenzialità, è importante notare che la tecnologia blockchain è ancora in fase di sviluppo e presenta sfide come la scalabilità, la regolamentazione e l'adozione di massa.
+
 
 
 

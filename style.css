@@ -821,6 +821,25 @@ h3 { font-size: 1.25rem; }
   opacity: 0.92;
 }
 
+/* Brevo honeypot anti-bot: deve restare invisibile */
+.brevo-newsletter input.input--hidden,
+.brevo-newsletter input[name="email_address_check"] {
+  display: none !important;
+  visibility: hidden !important;
+  width: 0 !important;
+  height: 0 !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+  position: absolute !important;
+  left: -9999px !important;
+}
+
+/* Icona loader Brevo nel bottone: nascondila in stato normale */
+.brevo-newsletter .brevo-submit-btn .sib-hide-loader-icon,
+.brevo-newsletter .brevo-submit-btn .progress-indicator__icon {
+  display: none !important;
+}
+
 .brevo-newsletter .brevo-legal p {
   font-size: 0.8rem !important;
   line-height: 1.5;
