@@ -1,6 +1,7 @@
 # 5G: Un'Analisi Tecnica delle Nuove Generazioni di Reti Mobili
 
-> Il cloud è solo il computer di qualcun altro. — Variante di Larry Ellison.
+> Tutto ciò che può essere digitalizzato verrà digitalizzato. — Nicholas Negroponte.
+
 
 
 
@@ -73,6 +74,7 @@
 Il 5G si distingue per un aumento esponenziale delle velocità di picco, raggiungendo fino a 20 gigabit al secondo (Gbps) nel downlink e 10 Gbps nell'uplink, rispetto ai 100 Mbps e 50 Mbps tipici del 4G. Questo si traduce in una maggiore capacità di trasmissione dati, ideale per applicazioni ad alta intensità di banda come la realtà virtuale (VR), la realtà aumentata (AR) e lo streaming video in 8K.  Inoltre, il 5G garantisce una latenza estremamente bassa, inferiore a 1 millisecondo, fondamentale per applicazioni in tempo reale come il controllo remoto di macchinari industriali, la chirurgia a distanza e i veicoli autonomi. Infine, il 5G abilita la connessione di un numero massiccio di dispositivi IoT (Internet of Things), supportando fino a un milione di dispositivi per chilometro quadrato, aprendo nuove opportunità per l'automazione domestica, l'industria 4.0 e la gestione intelligente delle città.
 
 Le specifiche tecniche del 5G definiscono KPI (Key Performance Indicators) rigorosi, tra cui velocità di picco, velocità effettive, efficienza spettrale e mobilità. Questi parametri, derivati da modelli di simulazione e test empirici, assicurano che il 5G possa gestire carichi di lavoro diversi e dinamici. Le tecnologie alla base del 5G includono: Massive MIMO (Multiple-Input Multiple-Output), che aumenta la capacità e l'efficienza della rete; beamforming, che concentra il segnale su un utente specifico; e network slicing, che consente di creare reti virtuali dedicate per applicazioni specifiche. L'implementazione del 5G si basa su un'architettura di rete avanzata, che integra reti cellulari, reti private 5G e reti wireless ad alta frequenza (mmWave) per fornire una copertura e prestazioni ottimali.
+
 
 
 

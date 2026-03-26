@@ -1,6 +1,7 @@
 # Home Assistant: Il Centro di Controllo Domotico che Rivoluziona la Tua Casa
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
 
 
 
@@ -80,6 +81,7 @@ L'installazione di Home Assistant è relativamente semplice, anche per chi non h
 **Perché Scegliere Home Assistant?**
 
 Home Assistant rappresenta una scelta eccellente per chiunque desideri trasformare la propria casa in un ambiente intelligente e connesso. La sua flessibilità, compatibilità universale e comunità attiva lo rendono una soluzione adatta a tutti i gusti e le esigenze.
+
 
 
 

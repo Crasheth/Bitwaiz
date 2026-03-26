@@ -31,7 +31,6 @@
   <p>"Tesoro condiviso non si esaurisce" — Tao Te Ching</p>
   <div id="bmc-widget"><script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="crasheth" data-color="#FFDD00" data-emoji="💪" data-font="Cookie" data-text="Sostieni il progetto!" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff"></script></div>
   <section class="supporters-wall"><h3>Messaggi dei supporter</h3><ul><li><strong>TFireH</strong>: Un piccolo supporto per questo nuovo progetto, per chi sa rendere la curiosita contagiosa e accessibile</li></ul></section>
-  <div id="supporters-live-home"></div>
 </section>
   <section class="section" id="about">
   <div class="about">
@@ -158,30 +157,6 @@
       });
       applyFilters();
 
-      // Supporters wall live da Netlify Function (homepage)
-      (async () => {
-        try {
-          const r = await fetch('/.netlify/functions/bmc-webhook', { method: 'GET' });
-          if (!r.ok) return;
-          const data = await r.json();
-          const items = Array.isArray(data?.items) ? data.items.slice(0, 6) : [];
-          if (!items.length) return;
-          const esc = (s) => String(s ?? '')
-            .replaceAll('&', '&amp;')
-            .replaceAll('<', '&lt;')
-            .replaceAll('>', '&gt;');
-          const lis = items.map((it) => {
-            const n = esc(it.name || 'Supporter');
-            const m = esc(it.message || '').trim();
-            if (!m) return '';
-            return `<li><strong>${n}</strong>: ${m}</li>`;
-          }).filter(Boolean).join('');
-          if (!lis) return;
-          const html = `<section class="supporters-wall"><h3>Messaggi dei supporter</h3><ul>${lis}</ul></section>`;
-          const mount = document.getElementById('supporters-live-home');
-          if (mount) mount.innerHTML = html;
-        } catch (_) {}
-      })();
     })();
   </script>
 

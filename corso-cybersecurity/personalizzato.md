@@ -1,6 +1,7 @@
 # Legami e quotidianità nella sicurezza informatica
 
-> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
 
 
 
@@ -66,6 +67,7 @@ Secondo le fonti, le prospettive di lavoro nel cybersecurity sono estremamente p
 
 *   [Sicurezza informatica per IT e manager](https://www.bbs.unibo.it/open-program/cybersecurity-management/)
 *   [Cyber Threat Intelligence](https://www.coursera.org/courses?query=cyber%20threat%20intelligence)
+
 
 
 
