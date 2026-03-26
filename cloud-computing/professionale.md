@@ -65,6 +65,7 @@
 
 
 
+
 Il cloud computing, come un fiume che si ramifica in miriadi di corsi d'acqua, rappresenta un paradigma rivoluzionario nel modo in cui utilizziamo l'informatica. Invece di affidarci a macchine fisiche, spesso complesse e costose, accediamo a risorse di calcolo, storage e applicazioni tramite una rete, il cosiddetto "cloud". Questo approccio, come un'onda che si propaga, offre flessibilità, scalabilità e un'efficienza senza precedenti, trasformando il panorama digitale.
 
 Il concetto chiave è la fornitura di servizi informatici on-demand, gestiti da terzi, come Amazon Web Services, Microsoft Azure o Google Cloud. Questi servizi, come un giardino zen, sono progettati per essere accessibili quando e dove ne abbiamo bisogno, eliminando la necessità di gestire infrastrutture complesse.  I cinque pilastri fondamentali del cloud computing, definiti dal National Institute of Standards and Technology (NIST), sono: on-demand self-service, ampia rete accessibile, risorse virtualizzate e flessibili, gestione mediata dalla rete e modello di servizio basato su pay-per-use.  Ogni elemento contribuisce a creare un ecosistema dinamico e adattabile, simile a un organismo vivente che si adatta alle mutevoli esigenze.
@@ -81,6 +82,7 @@ Il cloud computing non è solo una tecnologia; è un cambiamento di mentalità, 
 
 
 ![cloud computing](https://www.intellectsoft.net/blog/wp-content/uploads/3-9-1024x868.png)
+
 
 
 

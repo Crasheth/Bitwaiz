@@ -1,6 +1,7 @@
 # Smart Home: Il Flusso del Tao nella Tua Casa Connessa
 
-> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 
 
@@ -76,6 +77,7 @@ La tecnologia, in questo contesto, non è un fine a sé stesso, ma un mezzo per 
 
 
 ![bticino smart home](https://professionisti.bticino.it/sites/default/files/2022-05/03_SMARTHOME_1.jpg)
+
 
 
 

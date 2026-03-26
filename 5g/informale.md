@@ -1,6 +1,7 @@
 # Introduzione alla 5G: Velocità, Connettività e il Futuro
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Tutto ciò che può essere digitalizzato verrà digitalizzato. — Nicholas Negroponte.
+
 
 
 
@@ -63,6 +64,7 @@ Secondo le fonti, la 5G supporterà l'automazione industriale, la robotica colla
 
 *   Internet of Things (IoT): [https://it.wikipedia.org/wiki/Internet_of_Things](https://it.wikipedia.org/wiki/Internet_of_Things)
 *   Network Slicing: [https://www.itu.int/en/ITU-D-Terminology/Glossary/Pages/network-slicing.aspx](https://www.itu.int/en/ITU-D-Terminology/Glossary/Pages/network-slicing.aspx)
+
 
 
 

@@ -63,6 +63,7 @@
 
 
 
+
 Yuki! # Internet delle cose: un'analisi tecnica
 
 Secondo le fonti, l’Internet delle cose (IoT) rappresenta un’evoluzione potenziale dell’uso della rete internet: gli oggetti – le “cose” – diventano riconoscibili e acquisiscono intelligenza grazie alla loro capacità di comunicare dati su se stessi e accedere a informazioni aggregate da parte di altri. Gli scopi e i campi di applicazione sono svariati, ad esempio, consente di fornire da una parte servizi agli utenti e dall’altra parte, quella delle enormi aziende che gestiscono la rete, la comoda possibilità di estrarre dati gratuitamente e dettagliatamente sugli utenti per fini predittivi sia commerciali che propagandistici. Tutti gli oggetti possono acquisire quindi un ruolo attivo grazie al collegamento alla rete internet.
@@ -72,6 +73,7 @@ Il concetto rappresenta una possibile evoluzione dell’uso della rete internet:
 I campi di applicabilità sono molteplici: dalle applicazioni industriali (processi produttivi), alla logistica e all’infomobilità, fino all’efficienza energetica, all’assistenza remota e alla tutela ambientale [12]. Le tecnologie abilitanti includono reti wireless (Wi-Fi, Bluetooth, Zigbee, LoRaWAN), sensori, dispositivi embedded, piattaforme IoT, servizi cloud e applicazioni mobili.  L'IoT si integra con altre tecnologie come l'analisi dei dati, il machine learning (ML) e l'intelligenza artificiale (AI) per creare soluzioni più intelligenti e automatizzate. Ad esempio, i sensori IoT possono raccogliere dati su temperatura, umidità, pressione, movimento e altri parametri, che vengono poi analizzati utilizzando algoritmi di ML per identificare tendenze, prevedere guasti o ottimizzare processi.  Inoltre, l'IoT è spesso combinato con la sicurezza informatica per proteggere i dispositivi e i dati connessi da minacce esterne.
 
 Secondo le fonti, i campi di applicazione sono svariati: dalle applicazioni industriali (processi produttivi), alla logistica e all’infomobilità, fino all’efficienza energetica, all’assistenza remota e alla tutela ambientale [12].  Un esempio concreto è l'utilizzo dell'IoT nella gestione intelligente degli edifici, dove i sensori monitorano la temperatura, l'illuminazione e l'umidità per ottimizzare il consumo energetico e migliorare il comfort degli occupanti.  Un altro esempio è l'uso dell'IoT nella produzione industriale, dove i sensori monitorano lo stato delle macchine e dei processi per prevenire guasti, ottimizzare la produzione e migliorare la qualità dei prodotti.
+
 
 
 
