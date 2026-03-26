@@ -69,6 +69,7 @@
 
 
 
+
 Il machine learning (ML) rappresenta un campo dell'intelligenza artificiale che permette ai sistemi di apprendere dai dati senza essere esplicitamente programmati. Invece di seguire istruzioni passo passo, i modelli di ML identificano schemi e fanno previsioni basate sui dati forniti. Questa capacità di apprendimento adattivo rende il ML fondamentale in una vasta gamma di applicazioni, dall'assistenza sanitaria alla finanza, passando per l'automazione industriale e la guida autonoma.
 
 Il cuore del machine learning risiede nei modelli, che sono algoritmi matematici che rappresentano la relazione tra input e output. Esistono diversi tipi di modelli, ognuno adatto a specifici tipi di problemi:
@@ -92,6 +93,7 @@ Le applicazioni del machine learning sono in continua espansione, guidate dalla 
 *   **Raccomandazione di prodotti:** Sistemi di raccomandazione utilizzati da piattaforme come Amazon e Netflix.
 *   **Rilevamento di frodi:** Identificazione di transazioni fraudolente in tempo reale.
 *   **Guida autonoma:** Sviluppo di veicoli in grado di guidare da soli.
+
 
 
 

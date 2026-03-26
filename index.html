@@ -5,6 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/png" href="favicon.png">
   <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://sibforms.com">
+  <link rel="preconnect" href="https://www.google.com">
+  <link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css" crossorigin="anonymous">
+  <link rel="stylesheet" href="brevo-sib-overrides.css">
   <title>BITWAIZ - Articoli su tecnologia e cybersecurity</title>
   <link rel="alternate" type="application/rss+xml" title="BITWAIZ" href="https://bitwaiz.it/feed.xml" />
   <script type="application/ld+json">
@@ -14,7 +18,7 @@
 <body>
   <nav class="nav">
   <a href="." class="logo">BITWAIZ</a>
-  <div class="nav-links"><a href="#home">Home</a><a href="#articoli">Articoli</a><a href="#about">Chi sono</a><a href="./feed.xml" class="nav-feed"><svg class="nav-feed-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false"><circle cx="6.18" cy="17.82" r="2.18" fill="currentColor"/><path fill="currentColor" d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.49-6.9-15.39-15.39-15.39zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/></svg><span>RSS</span></a><a href="./privacy.html">Privacy</a></div>
+  <div class="nav-links"><a href="#home">Home</a><a href="#articoli">Articoli</a><a href="#about">Chi sono</a><a href="#newsletter">Newsletter</a><a href="./feed.xml" class="nav-feed"><svg class="nav-feed-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false"><circle cx="6.18" cy="17.82" r="2.18" fill="currentColor"/><path fill="currentColor" d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.49-6.9-15.39-15.39-15.39zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/></svg><span>RSS</span></a><a href="./privacy.html">Privacy</a></div>
   <a href="mailto:info@bitwaiz.it" class="btn btn-primary">contattami</a>
 </nav>
   <header class="hero" id="home">
@@ -67,8 +71,123 @@
   <button type="button" class="page-btn" id="page-next">Successiva</button>
 </div>
   </section>
-  
-  
+  <aside class="flusso-cta" aria-label="Iscrizione newsletter">
+  <div class="flusso-cta-inner">
+    <p class="flusso-cta-text">Non sei ancora nel <span class="accent">flusso</span>? Unisciti: aggiornamenti sugli articoli, senza spam.</p>
+    <a href="#newsletter" class="btn btn-primary flusso-cta-btn">Entra nel flusso</a>
+  </div>
+</aside>
+  <section class="section brevo-newsletter" id="newsletter">
+  <div class="section-header">
+    <h2>Resta nel <span class="accent">flusso</span></h2>
+  </div>
+  <p class="hero-sub brevo-newsletter-intro">Novità sugli articoli BitWaiz: iscrizione volontaria, gestita in modo sicuro da Brevo.</p>
+  <div class="brevo-newsletter-inner">
+    <div class="sib-form">
+      <div id="sib-form-container" class="sib-form-container brevo-sib-form-container">
+        <div id="error-message" class="sib-form-message-panel brevo-msg brevo-msg--error">
+          <div class="sib-form-message-panel__text sib-form-message-panel__text--center">
+            <svg viewBox="0 0 512 512" class="sib-icon sib-notification__icon" aria-hidden="true">
+              <path d="M256 40c118.621 0 216 96.075 216 216 0 119.291-96.61 216-216 216-119.244 0-216-96.562-216-216 0-119.203 96.602-216 216-216m0-32C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm-11.49 120h22.979c6.823 0 12.274 5.682 11.99 12.5l-7 168c-.268 6.428-5.556 11.5-11.99 11.5h-8.979c-6.433 0-11.722-5.073-11.99-11.5l-7-168c-.283-6.818 5.167-12.5 11.99-12.5zM256 340c-15.464 0-28 12.536-28 28s12.536 28 28 28 28-12.536 28-28-12.536-28-28-28z" />
+            </svg>
+            <span class="sib-form-message-panel__inner-text">La tua iscrizione non può essere convalidata.</span>
+          </div>
+        </div>
+        <div class="brevo-sib-spacer" aria-hidden="true"></div>
+        <div id="success-message" class="sib-form-message-panel brevo-msg brevo-msg--ok">
+          <div class="sib-form-message-panel__text sib-form-message-panel__text--center">
+            <svg viewBox="0 0 512 512" class="sib-icon sib-notification__icon" aria-hidden="true">
+              <path d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 464c-118.664 0-216-96.055-216-216 0-118.663 96.055-216 216-216 118.664 0 216 96.055 216 216 0 118.663-96.055 216-216 216zm141.63-274.961L217.15 376.071c-4.705 4.667-12.303 4.637-16.97-.068l-85.878-86.572c-4.667-4.705-4.637-12.303.068-16.97l8.52-8.451c4.705-4.667 12.303-4.637 16.97.068l68.976 69.533 163.441-162.13c4.705-4.667 12.303-4.637 16.97.068l8.451 8.52c4.668 4.705 4.637 12.303-.068 16.97z" />
+            </svg>
+            <span class="sib-form-message-panel__inner-text">La tua iscrizione è avvenuta correttamente.</span>
+          </div>
+        </div>
+        <div class="brevo-sib-spacer" aria-hidden="true"></div>
+        <div id="sib-container" class="sib-container--large sib-container--vertical brevo-sib-card">
+          <form id="sib-form" method="POST" action="https://f903450a.sibforms.com/serve/MUIFANtmzs7vBdkaF9ZM0f0ycYc70qO5DlE8IHM3QiI_ktZLWCOqLa5EXvD9KuBCYWCJGUdZbjnLdQCTvO1dNY3BPzhwTd1HIdDWSljEKOlJa0k54D7eE59bJqX3C9NWMTgJq7zmRnH8uLJCuXzbH7jpn6KcuqDLjXqAVRG7tydqEd9dplQh3uvv-LJeZ53ZYAcy6saLmNs-mRj3NQ==" data-type="subscription">
+            <div class="sib-padding-block">
+              <div class="sib-form-block brevo-form-title">
+                <p>Unisciti al Flusso!</p>
+              </div>
+            </div>
+            <div class="sib-padding-block">
+              <div class="sib-form-block brevo-form-subtitle">
+                <div class="sib-text-form-block">
+                  <p>Unisciti al Flusso Bitwaiz!</p>
+                </div>
+              </div>
+            </div>
+            <div class="sib-padding-block">
+              <div class="sib-input sib-form-block">
+                <div class="form__entry entry_block">
+                  <div class="form__label-row">
+                    <label class="entry__label brevo-label" for="EMAIL" data-required="*">Inserisci il tuo indirizzo email per iscriverti</label>
+                    <div class="entry__field">
+                      <input class="input brevo-input" type="text" id="EMAIL" name="EMAIL" autocomplete="email" placeholder="nome@esempio.it" data-required="true" required />
+                    </div>
+                  </div>
+                  <label class="entry__error entry__error--primary brevo-error-label"></label>
+                  <label class="entry__specification brevo-hint">Indica il tuo indirizzo email per iscriverti.</label>
+                </div>
+              </div>
+            </div>
+            <div class="sib-padding-block">
+              <div class="sib-optin sib-form-block" data-required="true">
+                <div class="form__entry entry_mcq">
+                  <div class="form__label-row">
+                    <label class="entry__label brevo-label" for="OPT_IN" data-required="*">Conferma</label>
+                    <div class="entry__choice">
+                      <label class="brevo-checkbox-label">
+                        <input type="checkbox" class="input_replaced" value="1" id="OPT_IN" name="OPT_IN" required />
+                        <span class="checkbox checkbox_tick_positive brevo-checkbox-ui"></span>
+                        <span class="brevo-checkbox-text">Accetto le <a href="./privacy.html">condizioni sulla privacy</a> e di ricevere le newsletter.</span>
+                      </label>
+                    </div>
+                  </div>
+                  <label class="entry__error entry__error--primary brevo-error-label"></label>
+                  <label class="entry__specification brevo-hint">Puoi annullare l'iscrizione in qualsiasi momento utilizzando il link incluso nella newsletter.</label>
+                </div>
+              </div>
+            </div>
+            <div class="sib-padding-block">
+              <div class="sib-captcha sib-form-block">
+                <div class="form__entry entry_block">
+                  <div class="form__label-row">
+                    <script>
+                      function handleCaptchaResponse() {
+                        var ev = new Event('captchaChange');
+                        document.getElementById('sib-captcha').dispatchEvent(ev);
+                      }
+                    </script>
+                    <div class="g-recaptcha sib-visible-recaptcha" id="sib-captcha" data-sitekey="6LfDRpksAAAAAN86Em2yZGJ-AhuWsmsgI5rMfsN9" data-callback="handleCaptchaResponse" data-theme="dark"></div>
+                  </div>
+                  <label class="entry__error entry__error--primary brevo-error-label"></label>
+                </div>
+              </div>
+            </div>
+            <div class="sib-padding-block">
+              <div class="sib-form-block" style="text-align: center">
+                <button class="sib-form-block__button sib-form-block__button-with-loader brevo-submit-btn" form="sib-form" type="submit">
+                  <svg class="icon clickable__icon progress-indicator__icon sib-hide-loader-icon" viewBox="0 0 512 512" aria-hidden="true">
+                    <path d="M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z" />
+                  </svg>
+                  Iscriviti
+                </button>
+              </div>
+            </div>
+            <div class="sib-padding-block brevo-legal">
+              <div class="sib-form__declaration">
+                <p>Utilizziamo <strong>Brevo</strong> come piattaforma di marketing. Inviando il modulo accetti il trasferimento dei dati a Brevo secondo la loro <a href="https://www.brevo.com/it/legal/privacypolicy/" target="_blank" rel="noopener noreferrer">informativa sulla privacy</a>.</p>
+              </div>
+            </div>
+            <input type="text" name="email_address_check" value="" class="input--hidden" tabindex="-1" autocomplete="off" aria-hidden="true">
+            <input type="hidden" name="locale" value="it">
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
   <footer class="footer">
     <p>© 2026 BITWAIZ — Be Patient, But With Persistence</p>
   </footer>
@@ -159,6 +278,23 @@
 
     })();
   </script>
-
+<script>
+  window.REQUIRED_CODE_ERROR_MESSAGE = 'Scegli un prefisso paese';
+  window.LOCALE = 'it';
+  window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "Le informazioni fornite non sono valide. Controlla il formato del campo e riprova.";
+  window.REQUIRED_ERROR_MESSAGE = "Questo campo non può essere lasciato vuoto. ";
+  window.GENERIC_INVALID_MESSAGE = "Le informazioni fornite non sono valide. Controlla il formato del campo e riprova.";
+  window.translation = {
+    common: {
+      selectedList: '{quantity} lista selezionata',
+      selectedLists: '{quantity} liste selezionate',
+      selectedOption: '{quantity} selezionato',
+      selectedOptions: '{quantity} selezionati',
+    }
+  };
+  var AUTOHIDE = Boolean(0);
+</script>
+<script defer src="https://sibforms.com/forms/end-form/build/main.js"></script>
+<script src="https://www.google.com/recaptcha/api.js?hl=it"></script>
 </body>
 </html>
