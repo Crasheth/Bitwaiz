@@ -1,6 +1,7 @@
 # Cybersecurity
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
 
 
 
@@ -76,6 +77,7 @@ La cybersecurity è un campo in continua evoluzione, con nuove minacce e vulnera
 
 
 ![cybersecurity](https://invortech.com/wp-content/uploads/2024/03/DALL·E-2024-07-05-21.53.06-An-engaging-image-depicting-the-five-types-of-cybersecurity-working-together.-Represent-network-security-with-a-firewall-or-fortress-application-secu-e1720198477628.webp)
+
 
 
 

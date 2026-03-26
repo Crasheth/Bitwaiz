@@ -130,6 +130,7 @@
 <li><a href="https://www.linkedin.com/pulse/5-essential-cybersecurity-tips-youre-probably-xavier-raurich-2ejmf">5 EssentialCybersecurityTipsYou’re Probably Overlooking</a></li>
 </ul></div></div>
     
+    <div id="supporters-live"></div>
     <div class="article-signature"><p class="article-author">Crasheth</p></div>
     <div class="bmc-section">
       <p>Nel flusso del Tao, non accumulo — condivido.</p>
@@ -163,6 +164,30 @@
       });
     });
     btns[0]?.click();
+    // Supporters wall live da Netlify Function (se disponibile)
+    (async () => {
+      try {
+        const r = await fetch('/.netlify/functions/bmc-webhook', { method: 'GET' });
+        if (!r.ok) return;
+        const data = await r.json();
+        const items = Array.isArray(data?.items) ? data.items.slice(0, 4) : [];
+        if (!items.length) return;
+        const esc = (s) => String(s ?? '')
+          .replaceAll('&', '&amp;')
+          .replaceAll('<', '&lt;')
+          .replaceAll('>', '&gt;');
+        const lis = items.map((it) => {
+          const n = esc(it.name || 'Supporter');
+          const m = esc(it.message || '').trim();
+          if (!m) return '';
+          return `<li><strong>${n}</strong>: ${m}</li>`;
+        }).filter(Boolean).join('');
+        if (!lis) return;
+        const html = `<section class="supporters-wall"><h3>Messaggi dei supporter</h3><ul>${lis}</ul></section>`;
+        const mount = document.getElementById('supporters-live');
+        if (mount) mount.innerHTML = html;
+      } catch (_) {}
+    })();
   </script>
 </body>
 </html>

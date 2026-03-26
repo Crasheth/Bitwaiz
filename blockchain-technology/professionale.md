@@ -1,6 +1,7 @@
 # La tecnologia blockchain rappresenta un'innovazione significativa nel campo della gestione dei dati e delle transazioni. In sostanza, si tratta di un registro digitale distribuito, immutabile e trasparente, che consente di verificare e validare le informazioni senza la necessità di un'autorità centrale. Questo approccio rivoluzionario ha implicazioni di vasta portata in diversi settori, dalla finanza alla supply chain, alla sanità e oltre.
 
-> Il denaro è uno strumento che ci permette di ottenere ciò che vogliamo. — Naval Ravikant.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
 
 
 
@@ -36,6 +37,7 @@ Le principali azioni operative associate alla tecnologia blockchain includono:
 *   **Consenso distribuito:** I nodi raggiungono un consenso sulla validità delle transazioni e sull'ordine dei blocchi, garantendo l'affidabilità del registro.
 
 La sicurezza e la trasparenza offerte dalla blockchain la rendono particolarmente adatta a scenari in cui è fondamentale la fiducia e la verifica indipendente.  Nonostante le sue potenzialità, è importante notare che la tecnologia blockchain è ancora in fase di sviluppo e presenta sfide come la scalabilità, la regolamentazione e l'adozione di massa.
+
 
 
 
