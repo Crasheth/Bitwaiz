@@ -1,6 +1,7 @@
 # L’Intelligenza Artificiale preoccupa – LA BARBA DI DIOGENE
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
 
 
 
@@ -73,6 +74,7 @@ La gestione di questi rischi richiede un approccio multidisciplinare che coinvol
 
 
 ![intelligenza artificiale](https://brainpod.ai/wp-content/uploads/2025/08/how-are-artificial-intelligence-made.png)
+
 
 
 

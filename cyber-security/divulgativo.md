@@ -1,6 +1,7 @@
 # Informazioni sulla sicurezza
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 
@@ -47,6 +48,7 @@ Per migliorare la sicurezza delle tue informazioni, dovresti implementare una se
 *   Conformità normativa
 *   Sicurezza delle reti
 *   Sicurezza delle applicazioni
+
 
 
 
