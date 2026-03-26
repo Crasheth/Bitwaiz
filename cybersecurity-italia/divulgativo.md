@@ -1,6 +1,7 @@
 # Cybersecurity in Italia: Un’Onda di Attacchi e la Necessità di Cambiare Prospettiva
 
-> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+
 
 
 
@@ -70,6 +71,7 @@ L'ItaliaSec Cyber Summit, che si terrà a Milano, rappresenta un'occasione unica
 
 
 ![cybersecurity italia](https://www.cybersecitalia.it/wp-content/uploads/2022/03/cybersec2022-prima-edizione.jpg)
+
 
 
 

@@ -1,6 +1,7 @@
 # Whitepaper: Il Potere della Disciplina Gentile nel Trading di Criptovalute
 
-> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 
 
@@ -37,6 +38,7 @@ Ecco alcuni punti chiave che emergono dall'analisi dei dati forniti:
 *   **Monitoraggio e Adattamento:** Il mercato delle criptovalute è in continua evoluzione. I trader devono monitorare attentamente i mercati e adattare le loro strategie di conseguenza.
 
 Il monitoraggio delle transazioni blockchain, come evidenziato dagli explorer forniti, offre una visione dettagliata del flusso di capitale e dei modelli di trading. Analizzare questi dati, non per prevedere il futuro, ma per comprendere il presente e per identificare tendenze, è un aspetto cruciale della disciplina gentile. La capacità di osservare, di apprendere e di adattarsi è ciò che distingue un trader di successo da un semplice speculator.
+
 
 
 

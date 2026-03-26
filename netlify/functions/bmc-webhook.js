@@ -1,4 +1,11 @@
 exports.handler = async function(event) {
+  if (event.httpMethod === "GET") {
+    return {
+      statusCode: 200,
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({ ok: true, endpoint: "bmc-webhook", method: "GET" }),
+    };
+  }
   if (event.httpMethod !== "POST") {
     return { statusCode: 405, body: "Method not allowed" };
   }
