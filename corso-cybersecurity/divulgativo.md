@@ -5,6 +5,7 @@
 
 
 
+
 Immagina di essere un guardiano, un sentinella che veglia sul regno digitale. La cybersecurity non è solo un insieme di software e impostazioni; è un modo di pensare, un approccio proattivo per proteggere informazioni, sistemi e persone da minacce sempre più sofisticate. Questo corso ti fornirà le competenze necessarie per comprendere le sfide della sicurezza informatica e sviluppare strategie efficaci per mitigarle. Imparerai a identificare le vulnerabilità, a proteggere i dati e a rispondere agli incidenti, diventando un elemento chiave nella difesa del mondo digitale.
 
 ## Comprendere il Panorama della Cybersecurity
@@ -73,6 +74,7 @@ Secondo le fonti, le prospettive di lavoro nel cybersecurity sono estremamente p
 
 *   [Sicurezza informatica per IT e manager](https://www.bbs.unibo.it/open-program/cybersecurity-management/)
 *   [Cyber Threat Intelligence](https://www.coursera.org/courses?query=cyber%20threat%20intelligence)
+
 
 
 ## Fonti
