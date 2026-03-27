@@ -25,6 +25,9 @@
 
 
 
+
+
+
 Il Cybersecurity Information Sharing Act (CISA) è una legge che mira a migliorare la condivisione di informazioni sulla sicurezza informatica tra le organizzazioni privata e governativa. In questo articolo esploreremo come questa legge si applica al contesto tecnico, ma anche come essa riflette valori simili a quelli del corpo e del movimento.
 
 ### Cosa è il Cybersecurity Information Sharing Act?
@@ -83,6 +86,9 @@ Secondo le fonti, il CISA prevede la creazione di un'agenzia governativa (Cyber 
 ## Vedi anche
 
 *   EU Cybersecurity Act | Shaping Europe’s digital future
+
+
+
 
 
 

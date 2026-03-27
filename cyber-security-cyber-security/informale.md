@@ -1,6 +1,9 @@
 # Cos'è la Cyber Security?
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
+
+
 
 
 
@@ -41,6 +44,9 @@ Alcune delle certificazioni di cyber security più importanti includono la CompT
 *   [CC Certified inCybersecurityCertification | ISC2](https://www.isc2.org/certifications/cc)
 *   [Cyber security](https://en.wikipedia.org/wiki/Cyber_security)
 *   [Information Security](https://grokipedia.com/page/Information_Security)
+
+
+
 
 
 ## Fonti

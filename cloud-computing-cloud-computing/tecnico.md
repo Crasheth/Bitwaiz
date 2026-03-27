@@ -1,6 +1,9 @@
 # Cloud computing è un modo per utilizzare servizi informatici come l'archiviazione di file, l'esecuzione di applicazioni o l'utilizzo di computer potenti tramite Internet invece che sul tuo dispositivo. Si tratta di un approccio che semplifica l'accesso alle risorse informatiche, riduce i costi (paghi solo per ciò che usi) e fornisce una scalabilità senza la necessità di acquistare hardware. Questo modello di servizio è diventato sempre più popolare grazie alla sua flessibilità e alla possibilità di adattarsi alle mutevoli esigenze aziendali.
 
-> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+> Il cloud è solo il computer di qualcun altro. — Variante di Larry Ellison.
+
+
+
 
 Cloud computing è un modo per utilizzare servizi informatici come l'archiviazione di file, l'esecuzione di applicazioni o l'utilizzo di computer potenti tramite Internet invece che sul tuo dispositivo. Si tratta di un approccio che semplifica l'accesso alle risorse informatiche, riduce i costi (paghi solo per ciò che usi) e fornisce una scalabilità senza la necessità di acquistare hardware. Questo modello di servizio è diventato sempre più popolare grazie alla sua flessibilità e alla possibilità di adattarsi alle mutevoli esigenze aziendali.
 
@@ -45,6 +48,9 @@ Quando usi un servizio cloud, le tue richieste vengono elaborate su server remot
 
 *   [Servizi di cloud computing | Microsoft Azure](https://azure.microsoft.com/it-it/resources/cloud-computing-dictionary/what-is-cloud-computing)
 *   [Cos'è il cloud computing? | Salesforce EMEA](https://www.salesforce.com/eu/platform/cloud-computing-dictionary/what-is-cloud-computing/)
+
+
+
 
 
 ## Fonti

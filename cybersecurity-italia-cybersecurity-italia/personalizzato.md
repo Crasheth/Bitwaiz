@@ -1,6 +1,9 @@
 # ## Titolo
 
-> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
+
+
 
 ## Titolo
 La sicurezza digitale: un confine tra famiglia e tecnologia
@@ -62,6 +65,9 @@ I settori più colpiti includono finanza, assicurazione e amministrazione pubbli
 *   [CyberSecurity Italia - Quotidiano online sulla sicurezza ...](https://www.cybersecitalia.it/)
 *   [Italy - Cybersecurity - International Trade Administration](https://www.trade.gov/country-commercial-guides/italy-cybersecurity)
 *   [Cybersecurity, Italian companies unprepared for new cyber ...](https://en.ilsole24ore.com/art/cybersecurity-italian-companies-unprepared-for-new-cyber-threats-AIpGMX9B)
+
+
+
 
 
 ## Fonti

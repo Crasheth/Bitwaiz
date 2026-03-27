@@ -1,6 +1,9 @@
 # Corsi Cybersecurity Online: Guida Completa per Professionisti e Appassionati
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
+
+
 
 
 
@@ -88,6 +91,9 @@ Secondo le fonti, le prospettive di lavoro nel cybersecurity sono estremamente p
 
 *   [Sicurezza informatica per IT e manager](https://www.bbs.unibo.it/open-program/cybersecurity-management/)
 *   [Cyber Threat Intelligence](https://www.coursera.org/courses?query=cyber%20threat%20intelligence)
+
+
+
 
 
 

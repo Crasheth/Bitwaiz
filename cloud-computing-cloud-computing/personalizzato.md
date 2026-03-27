@@ -1,6 +1,9 @@
 # ## Domande frequenti
 
-> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+> Il cloud è solo il computer di qualcun altro. — Variante di Larry Ellison.
+
+
+
 
 ## Domande frequenti
 
@@ -32,6 +35,9 @@ Quando usi un servizio cloud, le tue richieste vengono elaborate su server remot
 
 *   [Servizi di cloud computing | Microsoft Azure](https://azure.microsoft.com/it-it/resources/cloud-computing-dictionary/what-is-cloud-computing)
 *   [Cos'è il cloud computing? | Salesforce EMEA](https://www.salesforce.com/eu/platform/cloud-computing-dictionary/what-is-cloud-computing/)
+
+
+
 
 
 ## Fonti

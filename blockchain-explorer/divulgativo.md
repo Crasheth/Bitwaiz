@@ -1,6 +1,9 @@
 # Analisi del Mercato Cripto: Un'Onda di Volatilità
 
-> Il denaro è uno strumento che ci permette di ottenere ciò che vogliamo. — Naval Ravikant.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+
+
 
 
 
@@ -52,6 +55,9 @@ Ecco i punti chiave da tenere a mente:
 Il mercato delle criptovalute è in continua evoluzione, e la chiave del successo è l'adattamento e la capacità di apprendere dagli errori. Come diceva il filosofo romano, "L'uomo di successo non è colui che non sbaglia, ma colui che impara dai suoi errori".
 
 ![blockchain explorer](https://media.pmf-research.eu/pmf-research.eu/wp-content/uploads/2023/09/Blockchain-explorer-2-EN.jpg)
+
+
+
 
 
 
