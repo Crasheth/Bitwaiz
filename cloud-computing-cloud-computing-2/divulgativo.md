@@ -1,64 +1,57 @@
-# Il Cloud: Un'Eucaristia Digitale
+# Cos'è il Cloud Computing?
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
-
-
+> Il cloud è solo il computer di qualcun altro. — Variante di Larry Ellison.
 
 
-Immagina di avere una grande biblioteca, piena di libri, documenti, strumenti. In passato, per accedere a queste risorse, avresti dovuto possederle fisicamente, occupare spazio, e curarle. Il cloud computing è come avere quella biblioteca disponibile online, su richiesta, pagando solo per quello che usi. È un modo di accedere a potenza di calcolo, archiviazione e software, senza la necessità di possederli direttamente. Questo concetto, apparentemente astratto, ha implicazioni profonde per le aziende e per il modo in cui lavoriamo e viviamo.
+
+Immagina di poter usare un computer potente, con tantissimo spazio di archiviazione e software sofisticati, senza doverlo possedere o mantenerlo. Il cloud computing ti permette di fare proprio questo: accedi a risorse informatiche – server, storage, software – tramite internet, pagando solo per quello che usi. È come l'elettricità: non costruisci una centrale, non installi cavi, semplicemente ti connetti alla rete e usi l'energia. Questo rende il cloud computing una soluzione ideale per aziende e privati che desiderano ridurre i costi, aumentare la flessibilità e semplificare la gestione delle proprie risorse IT.
 
 
 ![cloud computing](https://nwl.it/wp-content/uploads/2023/03/what_is_cloud_computing.png)
 
-## Cos'è il Cloud Computing?
+## Il Concetto Chiave
 
-Il cloud computing, in sostanza, significa utilizzare servizi informatici – come server, storage, database, software – forniti tramite Internet. Invece di installare programmi sul tuo computer o archiviare dati sul tuo disco rigido, li esegui e li memorizzi su server remoti, gestiti da un provider di servizi cloud (come Amazon, Google, Microsoft).  Pensa alla luce elettrica: prima dovevi generarla tu stesso, ora la prendi dalla rete. Il cloud è la stessa cosa, ma per i servizi informatici. È come un monaco che offre un'eucaristia: tu ricevi il dono, e il monaco si prende cura del pane e del vino, assicurandosi che siano sempre disponibili. In questo modo, le aziende possono concentrarsi sul loro core business, invece di preoccuparsi della gestione dell'infrastruttura IT.
+Il cloud computing si basa sull'idea di "computing as a service" (calcolo come servizio). Invece di acquistare e gestire hardware e software, puoi accedere a questi servizi forniti da un provider di cloud (come Amazon, Microsoft o Google) tramite internet. Esistono diversi tipi di servizi cloud, tra cui:
 
-### I Tre Pilastri del Cloud
+*   **IaaS (Infrastructure as a Service):** ti fornisce l'infrastruttura di base, come server, storage e reti.
+*   **PaaS (Platform as a Service):** ti offre una piattaforma completa per sviluppare, eseguire e gestire applicazioni.
+*   **SaaS (Software as a Service):** ti fornisce software applicativo, come CRM o email, accessibile tramite browser web.
 
-Il cloud computing si basa su tre pilastri principali:
+## Caratteristiche Fondamentali
 
-*   **IaaS (Infrastructure as a Service):** Fornisce l'infrastruttura di base, come server, storage e reti. È come affittare gli elementi costitutivi di un edificio.
-*   **PaaS (Platform as a Service):** Offre una piattaforma per lo sviluppo e l'esecuzione di applicazioni. È come affittare un terreno con gli strumenti necessari per costruire una casa.
-*   **SaaS (Software as a Service):** Fornisce software completo, come CRM o strumenti di produttività, direttamente tramite Internet. È come affittare una casa già arredata e pronta all'uso.
+Il cloud computing si distingue per alcune caratteristiche chiave:
 
-## Modelli di Cloud: Una Mandala di Possibilità
-
-Esistono diversi modelli di cloud computing, ciascuno con i suoi vantaggi e svantaggi:
-
-*   **Cloud Pubblico:** Servizi offerti da provider terzi, accessibili a chiunque tramite Internet (es. Amazon Web Services, Microsoft Azure, Google Cloud Platform). È come un mercato aperto, dove tutti possono comprare e vendere.
-*   **Cloud Privato:** Servizi dedicati a un'unica organizzazione, che può essere ospitato in loco o da un provider terzo. È come un tempio privato, accessibile solo a chi è autorizzato.
-*   **Cloud Ibrido:** Combina elementi di cloud pubblico e privato, consentendo alle organizzazioni di sfruttare i vantaggi di entrambi. È come un giardino misto, dove convivono piante di diversi tipi.
-*   **Multi-Cloud:** Utilizzo di servizi di diversi provider cloud pubblici.
+*   **Scalabilità:** puoi aumentare o diminuire le risorse a seconda delle tue esigenze, pagando solo per quello che utilizzi.
+*   **Flessibilità:** puoi accedere ai servizi cloud da qualsiasi dispositivo e luogo con una connessione internet.
+*   **Affidabilità:** i provider di cloud investono in infrastrutture ridondanti e sistemi di backup per garantire l'alta disponibilità dei servizi.
+*   **Costi ridotti:** paghi solo per le risorse che consumi, evitando costosi investimenti in hardware e software.
 
 
 ## Domande frequenti
 
-### Cosa significa "cloud computing"?
-Risposta: Cloud computing significa utilizzare servizi informatici (come storage, software, potenza di calcolo) tramite Internet invece di possederli direttamente. È come avere accesso a risorse digitali su richiesta, pagando solo per ciò che usi, senza doversi preoccupare della gestione dell'infrastruttura.
+### Cos'è il cloud computing?
+Il cloud computing è un modo per accedere a risorse informatiche – come server, storage e software – tramite internet, invece di possederle e gestirle direttamente. È come usare l'elettricità: non costruisci una centrale, semplicemente ti connetti alla rete e usi l'energia.
 
 ### Quali sono i vantaggi del cloud computing?
-Risposta: I vantaggi includono costi inferiori (pay-as-you-go), scalabilità (aumentare o diminuire le risorse in base alle necessità), accessibilità (accesso ai dati e alle applicazioni da qualsiasi luogo), e affidabilità (i provider di cloud garantiscono elevati livelli di uptime).
+I vantaggi includono scalabilità, flessibilità, affidabilità, costi ridotti e maggiore accessibilità ai dati e alle applicazioni.
 
-### Quali sono i diversi tipi di cloud?
-Risposta: Esistono cloud pubblici (offerti da terzi, come AWS e Azure), privati (dedicati a un'unica organizzazione), ibridi (combinazione di pubblico e privato), e multi-cloud (utilizzo di servizi da diversi provider).
+### Quali sono i diversi tipi di servizi cloud?
+Esistono tre tipi principali: IaaS (infrastruttura come servizio), PaaS (piattaforma come servizio) e SaaS (software come servizio).
 
-### Come posso migrare al cloud?
-Risposta: La migrazione al cloud può essere un processo complesso che richiede una pianificazione accurata. Inizia identificando le applicazioni e i dati che possono essere migrati, scegli un provider di cloud adatto alle tue esigenze, e implementa una strategia di migrazione graduale.
+### Quali sono i rischi associati al cloud computing?
+I rischi includono problemi di sicurezza, perdita di dati, dipendenza dal provider e potenziali costi nascosti.
 
-### Quali sono i rischi del cloud computing?
-Risposta: I rischi includono problemi di sicurezza, perdita di controllo sui dati, dipendenza dal provider di cloud, e costi imprevisti. È importante scegliere un provider di cloud affidabile, implementare misure di sicurezza adeguate, e monitorare attentamente i costi.
+### Come posso scegliere il provider di cloud giusto per me?
+Considera le tue esigenze specifiche, il budget, la sicurezza e la conformità normativa.
 
 ## Vedi anche
 
-*   Architetture di Cloud
-*   Sicurezza del Cloud
-*   Servizi di Cloud Computing
-
+*   [Cloud Storage](https://azure.microsoft.com/it-it/resources/cloud-computing-dictionary/cloud-storage)
+*   [Cloud Security](https://www.salesforce.com/eu/platform/cloud-computing/security/)
 
 ## Fonti
 
 - [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing)
 - [Cloud computing](https://grokipedia.com/page/Cloud_computing)
-- [CloudComputing, Hosting Services, and APIs | GoogleCloud](https://cloud.google.com/gcp)
-- [CloudComputingServices | Microsoft Azure](https://azure.microsoft.com/)
+- [Cos'è il cloud computing? | Microsoft Azure](https://azure.microsoft.com/it-it/resources/cloud-computing-dictionary/what-is-cloud-computing)
+- [What is Cloud Computing? Types and Examples | Salesforce EMEA](https://www.salesforce.com/eu/platform/cloud-computing/)

@@ -1,6 +1,7 @@
 # Analisi dello Stato del Mercato Cripto: Panoramica e Indicatori Chiave
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
 
 
 
@@ -54,6 +55,7 @@ Secondo le fonti disponibili, il mercato delle criptovalute presenta un panorama
 
 
 ![blockchain explorer](https://media.pmf-research.eu/pmf-research.eu/wp-content/uploads/2023/09/Blockchain-explorer-2-EN.jpg)
+
 
 
 

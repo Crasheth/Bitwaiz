@@ -1,57 +1,55 @@
-# Cloud computing è un modo per utilizzare servizi informatici come l'archiviazione di file, l'esecuzione di applicazioni o l'utilizzo di computer potenti tramite Internet invece che sul tuo dispositivo. Si tratta di un approccio che semplifica l'accesso alle risorse informatiche, riduce i costi (paghi solo per ciò che usi) e fornisce una scalabilità senza la necessità di acquistare hardware. Questo modello di servizio è diventato sempre più popolare grazie alla sua flessibilità e alla possibilità di adattarsi alle mutevoli esigenze aziendali.
+# Cloud Computing: Un'Introduzione Tecnica
 
-> Il cloud è solo il computer di qualcun altro. — Variante di Larry Ellison.
-
-
+> Tutto ciò che può essere digitalizzato verrà digitalizzato. — Nicholas Negroponte.
 
 
-Cloud computing è un modo per utilizzare servizi informatici come l'archiviazione di file, l'esecuzione di applicazioni o l'utilizzo di computer potenti tramite Internet invece che sul tuo dispositivo. Si tratta di un approccio che semplifica l'accesso alle risorse informatiche, riduce i costi (paghi solo per ciò che usi) e fornisce una scalabilità senza la necessità di acquistare hardware. Questo modello di servizio è diventato sempre più popolare grazie alla sua flessibilità e alla possibilità di adattarsi alle mutevoli esigenze aziendali.
 
-Il cloud computing è un modello per l'accesso on-demand e conveniente alle risorse di calcolo condivise, come reti, server, archiviazione, applicazioni e servizi, che possono essere rapidamente provisionate e rilasciate con un minimo sforzo di gestione. Questo modello, definito dal National Institute of Standards and Technology (NIST) nel 2011, sottolinea la fornitura di risorse di calcolo tramite Internet senza richiedere agli utenti di possedere o gestire l'hardware sottostante. Il modello si basa su cinque caratteristiche fondamentali: 1. Provisioning on-demand, che consente agli utenti di accedere alle risorse di calcolo quando ne hanno bisogno, senza la necessità di pianificare o gestire l'hardware; 2. Accesso tramite rete, che consente agli utenti di accedere alle risorse di calcolo da qualsiasi luogo con una connessione Internet; 3. Rapid elasticity, che consente agli utenti di aumentare o diminuire le risorse di calcolo in base alle loro esigenze; 4. Resource pooling, che consente ai fornitori di servizi di cloud di raggruppare le risorse di calcolo e assegnarle agli utenti in base alla domanda; 5. Measured service, che consente ai fornitori di servizi di cloud di monitorare e fatturare l'utilizzo delle risorse di calcolo.
+Cloud computing è diventato un termine onnipresente nel panorama tecnologico, ma cosa significa veramente per un professionista IT? Questo articolo fornisce un'introduzione tecnica al cloud computing, esplorando i suoi concetti fondamentali, i diversi tipi di ambienti cloud e le considerazioni chiave per l'adozione.  Comprendere il cloud computing è essenziale per progettare, implementare e gestire sistemi moderni, ottimizzando l'efficienza, riducendo i costi e accelerando l'innovazione.
 
-### Cos'è il cloud computing?
-Il cloud computing è un modo per utilizzare computer in remoto invece di avere un computer sul tuo desktop. Invece di avere i file sul tuo computer, li archivi su un server remoto che puoi accedere da qualsiasi dispositivo.
+## Concetti Fondamentali
 
-### Quali sono i tipi di cloud computing?
-Esistono diversi tipi di cloud computing, tra cui:
-* Cloud pubblico: fornito da un fornitore di terze parti e reso disponibile al pubblico.
-* Cloud privato: fornito da un fornitore di terze parti o da un'organizzazione e utilizzato esclusivamente da quella organizzazione.
-* Cloud ibrido: una combinazione di cloud pubblico e privato.
+Al suo cuore, il cloud computing si basa sull'erogazione di risorse informatiche – come server, storage, database e applicazioni software – tramite Internet. Invece di possedere e gestire l'hardware e il software localmente, gli utenti accedono a questi servizi su richiesta, pagando solo per ciò che utilizzano. Questo modello offre flessibilità, scalabilità e risparmi sui costi.  I principali componenti del cloud computing includono:
 
-### Come funziona il cloud computing?
-Il cloud computing funziona distribuendo le risorse di calcolo su una rete di server. Questo consente agli utenti di accedere alle risorse di calcolo da qualsiasi luogo con una connessione Internet.
+*   **IaaS (Infrastructure as a Service):** Fornisce accesso a risorse di infrastruttura virtuali, come server, storage e reti.
+*   **PaaS (Platform as a Service):** Offre una piattaforma per sviluppare, eseguire e gestire applicazioni, senza la necessità di gestire l’infrastruttura sottostante.
+*   **SaaS (Software as a Service):** Fornisce applicazioni software complete, accessibili tramite Internet, come CRM, email e produttività.
 
-### Quali sono i vantaggi del cloud computing?
-Il cloud computing offre numerosi vantaggi, tra cui:
-* Riduzione dei costi
-* Scalabilità
-* Flessibilità
-* Affidabilità
-* Sicurezza
+## Tipi di Ambienti Cloud
 
-### Quali sono i rischi del cloud computing?
-Il cloud computing presenta anche alcuni rischi, tra cui:
-* Sicurezza dei dati
-* Perdita di controllo
-* Dipendenza dal fornitore
+Esistono diversi tipi di ambienti cloud, ciascuno con i propri vantaggi e svantaggi:
+
+*   **Cloud Pubblico:** I servizi cloud sono offerti da un provider terzo e sono accessibili da chiunque. Esempi includono Amazon Web Services (AWS), Microsoft Azure e Google Cloud Platform (GCP).
+*   **Cloud Privato:** L'infrastruttura cloud è dedicata a un'unica organizzazione e può essere ospitata on-premise o da un provider terzo.
+*   **Cloud Ibrido:** Combina elementi di cloud pubblico e privato, consentendo alle organizzazioni di sfruttare i vantaggi di entrambi i modelli.
+*   **Multi-Cloud:** Utilizzo di servizi cloud da più provider, spesso per evitare il vendor lock-in e migliorare la resilienza.
+
+## Considerazioni Chiave
+
+L'adozione del cloud computing richiede un'attenta pianificazione e considerazione di diversi fattori:
+
+*   **Sicurezza:** Implementare misure di sicurezza adeguate per proteggere i dati e le applicazioni nel cloud.
+*   **Costi:** Analizzare attentamente i costi del cloud, tenendo conto di fattori come l'utilizzo delle risorse, i trasferimenti di dati e i costi di gestione.
+*   **Conformità:** Assicurarsi che l'ambiente cloud sia conforme alle normative e agli standard applicabili.
+*   **Gestione:** Implementare processi di gestione efficaci per monitorare, gestire e ottimizzare le risorse cloud.
+
 
 
 ## Domande frequenti
 
-### Cos'è il cloud computing?
-Il cloud computing è un modo per accedere a risorse informatiche, come server, archiviazione e software, tramite internet invece di averli installati localmente sul tuo computer. Invece di possedere e gestire l'hardware, paghi solo per l'utilizzo, offrendo flessibilità, scalabilità e risparmi sui costi. 
-### Quali sono i vantaggi del cloud computing?
-I vantaggi principali includono costi inferiori, scalabilità, accessibilità da qualsiasi luogo, maggiore affidabilità e facilità di collaborazione. Il cloud consente alle aziende di concentrarsi sulle proprie attività principali, piuttosto che sulla gestione dell'infrastruttura IT.
-### Come funziona il cloud computing in pratica?
-Quando usi un servizio cloud, le tue richieste vengono elaborate su server remoti gestiti dal fornitore. I tuoi dati vengono archiviati su questi server e accessibili tramite internet. Il fornitore si occupa della manutenzione, degli aggiornamenti e della sicurezza, semplificando l'utilizzo della tecnologia.
+### [Cos'è il cloud computing?]
+Il cloud computing è un modo per accedere a risorse informatiche, come server, storage e software, tramite internet invece di averli installati direttamente sul tuo computer. È come noleggiare un computer potente invece di comprarlo, offrendo flessibilità, scalabilità e risparmi sui costi.
+### [Quali sono i vantaggi del cloud computing?]
+I vantaggi principali includono la riduzione dei costi (non è necessario acquistare e mantenere hardware), la scalabilità (si possono aumentare o diminuire le risorse in base alle necessità), la flessibilità (si può accedere ai dati e alle applicazioni da qualsiasi luogo), e la facilità di gestione (il fornitore di cloud si occupa della manutenzione).
+### [Come funziona il cloud computing?]
+Le aziende di cloud computing gestiscono data center con server e storage. Tu utilizzi questi servizi tramite internet, e i dati vengono archiviati e processati sui server del fornitore di cloud. Questo permette di accedere alle risorse e ai servizi senza preoccuparti dell'infrastruttura sottostante.
+### [Quali sono i diversi tipi di cloud computing?]
+Esistono diversi tipi di cloud computing, tra cui il cloud pubblico (accessibile a tutti), il cloud privato (utilizzato da un'unica organizzazione), il cloud ibrido (combinazione di pubblico e privato), e il multi-cloud (utilizzo di servizi da più fornitori).
+### [È sicuro utilizzare il cloud computing?]
+La sicurezza nel cloud computing dipende da diversi fattori, tra cui le misure di sicurezza adottate dal fornitore di cloud e le pratiche di sicurezza adottate dall'utente. I fornitori di cloud investono in sicurezza e offrono diverse opzioni per proteggere i dati, ma è importante adottare anche buone pratiche di sicurezza.
 ## Vedi anche
 
-*   [Servizi di cloud computing | Microsoft Azure](https://azure.microsoft.com/it-it/resources/cloud-computing-dictionary/what-is-cloud-computing)
-*   [Cos'è il cloud computing? | Salesforce EMEA](https://www.salesforce.com/eu/platform/cloud-computing-dictionary/what-is-cloud-computing/)
-
-
-
-
+*   [Digitalizzazione](https://azure.microsoft.com/it-it/resources/cloud-computing-dictionary/digitalization)
+*   [Servizi Cloud](https://www.salesforce.com/eu/platform/cloud-computing/services-cloud/)
 
 ## Fonti
 

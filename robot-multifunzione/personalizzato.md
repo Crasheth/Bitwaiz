@@ -1,6 +1,7 @@
 # Robot Multifunzione: Coltivare l'Efficienza
 
-> La tecnologia migliore è quella che scompare. — Mark Weiser.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
 
 
 
@@ -58,6 +59,7 @@ Dipende dal caso d'uso: in genere il valore sta nel rapporto tra prestazioni, co
 
 ### Quali limiti devo considerare su Robot Multifunzione: Un&#x27;Arma Silenziosa per la Cucina?
 Prima di adottarlo valuta limiti tecnici, lock-in, costi nel tempo e qualita del supporto/documentazione.
+
 
 
 

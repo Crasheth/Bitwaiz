@@ -24,6 +24,7 @@
 
 
 
+
 Se sei interessato a una carriera nel cybersecurity, o semplicemente vuoi capire meglio come proteggere i tuoi dati e dispositivi, questo articolo fa per te. Esploreremo un corso intensivo di cybersecurity online, focalizzandoci su cosa imparerai, a chi è rivolto e come può aiutarti a costruire una carriera nel settore della sicurezza informatica. Imparerai i concetti fondamentali, le tecniche di difesa e le strategie per affrontare le minacce informatiche in continua evoluzione.
 
 ## Cosa Imparerai in un Corso di Cybersecurity
@@ -75,6 +76,7 @@ Secondo le fonti, le prospettive di lavoro nel cybersecurity sono estremamente p
 
 *   [Sicurezza informatica per IT e manager](https://www.bbs.unibo.it/open-program/cybersecurity-management/)
 *   [Cyber Threat Intelligence](https://www.coursera.org/courses?query=cyber%20threat%20intelligence)
+
 
 
 
