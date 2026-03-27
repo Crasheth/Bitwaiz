@@ -75,6 +75,8 @@
 
 
 
+
+
 Il machine learning (ML) è un campo dell'intelligenza artificiale che permette ai sistemi di apprendere dai dati senza essere esplicitamente programmati. Invece di seguire istruzioni passo-passo, gli algoritmi di ML identificano schemi, fanno previsioni e migliorano le loro prestazioni nel tempo, man mano che vengono esposti a più dati. È alla base di molte delle tecnologie che utilizziamo quotidianamente, come i sistemi di raccomandazione di Netflix, gli assistenti vocali di Google e Siri, e persino la rilevazione di frodi bancarie.
 
 ## Come Funziona il Machine Learning?
@@ -108,6 +110,8 @@ Le applicazioni del machine learning sono innumerevoli e in continua espansione.
 *   **Finanza:** Rilevazione di frodi, previsione dei mercati finanziari.
 *   **Marketing:** Personalizzazione delle offerte, analisi del comportamento dei clienti.
 *   **Trasporti:** Guida autonoma, ottimizzazione del traffico.
+
+
 
 
 

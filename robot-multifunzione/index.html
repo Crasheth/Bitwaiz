@@ -162,10 +162,10 @@
 </ul></div></div>
     <div class="article-signature"><p class="article-author">Crasheth</p></div>
     <div class="bmc-section">
-      <p>Nel flusso del Tao, non accumulo — condivido.</p>
+      <p>Nella Bitwave del Tao, non accumulo — condivido.</p>
   <p>"Tesoro condiviso non si esaurisce" — Tao Te Ching</p>
       <div id="bmc-widget"><script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="crasheth" data-color="#FFDD00" data-emoji="💪" data-font="Cookie" data-text="Sostieni il progetto!" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff"></script></div>
-      <section class="supporters-wall"><h3>Messaggi dei supporter</h3><ul><li><strong>TFireH</strong>: Un piccolo supporto per questo nuovo progetto, per chi sa rendere la curiosita contagiosa e accessibile</li></ul></section>
+      <section class="supporters-wall"><h3>Messaggi dei Bitwaizers</h3><ul><li><strong>TFireH</strong>: Un piccolo supporto per questo nuovo progetto, per chi sa rendere la curiosita contagiosa e accessibile</li></ul></section>
     </div>
     
   </main>
@@ -207,13 +207,13 @@
           .replaceAll('<', '&lt;')
           .replaceAll('>', '&gt;');
         const lis = items.map((it) => {
-          const n = esc(it.name || 'Supporter');
+          const n = esc(it.name || 'Bitwaizer');
           const m = esc(it.message || '').trim();
           if (!m) return '';
           return `<li><strong>${n}</strong>: ${m}</li>`;
         }).filter(Boolean).join('');
         if (!lis) return;
-        const html = `<section class="supporters-wall"><h3>Messaggi dei supporter</h3><ul>${lis}</ul></section>`;
+        const html = `<section class="supporters-wall"><h3>Messaggi dei Bitwaizers</h3><ul>${lis}</ul></section>`;
         const mount = document.getElementById('supporters-live');
         if (mount) mount.innerHTML = html;
       } catch (_) {}

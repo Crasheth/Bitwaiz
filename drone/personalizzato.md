@@ -1,6 +1,8 @@
 # Mephedrone: Un Flusso di Informazioni
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
+
 
 
 
@@ -88,6 +90,8 @@ Ecco alcuni punti chiave riguardanti il mephedrone:
 
 
 ![drone](https://cdn.thewirecutter.com/wp-content/media/2022/10/drones-2048px-0698.jpg)
+
+
 
 
 

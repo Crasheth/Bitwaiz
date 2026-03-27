@@ -84,7 +84,7 @@ exports.handler = async function(event) {
     }
     return "";
   };
-  const name = pick("supporter_name", "payer_name", "name", "from_name") || "Supporter";
+  const name = pick("supporter_name", "payer_name", "name", "from_name") || "Bitwaizer";
   const message = pick("support_note", "support_notes", "message", "note", "comment");
 
   if (message) {

@@ -1,6 +1,8 @@
 # Bustin’ + Dronin’: Un’analisi approfondita della collezione remix di Blur
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La tecnologia migliore è quella che scompare. — Mark Weiser.
+
+
 
 
 
@@ -83,6 +85,8 @@ La collezione si articola in due sezioni principali: remix e registrazioni dal v
 Il progetto “Bustin’ + Dronin’” si inserisce in un contesto più ampio di esplorazione sonora da parte di Blur. L’album “Blur” (1997) è stato caratterizzato da un approccio innovativo alla produzione musicale, influenzato da artisti come Pavement e My Bloody Valentine, e da una volontà di sperimentare con nuovi suoni e strutture. La decisione di creare una raccolta remix e live rifletteva il desiderio del gruppo di approfondire l’esplorazione di queste sonorità e di offrire ai fan una nuova esperienza di ascolto. La sua esclusiva distribuzione in Giappone, come documentato da [Bustin' + Dronin'](https://grokipedia.com/page/Bustin'_+_Dronin'), evidenziava la volontà del gruppo di espandere il proprio pubblico oltre i mercati tradizionali.
 
 La collezione, pur non raggiungendo il successo commerciale dell’album originale, rimane un documento prezioso per comprendere l’evoluzione del suono di Blur e la sua apertura all’innovazione. La sua natura sperimentale e la cura dei dettagli nella selezione dei remix e delle registrazioni dal vivo testimoniano l’impegno del gruppo nel superare i confini del genere e nel creare un’opera unica e originale.
+
+
 
 
 
