@@ -1,6 +1,8 @@
 # NIST Cybersecurity Framework
 
-> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -59,6 +61,8 @@ Il CSF è particolarmente importante per le PMI, che spesso hanno risorse limita
 *   **Security Orchestration, Automation and Response (SOAR):**  Soluzioni che automatizzano e orchestrano le attività di sicurezza per migliorare l'efficienza e la reattività.
 *   **MISP:** Piattaforma open source per la condivisione strutturata di indicatori di compromissione (IOC) e informazioni di threat intelligence.
 *   **MITRE ATT&CK:** Knowledge base che descrive tattiche e tecniche usate dagli attaccanti; non e la stessa cosa di MISP.
+
+
 
 
 

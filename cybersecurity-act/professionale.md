@@ -18,6 +18,8 @@
 
 
 
+
+
 L'articolo esplora l'Cybersecurity Information Sharing Act, una legge che mira a migliorare la sicurezza informatica condividendo informazioni su minacce tra il governo e il settore privato. Questo documento fornisce una panoramica di ciò che è, perché è importante e le implicazioni chiave per le aziende e i governi. Comprendere le complessità di questo schema di condivisione delle informazioni è fondamentale per affrontare efficacemente le crescenti minacce informatiche nel mondo odierno.
 
 
@@ -46,6 +48,8 @@ Secondo le fonti, il CISA prevede la creazione di un'agenzia governativa (Cyber 
 ## Vedi anche
 
 *   EU Cybersecurity Act | Shaping Europe’s digital future
+
+
 
 
 
