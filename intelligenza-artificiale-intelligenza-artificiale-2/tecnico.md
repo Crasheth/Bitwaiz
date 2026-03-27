@@ -1,6 +1,8 @@
 # Intelligenza Artificiale Intelligenza Artificiale 2
 
-> L'intelligenza artificiale è la nuova elettricità." — Andrew Ng.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
 
 L'intelligenza artificiale (AI) sta rapidamente trasformando il panorama tecnologico, permeando settori che vanno dalla sanità alla finanza, dalla produzione all'automotive. Comprendere i suoi fondamenti, le diverse tecniche e le applicazioni emergenti è cruciale per chiunque operi in un mondo sempre più guidato dai dati e dall'automazione. Questo articolo si propone di fornire una panoramica chiara e concisa dell'AI, focalizzandosi sulle sue definizioni, sui metodi principali e sulle implicazioni per il futuro. Analizzeremo le diverse tipologie di AI, dalla machine learning al deep learning, evidenziando le loro peculiarità e i casi d'uso più diffusi.  Il lettore acquisirà una solida base di conoscenza per affrontare le sfide e le opportunità offerte da questa tecnologia in rapida evoluzione.
 
@@ -32,9 +34,12 @@ L'AI viene utilizzata in una vasta gamma di applicazioni, tra cui assistenti voc
 *   Machine Learning: [https://it.wikipedia.org/wiki/Machine_learning](https://it.wikipedia.org/wiki/Machine_learning)
 *   Deep Learning: [https://it.wikipedia.org/wiki/Deep_learning](https://it.wikipedia.org/wiki/Deep_learning)
 
+
+
 ## Fonti
 
+- [Machine learning (Wikipedia)](https://it.wikipedia.org/wiki/Machine_learning)
+- [Deep learning (Wikipedia)](https://it.wikipedia.org/wiki/Deep_learning)
 - [Intelligenza artificiale - Wikipedia](https://it.wikipedia.org/wiki/Intelligenza_artificiale)
 - [Che cos'è l'intelligenza artificiale (AI)? | Google Cloud](https://cloud.google.com/learn/what-is-artificial-intelligence?hl=it)
-- [Come funziona l'intelligenza artificiale - Salvatore Aranzulla](https://www.aranzulla.it/come-funziona-lintelligenza-artificiale-1499915.html)
-- [Intelligènza artificiale - Enciclopedia - Treccani](https://www.treccani.it/enciclopedia/intelligenza-artificiale/)
+- [Intelligenza artificiale - Treccani](https://www.treccani.it/enciclopedia/intelligenza-artificiale/)

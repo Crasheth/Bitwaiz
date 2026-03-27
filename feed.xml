@@ -5,28 +5,21 @@
     <link>https://bitwaiz.it/</link>
     <description>Articoli su trend tech, cybersecurity e innovazione. Contenuti in 5 toni: divulgativo, tecnico, informale, professionale oppure secondo il mio stile!</description>
     <language>it-it</language>
-    <lastBuildDate>Fri, 27 Mar 2026 09:18:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 13:46:00 GMT</lastBuildDate>
     <atom:link href="https://bitwaiz.it/feed.xml" rel="self" type="application/rss+xml" />
   <item>
-    <title>Cloud Computing: La Tua Guida Rapida</title>
+    <title>Cloud Computing per Progetti IoT: guida pratica</title>
     <link>https://bitwaiz.it/cloud-computing-cloud-computing-2/</link>
     <guid isPermaLink="true">https://bitwaiz.it/cloud-computing-cloud-computing-2/</guid>
     <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
-    <description><![CDATA[Immagina di poter usare un computer potente, con tantissimo spazio di archiviazione e software sofisticati, senza doverlo possedere o manten…]]></description>
+    <description><![CDATA[Se fai progetti con sensori, Arduino o ESP32, il cloud ti risolve un problema semplice: dove metto i dati e come li vedo bene?]]></description>
   </item>
   <item>
-    <title>Cos&#x27;è il Cloud Computing?</title>
-    <link>https://bitwaiz.it/cloud-computing-cloud-computing/</link>
-    <guid isPermaLink="true">https://bitwaiz.it/cloud-computing-cloud-computing/</guid>
-    <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
-    <description><![CDATA[Il cloud computing è un concetto che può sembrare complesso all'inizio, ma in realtà si tratta di un modo molto pratico di utilizzare i comp…]]></description>
-  </item>
-  <item>
-    <title>Cos&#x27;è l&#x27;Intelligenza Artificiale?</title>
+    <title>Cos&#x27;è l&#x27;Intelligenza Artificiale? Guida semplice</title>
     <link>https://bitwaiz.it/intelligenza-artificiale-intelligenza-artificiale-2/</link>
     <guid isPermaLink="true">https://bitwaiz.it/intelligenza-artificiale-intelligenza-artificiale-2/</guid>
     <pubDate>Fri, 27 Mar 2026 12:00:00 GMT</pubDate>
-    <description><![CDATA[L'intelligenza artificiale (AI) è un concetto che spesso evoca immagini di robot senzienti e scenari futuristici. In realtà, l'AI è molto pi…]]></description>
+    <description><![CDATA[Quando senti &quot;intelligenza artificiale&quot;, pensa prima a questo: software che impara dai dati e ti aiuta a fare compiti in modo piu veloce.]]></description>
   </item>
   <item>
     <title>Diventa un Esperto di Cybersecurity: Proteggi il Futuro Digitale</title>

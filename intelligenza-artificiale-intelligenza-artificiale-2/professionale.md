@@ -1,6 +1,8 @@
 # Cos'è l'Intelligenza Artificiale?
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
 
 
 
@@ -45,9 +47,12 @@ L'AI viene utilizzata in una vasta gamma di applicazioni, tra cui assistenti voc
 *   Machine Learning: [https://it.wikipedia.org/wiki/Machine_learning](https://it.wikipedia.org/wiki/Machine_learning)
 *   Deep Learning: [https://it.wikipedia.org/wiki/Deep_learning](https://it.wikipedia.org/wiki/Deep_learning)
 
+
+
 ## Fonti
 
+- [Machine learning (Wikipedia)](https://it.wikipedia.org/wiki/Machine_learning)
+- [Deep learning (Wikipedia)](https://it.wikipedia.org/wiki/Deep_learning)
 - [Intelligenza artificiale - Wikipedia](https://it.wikipedia.org/wiki/Intelligenza_artificiale)
 - [Che cos'è l'intelligenza artificiale (AI)? | Google Cloud](https://cloud.google.com/learn/what-is-artificial-intelligence?hl=it)
-- [Come funziona l'intelligenza artificiale - Salvatore Aranzulla](https://www.aranzulla.it/come-funziona-lintelligenza-artificiale-1499915.html)
-- [Intelligènza artificiale - Enciclopedia - Treccani](https://www.treccani.it/enciclopedia/intelligenza-artificiale/)
+- [Intelligenza artificiale - Treccani](https://www.treccani.it/enciclopedia/intelligenza-artificiale/)
