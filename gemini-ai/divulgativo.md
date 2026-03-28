@@ -1,6 +1,11 @@
 # porcelana # Gemini: il nuovo gigante dell'IA di Google
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
+
+
+
+
 
 
 
@@ -77,18 +82,14 @@ Gemini utilizza una combinazione di tecniche di apprendimento automatico, tra cu
 
 ### Qual è la differenza tra Gemini e ChatGPT?
 
-[Gemini è un modello linguistico multimodale sviluppato da Google, progettato per comprendere e generare contenuti in diversi formati, inclusi testo, immagini, audio e video. ChatGPT, sviluppato da OpenAI, è principalmente un modello linguistico testuale, sebbene sia in fase di sviluppo di funzionalità multimodali. Gemini si distingue per la sua architettura multimodale e l'integrazione con l'ecosistema Google, mentre ChatGPT è noto per la sua capacità di conversazione fluida e la sua vasta base di utenti.]
-
+Gemini è un modello linguistico multimodale sviluppato da Google, progettato per comprendere e generare contenuti in diversi formati, inclusi testo, immagini, audio e video. ChatGPT, sviluppato da OpenAI, è principalmente un modello linguistico testuale, sebbene sia in fase di sviluppo di funzionalità multimodali. Gemini si distingue per la sua architettura multimodale e l'integrazione con l'ecosistema Google, mentre ChatGPT è noto per la sua capacità di conversazione fluida e la sua vasta base di utenti.
 ### Come posso accedere a Gemini?
 
 [Gemini è attualmente disponibile tramite il sito web di Google AI ([https://ai.google.dev/](https://ai.google.dev/)) e tramite l'app Gemini sul tuo smartphone. Puoi anche accedere a Gemini tramite l'API Google AI per integrarlo nelle tue applicazioni.]
 
 ### Quanto costa usare Gemini?
 
-[Gemini offre un piano gratuito con funzionalità limitate e piani a pagamento (Gemini Pro e Gemini Ultra) con accesso a funzionalità avanzate e maggiore capacità di elaborazione. I prezzi variano a seconda del piano scelto e dell'utilizzo.]
-
-
-
+Gemini offre un piano gratuito con funzionalità limitate e piani a pagamento (Gemini Pro e Gemini Ultra) con accesso a funzionalità avanzate e maggiore capacità di elaborazione. I prezzi variano a seconda del piano scelto e dell'utilizzo.
 ## Domande frequenti
 
 ### Cosa è Gemini?
@@ -105,6 +106,11 @@ Attualmente, Google offre diverse opzioni di abbonamento per Gemini, tra cui un 
 
 ### Come posso accedere a Gemini?
 Puoi accedere a Gemini tramite il sito web ufficiale di Google AI ([https://gemini.google/it/subscriptions/?hl=it](https://gemini.google/it/subscriptions/?hl=it)) o tramite l'app mobile di Google.
+
+
+
+
+
 
 
 

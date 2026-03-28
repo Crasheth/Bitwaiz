@@ -1,6 +1,11 @@
 # Shredder # Titolo
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
+
+
+
+
 
 
 
@@ -57,19 +62,13 @@ Ecco i punti chiave da tenere a mente:
 
 ### Cosa posso fare con l'intelligenza artificiale?
 
-[L'intelligenza artificiale offre un'ampia gamma di possibilità, dalla creazione di immagini realistiche con l'AI generativa, alla modifica di foto esistenti, fino all'utilizzo di app che automatizzano compiti quotidiani.  Le app AI possono aiutarti a scrivere email, tradurre lingue, creare presentazioni e persino pianificare viaggi.  L'AI generativa, in particolare, sta aprendo nuove frontiere nella creatività, permettendo a chiunque di creare opere d'arte, musica e video senza bisogno di competenze specialistiche.]
-
+L'intelligenza artificiale offre un'ampia gamma di possibilità, dalla creazione di immagini realistiche con l'AI generativa, alla modifica di foto esistenti, fino all'utilizzo di app che automatizzano compiti quotidiani.  Le app AI possono aiutarti a scrivere email, tradurre lingue, creare presentazioni e persino pianificare viaggi.  L'AI generativa, in particolare, sta aprendo nuove frontiere nella creatività, permettendo a chiunque di creare opere d'arte, musica e video senza bisogno di competenze specialistiche.
 ### Come posso usare l'AI per modificare le mie foto?
 
-[Esistono diverse app e strumenti basati sull'AI che ti permettono di modificare le tue foto in modo semplice e intuitivo. Puoi utilizzare l'AI per rimuovere oggetti indesiderati, cambiare lo sfondo, migliorare la qualità dell'immagine, applicare effetti artistici o persino generare nuove immagini partendo da una foto esistente. Alcune app, come Remini o YouCam Perfect, sono particolarmente popolari per la loro facilità d'uso e la qualità dei risultati.]
-
+Esistono diverse app e strumenti basati sull'AI che ti permettono di modificare le tue foto in modo semplice e intuitivo. Puoi utilizzare l'AI per rimuovere oggetti indesiderati, cambiare lo sfondo, migliorare la qualità dell'immagine, applicare effetti artistici o persino generare nuove immagini partendo da una foto esistente. Alcune app, come Remini o YouCam Perfect, sono particolarmente popolari per la loro facilità d'uso e la qualità dei risultati.
 ### Quali sono le domande più frequenti sull'intelligenza artificiale?
 
-[Le domande più frequenti sull'intelligenza artificiale riguardano il suo impatto sul lavoro, la sua sicurezza, la sua etica e il suo potenziale futuro. Molti si chiedono se l'AI sostituirà i lavoratori umani, come possiamo garantire che l'AI sia utilizzata in modo responsabile e come possiamo prevenire che l'AI venga utilizzata per scopi dannosi.  Altre domande riguardano la velocità dello sviluppo dell'AI e la sua capacità di raggiungere l'intelligenza generale.]
-
-
-
-
+Le domande più frequenti sull'intelligenza artificiale riguardano il suo impatto sul lavoro, la sua sicurezza, la sua etica e il suo potenziale futuro. Molti si chiedono se l'AI sostituirà i lavoratori umani, come possiamo garantire che l'AI sia utilizzata in modo responsabile e come possiamo prevenire che l'AI venga utilizzata per scopi dannosi.  Altre domande riguardano la velocità dello sviluppo dell'AI e la sua capacità di raggiungere l'intelligenza generale.
 ## Domande frequenti
 
 ### Cosa si intende per intelligenza artificiale?
@@ -86,6 +85,11 @@ Creare immagini con l'intelligenza artificiale è diventato accessibile a tutti 
 
 ### Come posso modificare le mie foto con l'intelligenza artificiale?
 Gli strumenti di modifica delle foto basati sull'intelligenza artificiale possono automatizzare molte attività che richiederebbero molto tempo e competenza. Possono correggere automaticamente il colore, la luminosità e il contrasto, rimuovere oggetti indesiderati, migliorare la nitidezza e persino creare effetti artistici.
+
+
+
+
+
 
 
 

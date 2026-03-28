@@ -1,6 +1,11 @@
 # Cos'è l'Intelligenza Artificiale? Guida semplice
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
+
+
+
 
 
 
@@ -36,6 +41,7 @@ L'AI dipende dai dati:
 
 Regola pratica: usala come copilota, non come pilota automatico cieco.
 
+
 ## Domande frequenti
 
 ### Cosa significa machine learning?
@@ -57,7 +63,6 @@ Per riassunti, bozze, analisi preliminari e automazioni semplici, con verifica u
 
 - [Machine learning (Wikipedia)](https://it.wikipedia.org/wiki/Machine_learning)
 - [Deep learning (Wikipedia)](https://it.wikipedia.org/wiki/Deep_learning)
-
 
 
 

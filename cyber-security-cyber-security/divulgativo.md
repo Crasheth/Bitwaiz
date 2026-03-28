@@ -1,8 +1,10 @@
-# ‚# Sicurezza Informatica: Una Guida Introduttiva
+# Sicurezza Informatica: Una Guida Introduttiva
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
 
-‚# Sicurezza Informatica: Una Guida Introduttiva
+
+
+
 
 
 La sicurezza informatica è un campo vasto e spesso intimidatorio, ma alla base c'è un concetto semplice: proteggere le informazioni e i sistemi digitali da accessi non autorizzati, danni o furti. Questo articolo ti fornirà una panoramica introduttiva, spiegando cos'è la sicurezza informatica, perché è importante e quali sono i concetti chiave.  Se sei un utente finale, imparerai a proteggere i tuoi dispositivi e dati. Se sei un professionista, otterrai una base solida per approfondire l'argomento.
@@ -54,6 +56,11 @@ Secondo le fonti, puoi proteggere i tuoi dispositivi e dati utilizzando password
 
 *   [ISO 27001](https://www.iso.org/isoiec27001-information-security.html) – Standard internazionale per la gestione della sicurezza delle informazioni.
 *   [Cyber security](https://en.wikipedia.org/wiki/Cyber_security) – Definizione di cyber security su Wikipedia.
+
+
+
+
+
 
 
 ## Fonti

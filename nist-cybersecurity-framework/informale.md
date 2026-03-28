@@ -1,6 +1,11 @@
 # NIST Cybersecurity Framework
 
-> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
+
+
+
+
 
 
 
@@ -40,6 +45,7 @@ Il CSF nasce dalla necessità di fornire un approccio standardizzato alla sicure
 Il CSF si è rapidamente diffuso a livello globale, diventando un punto di riferimento per le aziende, le pubbliche amministrazioni e le organizzazioni non profit. La sua natura volontaria e il suo approccio basato sul rischio lo rendono particolarmente adatto a contesti in cui le risorse sono limitate e la complessità delle minacce informatiche è in continua crescita. Il framework aiuta a concentrare gli sforzi di sicurezza sulle aree più critiche, migliorando l’efficacia delle misure di protezione e riducendo il rischio di incidenti informatici.
 
 
+
 ## Domande Frequenti
 
 ### Cosa è il NIST Cybersecurity Framework?
@@ -71,36 +77,12 @@ Il CSF è particolarmente importante per le PMI, che spesso hanno risorse limita
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Fonti
 
-- [NIST Cybersecurity Framework](https://en.wikipedia.org/wiki/NIST_Cybersecurity_Framework)
-- [NIST Cybersecurity Framework](https://grokipedia.com/page/NIST_Cybersecurity_Framework)
-- [Cybersecurity Framework | NIST](https://www.nist.gov/cyberframework)
-- [The NIST Cybersecurity Framework (CSF) 2](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)
+- [cdn.comparitech.com](https://cdn.comparitech.com/wp-content/uploads/2021/07/Nist-02-scaled.jpg)
+- [it.wikipedia.org](https://it.wikipedia.org/wiki/Gestione_del_rischio_informatico)
+- [it.wikipedia.org](https://it.wikipedia.org/wiki/Sicurezza_informatica)
+- [en.wikipedia.org](https://en.wikipedia.org/wiki/NIST_Cybersecurity_Framework)
+- [grokipedia.com](https://grokipedia.com/page/NIST_Cybersecurity_Framework)
+- [www.nist.gov](https://www.nist.gov/cyberframework)
+- [nvlpubs.nist.gov](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)

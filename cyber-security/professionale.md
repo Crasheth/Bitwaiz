@@ -1,6 +1,11 @@
 # Cyber Security
 
-> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
+
+
+
 
 
 
@@ -65,6 +70,11 @@ Per migliorare la sicurezza delle tue informazioni, dovresti implementare una se
 *   Conformità normativa
 *   Sicurezza delle reti
 *   Sicurezza delle applicazioni
+
+
+
+
+
 
 
 

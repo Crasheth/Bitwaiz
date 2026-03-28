@@ -1,6 +1,11 @@
 # Il Framework di Cybersecurity NIST: Una Guida Tecnica
 
-> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
+
+
+
+
 
 
 
@@ -62,6 +67,7 @@ Il CSF è modulare e adattabile, consentendo alle organizzazioni di selezionare 
 Il NIST Cybersecurity Framework offre un approccio pragmatico e flessibile alla gestione del rischio di cybersecurity. L’adozione del framework consente alle organizzazioni di migliorare la propria postura di sicurezza, comunicare efficacemente i rischi e allineare le proprie attività di sicurezza agli obiettivi aziendali. Il CSF non è una soluzione "taglia unica", ma uno strumento potente che, se implementato correttamente, può contribuire in modo significativo alla protezione degli asset digitali.
 
 
+
 ## Domande Frequenti
 
 ### Cosa è il NIST Cybersecurity Framework?
@@ -93,36 +99,12 @@ Il CSF è particolarmente importante per le PMI, che spesso hanno risorse limita
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Fonti
 
-- [NIST Cybersecurity Framework](https://en.wikipedia.org/wiki/NIST_Cybersecurity_Framework)
-- [NIST Cybersecurity Framework](https://grokipedia.com/page/NIST_Cybersecurity_Framework)
-- [Cybersecurity Framework | NIST](https://www.nist.gov/cyberframework)
-- [The NIST Cybersecurity Framework (CSF) 2](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)
+- [cdn.comparitech.com](https://cdn.comparitech.com/wp-content/uploads/2021/07/Nist-02-scaled.jpg)
+- [it.wikipedia.org](https://it.wikipedia.org/wiki/Gestione_del_rischio_informatico)
+- [it.wikipedia.org](https://it.wikipedia.org/wiki/Sicurezza_informatica)
+- [en.wikipedia.org](https://en.wikipedia.org/wiki/NIST_Cybersecurity_Framework)
+- [grokipedia.com](https://grokipedia.com/page/NIST_Cybersecurity_Framework)
+- [www.nist.gov](https://www.nist.gov/cyberframework)
+- [nvlpubs.nist.gov](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)

@@ -1,6 +1,11 @@
 # ## Cos'è l'Intelligenza Artificiale?
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
+
+
+
 
 
 
@@ -15,25 +20,28 @@ Ti sei mai chiesto cosa si nasconde dietro i sistemi di raccomandazione di Netfl
 L'AI si basa su diversi approcci, ma il più diffuso è il *Machine Learning* (ML). Immagina di voler insegnare a un computer a riconoscere un gatto. Invece di programmare esplicitamente ogni regola per identificare un gatto (forma delle orecchie, tipo di pelo, ecc.), fornisci al computer un enorme set di immagini di gatti e algoritmi che gli permettono di imparare autonomamente a riconoscere i gatti. Questo processo di apprendimento avviene attraverso l'analisi di grandi quantità di dati. Un altro approccio importante è il *Deep Learning*, che utilizza reti neurali artificiali con molti strati per analizzare i dati in modo ancora più complesso.
 
 
-## Domande Frequenti
 
-### Cosa significa "machine learning"?
+## Domande frequenti
 
-È un tipo di AI in cui i sistemi imparano dai dati per identificare pattern ed effettuare previsioni o prendere decisioni senza una programmazione diretta. Immagina di insegnare a un computer a riconoscere un uccello mostrandogli migliaia di immagini di uccelli: imparerà da solo come appare un uccello.
+### Cosa significa machine learning?
+E' un metodo in cui il software impara da esempi reali invece di seguire solo regole scritte a mano.
 
-### Qual è la differenza tra machine learning e deep learning?
+### Differenza tra machine learning e deep learning?
+Il deep learning e una sottofamiglia del machine learning, piu adatta a problemi complessi come immagini, audio e linguaggio naturale.
 
-Il machine learning è un campo più ampio che include diversi algoritmi di apprendimento dai dati. Il deep learning è un sottocampo del machine learning che utilizza reti neurali artificiali con molti strati per analizzare dati complessi come immagini e testo.
+### L'AI sostituisce tutte le persone?
+No. In molti casi automatizza parti ripetitive, ma resta essenziale il controllo umano, soprattutto per decisioni critiche.
 
-### Come viene utilizzata l'AI nella vita di tutti i giorni?
+### Perche a volte l'AI "allucina"?
+Perche puo generare testo plausibile senza verificare la verita fattuale come farebbe un motore con fonti certificate.
 
-L'AI viene utilizzata in una vasta gamma di applicazioni, tra cui assistenti vocali, raccomandazioni personalizzate, riconoscimento facciale, guida autonoma e diagnosi medica.
+### Come usarla in modo utile subito?
+Per riassunti, bozze, analisi preliminari e automazioni semplici, con verifica umana finale.
 
 ## Vedi anche
 
-*   Machine Learning: [https://it.wikipedia.org/wiki/Machine_learning](https://it.wikipedia.org/wiki/Machine_learning)
-*   Deep Learning: [https://it.wikipedia.org/wiki/Deep_learning](https://it.wikipedia.org/wiki/Deep_learning)
-
+- [Machine learning (Wikipedia)](https://it.wikipedia.org/wiki/Machine_learning)
+- [Deep learning (Wikipedia)](https://it.wikipedia.org/wiki/Deep_learning)
 
 
 

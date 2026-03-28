@@ -1,6 +1,11 @@
 # Capsula AI: Gemini Google AI
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
+
+
+
+
 
 
 
@@ -93,6 +98,11 @@ Attualmente, Google offre diverse opzioni di abbonamento per Gemini, tra cui un 
 
 ### Come posso accedere a Gemini?
 Puoi accedere a Gemini tramite il sito web ufficiale di Google AI ([https://gemini.google/it/subscriptions/?hl=it](https://gemini.google/it/subscriptions/?hl=it)) o tramite l'app mobile di Google.
+
+
+
+
+
 
 
 

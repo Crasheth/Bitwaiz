@@ -1,6 +1,11 @@
 # Automazione
 
-> La tecnologia migliore è quella che scompare. — Mark Weiser.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
+
+
+
 
 
 
@@ -99,6 +104,11 @@ L’automazione non è un concetto nuovo: le prime forme di automazione risalgon
 
 
 ![automazione](https://www.kablator.com/wp-content/uploads/2024/03/Automazione-robotica-industriale-Kablator.png)
+
+
+
+
+
 
 
 

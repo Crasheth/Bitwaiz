@@ -1,6 +1,12 @@
 # Doom # Password Manager
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
+
+
+
+
+
 
 Doom # Password Manager
 
@@ -22,6 +28,7 @@ Un password manager non è solo un salvataggio di password. Spesso include strum
 ### Come proteggere le mie password?
 
 Oltre a utilizzare un password manager, è fondamentale abilitare l'autenticazione a due fattori (2FA) su tutti gli account che lo supportano. Questo aggiunge un ulteriore livello di sicurezza, richiedendo un codice di verifica oltre alla password per accedere al tuo account.
+
 
 
 ## Domande frequenti
@@ -47,9 +54,14 @@ La verifica in due passaggi aggiunge un ulteriore livello di sicurezza al tuo ac
 Oltre a utilizzare una password forte e abilitare la verifica in due passaggi, è importante essere consapevoli delle minacce alla sicurezza online e adottare misure per proteggere il tuo account, come evitare di cliccare su link sospetti e utilizzare un software antivirus.
 
 
+
+
+
 ## Fonti
 
-- [Comparison of Google Password Manager and Brave Password Manager](https://grokipedia.com/page/Comparison_of_Google_Password_Manager_and_Brave_Password_Manager)
-- [Gestore dellepassworddiGoogle](https://passwords.google.com/intro?hl=it)
-- [GooglePasswordGenerator | Create a Strong and SecurePassword...](https://taskmate.digital/tools/google-password-generator)
-- [How to See Your GmailPasswordif You Forgot it!! - YouTube](https://www.youtube.com/watch?v=sVCadTCAfLs)
+- [passwords.google.com](https://passwords.google.com/)
+- [grokipedia.com](https://grokipedia.com/page/Comparison_of_Google_Password_Manager_and_Brave_Password_Manager)
+- [passwords.google.com](https://passwords.google.com/intro?hl=it)
+- [taskmate.digital](https://taskmate.digital/tools/google-password-generator)
+- [www.youtube.com](https://www.youtube.com/watch?v=sVCadTCAfLs)
+- [www.popsci.com](https://www.popsci.com/wp-content/uploads/2025/03/02-android.jpg)

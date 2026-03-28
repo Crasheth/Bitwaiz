@@ -1,6 +1,11 @@
 # NIST Cybersecurity Framework
 
-> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
+
+
+
+
 
 
 
@@ -43,6 +48,7 @@ Il CSF è nato dalla necessità di armonizzare gli approcci alla sicurezza infor
 Il CSF è composto da tre componenti principali: Core Functions, Structures, e Configuration. Le Core Functions rappresentano le attività fondamentali per la gestione del rischio cibernetico, tra cui l'Identificazione, la Protezione, la Rilevazione, la Risposta e il Recupero. Le Structures definiscono le modalità di organizzazione e governance della sicurezza informatica all'interno di un'organizzazione, mentre la Configuration si riferisce alla selezione e all'implementazione di controlli di sicurezza specifici per mitigare i rischi identificati.  Il framework utilizza un approccio basato sul rischio, in cui le organizzazioni valutano i propri rischi, definiscono le proprie priorità e implementano i controlli di sicurezza più appropriati per ridurre tali rischi.  Il CSF fornisce anche linee guida per la gestione delle supply chain, riconoscendo che i rischi cibernetici possono derivare anche da fornitori terzi.  Infine, il framework include un sistema di livelli di implementazione (Tier 1, Tier 2, Tier 3) che consente alle organizzazioni di adattare il framework alle proprie capacità e risorse.
 
 
+
 ## Domande Frequenti
 
 ### Cosa è il NIST Cybersecurity Framework?
@@ -69,42 +75,17 @@ Il CSF è particolarmente importante per le PMI, che spesso hanno risorse limita
 
 *   **Threat Intelligence:** La raccolta e l'analisi di informazioni sulle minacce informatiche per migliorare la consapevolezza e la capacità di risposta.
 *   **Security Orchestration, Automation and Response (SOAR):**  Soluzioni che automatizzano e orchestrano le attività di sicurezza per migliorare l'efficienza e la reattività.
-*   **MISP:** Piattaforma open source per la condivisione strutturata di indicatori di compromissione (IOC) e informazioni di threat intelligence.
-*   **MITRE ATT&CK:** Knowledge base che descrive tattiche e tecniche usate dagli attaccanti; non e la stessa cosa di MISP.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*   **MisP (MITRE ATT&CK):** Un knowledge base che descrive le tattiche e le tecniche utilizzate dagli aggressori informatici.
 
 
 
 
 ## Fonti
 
-- [NIST Cybersecurity Framework](https://en.wikipedia.org/wiki/NIST_Cybersecurity_Framework)
-- [NIST Cybersecurity Framework](https://grokipedia.com/page/NIST_Cybersecurity_Framework)
-- [Cybersecurity Framework | NIST](https://www.nist.gov/cyberframework)
-- [The NIST Cybersecurity Framework (CSF) 2](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)
+- [cdn.comparitech.com](https://cdn.comparitech.com/wp-content/uploads/2021/07/Nist-02-scaled.jpg)
+- [it.wikipedia.org](https://it.wikipedia.org/wiki/Gestione_del_rischio_informatico)
+- [it.wikipedia.org](https://it.wikipedia.org/wiki/Sicurezza_informatica)
+- [en.wikipedia.org](https://en.wikipedia.org/wiki/NIST_Cybersecurity_Framework)
+- [grokipedia.com](https://grokipedia.com/page/NIST_Cybersecurity_Framework)
+- [www.nist.gov](https://www.nist.gov/cyberframework)
+- [nvlpubs.nist.gov](https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf)

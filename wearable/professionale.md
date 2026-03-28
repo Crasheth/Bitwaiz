@@ -83,6 +83,11 @@
 
 
 
+
+
+
+
+
 stenosis_del_corno_cardiaco_e_sindrome_di_Marfan
 
 
@@ -97,6 +102,11 @@ Ecco i punti chiave relativi ai WCD:
 *   **Limitazioni**: Nonostante l'elevata efficacia nel terminare i VFA, i WCD non hanno dimostrato di ridurre significativamente la mortalità per aritmia in tutti gli studi.
 
 È un tema in evoluzione.
+
+
+
+
+
 
 
 

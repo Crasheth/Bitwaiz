@@ -40,6 +40,12 @@ Se hai dimenticato la tua password, Google offre un processo di recupero semplif
 
 
 
+## Come la vedo io
+
+Su **Gestire le proprie password con Google: una guida pratica** il quadro che uso nel **playbook** quotidiano è lineare: osservo i **log**, accetto il **flusso** degli incidenti senza dramma da manuale. La **consapevolezza** qui è operativa — come curare un **giardino**: controlli, correggi, ripeti.
+
+
+
 ## Domande frequenti
 
 ### Qual è la differenza tra password e password manager?
