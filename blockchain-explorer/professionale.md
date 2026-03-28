@@ -1,6 +1,9 @@
 # Analisi dello Stato del Mercato Cripto: Panoramica e Indicatori Chiave
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> Il denaro è uno strumento che ci permette di ottenere ciò che vogliamo. — Naval Ravikant.
+
+
+
 
 
 
@@ -65,6 +68,9 @@ Secondo le fonti disponibili, il mercato delle criptovalute presenta un panorama
 
 
 ![blockchain explorer](https://media.pmf-research.eu/pmf-research.eu/wp-content/uploads/2023/09/Blockchain-explorer-2-EN.jpg)
+
+
+
 
 
 

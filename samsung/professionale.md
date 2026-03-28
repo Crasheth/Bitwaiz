@@ -1,6 +1,9 @@
 # sportswear # Titolo
 
-> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
+
 
 
 
@@ -100,6 +103,9 @@ Samsung Electronics sta adottando misure per ridurre il suo impatto ambientale, 
 ### Quali sono i principali concorrenti di Samsung Electronics?
 
 I principali concorrenti di Samsung Electronics includono Apple, Huawei e Xiaomi.
+
+
+
 
 
 

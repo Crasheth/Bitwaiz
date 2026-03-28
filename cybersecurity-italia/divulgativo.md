@@ -1,6 +1,9 @@
 # Cybersecurity in Italia: Un’Onda di Attacchi e la Necessità di Cambiare Prospettiva
 
-> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
+
+
 
 
 
@@ -98,6 +101,9 @@ L'ItaliaSec Cyber Summit, che si terrà a Milano, rappresenta un'occasione unica
 
 
 ![cybersecurity italia](https://www.cybersecitalia.it/wp-content/uploads/2022/03/cybersec2022-prima-edizione.jpg)
+
+
+
 
 
 

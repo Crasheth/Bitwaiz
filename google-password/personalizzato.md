@@ -1,6 +1,9 @@
 # Gestire le proprie password con Google: una guida pratica
 
-> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
+
 
 
 
@@ -67,6 +70,9 @@ La verifica in due passaggi aggiunge un ulteriore livello di sicurezza al tuo ac
 ### Come posso proteggere il mio account Google da hacker?
 
 Oltre a utilizzare una password forte e abilitare la verifica in due passaggi, è importante essere consapevoli delle minacce alla sicurezza online e adottare misure per proteggere il tuo account, come evitare di cliccare su link sospetti e utilizzare un software antivirus.
+
+
+
 
 
 
