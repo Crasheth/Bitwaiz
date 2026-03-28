@@ -1,6 +1,9 @@
 # ingale, il flusso del Tao si fa strada attraverso il caos dell'informazione, ogni chatbot un respiro nel sistema complesso dell'intelligenza artificiale. Il log, come il respiro, non è una linea retta, ma un percorso che segue il punto più basso, un'evoluzione costante. Il vuoto è trasparenza, la vera comprensione nasce dalla consapevolezza dell'assenza di preconcetti. Le abitudini forgiano la mente, e l'interazione con questi agenti virtuali plasma la nostra percezione della realtà.
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
+
 
 
 
@@ -93,6 +96,9 @@ I chatbot, dalle loro origini semplici agli attuali modelli generativi, rapprese
 
 
 ![chatbot](https://images.prismic.io/intuzwebsite/d9daef05-a416-4e84-b0f8-2d5e2e3b58d8_A+Comprehensive+Guide+to+Building+an+AI+Chatbot@2x.png?w=2400&q=80&auto=format,compress&fm=png8)
+
+
+
 
 
 

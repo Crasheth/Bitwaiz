@@ -1,6 +1,9 @@
 # Cos'è l'Intelligenza Artificiale?
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
+
+
 
 
 
@@ -46,6 +49,9 @@ L'AI viene utilizzata in una vasta gamma di applicazioni, tra cui assistenti voc
 
 *   Machine Learning: [https://it.wikipedia.org/wiki/Machine_learning](https://it.wikipedia.org/wiki/Machine_learning)
 *   Deep Learning: [https://it.wikipedia.org/wiki/Deep_learning](https://it.wikipedia.org/wiki/Deep_learning)
+
+
+
 
 
 
