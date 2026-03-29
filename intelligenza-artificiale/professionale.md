@@ -1,6 +1,8 @@
 # L’Intelligenza Artificiale preoccupa – LA BARBA DI DIOGENE
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+
 
 
 
@@ -110,6 +112,8 @@ Il dibattito sull’IA è in costante evoluzione, con nuove scoperte e sviluppi 
 Il progresso tecnologico nell'ambito dell'IA presenta sia opportunità che sfide. È essenziale sfruttare il potenziale dell'IA per migliorare la nostra vita, mitigando al contempo i rischi associati al suo utilizzo.
 
 La gestione dell'IA richiede un approccio multidisciplinare, che coinvolga esperti di diversi settori, tra cui informatica, filosofia, etica e diritto. Solo attraverso una collaborazione efficace possiamo garantire che l'IA sia utilizzata in modo responsabile e sostenibile.
+
+
 
 
 

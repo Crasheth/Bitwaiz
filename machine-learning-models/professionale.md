@@ -1,6 +1,8 @@
 # Machine Learning: Modelli, Tecniche e Applicazioni
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+
 
 
 
@@ -117,6 +119,8 @@ Le applicazioni del machine learning sono in continua espansione, guidate dalla 
 *   **Raccomandazione di prodotti:** Sistemi di raccomandazione utilizzati da piattaforme come Amazon e Netflix.
 *   **Rilevamento di frodi:** Identificazione di transazioni fraudolente in tempo reale.
 *   **Guida autonoma:** Sviluppo di veicoli in grado di guidare da soli.
+
+
 
 
 

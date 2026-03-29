@@ -1,6 +1,8 @@
 # Bitcoin e Volatilità: Un'Analisi del Mercato
 
-> Il denaro è uno strumento che ci permette di ottenere ciò che vogliamo. — Naval Ravikant.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+
 
 
 
@@ -70,6 +72,8 @@ Il mercato delle criptovalute, e in particolare quello del Bitcoin, è noto per 
 
 
 ![blockchain explorer](https://media.pmf-research.eu/pmf-research.eu/wp-content/uploads/2023/09/Blockchain-explorer-2-EN.jpg)
+
+
 
 
 
