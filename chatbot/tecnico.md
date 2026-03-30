@@ -1,6 +1,8 @@
 # Chatbot: Intelligenza Artificiale Conversazionale e il Futuro dell'Interazione Uomo-Macchina
 
-> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
 
 
 
@@ -107,6 +109,8 @@ L'ascesa dei chatbot è strettamente legata allo sviluppo dell'intelligenza arti
 La crescente adozione dei chatbot è guidata anche da considerazioni pratiche, come il miglioramento dell'efficienza operativa e la riduzione dei costi.  "Ci sono solo due tipi di aziende che chiamano i propri clienti 'utenti': la droga e il software." — Edward Tufte. Questa osservazione evidenzia la tendenza a semplificare l'interazione, e i chatbot offrono un modo efficiente per gestire le richieste degli utenti, liberando risorse umane per compiti più complessi.
 
 Il futuro dei chatbot è promettente, con ulteriori progressi nell'intelligenza artificiale che promettono di migliorare ulteriormente la loro capacità di comprendere e rispondere alle esigenze degli utenti.  "I computer sono incredibilmente veloci, accurati e stupidi." — Leo Cherne.  Nonostante le limitazioni attuali, i chatbot rappresentano un passo fondamentale verso un'interazione uomo-macchina più naturale e intuitiva, e il loro impatto continuerà a crescere nei prossimi anni.
+
+
 
 
 

@@ -1,6 +1,8 @@
 # ⅓ Titolo: Droni, AI e il futuro dei sorveglianze: un'analisi tecnica
 
-> La tecnologia migliore è quella che scompare. — Mark Weiser.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
+
 
 
 
@@ -110,6 +112,8 @@ Ecco alcuni punti chiave:
 *   **Sfide e preoccupazioni:** L'uso diffuso dei droni solleva anche una serie di sfide e preoccupazioni, tra cui la sicurezza dei droni, la protezione dei dati, la responsabilità in caso di incidenti e il potenziale per un uso improprio.
 
 La combinazione di droni e AI rappresenta un cambiamento di paradigma nel campo della sorveglianza e della sicurezza. È un'evoluzione che richiede una riflessione attenta e un quadro normativo adeguato per garantire che queste tecnologie siano utilizzate in modo responsabile e nel rispetto dei diritti fondamentali.  Il futuro della sorveglianza è decisamente in volo.
+
+
 
 
 

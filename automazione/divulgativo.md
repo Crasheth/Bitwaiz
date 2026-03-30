@@ -1,6 +1,8 @@
 # Automazione
 
-> La tecnologia migliore è quella che scompare. — Mark Weiser.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -111,6 +113,8 @@ L’automazione non è un concetto nuovo: le prime forme di automazione risalgon
 
 
 ![automazione](https://www.kablator.com/wp-content/uploads/2024/03/Automazione-robotica-industriale-Kablator.png)
+
+
 
 
 

@@ -1,0 +1,33 @@
+# Cosa rende l'Action 2 diversa dalle altre action cam?
+
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
+L'Action 2 si distingue per il suo sistema modulare, che consente agli utenti di personalizzare la fotocamera in base alle proprie esigenze. A differenza delle action cam tradizionali, che offrono funzionalità limitate, l'Action 2 può essere facilmente trasformata in una fotocamera da selfie, una fotocamera da sport estremo o una fotocamera da avventura.
+
+# Quanto dura la batteria dell'Action 2?
+
+La durata della batteria dell'Action 2 dipende dall'utilizzo. In registrazione video 4K, può durare fino a 70 minuti, mentre in registrazione video a bassa risoluzione, può durare fino a 180 minuti. Il modulo di alimentazione estende la durata della batteria fino a 180 minuti.
+
+# Quali accessori sono compatibili con l'Action 2?
+
+L'Action 2 è compatibile con una vasta gamma di accessori, tra cui il touchscreen frontale, il modulo di alimentazione, il lanyard magnetico, il supporto per il casco, il supporto per il parapendio e il supporto per lo skateboard.
+
+# Quanto costa l'Action 2?
+
+Il prezzo dell'Action 2 varia a seconda del modello e degli accessori inclusi. Il prezzo base della Action 2 è di 399€, mentre il touchscreen frontale costa 199€ e il modulo di alimentazione costa 149€.
+
+## Vedi anche
+
+*   DJI Osmo Action 3: La action cam più piccola e leggera di DJI - [https://gizmoschamber.com/dji-osmo-action-3-the-smallest-and-lightest-action-camera-of-dji/](https://gizmoschamber.com/dji-osmo-action-3-the-smallest-and-lightest-action-camera-of-dji/)
+*   DJI Action 3: Action Cam Modulare - [https://www.dji.com/action-3](https://www.dji.com/action-3)
+
+
+## Fonti
+
+- [https://gizmoschamber.com/dji-osmo-action-3-the-smallest-and-lightest-action-camera-of-dji/](https://gizmoschamber.com/dji-osmo-action-3-the-smallest-and-lightest-action-camera-of-dji/)
+- [https://www.dji.com/action-3](https://www.dji.com/action-3)
+- [Action Cadienne](https://en.wikipedia.org/wiki/Action_Cadienne)
+- [News – AF Marcotec » DJI releases action cam: DJI](http://blog.marcotec-shop.de/en/dji-osmo-action/)
+- [DJI launches modular magnetic action cam Action 2 – The](https://thedeadpixelssociety.com/dji-launches-modular-magnetic-action-cam-action-2/)
+- [DJI Action 2, Modular & Versatile Action Cam - Gizmos](https://gizmoschamber.com/dji-action-2-modular-versatile-action-cam/)
