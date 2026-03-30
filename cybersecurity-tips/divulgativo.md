@@ -1,6 +1,9 @@
 # 5 Essential Cybersecurity Tips You’re Probably Overlooking
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
+
+
 
 
 
@@ -102,6 +105,9 @@ Ecco 5 consigli che vanno oltre il "cambia password" e "abilita l'autenticazione
 *   **Utilizza un gestore di password:** Un gestore di password può generare password complesse e univoche per ogni account, semplificando la gestione delle tue credenziali. È come avere un custode che protegge i tuoi tesori, assicurandosi che siano al sicuro e ben organizzati.
 
 Ricorda, la sicurezza digitale non è una soluzione a breve termine, ma un impegno continuo. Come un giardino zen, richiede manutenzione e attenzione costante per mantenere la sua bellezza e il suo equilibrio.
+
+
+
 
 
 

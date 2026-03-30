@@ -1,6 +1,9 @@
 #  Titolo: Informazioni sulla sicurezza delle informazioni
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
+
 
 
 
@@ -89,6 +92,9 @@ Per migliorare la sicurezza delle tue informazioni, dovresti implementare una se
 *   Conformità normativa
 *   Sicurezza delle reti
 *   Sicurezza delle applicazioni
+
+
+
 
 
 

@@ -1,6 +1,9 @@
 # Password Manager: Proteggere il Tuo Mondo Digitale
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
+
 
 
 
@@ -58,6 +61,9 @@ Sì, i password manager affidabili utilizzano crittografia avanzata e altre misu
 
 # Cosa succede se dimentico la mia password del password manager?
 La maggior parte dei password manager offre metodi di recupero della password, come domande di sicurezza o l'autenticazione a due fattori, per aiutarti a recuperare l'accesso al tuo account se dimentichi la tua password.
+
+
+
 
 
 

@@ -100,6 +100,9 @@
 
 
 
+
+
+
 L'automazione, in parole povere, significa fare le cose automaticamente, senza bisogno di intervento umano costante. Ma non è solo sostituire una macchina con un'altra; è un concetto molto più ampio che riguarda l'organizzazione di processi, l'uso di tecnologie e, in generale, qualsiasi sistema che riduce la necessità di lavoro manuale. Dalla catena di montaggio all'automazione domestica, l'idea di base è sempre la stessa: rendere le attività più efficienti e ripetitive.
 
 Ecco alcuni punti chiave sull'automazione:
@@ -125,6 +128,9 @@ Ecco alcuni punti chiave sull'automazione:
 
 
 ![automazione](https://www.kablator.com/wp-content/uploads/2024/03/Automazione-robotica-industriale-Kablator.png)
+
+
+
 
 
 

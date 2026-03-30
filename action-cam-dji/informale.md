@@ -1,6 +1,8 @@
 # Cosa rende l'Action 2 diversa dalle altre action cam?
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 L'Action 2 si distingue per il suo sistema modulare, che consente agli utenti di personalizzare la fotocamera in base alle proprie esigenze. A differenza delle action cam tradizionali, che offrono funzionalità limitate, l'Action 2 può essere facilmente trasformata in una fotocamera da selfie, una fotocamera da sport estremo o una fotocamera da avventura.
@@ -21,6 +23,8 @@ Il prezzo dell'Action 2 varia a seconda del modello e degli accessori inclusi. I
 
 *   DJI Osmo Action 3: La action cam più piccola e leggera di DJI - [https://gizmoschamber.com/dji-osmo-action-3-the-smallest-and-lightest-action-camera-of-dji/](https://gizmoschamber.com/dji-osmo-action-3-the-smallest-and-lightest-action-camera-of-dji/)
 *   DJI Action 3: Action Cam Modulare - [https://www.dji.com/action-3](https://www.dji.com/action-3)
+
+
 
 
 ## Fonti

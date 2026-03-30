@@ -21,6 +21,9 @@
 
 
 
+
+
+
 Se fai progetti con sensori, Arduino o ESP32, il cloud ti risolve un problema semplice: dove metto i dati e come li vedo bene?
 Invece di lasciare un PC acceso in casa a fare da server, mandi i dati su una piattaforma cloud e li controlli da dashboard.
 
@@ -76,6 +79,9 @@ Certo: elettronica sul campo, cloud per orchestrazione e lettura dati. E una cop
 
 - [Cloud storage](https://azure.microsoft.com/it-it/resources/cloud-computing-dictionary/cloud-storage)
 - [Cloud security](https://www.salesforce.com/eu/platform/cloud-computing/security/)
+
+
+
 
 
 

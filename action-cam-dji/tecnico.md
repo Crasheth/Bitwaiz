@@ -1,6 +1,6 @@
 # DJI Action 2: Analisi Tecnica di una Action Cam Modulare
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
 
 
 
@@ -52,7 +52,6 @@ La versatilità della DJI Action 2 la rende adatta a una vasta gamma di applicaz
 *   **Threat-Hunting:** La capacità di adattare la DJI Action 2 a diversi contesti e applicazioni può essere paragonata alle tecniche di threat-hunting, ovvero la ricerca proattiva di minacce informatiche in ambienti complessi.
 
 
-
 ## Domande frequenti
 
 # Cosa rende l'Action 2 diversa dalle altre action cam?
@@ -75,6 +74,8 @@ Il prezzo dell'Action 2 varia a seconda del modello e degli accessori inclusi. I
 
 *   DJI Osmo Action 3: La action cam più piccola e leggera di DJI - [https://gizmoschamber.com/dji-osmo-action-3-the-smallest-and-lightest-action-camera-of-dji/](https://gizmoschamber.com/dji-osmo-action-3-the-smallest-and-lightest-action-camera-of-dji/)
 *   DJI Action 3: Action Cam Modulare - [https://www.dji.com/action-3](https://www.dji.com/action-3)
+
+
 
 
 ## Fonti
