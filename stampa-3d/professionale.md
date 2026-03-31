@@ -1,6 +1,7 @@
 # Cosa significa "stampa 3D online"?
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 La stampa 3D online si riferisce al processo di commissionare la stampa di oggetti tridimensionali tramite piattaforme online, come PolyD, dove un fornitore specializzato gestisce l'intero ciclo di vita del prodotto, dalla preparazione del file alla stampa e, se necessario, alla post-elaborazione.
@@ -20,13 +21,13 @@ PolyD utilizza stampanti 3D professionali, controlli di qualità rigorosi e un t
 
 ## Domande frequenti
 
-# Quali sono le principali differenze tra stampa 3D e file per stampa 3D?
+### Quali sono le principali differenze tra stampa 3D e file per stampa 3D?
 La stampa 3D è il processo fisico di creazione di oggetti tridimensionali, mentre i file per stampa 3D sono i dati digitali che descrivono l'oggetto da produrre. Questi file contengono informazioni su dimensioni e forme geometriche necessarie alla stampante per creare l'oggetto.
 
-# Perché è importante avere un file stampa 3D prima di iniziare la stampa?
+### Perché è importante avere un file stampa 3D prima di iniziare la stampa?
 Un file stampa 3D garantisce che l'oggetto venga prodotto con precisione e conformità alle specifiche desiderate. Senza il file, la stampante non saprebbe come disporre le materie prime per formare l'oggetto.
 
-# Come si ottiene un file stampa 3D?
+### Come si ottiene un file stampa 3D?
 Un file stampa 3D può essere creato utilizzando software di modellazione CAD (Computer-Aided Design) o scansionando un oggetto reale con un dispositivo 3D. Questi metodi permettono di creare modelli dettagliati che possono poi essere utilizzati per la stampa.
 
 ## Introduzione
@@ -47,6 +48,7 @@ La stampa 3D è una tecnologia che ha trasformato molte industrie, offrendo solu
 
 - [Stampa 3D online - PolyD](https://polyd.com/it/)
 - [Stampa 3D Online | Preventivo Immediato, Servizio per Business e Privati](https://www.fama3d.com/it/)
+
 
 
 ## Fonti

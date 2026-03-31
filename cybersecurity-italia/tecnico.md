@@ -1,6 +1,12 @@
 # Italia: Un Ecosistema Cybersecurity in Crescita ma Ancora Fragile
 
-> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
+
+
+
+
+
 
 
 
@@ -108,6 +114,12 @@ L’Italia, supportata da eventi come l’ItaliaSec Cyber Summit, sta gradualmen
 
 
 ![cybersecurity italia](https://www.cybersecitalia.it/wp-content/uploads/2022/03/cybersec2022-prima-edizione.jpg)
+
+
+
+
+
+
 
 
 

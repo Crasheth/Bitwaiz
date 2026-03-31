@@ -1,6 +1,12 @@
 # Cos'è la Cybersecurity? Una guida semplice
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+
+
+
+
+
+
 
 
 
@@ -101,6 +107,12 @@ L'autenticazione a due fattori (2FA) aggiunge un ulteriore livello di sicurezza 
 
 *   **Gestione delle identità e degli accessi (IAM):**  Un approccio che si concentra sulla gestione delle identità digitali e sull'assegnazione dei privilegi di accesso.
 *   **Threat Intelligence:** Raccogliere e analizzare informazioni sulle minacce informatiche per anticipare e prevenire gli attacchi.
+
+
+
+
+
+
 
 
 

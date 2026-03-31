@@ -1,7 +1,6 @@
 # Stampa 3D Online: Prototipazione Rapida e Parti in Serie
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
-
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
 
 
 
@@ -26,21 +25,21 @@ La necessità di prototipi rapidi e di piccole serie di componenti personalizzat
 
 La stampa 3D online rappresenta un'opportunità significativa per le aziende e i professionisti che cercano di accelerare il processo di sviluppo di prodotti, ridurre i costi di produzione e creare componenti personalizzati. Sfruttando i vantaggi della stampa 3D, le aziende possono migliorare la loro competitività e innovare più rapidamente.
 
-# Domande frequenti
+## Domande frequenti
 
-# Qual è il processo di stampa 3D online?
+### Qual è il processo di stampa 3D online?
 Il processo di stampa 3D online inizia con la preparazione del file CAD del componente, che viene poi caricato sulla piattaforma del fornitore di servizi di stampa 3D. Il fornitore seleziona il materiale appropriato, configura la stampante 3D e avvia il processo di stampa. Una volta completata la stampa, il componente viene controllato, pulito e imballato per la spedizione.
 
-# Come posso scegliere il materiale giusto per la mia stampa 3D?
+### Come posso scegliere il materiale giusto per la mia stampa 3D?
 La scelta del materiale giusto dipende dalle specifiche esigenze dell'applicazione. Materiali comuni includono PLA, ABS, PETG e Nylon, ciascuno con proprietà diverse in termini di resistenza, flessibilità e resistenza al calore. È importante considerare fattori come la funzionalità del componente, l'ambiente operativo e i requisiti di resistenza meccanica.
 
-# Cosa sono i servizi "Nested Build" e come funzionano?
+### Cosa sono i servizi "Nested Build" e come funzionano?
 "Nested Build" è un servizio offerto da PolyD che consente di ottimizzare il costo di produzione dei componenti stampati in 3D. Invece di ordinare un singolo componente, gli utenti possono acquistare un volume di stampa predeterminato, che viene poi suddiviso in più parti per massimizzare l'utilizzo della stampante e ridurre i costi per unità.
 
-# Quali sono i formati di file supportati per la stampa 3D online?
+### Quali sono i formati di file supportati per la stampa 3D online?
 I servizi di stampa 3D online supportano una vasta gamma di formati di file CAD, tra cui STL, OBJ, 3MF e STEP. È importante assicurarsi che il file CAD sia compatibile con il software utilizzato dal fornitore di servizi di stampa 3D.
 
-# Quali sono le considerazioni per la stampa 3D di parti metalliche?
+### Quali sono le considerazioni per la stampa 3D di parti metalliche?
 La stampa 3D di parti metalliche richiede un'attenta selezione del materiale, la configurazione dei parametri di stampa e il post-processing appropriato. I materiali comuni includono acciaio inossidabile, titanio e alluminio, ciascuno con proprietà diverse in termini di resistenza, durezza e resistenza alla corrosione.
 
 ## Vedi anche
@@ -50,16 +49,15 @@ La stampa 3D di parti metalliche richiede un'attenta selezione del materiale, la
 *   [Stamp duty](https://en.wikipedia.org/wiki/Stamp_duty)
 
 
-
 ## Domande frequenti
 
-# Quali sono le principali differenze tra stampa 3D e file per stampa 3D?
+### Quali sono le principali differenze tra stampa 3D e file per stampa 3D?
 La stampa 3D è il processo fisico di creazione di oggetti tridimensionali, mentre i file per stampa 3D sono i dati digitali che descrivono l'oggetto da produrre. Questi file contengono informazioni su dimensioni e forme geometriche necessarie alla stampante per creare l'oggetto.
 
-# Perché è importante avere un file stampa 3D prima di iniziare la stampa?
+### Perché è importante avere un file stampa 3D prima di iniziare la stampa?
 Un file stampa 3D garantisce che l'oggetto venga prodotto con precisione e conformità alle specifiche desiderate. Senza il file, la stampante non saprebbe come disporre le materie prime per formare l'oggetto.
 
-# Come si ottiene un file stampa 3D?
+### Come si ottiene un file stampa 3D?
 Un file stampa 3D può essere creato utilizzando software di modellazione CAD (Computer-Aided Design) o scansionando un oggetto reale con un dispositivo 3D. Questi metodi permettono di creare modelli dettagliati che possono poi essere utilizzati per la stampa.
 
 ## Introduzione
@@ -80,6 +78,7 @@ La stampa 3D è una tecnologia che ha trasformato molte industrie, offrendo solu
 
 - [Stampa 3D online - PolyD](https://polyd.com/it/)
 - [Stampa 3D Online | Preventivo Immediato, Servizio per Business e Privati](https://www.fama3d.com/it/)
+
 
 
 ## Fonti

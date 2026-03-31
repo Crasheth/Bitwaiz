@@ -28,6 +28,12 @@
 
 
 
+
+
+
+
+
+
 Il cloud computing è diventato un elemento onnipresente nel panorama tecnologico moderno, ma spesso il suo significato rimane nebuloso. Questo articolo si propone di svelare le fondamenta di questo paradigma, esplorando i suoi principi chiave e il modo in cui si interseca con il concetto di osservazione e flusso, come un sistema complesso da comprendere e gestire. Analizzeremo le caratteristiche fondamentali del cloud, il suo impatto pratico e le implicazioni per chi opera nel campo della sicurezza informatica e del *threat hunting*. Imparerai a vedere il cloud non come un semplice insieme di server, ma come un ecosistema dinamico che richiede un approccio attento e consapevole.
 
 ## Cos'è il Cloud Computing?
@@ -76,6 +82,12 @@ Considera le tue esigenze specifiche, il budget, la sicurezza e la conformità n
 
 *   [Cloud Storage](https://azure.microsoft.com/it-it/resources/cloud-computing-dictionary/cloud-storage)
 *   [Cloud Security](https://www.salesforce.com/eu/platform/cloud-computing/security/)
+
+
+
+
+
+
 
 
 

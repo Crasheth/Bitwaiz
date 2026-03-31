@@ -1,6 +1,12 @@
 # L'Internet delle Cose: Quando le Cose Diventano Intelligenti
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
+
+
+
+
 
 
 
@@ -123,6 +129,12 @@ L'IoT non è solo una questione di tecnologia; è anche una questione di dati. L
 
 
 Il futuro dell'IoT è promettente, ma è fondamentale affrontare le sfide con un approccio responsabile e sostenibile.  L'IoT non è solo una tecnologia, ma un'opportunità per creare un mondo più efficiente, intelligente e connesso.
+
+
+
+
+
+
 
 
 
