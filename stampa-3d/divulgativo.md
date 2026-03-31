@@ -1,6 +1,7 @@
 # Stampa 3d
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 Il termine "file stampa 3D" si riferisce al modello digitale (solitamente in formato STL, OBJ o 3MF) che rappresenta la geometria dell'oggetto che si desidera creare tramite la stampa 3D. È come la "ricetta" per la stampante, contenente tutte le informazioni necessarie per costruire l'oggetto strato dopo strato.  Un file stampa 3D è essenzialmente un'immagine tridimensionale, ma con i dati necessari per la produzione.

@@ -1,6 +1,7 @@
 # Samsung smartphone
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 
 Risposta: Il Samsung Galaxy (2009) era dotato di un processore Qualcomm Snapdragon da 1 GHz. Questo processore, sebbene modesto per gli standard odierni, era all'avanguardia per l'epoca e forniva prestazioni sufficienti per l'esecuzione delle prime applicazioni Android.

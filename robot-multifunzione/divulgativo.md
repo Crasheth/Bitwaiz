@@ -1,6 +1,7 @@
 # Robot Multifunzione: Un'Arma Silenziosa per la Cucina
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
 
 
 
@@ -96,6 +97,7 @@ Dipende dal caso d'uso: in genere il valore sta nel rapporto tra prestazioni, co
 
 ### Quali limiti devo considerare su Robot Multifunzione: Un&#x27;Arma Silenziosa per la Cucina?
 Prima di adottarlo valuta limiti tecnici, lock-in, costi nel tempo e qualita del supporto/documentazione.
+
 
 
 

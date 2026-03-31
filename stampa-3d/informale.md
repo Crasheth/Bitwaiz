@@ -1,6 +1,7 @@
 # Stampa 3d
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 PolyD è un servizio che permette a privati e aziende di ottenere prototipi e piccole serie di pezzi in plastica, utilizzando stampanti 3D professionali. Offre la possibilità di creare oggetti personalizzati, partendo da un modello digitale (CAD), con una vasta gamma di materiali e finiture.

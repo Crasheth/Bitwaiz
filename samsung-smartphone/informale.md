@@ -1,6 +1,6 @@
 # Problemi di batteria dei telefoni Samsung
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
 
 
 

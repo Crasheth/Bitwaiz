@@ -1,6 +1,7 @@
 # Stampa 3d
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 La stampa 3D online si riferisce al processo di commissionare la stampa di oggetti tridimensionali tramite piattaforme online, come PolyD, dove un fornitore specializzato gestisce l'intero ciclo di vita del prodotto, dalla preparazione del file alla stampa e, se necessario, alla post-elaborazione.
