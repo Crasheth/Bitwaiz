@@ -1,7 +1,6 @@
-# Per chi è il pezzo?
+# Smartphone xiaomi
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
-
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
 
 
 Questo articolo è pensato per tutti coloro interessati alle ultime tendenze nel mondo della tecnologia e all'approccio innovativo di Xiaomi. Esploriamo come l'azienda si ispira al ciclo della natura, mettendo in pratica princìpi analoghi alla coltivazione del giardino per raggiungere il successo.

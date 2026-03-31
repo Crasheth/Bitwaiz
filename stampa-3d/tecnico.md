@@ -1,6 +1,6 @@
 # Stampa 3D Online: Prototipazione Rapida e Parti in Serie
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
 
 
 

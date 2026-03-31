@@ -1,6 +1,7 @@
 # Blockchain: เทคโนโลยีพื้นฐานสำหรับการจัดเก็บข้อมูลแบบกระจายศูนย์
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Blockchain è la tecnologia. Bitcoin è meramente la prima manifestazione. — Marc Andreessen.
+
 
 
 
@@ -101,6 +102,7 @@ La blockchain è un registro digitale, immutabile e distribuito che registra le 
 
 
 ![blockchain technology](https://static.vecteezy.com/system/resources/previews/011/494/437/original/blockchain-technology-isometric-flat-illustration-concept-hi-tech-block-chain-data-structure-visualization-vector.jpg)
+
 
 
 

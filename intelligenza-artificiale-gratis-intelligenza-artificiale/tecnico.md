@@ -2,7 +2,10 @@
 
 ## Domande frequenti
 
-> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+## Domande frequenti
+
 
 ## Domande frequenti
 

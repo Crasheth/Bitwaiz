@@ -74,6 +74,7 @@
 
 
 
+
 Gemini è il più recente chatbot di Google progettato per competere con modelli di linguaggio di grandi dimensioni (LLM) come ChatGPT. Sviluppato da Google AI, Gemini si basa su una famiglia di modelli di intelligenza artificiale, con versioni di base, Pro e Ultra, che offrono livelli di prestazioni e funzionalità diversi. Il chatbot è disponibile tramite l'interfaccia web di Google e l'app Gemini, ed è progettato per aiutare gli utenti con una vasta gamma di attività, tra cui la generazione di testo, la traduzione di lingue e la risposta a domande.
 
 
@@ -93,6 +94,7 @@ Attualmente, Google offre diverse opzioni di abbonamento per Gemini, tra cui un 
 
 ### Come posso accedere a Gemini?
 Puoi accedere a Gemini tramite il sito web ufficiale di Google AI ([https://gemini.google/it/subscriptions/?hl=it](https://gemini.google/it/subscriptions/?hl=it)) o tramite l'app mobile di Google.
+
 
 
 

@@ -1,6 +1,6 @@
 # Storia di Xiaomi: Un Ascesa Rapida nel Mondo degli Smartphone
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
 
 
 

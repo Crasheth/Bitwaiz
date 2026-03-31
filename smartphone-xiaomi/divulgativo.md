@@ -1,6 +1,6 @@
 # Xiaomi: Un Ascesa dall’Ombra alla Leadership Globale
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
 
 
 
