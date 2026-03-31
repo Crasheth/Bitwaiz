@@ -1,16 +1,16 @@
 # Cosa significa "file stampa 3D"?
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
 
 
 
 Il termine "file stampa 3D" si riferisce al modello digitale (solitamente in formato STL, OBJ o 3MF) che rappresenta la geometria dell'oggetto che si desidera creare tramite la stampa 3D. È come la "ricetta" per la stampante, contenente tutte le informazioni necessarie per costruire l'oggetto strato dopo strato.  Un file stampa 3D è essenzialmente un'immagine tridimensionale, ma con i dati necessari per la produzione.
 
-# Come posso trovare un file per la stampa 3D?
+## Come posso trovare un file per la stampa 3D?
 
 Esistono diverse fonti per trovare file di stampa 3D. Puoi scaricarli da siti web specializzati in modelli 3D (come Thingiverse, MyMiniFactory o Cults3D), oppure crearne uno tu stesso utilizzando un software di modellazione 3D (come Blender, Fusion 360 o Tinkercad).  Alcune aziende offrono anche servizi di progettazione e produzione di prototipi 3D su richiesta.
 
-# Cosa è il "makerworld"?
+## Cosa è il "makerworld"?
 
 Il termine "makerworld" si riferisce a una comunità online di appassionati di "making", ovvero di creazione di oggetti e prototipi utilizzando strumenti e tecnologie come la stampa 3D, il taglio laser, la lavorazione CNC e l'elettronica.  Questi ambienti virtuali offrono spazi per condividere progetti, conoscenze e esperienze, favorendo la collaborazione e l'innovazione.
 

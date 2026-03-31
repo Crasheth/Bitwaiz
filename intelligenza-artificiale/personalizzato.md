@@ -1,6 +1,7 @@
 # L’Intelligenza Artificiale preoccupa – LA BARBA DI DIOGENE
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
 
 
 
@@ -118,6 +119,7 @@ L’intelligenza artificiale, come un fiume in piena, scorre attraverso il nostr
 *   La riflessione critica sull'IA deve essere accompagnata da un impegno concreto per garantire che questa tecnologia sia al servizio dell'umanità, e non il contrario.
 
 La citazione famosa pertinente all'argomento. — Andrew Ng. "L'intelligenza artificiale è la nuova elettricità."
+
 
 
 

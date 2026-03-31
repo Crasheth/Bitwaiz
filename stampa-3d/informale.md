@@ -1,18 +1,18 @@
 # Cosa fa esattamente il servizio di stampa 3D online PolyD?
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
 
 
 
 PolyD è un servizio che permette a privati e aziende di ottenere prototipi e piccole serie di pezzi in plastica, utilizzando stampanti 3D professionali. Offre la possibilità di creare oggetti personalizzati, partendo da un modello digitale (CAD), con una vasta gamma di materiali e finiture.
 
-# Come funziona il servizio "Nested Build"?
+## Come funziona il servizio "Nested Build"?
 "Nested Build" è un sistema di acquisto a volume variabile offerto da PolyD. Permette di ridurre i costi di produzione, acquistando un volume di stampa predefinito e risparmiando fino al 60% rispetto alla stampa di singoli pezzi.
 
-# Quali sono i formati di stampa supportati da PolyD?
+## Quali sono i formati di stampa supportati da PolyD?
 PolyD supporta formati di stampa fino a 380 x 284 x 380 mm, grazie alla possibilità di sezionare i pezzi che superano questa dimensione e poi riassemblarli.
 
-# Quali sono i vantaggi dell'utilizzo del protocollo PolyD Protected?
+## Quali sono i vantaggi dell'utilizzo del protocollo PolyD Protected?
 Il protocollo PolyD Protected garantisce la riservatezza delle informazioni relative ai tuoi file e ai tuoi progetti di stampa 3D, offrendo un ambiente di lavoro sicuro e protetto.
 
 ---

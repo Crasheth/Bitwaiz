@@ -1,6 +1,7 @@
 # Cloud Computing: Un Flusso di Risorse
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Tutto ciò che può essere digitalizzato verrà digitalizzato. — Nicholas Negroponte.
+
 
 
 
@@ -125,6 +126,7 @@ Ecco alcuni aspetti chiave del cloud computing:
 Il cloud computing non è solo una tendenza tecnologica, ma una vera e propria rivoluzione che sta trasformando il modo in cui le aziende operano e i singoli individui utilizzano le risorse informatiche.  Come il respiro del sistema, è un flusso continuo di risorse che ci permette di lavorare, creare e innovare.
 
 ![cloud computing](https://www.intellectsoft.net/blog/wp-content/uploads/3-9-1024x868.png)
+
 
 
 

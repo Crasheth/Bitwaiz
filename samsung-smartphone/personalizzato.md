@@ -1,6 +1,6 @@
 # Osservazione e flusso: SOC, log, threat hunting, playbook
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
 
 
 

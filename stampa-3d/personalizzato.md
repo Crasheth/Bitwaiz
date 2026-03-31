@@ -1,6 +1,6 @@
 # Legami e quotidianità: famiglia, casa, ascolto, confini
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
 
 
 
