@@ -1,6 +1,8 @@
 # Tech riflessiva: automazione e strumenti per la consapevolezza
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -63,6 +65,8 @@ Il prezzo dell'Action 2 varia a seconda del modello e degli accessori inclusi. I
 
 *   DJI Osmo Action 3: La action cam più piccola e leggera di DJI - [https://gizmoschamber.com/dji-osmo-action-3-the-smallest-and-lightest-action-camera-of-dji/](https://gizmoschamber.com/dji-osmo-action-3-the-smallest-and-lightest-action-camera-of-dji/)
 *   DJI Action 3: Action Cam Modulare - [https://www.dji.com/action-3](https://www.dji.com/action-3)
+
+
 
 
 

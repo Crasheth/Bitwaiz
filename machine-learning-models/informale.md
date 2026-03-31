@@ -1,6 +1,8 @@
 # Machine Learning: Un'Introduzione Pratica
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
+
 
 
 
@@ -136,6 +138,8 @@ Le applicazioni del machine learning sono innumerevoli e in continua espansione.
 *   **Finanza:** Rilevazione di frodi, previsione dei mercati finanziari.
 *   **Marketing:** Personalizzazione delle offerte, analisi del comportamento dei clienti.
 *   **Trasporti:** Guida autonoma, ottimizzazione del traffico.
+
+
 
 
 

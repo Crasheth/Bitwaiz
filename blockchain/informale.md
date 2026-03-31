@@ -1,6 +1,8 @@
 # Blockchain: La Catena di Blocchi Spiegata
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+
 
 
 
@@ -113,6 +115,8 @@ Ecco i punti chiave:
 *   **Consenso:** Prima che un nuovo blocco venga aggiunto alla catena, deve essere approvato dalla maggior parte dei computer nella rete. Questo processo di consenso garantisce che tutte le transazioni siano valide.
 
 Secondo le fonti, la blockchain ha un impatto enorme in diversi settori, dalla finanza alla logistica, passando per la sanità e il voto elettronico.
+
+
 
 
 
