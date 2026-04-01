@@ -1,6 +1,7 @@
 # Cloud Computing
 
-> Tutto ciò che può essere digitalizzato verrà digitalizzato. — Nicholas Negroponte.
+> Il cloud è solo il computer di qualcun altro. — Variante di Larry Ellison.
+
 
 
 
@@ -130,6 +131,7 @@ Ecco alcuni punti chiave:
 *   **Innovazione:** Il cloud offre accesso a tecnologie all'avanguardia come l'intelligenza artificiale e il machine learning.
 
 Il cloud computing è diventato un elemento fondamentale per le aziende di tutte le dimensioni e per i singoli utenti. Permette di ridurre i costi, aumentare l'efficienza e accelerare l'innovazione.
+
 
 
 

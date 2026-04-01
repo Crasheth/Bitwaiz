@@ -1,6 +1,6 @@
 # Robot
 
-> La tecnologia migliore è quella che scompare. — Mark Weiser.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
 
 
 
@@ -10,16 +10,14 @@ Un robot è un sistema meccanico programmabile in grado di percepire l'ambiente 
 
 A differenza delle macchine automatiche, i robot sono programmabili e possono adattarsi a diverse situazioni, mentre le macchine automatiche eseguono compiti predefiniti in modo ripetitivo.
 
-## Quali sono le implicazioni etiche dell'uso dei robot?
-
+## Punto chiave
 L'uso dei robot solleva questioni etiche riguardanti la perdita di posti di lavoro, la responsabilità in caso di errori e l'impatto sulla società.
 
 ## Punto chiave
 
 I robot vengono programmati utilizzando linguaggi di programmazione specifici, software di simulazione e, in alcuni casi, interfacce grafiche per semplificare il processo.
 
-## Quali sono i tipi di sensori utilizzati nei robot?
-
+## Punto chiave
 I robot utilizzano una varietà di sensori, tra cui telecamere, sensori di pressione, sensori di temperatura, sensori di forza e sensori di posizione.
 
 

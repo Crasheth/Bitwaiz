@@ -1,6 +1,6 @@
 # Robot: Cosa sono e perché dovrebbero interessarti
 
-> La tecnologia migliore è quella che scompare. — Mark Weiser.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
 
 
 

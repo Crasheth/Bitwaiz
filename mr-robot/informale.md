@@ -69,6 +69,7 @@
 
 
 
+
 Mr. Robot, la serie TV di USA Network, è un vero e proprio caso di successo, un mix di thriller psicologico, azione e commento sociale che ha catturato l'attenzione di un pubblico vastissimo. Ma cosa rende questa serie così particolare? Analizziamo i punti chiave, focalizzandoci su aspetti operativi e tecnici.
 
 *   **Premessa:** La serie ruota attorno a Elliot Alderson, un esperto di cybersecurity con problemi di salute mentale (ansia, depressione, disturbo dissociativo dell'identità) che viene reclutato da Mr. Robot, un hacker misterioso, per far parte di fsociety. Il loro obiettivo? Demolire il sistema finanziario globale, attaccando le banche e le istituzioni finanziarie.
@@ -96,6 +97,7 @@ Dipende dal caso d'uso: in genere il valore sta nel rapporto tra prestazioni, co
 
 ### Quali limiti devo considerare su Mr. Robot: Un’analisi psicologica di un’anima digitale?
 Prima di adottarlo valuta limiti tecnici, lock-in, costi nel tempo e qualita del supporto/documentazione.
+
 
 
 

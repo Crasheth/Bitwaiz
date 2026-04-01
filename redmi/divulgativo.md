@@ -1,6 +1,7 @@
 # Redmi: L'Ascesa di un Brand Smartphone Innovativo
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
 
 
 
@@ -113,6 +114,7 @@ Le serie piu note sono Redmi Note (equilibrio tra prezzo e funzionalita) e Redmi
 
 ### Redmi produce solo smartphone?
 No. Oltre agli smartphone, Redmi propone anche prodotti IoT come tablet, TV e accessori audio, integrati nell'ecosistema Xiaomi.
+
 
 
 

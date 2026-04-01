@@ -1,6 +1,6 @@
 # Come Proteggere la Tua Rete Wi-Fi: Guida Rapida
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
 
 
 

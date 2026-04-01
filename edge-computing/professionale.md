@@ -116,6 +116,7 @@
 
 
 
+
 PagesScrollView/Edge Computing
 
 La computazione di confine (edge computing) è un paradigma di calcolo distribuito che porta il calcolo e l'archiviazione dei dati più vicino alla fonte dei dati, come dispositivi IoT, sensori o server locali, piuttosto che fare affidamento esclusivamente su data center centralizzati nel cloud. Questo approccio riduce la distanza che i dati devono percorrere, diminuendo così la latenza e il consumo di larghezza di banda associati alla trasmissione di grandi volumi di dati grezzi al cloud.
@@ -132,6 +133,7 @@ La computazione di confine sta guadagnando popolarità grazie alla proliferazion
 
 
 La computazione di confine offre vantaggi significativi, tra cui la riduzione della congestione della rete, la maggiore privacy dei dati e l'aumento della tolleranza ai guasti. Supporta una vasta gamma di applicazioni in settori come la produzione, l'automotive, l'assistenza sanitaria, il retail, la finanza, l'energia e le città intelligenti, oltre all'automazione industriale per la manutenzione predittiva. Inoltre, si integra con tecnologie emergenti come l'intelligenza artificiale e la blockchain per un'analisi avanzata dei dati al margine. Tuttavia, persistono sfide nell'orchestrazione delle risorse, nella sicurezza contro le minacce specifiche del margine e nella standardizzazione per garantire l'interoperabilità in ambienti eterogenei.
+
 
 
 
