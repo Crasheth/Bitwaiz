@@ -2,7 +2,9 @@
 
 ## Domande frequenti
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
+## Domande frequenti
 
 
 ## Domande frequenti

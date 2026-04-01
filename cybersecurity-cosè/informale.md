@@ -1,6 +1,7 @@
 # Cos’è la Cybersecurity? Una Guida per Capire
 
-> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
 
 
 
@@ -116,6 +117,7 @@ L'autenticazione a due fattori (2FA) aggiunge un ulteriore livello di sicurezza 
 
 *   **Gestione delle identità e degli accessi (IAM):**  Un approccio che si concentra sulla gestione delle identità digitali e sull'assegnazione dei privilegi di accesso.
 *   **Threat Intelligence:** Raccogliere e analizzare informazioni sulle minacce informatiche per anticipare e prevenire gli attacchi.
+
 
 
 

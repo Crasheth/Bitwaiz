@@ -19,6 +19,7 @@
 
 
 
+
 DJI Action 2 rappresenta un approccio innovativo alla fotografia e alla videografia in movimento, focalizzato sulla modularità e l’adattabilità. La sua architettura permette di combinare diverse componenti per creare un sistema versatile, adatto a una vasta gamma di applicazioni, dall’escursionismo all’extreme sport. Questo articolo analizza le caratteristiche tecniche principali della DJI Action 2, il suo ecosistema di accessori e le implicazioni per i professionisti e gli appassionati.
 
 
@@ -88,6 +89,7 @@ Il prezzo dell'Action 2 varia a seconda del modello e degli accessori inclusi. I
 
 *   DJI Osmo Action 3: La action cam più piccola e leggera di DJI - [https://gizmoschamber.com/dji-osmo-action-3-the-smallest-and-lightest-action-camera-of-dji/](https://gizmoschamber.com/dji-osmo-action-3-the-smallest-and-lightest-action-camera-of-dji/)
 *   DJI Action 3: Action Cam Modulare - [https://www.dji.com/action-3](https://www.dji.com/action-3)
+
 
 
 

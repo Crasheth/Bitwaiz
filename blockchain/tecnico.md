@@ -117,6 +117,7 @@
 
 
 
+
 La blockchain è un registro distribuito, immutabile e trasparente che registra transazioni in blocchi concatenati crittograficamente. Questa tecnologia ha rivoluzionato diversi settori, dalla finanza alla logistica, grazie alla sua capacità di garantire sicurezza, efficienza e tracciabilità. Il concetto è nato nel 2008 con il whitepaper di Satoshi Nakamoto, il cui scopo era creare un sistema di pagamento peer-to-peer decentralizzato, resistente alla censura e al controllo centralizzato.
 
 *   **Struttura del Blocco:** Ogni blocco contiene un hash del blocco precedente, un timestamp, i dati delle transazioni e un nonce (un numero casuale utilizzato per la validazione tramite Proof-of-Work). Questa struttura a catena rende la blockchain resistente alla manomissione: qualsiasi modifica a un blocco richiederebbe la modifica di tutti i blocchi successivi, un'operazione computazionalmente impraticabile per un attaccante.
@@ -134,6 +135,7 @@ La blockchain offre una serie di vantaggi, tra cui:
 *   **Immutabilità:** Una volta che una transazione è stata registrata sulla blockchain, non può essere alterata o cancellata.
 
 Nonostante i suoi vantaggi, la blockchain presenta anche alcune sfide, tra cui la scalabilità (la capacità di gestire un elevato numero di transazioni), il consumo energetico (soprattutto nei sistemi Proof-of-Work) e la regolamentazione.
+
 
 
 

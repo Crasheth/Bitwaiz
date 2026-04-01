@@ -1,20 +1,21 @@
 # Cybersecurity tips cyber security
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
 
 
 Secondo le fonti, l'intelligenza artificiale si riferisce alla simulazione di processi di intelligenza umana da parte delle macchine, in particolare dei sistemi informatici.  Questi sistemi sono progettati per eseguire compiti che normalmente richiedono l'intelligenza umana, come l'apprendimento, il riconoscimento del linguaggio e la risoluzione dei problemi.  L'AI è in rapida evoluzione, con applicazioni che vanno dall'assistenza clienti alla guida autonoma.
 
-## Come posso proteggere i miei dati da un attacco informatico?
+## Punto chiave
 Secondo le fonti, la protezione dei dati richiede una combinazione di misure tecniche e comportamentali.  È essenziale utilizzare password complesse, abilitare l'autenticazione a più fattori, mantenere il software aggiornato e fare attenzione ai link e agli allegati sospetti.  Inoltre, è importante implementare politiche di sicurezza dei dati e formare i dipendenti sulle minacce informatiche.
 
-## Cosa significa "zero trust"?
+## Punto chiave
 Secondo le fonti, il modello "zero trust" è un approccio alla sicurezza informatica che presuppone che nessuna utente o dispositivo, interno o esterno alla rete, sia di default fidato. Richiede una verifica continua dell'identità e dell'accesso, nonché una segmentazione della rete per limitare l'impatto di eventuali violazioni della sicurezza.
 
-## Come posso riconoscere un tentativo di phishing?
+## Punto chiave
 Secondo le fonti, i tentativi di phishing mirano a ingannare gli utenti per ottenere informazioni personali o finanziarie.  Fai attenzione ai messaggi e-mail sospetti, soprattutto se richiedono informazioni sensibili o offrono offerte troppo belle per essere vere.  Verifica sempre l'identità del mittente e non cliccare su link o allegati sconosciuti.
 
-## Cosa è l'AI "sicura"?
+## Punto chiave
 Secondo le fonti, l'AI sicura si riferisce allo sviluppo e all'implementazione di sistemi di intelligenza artificiale che sono resistenti a attacchi, errori e manipolazioni. Ciò include la progettazione di algoritmi robusti, la protezione dei dati sensibili e la garanzia che i sistemi di AI siano trasparenti e spiegabili.
 
 ## Vedi anche

@@ -1,15 +1,16 @@
 # Password wifi
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 La cosa più importante è cambiare la password predefinita del router con una password complessa. Questo impedisce a chiunque di accedere alla tua rete senza autorizzazione.
 
-## Come posso essere sicuro che il mio router sia sicuro?
+## Punto chiave
 
 Assicurati di aggiornare regolarmente il firmware del router e di disabilitare l'accesso remoto se non lo utilizzi. Inoltre, utilizza una password complessa per il router e abilita la crittografia WPA3.
 
-## Cosa succede se qualcuno accede alla mia rete Wi-Fi?
+## Punto chiave
 
 Se qualcuno accede alla tua rete Wi-Fi, potrebbe accedere ai tuoi dispositivi, rubare i tuoi dati o utilizzare la tua rete per attività dannose. È importante adottare misure per prevenire l'accesso non autorizzato.
 

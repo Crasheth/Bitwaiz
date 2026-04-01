@@ -1,20 +1,21 @@
 # Cybersecurity tips cyber security
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
 
 
 Secondo le fonti, la "cyber hygiene" si riferisce all'insieme delle pratiche di sicurezza informatica di base che ogni individuo e organizzazione dovrebbe adottare per proteggere i propri sistemi e dati. Include azioni come l'utilizzo di password complesse, l'aggiornamento regolare del software, l'attenzione a link sospetti e l'abilitazione dell'autenticazione a più fattori.
 
-## Come posso proteggere il mio account online?
+## Punto chiave
 Secondo le fonti, per proteggere il tuo account online, dovresti utilizzare password complesse e univoche per ogni account, abilitare l'autenticazione a più fattori quando disponibile e fare attenzione ai tentativi di phishing o di ingegneria sociale.
 
-## Cosa devo fare se ricevo un'e-mail sospetta?
+## Punto chiave
 Secondo le fonti, se ricevi un'e-mail sospetta, non cliccare su alcun link o allegato, non fornire alcuna informazione personale e segnala l'e-mail al tuo provider di posta elettronica.
 
-## Cosa significa "zero trust"?
+## Punto chiave
 Secondo le fonti, il modello "zero trust" si basa sull'assunto che nessun utente o dispositivo, interno o esterno alla rete, dovrebbe essere automaticamente fidato. Richiede la verifica continua dell'identità e dell'accesso a ogni risorsa.
 
-## Come posso riconoscere un attacco di phishing?
+## Punto chiave
 Secondo le fonti, un attacco di phishing cerca di indurti a rivelare informazioni personali, come password o numeri di carte di credito, fingendo di essere un'entità legittima. Fai attenzione a e-mail o messaggi sospetti, controlla attentamente i mittenti e non cliccare su link o allegati da fonti sconosciute.
 
 **Vedi anche:**

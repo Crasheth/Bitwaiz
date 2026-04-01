@@ -26,6 +26,7 @@
 
 
 
+
 Il termine *cybersecurity* può sembrare complesso e lontano dal nostro quotidiano, ma in realtà riguarda ogni dispositivo connesso a Internet. In questo articolo, esploreremo il significato di cybersecurity, le sue implicazioni per gli individui e le aziende, e come proteggere la propria "casa digitale" da eventuali minacce.
 
 
@@ -48,6 +49,7 @@ Il cyber security awareness è la consapevolezza e la comprensione dei rischi di
 
 ### Quali sono le competenze richieste per un tecnico cyber security?
 Un tecnico cyber security deve possedere competenze in aree come la sicurezza delle reti, la sicurezza dei sistemi operativi, la crittografia, la gestione delle vulnerabilità e la risposta agli incidenti.
+
 
 
 

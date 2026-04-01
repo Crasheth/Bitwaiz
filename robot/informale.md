@@ -6,7 +6,7 @@
 
 Robotica: una disciplina che sta cambiando il mondo a un ritmo vertiginoso. Ma cosa sono esattamente? E perché dovresti preoccuparti di questo campo in continua evoluzione? Questo articolo ti darà una panoramica chiara e concisa, spiegando le basi della robotica, le sue applicazioni e il suo impatto potenziale sul futuro. Imparerai come i robot stanno trasformando industrie, migliorando la nostra vita quotidiana e sollevando importanti questioni etiche.
 
-## Cosa definisce un robot?
+## Punto chiave
 
 A grandi linee, un robot è un dispositivo meccanico programmabile in grado di eseguire compiti complessi in modo autonomo o semi-autonomo. Non si tratta solo di robot antropomorfi che vediamo nei film di fantascienza, ma di una vasta gamma di macchine progettate per svolgere specifiche funzioni. I robot moderni sono spesso dotati di sensori che permettono loro di percepire l'ambiente circostante, attuatori che consentono loro di muoversi e interagire con gli oggetti e algoritmi di controllo che guidano il loro comportamento. La definizione standard ISO 8373 definisce un robot come "un sistema meccanico programmabile, dotato di sensori e attuatori, in grado di eseguire automaticamente una serie di operazioni."
 

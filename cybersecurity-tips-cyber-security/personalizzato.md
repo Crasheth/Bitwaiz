@@ -1,6 +1,6 @@
 # Cybersecurity Best Practices: Proteggere la Tua Informatica
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
 
 
 
