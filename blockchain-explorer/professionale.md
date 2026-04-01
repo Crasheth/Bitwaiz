@@ -1,6 +1,7 @@
 # Analisi dello Stato del Mercato Cripto: Panoramica e Indicatori Chiave
 
-> Blockchain è la tecnologia. Bitcoin è meramente la prima manifestazione. — Marc Andreessen.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
 
 
 
@@ -93,6 +94,7 @@ Secondo le fonti disponibili, il mercato delle criptovalute presenta un panorama
 
 
 ![blockchain explorer](https://media.pmf-research.eu/pmf-research.eu/wp-content/uploads/2023/09/Blockchain-explorer-2-EN.jpg)
+
 
 
 

@@ -1,6 +1,6 @@
 # Cybersecurity Best Practices: Una Guida Essenziale
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
 
 
 

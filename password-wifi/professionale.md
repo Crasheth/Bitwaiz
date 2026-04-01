@@ -1,6 +1,6 @@
 # Password wifi
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
 
 
 

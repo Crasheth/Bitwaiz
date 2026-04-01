@@ -1,6 +1,6 @@
 # Robot: Cosa sono e perché dovrebbero interessarti
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
 
 
 

@@ -1,6 +1,6 @@
 # Robot
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
 
 
 

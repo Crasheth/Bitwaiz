@@ -71,6 +71,7 @@
 
 
 
+
 La serie televisiva "Mr. Robot", creata da Sam Esmail e trasmessa su USA Network, è un thriller psicologico che esplora temi complessi come l'ansia sociale, la depressione, il disturbo dissociativo dell'identità e la disillusione nei confronti delle istituzioni. La serie segue le vicende di Elliot Alderson, un giovane informatico con una vita segreta: è un hacker che fa parte di fsociety, un gruppo di attivisti che si propone di rovesciare le grandi corporazioni attraverso attacchi informatici. L'opera si distingue per la sua narrazione non lineare, l'uso innovativo della cinematografia e la profondità psicologica dei suoi personaggi.
 
 Le azioni operative principali della serie ruotano attorno alla missione di fsociety di eliminare il debito da tutti i conti bancari, un gesto simbolico di ribellione contro il sistema finanziario globale. Questa ambizione è guidata da una visione radicale di Elliot, che vede il mondo come corrotto e necessita di una profonda trasformazione. La serie esplora le conseguenze di questa visione, mettendo in luce le sfide morali e psicologiche che Elliot e i suoi compagni affrontano. La trama è intrecciata con elementi di suspense, azione e dramma psicologico, creando un'esperienza coinvolgente e stimolante per lo spettatore.
@@ -100,6 +101,7 @@ Dipende dal caso d'uso: in genere il valore sta nel rapporto tra prestazioni, co
 
 ### Quali limiti devo considerare su Mr. Robot: Un’analisi psicologica di un’anima digitale?
 Prima di adottarlo valuta limiti tecnici, lock-in, costi nel tempo e qualita del supporto/documentazione.
+
 
 
 

@@ -1,6 +1,7 @@
 # Edge Computing: Il Futuro dell'Elaborazione Dati
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -140,6 +141,7 @@ La crescente domanda di dati e l'esplosione di dispositivi IoT stanno mettendo a
     *   **Sicurezza:** Proteggere i nodi edge da attacchi informatici.
     *   **Gestione:** Gestire e monitorare una rete distribuita di nodi edge.
     *   **Standardizzazione:** Sviluppare standard per garantire l'interoperabilità tra diversi dispositivi e piattaforme edge.
+
 
 
 
