@@ -1,6 +1,8 @@
 # Qual è la differenza tra le diverse fotocamere GoPro?
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -49,6 +51,8 @@ Le action camera 360 di GoPro, come la Hero 9 Black e la Hero 12 Black, sono in 
 *   GoPro Hero 12 Black: [https://www.bestbuy.com/site/brands/gopro/pcmcat238900050009.c?id=pcmcat238900050009](https://www.bestbuy.com/site/brands/gopro/pcmcat238900050009.c?id=pcmcat238900050009)
 *   GoPro: [https://en.wikipedia.org/wiki/GoPro](https://en.wikipedia.org/wiki/GoPro)
 *   GoPro Action Cameras, Mounts & Accessories - Best Buy: [https://www.bestbuy.com/site/brands/gopro/pcmcat238900050009.c?id=pcmcat238900050009](https://www.bestbuy.com/site/brands/gopro/pcmcat238900050009.c?id=pcmcat238900050009)
+
+
 
 
 

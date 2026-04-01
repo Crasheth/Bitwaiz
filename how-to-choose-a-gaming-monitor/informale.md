@@ -1,6 +1,8 @@
 # Come Scegliere il Monitor Perfetto per il Gaming
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
+
 
 
 
@@ -50,6 +52,8 @@ FreeSync e G-Sync sono tecnologie che sincronizzano la frequenza di aggiornament
 I monitor per PC sono più grandi e offrono una qualità dell'immagine migliore rispetto ai monitor per console. Sono anche più compatibili con i giochi per PC.
 
 **Vedi anche:** RTINGS.com - What To Look For in a Gaming Monitor [https://rtings.com/monitor/reviews/best-gaming-monitor](https://rtings.com/monitor/reviews/best-gaming-monitor)
+
+
 
 
 

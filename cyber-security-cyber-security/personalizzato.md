@@ -1,6 +1,8 @@
 # La sicurezza informatica: un giardino di protezioni
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+
+
 
 
 
@@ -80,6 +82,8 @@ Secondo le fonti, puoi proteggere i tuoi dispositivi e dati utilizzando password
 
 *   [ISO 27001](https://www.iso.org/isoiec27001-information-security.html) – Standard internazionale per la gestione della sicurezza delle informazioni.
 *   [Cyber security](https://en.wikipedia.org/wiki/Cyber_security) – Definizione di cyber security su Wikipedia.
+
+
 
 
 
