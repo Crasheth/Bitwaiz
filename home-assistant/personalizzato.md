@@ -1,6 +1,7 @@
 # Home Assistant: Il Respiro della Casa Intelligente
 
-> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 
@@ -124,6 +125,7 @@ Ecco alcuni punti chiave su Home Assistant:
 *   **Privacy-focused:** Il suo design open-source promuove la trasparenza e la sicurezza.
 
 Il percorso di Home Assistant è un esempio di "wu wei", l'azione senza sforzo, l'armonia tra l'uomo e la natura. Il sistema si adatta automaticamente alle esigenze dell'utente, ottimizzando il consumo energetico, creando scenari personalizzati e fornendo un controllo intuitivo sulla casa.  L'installazione è semplice, grazie alle numerose guide disponibili online, e l'interfaccia utente è intuitiva e facile da usare, anche per chi non ha esperienza con i sistemi domotici. Il sistema è progettato per essere un'estensione della tua casa, non un'entità separata.
+
 
 
 

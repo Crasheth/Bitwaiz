@@ -1,7 +1,6 @@
 # Come Proteggere la Tua Rete Wi-Fi: Guida Tecnica
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
-
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
 
 
 
@@ -42,18 +41,17 @@ Le password sono la prima linea di difesa contro gli attacchi informatici. Segui
 *   [Threat-hunting e analisi delle vulnerabilità](https://www.sans.org/resources/glossary/threat-hunting/)
 
 
+## Domande frequenti
 
-## Domande Frequenti
-
-# Cosa succede se qualcuno indovina la mia password Wi-Fi?
+### Cosa succede se qualcuno indovina la mia password Wi-Fi?
 
 Secondo le fonti, se qualcuno indovina la tua password Wi-Fi, potrà accedere alla tua rete e utilizzare la tua connessione Internet senza il tuo consenso. È fondamentale utilizzare una password complessa e cambiarla regolarmente per proteggere la tua rete.
 
-# Come posso sapere se qualcuno sta utilizzando la mia rete Wi-Fi senza il mio permesso?
+### Come posso sapere se qualcuno sta utilizzando la mia rete Wi-Fi senza il mio permesso?
 
 Puoi controllare i dispositivi connessi alla tua rete Wi-Fi tramite l'interfaccia di amministrazione del tuo router. Se vedi dispositivi sconosciuti, potrebbe essere un segno che qualcuno sta utilizzando la tua rete senza il tuo permesso.
 
-# È necessario cambiare regolarmente la password del mio router Wi-Fi?
+### È necessario cambiare regolarmente la password del mio router Wi-Fi?
 
 Sì, è altamente consigliabile cambiare regolarmente la password del tuo router Wi-Fi. Le password del router possono essere compromesse attraverso attacchi informatici, quindi è importante mantenerle aggiornate per proteggere la tua rete.
 
@@ -61,6 +59,7 @@ Sì, è altamente consigliabile cambiare regolarmente la password del tuo router
 
 *   **Sicurezza delle reti domestiche:** [https://www.wikipedia.org/wiki/Sicurezza_della_rete_domestica](https://www.wikipedia.org/wiki/Sicurezza_della_rete_domestica)
 *   **Router: Guida all'acquisto:** [https://www.computer.it/router-guida-acquisto/](https://www.computer.it/router-guida-acquisto/)
+
 
 
 ## Fonti

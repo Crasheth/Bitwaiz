@@ -1,16 +1,15 @@
-# Qual è la cosa più importante per proteggere la mia rete Wi-Fi?
+# Password wifi
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
-
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
 
 
 La cosa più importante è cambiare la password predefinita del router con una password complessa. Questo impedisce a chiunque di accedere alla tua rete senza autorizzazione.
 
-# Come posso essere sicuro che il mio router sia sicuro?
+## Come posso essere sicuro che il mio router sia sicuro?
 
 Assicurati di aggiornare regolarmente il firmware del router e di disabilitare l'accesso remoto se non lo utilizzi. Inoltre, utilizza una password complessa per il router e abilita la crittografia WPA3.
 
-# Cosa succede se qualcuno accede alla mia rete Wi-Fi?
+## Cosa succede se qualcuno accede alla mia rete Wi-Fi?
 
 Se qualcuno accede alla tua rete Wi-Fi, potrebbe accedere ai tuoi dispositivi, rubare i tuoi dati o utilizzare la tua rete per attività dannose. È importante adottare misure per prevenire l'accesso non autorizzato.
 
@@ -23,18 +22,17 @@ Se qualcuno accede alla tua rete Wi-Fi, potrebbe accedere ai tuoi dispositivi, r
 *   [How To ChangeWiFiPassword(2022) - YouTube](https://www.youtube.com/watch?v=CCWS6qQ1k5k) - Tutorial passo-passo su come cambiare la password Wi-Fi.
 
 
+## Domande frequenti
 
-## Domande Frequenti
-
-# Cosa succede se qualcuno indovina la mia password Wi-Fi?
+### Cosa succede se qualcuno indovina la mia password Wi-Fi?
 
 Secondo le fonti, se qualcuno indovina la tua password Wi-Fi, potrà accedere alla tua rete e utilizzare la tua connessione Internet senza il tuo consenso. È fondamentale utilizzare una password complessa e cambiarla regolarmente per proteggere la tua rete.
 
-# Come posso sapere se qualcuno sta utilizzando la mia rete Wi-Fi senza il mio permesso?
+### Come posso sapere se qualcuno sta utilizzando la mia rete Wi-Fi senza il mio permesso?
 
 Puoi controllare i dispositivi connessi alla tua rete Wi-Fi tramite l'interfaccia di amministrazione del tuo router. Se vedi dispositivi sconosciuti, potrebbe essere un segno che qualcuno sta utilizzando la tua rete senza il tuo permesso.
 
-# È necessario cambiare regolarmente la password del mio router Wi-Fi?
+### È necessario cambiare regolarmente la password del mio router Wi-Fi?
 
 Sì, è altamente consigliabile cambiare regolarmente la password del tuo router Wi-Fi. Le password del router possono essere compromesse attraverso attacchi informatici, quindi è importante mantenerle aggiornate per proteggere la tua rete.
 
@@ -42,6 +40,7 @@ Sì, è altamente consigliabile cambiare regolarmente la password del tuo router
 
 *   **Sicurezza delle reti domestiche:** [https://www.wikipedia.org/wiki/Sicurezza_della_rete_domestica](https://www.wikipedia.org/wiki/Sicurezza_della_rete_domestica)
 *   **Router: Guida all'acquisto:** [https://www.computer.it/router-guida-acquisto/](https://www.computer.it/router-guida-acquisto/)
+
 
 
 ## Fonti

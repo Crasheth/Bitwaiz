@@ -1,7 +1,6 @@
 # Robot
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
-
+> La tecnologia migliore è quella che scompare. — Mark Weiser.
 
 
 
@@ -25,16 +24,16 @@ Nonostante i numerosi vantaggi offerti dai robot, il loro sviluppo e la loro imp
 
 ## Domande frequenti
 
-# Cosa rende un robot diverso da una macchina automatica?
+### Cosa rende un robot diverso da una macchina automatica?
 
 Un robot è un sistema meccanico programmabile che può essere riprogrammato per eseguire diversi compiti, mentre le macchine automatiche sono progettate per svolgere un singolo compito in modo ripetitivo. I robot hanno sensori e attuatori che permettono loro di percepire l'ambiente e interagire con esso, mentre le macchine automatiche sono semplicemente macchine che eseguono un'azione predefinita.
-# Quali sono i componenti principali di un robot?
+### Quali sono i componenti principali di un robot?
 
 I componenti principali di un robot includono sensori (per raccogliere dati sull'ambiente), attuatori (per muovere il robot), un sistema di controllo (per elaborare i dati e controllare gli attuatori) e un'interfaccia utente (per consentire agli operatori di interagire con il robot).
-# Come vengono programmati i robot?
+### Come vengono programmati i robot?
 
 I robot possono essere programmati utilizzando diversi metodi, tra cui la programmazione diretta (in cui l'operatore programma direttamente il movimento del robot), la programmazione tramite istruzioni (in cui l'operatore crea una sequenza di istruzioni che il robot deve seguire) e l'apprendimento automatico (in cui il robot impara a svolgere un compito analizzando i dati).
-# Quali sono le implicazioni etiche dell'uso dei robot?
+### Quali sono le implicazioni etiche dell'uso dei robot?
 
 L'uso dei robot solleva importanti questioni etiche, come la responsabilità in caso di incidenti, l'impatto sul mercato del lavoro e l'uso di robot in ambito militare. È importante sviluppare linee guida e normative che garantiscano che i robot siano utilizzati in modo responsabile ed etico.
 ## Vedi anche
@@ -42,6 +41,7 @@ L'uso dei robot solleva importanti questioni etiche, come la responsabilità in 
 *   [Standard ISO 8373](https://www.iso.org/standard/7763.html) – Robot – Terminologia e definizioni
 *   [Robotica collaborativa](https://it.wikipedia.org/wiki/Robotica_collaborativa) – Un approccio alla robotica che prevede la collaborazione tra robot e esseri umani.
 *   [Robotica industriale](https://it.wikipedia.org/wiki/Robotica_industriale) – L'applicazione della robotica nell'industria manifatturiera.
+
 
 
 ## Fonti

@@ -1,6 +1,7 @@
 # L’Intelligenza Artificiale: tra promesse e ombre
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
 
 
 
@@ -130,6 +131,7 @@ Ecco alcuni punti chiave da considerare:
 *   **L'etica dell'automazione:** L'automazione dei processi, guidata dall'IA, solleva interrogativi etici sulla responsabilità, sulla giustizia sociale e sull'impatto sul lavoro umano. La saggezza buddista ci invita a considerare le conseguenze delle nostre azioni e a promuovere il benessere di tutti gli esseri.
 
 In conclusione, l'IA rappresenta un potente strumento che, se utilizzato con saggezza e responsabilità, può contribuire al progresso dell'umanità. Tuttavia, è fondamentale mantenere un approccio critico, consapevole dei suoi limiti e delle sue potenziali conseguenze, per evitare di cadere nella trappola dell'illusione e di perdere di vista i valori fondamentali che ci guidano.  Come diceva Leonardo da Vinci: "L'arte e la scienza sono due facce della stessa medaglia." L'IA, come l'arte, può essere una fonte di bellezza e di ispirazione, ma solo se guidata da un'etica solida e da una profonda comprensione della natura umana.
+
 
 
 

@@ -1,7 +1,6 @@
 # Cybersecurity Best Practices: Proteggere la Tua Informatica
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
-
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
 
 
 
@@ -35,21 +34,21 @@ Oltre alle pratiche di base, prendi in considerazione le seguenti misure di sicu
 *   [Top 10 Cybersecurity Tips for Students](https://its.fsu.edu/cybersecurity/protect-yourself/top-ten-cybersecurity-tips-for-students) - Consigli pratici per studenti, focalizzati su aspetti specifici come la navigazione sicura su internet e la gestione delle password.
 
 
+## Domande frequenti
 
-## Domande Frequenti
-
-# [Qual è l'autenticazione multi-fattore?]
+### Qual è l'autenticazione multi-fattore?
 L'autenticazione multi-fattore (MFA) è un processo di sicurezza che richiede più di un metodo di verifica per accedere a un account o a un sistema. Generalmente, richiede una password (elemento di autenticazione primaria) e un secondo fattore, come un codice inviato al telefono, una scansione di un codice a barre o una biometrica. Questo rende molto più difficile per un malintenzionato accedere all'account anche se conosce la password.
-# [Cosa significa "threat hunting"?]
+### Cosa significa "threat hunting"?
 Il "threat hunting" è un processo proattivo di ricerca e identificazione di minacce informatiche che potrebbero non essere rilevate dai sistemi di sicurezza tradizionali, come gli IDS. I "threat hunter" utilizzano competenze analitiche, conoscenza del comportamento degli attaccanti e strumenti avanzati per cercare attivamente indicatori di compromissione (IOC) e anomalie nel traffico di rete o nei log di sistema.
-# [Perché è importante mantenere aggiornati i software?]
+### Perché è importante mantenere aggiornati i software?
 Mantenere aggiornati i software è fondamentale per correggere le vulnerabilità di sicurezza che potrebbero essere sfruttate dagli attaccanti. I produttori rilasciano regolarmente patch di sicurezza per risolvere queste vulnerabilità, e l'aggiornamento tempestivo riduce significativamente il rischio di attacchi informatici.
-# [Cosa sono le soluzioni SIEM e SOAR?]
+### Cosa sono le soluzioni SIEM e SOAR?
 Le soluzioni SIEM (Security Information and Event Management) raccolgono e analizzano i dati di sicurezza da varie fonti, fornendo una visione centralizzata delle minacce. Le soluzioni SOAR (Security Orchestration, Automation and Response) automatizzano le risposte agli incidenti, migliorando l'efficienza e la velocità di risposta.
 ## Vedi anche
 
 *   [Cybersecurity Awareness Month](https://staysafeonline.org/cybersecurity-awareness-month)
 *   [President's Cup Cybersecurity Competition](https://www.cisa.gov/presidents-cup-cybersecurity-competition)
+
 
 
 ## Fonti

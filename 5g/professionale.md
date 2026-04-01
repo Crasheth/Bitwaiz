@@ -1,6 +1,7 @@
 # Homepage # 5G: La Nuova Era delle Comunicazioni
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
 
 
 
@@ -135,6 +136,7 @@ Il 5G non è solo una tecnologia di rete, ma un ecosistema che abilita nuove app
 
 
 ![5G](https://sim-unlock.net/foto/11_28_38_22b367ef-1d46-45e6-8760.jpg)
+
 
 
 

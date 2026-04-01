@@ -1,7 +1,6 @@
 # Come Proteggere la Tua Rete Wi-Fi: Una Guida Semplice
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
-
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
 
 
 
@@ -27,17 +26,17 @@ Oltre alla configurazione di base, puoi implementare alcune misure di sicurezza 
 *   **Cambia regolarmente le password:** Cambia regolarmente le password del router e degli account associati alla tua rete Wi-Fi.
 
 
-## Domande Frequenti
+## Domande frequenti
 
-# Cosa succede se qualcuno indovina la mia password Wi-Fi?
+### Cosa succede se qualcuno indovina la mia password Wi-Fi?
 
 Secondo le fonti, se qualcuno indovina la tua password Wi-Fi, potrà accedere alla tua rete e utilizzare la tua connessione Internet senza il tuo consenso. È fondamentale utilizzare una password complessa e cambiarla regolarmente per proteggere la tua rete.
 
-# Come posso sapere se qualcuno sta utilizzando la mia rete Wi-Fi senza il mio permesso?
+### Come posso sapere se qualcuno sta utilizzando la mia rete Wi-Fi senza il mio permesso?
 
 Puoi controllare i dispositivi connessi alla tua rete Wi-Fi tramite l'interfaccia di amministrazione del tuo router. Se vedi dispositivi sconosciuti, potrebbe essere un segno che qualcuno sta utilizzando la tua rete senza il tuo permesso.
 
-# È necessario cambiare regolarmente la password del mio router Wi-Fi?
+### È necessario cambiare regolarmente la password del mio router Wi-Fi?
 
 Sì, è altamente consigliabile cambiare regolarmente la password del tuo router Wi-Fi. Le password del router possono essere compromesse attraverso attacchi informatici, quindi è importante mantenerle aggiornate per proteggere la tua rete.
 
@@ -45,6 +44,7 @@ Sì, è altamente consigliabile cambiare regolarmente la password del tuo router
 
 *   **Sicurezza delle reti domestiche:** [https://www.wikipedia.org/wiki/Sicurezza_della_rete_domestica](https://www.wikipedia.org/wiki/Sicurezza_della_rete_domestica)
 *   **Router: Guida all'acquisto:** [https://www.computer.it/router-guida-acquisto/](https://www.computer.it/router-guida-acquisto/)
+
 
 
 ## Fonti
