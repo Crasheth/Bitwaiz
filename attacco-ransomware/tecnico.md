@@ -4,6 +4,7 @@
 
 
 
+
 Gli attacchi ransomware rappresentano una minaccia in costante evoluzione nel panorama della sicurezza informatica. La recente ondata di attacchi, come quello che ha colpito la società di costruzioni italiane Tirrena Scavi SpA, evidenzia la necessità di una comprensione approfondita delle tattiche utilizzate dagli aggressori e delle strategie di difesa più efficaci. Questo articolo analizza i recenti incidenti, concentrandosi sulle cause, le conseguenze e le possibili contromisure.
 
 
@@ -45,6 +46,7 @@ La priorità è isolare il sistema infetto, notificare alle autorità competenti
 
 ### Quali sono le principali misure di prevenzione?
 Le principali misure di prevenzione includono l'implementazione di solide pratiche di sicurezza informatica, l'utilizzo di software antivirus e antimalware, e la formazione del personale sulla consapevolezza del phishing.
+
 
 
 ## Fonti

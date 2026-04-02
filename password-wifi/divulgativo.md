@@ -1,6 +1,7 @@
 # Come Proteggere la Tua Rete Wi-Fi: Una Guida Semplice
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
 
 
 
@@ -48,6 +49,7 @@ Sì, è altamente consigliabile cambiare regolarmente la password del tuo router
 
 *   **Sicurezza delle reti domestiche:** [https://www.wikipedia.org/wiki/Sicurezza_della_rete_domestica](https://www.wikipedia.org/wiki/Sicurezza_della_rete_domestica)
 *   **Router: Guida all'acquisto:** [https://www.computer.it/router-guida-acquisto/](https://www.computer.it/router-guida-acquisto/)
+
 
 
 

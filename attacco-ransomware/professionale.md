@@ -4,6 +4,7 @@
 
 
 
+
 Gli attacchi ransomware rappresentano una minaccia in crescita nel panorama della sicurezza informatica, colpendo aziende, enti governativi e individui. Questo articolo analizza recenti incidenti, evidenziando le tecniche utilizzate dagli attaccanti e le implicazioni per la sicurezza aziendale. Esploreremo i casi di attacco in Texas, l'impatto su Norsk Hydro e un attacco a Tirrena Scavi SpA, analizzando le vulnerabilità sfruttate e le strategie di mitigazione possibili.
 
 
@@ -45,6 +46,7 @@ La priorità è isolare il sistema infetto, notificare alle autorità competenti
 
 ### Quali sono le principali misure di prevenzione?
 Le principali misure di prevenzione includono l'implementazione di solide pratiche di sicurezza informatica, l'utilizzo di software antivirus e antimalware, e la formazione del personale sulla consapevolezza del phishing.
+
 
 
 ## Fonti

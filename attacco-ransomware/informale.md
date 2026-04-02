@@ -4,6 +4,7 @@
 
 
 
+
 Un attacco ransomware è un tipo di attacco informatico in cui i criminali informatici prendono il controllo di un sistema informatico, crittografando i dati e chiedendo un riscatto per la loro restituzione.
 
 ## Punto chiave
@@ -67,6 +68,7 @@ La priorità è isolare il sistema infetto, notificare alle autorità competenti
 
 ### Quali sono le principali misure di prevenzione?
 Le principali misure di prevenzione includono l'implementazione di solide pratiche di sicurezza informatica, l'utilizzo di software antivirus e antimalware, e la formazione del personale sulla consapevolezza del phishing.
+
 
 
 ## Fonti
