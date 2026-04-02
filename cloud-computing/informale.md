@@ -1,6 +1,7 @@
 # Cloud Computing
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -135,6 +136,7 @@ Ecco alcuni punti chiave:
 *   **Innovazione:** Il cloud offre accesso a tecnologie all'avanguardia come l'intelligenza artificiale e il machine learning.
 
 Il cloud computing è diventato un elemento fondamentale per le aziende di tutte le dimensioni e per i singoli utenti. Permette di ridurre i costi, aumentare l'efficienza e accelerare l'innovazione.
+
 
 
 

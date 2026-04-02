@@ -1,6 +1,7 @@
 # Progetti iot
 
-> La tecnologia migliore è quella che scompare. — Mark Weiser.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 Ci sono molti progetti IoT adatti ai principianti, tra cui:
 
@@ -31,6 +32,7 @@ Alcuni esempi di progetti IoT per principianti includono la creazione di un sens
 
 ### Come posso connettere i miei dispositivi IoT alla rete?
 I dispositivi IoT possono essere connessi alla rete tramite Wi-Fi, Bluetooth o Ethernet. La scelta della connessione dipende dalle esigenze del progetto e dalle capacità del dispositivo. È importante considerare la sicurezza della connessione per proteggere i dati e prevenire accessi non autorizzati.
+
 
 ## Fonti
 

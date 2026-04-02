@@ -1,6 +1,7 @@
 # Progetti IoT per Principianti con Arduino e Raspberry Pi
 
-> La tecnologia migliore è quella che scompare. — Mark Weiser.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 Secondo le fonti, l'Internet of Things (IoT) sta trasformando il mondo, offrendo nuove opportunità per l'automazione, il monitoraggio e l'analisi dei dati. Per i principianti, iniziare con progetti IoT semplici può essere un ottimo modo per acquisire competenze in elettronica, programmazione e connettività. Questo articolo esplorerà alcuni progetti IoT popolari che possono essere realizzati utilizzando Arduino e Raspberry Pi, due piattaforme open-source molto diffuse.
@@ -25,6 +26,7 @@ Alcuni esempi di progetti IoT per principianti includono la creazione di un sens
 
 ### Come posso connettere i miei dispositivi IoT alla rete?
 I dispositivi IoT possono essere connessi alla rete tramite Wi-Fi, Bluetooth o Ethernet. La scelta della connessione dipende dalle esigenze del progetto e dalle capacità del dispositivo. È importante considerare la sicurezza della connessione per proteggere i dati e prevenire accessi non autorizzati.
+
 
 ## Fonti
 

@@ -2,7 +2,10 @@
 
 ## Domande frequenti
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+## Domande frequenti
+
 
 ## Domande frequenti
 

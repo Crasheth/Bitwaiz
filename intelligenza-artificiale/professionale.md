@@ -1,6 +1,7 @@
 # L’Intelligenza Artificiale preoccupa – LA BARBA DI DIOGENE
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
 
 
 
@@ -139,6 +140,7 @@ Il dibattito sull’IA è in costante evoluzione, con nuove scoperte e sviluppi 
 Il progresso tecnologico nell'ambito dell'IA presenta sia opportunità che sfide. È essenziale sfruttare il potenziale dell'IA per migliorare la nostra vita, mitigando al contempo i rischi associati al suo utilizzo.
 
 La gestione dell'IA richiede un approccio multidisciplinare, che coinvolga esperti di diversi settori, tra cui informatica, filosofia, etica e diritto. Solo attraverso una collaborazione efficace possiamo garantire che l'IA sia utilizzata in modo responsabile e sostenibile.
+
 
 
 

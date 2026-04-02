@@ -5,14 +5,14 @@
     <link>https://bitwaiz.it/</link>
     <description>Articoli su trend tech, cybersecurity, elettronica e innovazione. Pilastro BITWAIZ: spiegare semplice per rendere la curiosità contagiosa e accessibile.</description>
     <language>it-it</language>
-    <lastBuildDate>Thu, 02 Apr 2026 07:47:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 07:50:30 GMT</lastBuildDate>
     <atom:link href="https://bitwaiz.it/feed.xml" rel="self" type="application/rss+xml" />
   <item>
-    <title>Progetti IoT per Principianti con Arduino e Raspberry Pi</title>
-    <link>https://bitwaiz.it/progetti-iot/</link>
-    <guid isPermaLink="true">https://bitwaiz.it/progetti-iot/</guid>
+    <title>Attacchi Ransomware: Un&#x27;Analisi dei Recentissimi Incidenti</title>
+    <link>https://bitwaiz.it/attacco-ransomware/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/attacco-ransomware/</guid>
     <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
-    <description><![CDATA[L'IoT (Internet of Things) si riferisce alla rete di dispositivi fisici, come sensori, elettrodomestici e veicoli, che sono interconnessi e …]]></description>
+    <description><![CDATA[Gli attacchi ransomware rappresentano una minaccia in crescita per aziende e organizzazioni di ogni dimensione. Questi attacchi, che sfrutta…]]></description>
   </item>
   <item>
     <title>Malware: Una Guida Essenziale per la Sicurezza Informatica</title>
@@ -22,11 +22,11 @@
     <description><![CDATA[Il malware, o software dannoso, è una minaccia costante nel mondo digitale. Spesso invisibile, si nasconde dietro app apparentemente innocue…]]></description>
   </item>
   <item>
-    <title>Attacchi Ransomware: Un&#x27;Analisi dei Recentissimi Incidenti</title>
-    <link>https://bitwaiz.it/attacco-ransomware/</link>
-    <guid isPermaLink="true">https://bitwaiz.it/attacco-ransomware/</guid>
+    <title>Progetti IoT per Principianti con Arduino e Raspberry Pi</title>
+    <link>https://bitwaiz.it/progetti-iot/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/progetti-iot/</guid>
     <pubDate>Thu, 02 Apr 2026 12:00:00 GMT</pubDate>
-    <description><![CDATA[Gli attacchi ransomware rappresentano una minaccia in crescita per aziende e organizzazioni di ogni dimensione. Questi attacchi, che sfrutta…]]></description>
+    <description><![CDATA[L'IoT (Internet of Things) si riferisce alla rete di dispositivi fisici, come sensori, elettrodomestici e veicoli, che sono interconnessi e …]]></description>
   </item>
   <item>
     <title>Cybersecurity Best Practices: Proteggere la Tua Informatica</title>
