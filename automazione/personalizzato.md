@@ -1,6 +1,7 @@
 # Automazione: Storia, Definizione e Implicazioni
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 
@@ -136,6 +137,7 @@ Ecco alcuni punti chiave sull'automazione:
 *   **Il flusso del Tao**:  come il fiume segue il suo letto, l'automazione, se ben gestita, può portare a un flusso più efficiente e armonioso dei processi, eliminando ostacoli e riducendo sprechi.  L'obiettivo non è il controllo rigido, ma la facilitazione del flusso naturale.
 *   **Il respiro del sistema**:  l'automazione, come il respiro di un organismo, è un processo dinamico che richiede equilibrio e adattamento.  Un sistema automatizzato deve essere in grado di monitorare le proprie prestazioni, identificare problemi e apportare correzioni in tempo reale.
 *   **Il saggio e la parola**:  il saggio comprende la necessità di una parola misurata, un'azione ponderata. L'automazione, se usata con saggezza, può migliorare l'efficienza e la qualità, ma non deve essere imposta con forza o presunzione.
+
 
 
 

@@ -1,6 +1,7 @@
 # Corsi di Cybersecurity Online: Guida Completa
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
 
 
 
@@ -117,6 +118,7 @@ Secondo le fonti, le prospettive di lavoro nel cybersecurity sono estremamente p
 
 *   [Sicurezza informatica per IT e manager](https://www.bbs.unibo.it/open-program/cybersecurity-management/)
 *   [Cyber Threat Intelligence](https://www.coursera.org/courses?query=cyber%20threat%20intelligence)
+
 
 
 

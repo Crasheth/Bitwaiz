@@ -1,6 +1,7 @@
 # Cloud computing è un paradigma di calcolo che offre risorse informatiche – come server, storage, database, reti, software – tramite Internet (“il cloud”) come servizi. Invece di possedere e gestire fisicamente l'hardware e il software, gli utenti accedono a queste risorse on-demand, pagando solo per ciò che usano. Questo modello, ispirato alla distribuzione dell'elettricità, permette di scalare le risorse in modo flessibile, adattandosi alle mutevoli esigenze operative.
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
 
 
 
@@ -144,6 +145,7 @@ L'adozione del cloud computing è guidata da vantaggi significativi, tra cui cos
 
 
 ![cloud computing](https://3.bp.blogspot.com/-ZLu3dBaNodk/VwdempsDLHI/AAAAAAAAAMM/i3nNAoO3jms4tbV49DpQaXRVds02mt8LA/s1600/how+cloud+computing+works+images.jpg)
+
 
 
 

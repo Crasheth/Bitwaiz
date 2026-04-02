@@ -1,6 +1,7 @@
 # Italia: Un Fiume di Minacce, Un Percorso di Resilienza
 
-> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
 
 
 
@@ -129,6 +130,7 @@ Le azioni operative, o i passi fondamentali, per affrontare questa sfida sono mo
 *   **Sostenere l'innovazione:** Investire nella ricerca e nello sviluppo di nuove tecnologie di sicurezza, come l'intelligenza artificiale e il machine learning.  L'AI come flusso del Tao, un'onda che si adatta e si evolve.
 
 La situazione attuale, con un'alta percentuale di aziende italiane bersaglio di attacchi (22% secondo CyberEdge), evidenzia la necessità di un cambio di paradigma. Non si tratta più di "proteggere" in modo passivo, ma di "resistere" attivamente, di trasformare le minacce in opportunità di apprendimento e miglioramento.  L'attaccante segue il percorso del fiume verso il punto più basso, e noi dobbiamo anticipare i suoi movimenti.
+
 
 
 

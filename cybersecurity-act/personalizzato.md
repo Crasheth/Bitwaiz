@@ -1,6 +1,7 @@
 # Il Cybersecurity Information Sharing Act: Proteggere le Informazioni nel Corpo e nel Movimento
 
-> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
 
 
 
@@ -132,6 +133,7 @@ Secondo le fonti, il CISA prevede la creazione di un'agenzia governativa (Cyber 
 ## Vedi anche
 
 *   EU Cybersecurity Act | Shaping Europe’s digital future
+
 
 
 

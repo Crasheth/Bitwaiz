@@ -1,6 +1,7 @@
 # Stampa 3d
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
 
 
 
@@ -64,6 +65,7 @@ La stampa 3D è una tecnologia che ha trasformato molte industrie, offrendo solu
 
 - [Stampa 3D online - PolyD](https://polyd.com/it/)
 - [Stampa 3D Online | Preventivo Immediato, Servizio per Business e Privati](https://www.fama3d.com/it/)
+
 
 
 

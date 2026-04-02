@@ -1,6 +1,7 @@
 # Attacchi Ransomware: Un'Analisi dei Recentissimi Incidenti
 
-> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
 
 
 
@@ -47,6 +48,7 @@ La priorità è isolare il sistema infetto, notificare alle autorità competenti
 
 ### Quali sono le principali misure di prevenzione?
 Le principali misure di prevenzione includono l'implementazione di solide pratiche di sicurezza informatica, l'utilizzo di software antivirus e antimalware, e la formazione del personale sulla consapevolezza del phishing.
+
 
 
 

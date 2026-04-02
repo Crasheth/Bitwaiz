@@ -1,6 +1,7 @@
 # Voucher cloud e cybersecurity 2026
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
 
 
 Secondo le fonti, per accedere al voucher è necessario essere un'impresa individuale o una società di persone o di capitali, con sede legale in Italia, e con un fatturato annuo non superiore a 50 milioni di euro. L'impresa deve inoltre presentare un piano di investimento per l'adozione delle soluzioni di cloud computing e cybersecurity.
@@ -56,6 +57,7 @@ I tempi previsti per l'erogazione del voucher sono di circa 60 giorni dall'appro
 ### Cosa devo allegare alla domanda?
 
 Devi allegare la visura camerale aggiornata, il preventivo dei servizi cloud o delle soluzioni di cybersecurity che intendi acquistare e una descrizione dettagliata del tuo progetto.
+
 
 
 
