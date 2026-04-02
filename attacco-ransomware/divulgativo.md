@@ -1,10 +1,12 @@
 # Attacchi Ransomware: Un'Analisi dei Recentissimi Incidenti
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+
 
 
 
 Gli attacchi ransomware rappresentano una minaccia in crescita per aziende e organizzazioni di ogni dimensione. Questi attacchi, che sfruttano la crittografia dei dati per bloccare l'accesso, stanno diventando sempre più sofisticati e mirati. Analizziamo i recenti incidenti, evidenziando le cause, le conseguenze e le possibili strategie di difesa.
+
 
 
 ## Domande frequenti

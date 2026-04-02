@@ -1,6 +1,8 @@
 # Edge Computing: Il Flusso del Tao dei Dati
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -137,6 +139,8 @@ L'applicazione di edge computing si estende a una vasta gamma di settori, dall'a
 
 
 ![edge computing](https://lh4.googleusercontent.com/hJjupTvL1O7AanqsJFLpkVFYmDdEjYnUfYwQtM4xWfWgeIYpZcYwyWuDciOygaDqlJNwqeHi8tHlAEWezqUaEmB8ZOHzxms_26cp9A223aVnTOOc3oZVkMxU0nNKiyqvfIxDbsHU)
+
+
 
 
 

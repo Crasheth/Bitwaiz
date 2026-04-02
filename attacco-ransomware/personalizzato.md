@@ -1,6 +1,7 @@
 # Attacchi Ransomware: Un'Analisi dei Recentissimi Incidenti
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+
 
 
 
@@ -10,6 +11,7 @@ Gli attacchi ransomware rappresentano una minaccia in crescita per aziende e org
 ## Come la vedo io
 
 Su **attacco ransomware** il quadro che uso nel **playbook** quotidiano è lineare: osservo i **log**, accetto il **flusso** degli incidenti senza dramma da manuale. La **consapevolezza** qui è operativa — come curare un **giardino**: controlli, correggi, ripeti.
+
 
 
 ## Domande frequenti

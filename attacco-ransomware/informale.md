@@ -1,6 +1,8 @@
 # Attacco ransomware
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+
+
 
 Un attacco ransomware è un tipo di attacco informatico in cui i criminali informatici prendono il controllo di un sistema informatico, crittografando i dati e chiedendo un riscatto per la loro restituzione.
 
@@ -25,6 +27,7 @@ L'attacco ransomware che ha colpito Norsk Hydro ha evidenziato la vulnerabilità
 ## Tirrena Scavi SpA vittima di un attacco informatico di tipo
 
 L'attacco ransomware che ha colpito Tirrena Scavi SpA ha dimostrato che anche le piccole e medie imprese sono vulnerabili a questi attacchi. L'importanza di avere un piano di sicurezza informatica e di effettuare regolarmente backup dei dati è stata messa in luce.
+
 
 
 ## Domande frequenti

@@ -1,6 +1,8 @@
 # Intelligenza Artificiale: Benedizione o Maledizione?
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
+
 
 
 
@@ -77,6 +79,8 @@ Secondo le fonti, l'IA può essere utilizzata per creare canzoni in vari modi, a
 
 *   **Sicurezza informatica:** La protezione dei sistemi informatici e dei dati da minacce e attacchi.
 *   **Etica dell'IA:** L'analisi dei dilemmi morali e delle implicazioni sociali dello sviluppo e dell'uso dell'IA.
+
+
 
 
 

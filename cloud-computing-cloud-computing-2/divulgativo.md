@@ -1,6 +1,8 @@
 # Cloud Computing per Progetti IoT: guida pratica
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
+
 
 
 
@@ -97,6 +99,8 @@ Certo: elettronica sul campo, cloud per orchestrazione e lettura dati. E una cop
 
 - [Cloud storage](https://azure.microsoft.com/it-it/resources/cloud-computing-dictionary/cloud-storage)
 - [Cloud security](https://www.salesforce.com/eu/platform/cloud-computing/security/)
+
+
 
 
 
