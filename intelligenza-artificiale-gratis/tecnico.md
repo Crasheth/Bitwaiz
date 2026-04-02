@@ -1,6 +1,7 @@
 # Le 11 migliori app di intelligenza artificiale in italiano [2025]
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
 
 
 
@@ -155,6 +156,7 @@ Murf.AI e Neural.love sono alcune delle app di intelligenza artificiale più ada
 
 ### Quali sono le app di intelligenza artificiale più semplici da usare per principianti?
 ChatGPT e Simplified sono alcune delle app di intelligenza artificiale più semplici da usare per principianti, grazie alle loro interfacce intuitive e alle loro funzionalità facili da usare.
+
 
 
 

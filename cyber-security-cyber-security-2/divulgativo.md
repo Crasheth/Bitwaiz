@@ -35,6 +35,7 @@
 
 
 
+
 La sicurezza informatica è un campo cruciale nel nostro mondo sempre più connesso. In sintesi, si tratta di proteggere i dati e i sistemi informatici da accessi non autorizzati, danneggiamenti o furti. Questo include la protezione di informazioni sensibili, la garanzia della continuità operativa e l'affidabilità dei servizi digitali. Comprendere i concetti fondamentali della sicurezza informatica è essenziale per tutti, sia che si tratti di individui che di aziende.
 
 
@@ -82,6 +83,7 @@ Il cyber security awareness è la consapevolezza e la comprensione dei rischi di
 
 ### Quali sono le competenze richieste per un tecnico cyber security?
 Un tecnico cyber security deve possedere competenze in aree come la sicurezza delle reti, la sicurezza dei sistemi operativi, la crittografia, la gestione delle vulnerabilità e la risposta agli incidenti.
+
 
 
 

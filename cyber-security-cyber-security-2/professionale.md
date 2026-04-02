@@ -35,6 +35,7 @@
 
 
 
+
 La sicurezza informatica, o cybersecurity, è un campo multidisciplinare che si concentra sulla protezione dei sistemi informatici, delle reti e dei dati da minacce digitali. In un mondo sempre più dipendente dalla tecnologia, la cybersecurity è diventata essenziale per individui, aziende e governi. Questo articolo esplorerà la definizione di cybersecurity, i suoi principi fondamentali e l'importanza della consapevolezza della sicurezza.
 
 ## Cos'è la Sicurezza Informatica?
@@ -71,6 +72,7 @@ Il cyber security awareness è la consapevolezza e la comprensione dei rischi di
 
 ### Quali sono le competenze richieste per un tecnico cyber security?
 Un tecnico cyber security deve possedere competenze in aree come la sicurezza delle reti, la sicurezza dei sistemi operativi, la crittografia, la gestione delle vulnerabilità e la risposta agli incidenti.
+
 
 
 

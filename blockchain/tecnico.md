@@ -1,6 +1,7 @@
 # Blockchain: Fondamenti e Implicazioni
 
-> Blockchain è la tecnologia. Bitcoin è meramente la prima manifestazione. — Marc Andreessen.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -144,6 +145,7 @@ La blockchain offre una serie di vantaggi, tra cui:
 *   **Immutabilità:** Una volta che una transazione è stata registrata sulla blockchain, non può essere alterata o cancellata.
 
 Nonostante i suoi vantaggi, la blockchain presenta anche alcune sfide, tra cui la scalabilità (la capacità di gestire un elevato numero di transazioni), il consumo energetico (soprattutto nei sistemi Proof-of-Work) e la regolamentazione.
+
 
 
 

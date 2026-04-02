@@ -1,6 +1,7 @@
 # Blockchain: Un'Osservazione del Flusso
 
-> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 
@@ -98,6 +99,7 @@ La blockchain, nel suo nucleo, è un registro distribuito, un flusso di dati che
 *   **Applicazioni Oltre le Criptovalute:** Sebbene Bitcoin sia stato il primo grande successo della blockchain, le sue applicazioni si estendono ben oltre le criptovalute. La blockchain può essere utilizzata per tracciare la provenienza dei prodotti, gestire identità digitali, votare in modo sicuro e molto altro.
 
 Il concetto di blockchain, quindi, non è solo una tecnologia; è una nuova mentalità. È un invito a ripensare il modo in cui gestiamo i dati, le transazioni e le relazioni, basandosi su principi di fiducia, trasparenza e decentralizzazione. Come coltivare un giardino, il successo di una blockchain dipende dalla cura, dalla manutenzione e dalla comprensione del suo flusso interno. La robustezza di questa architettura si basa sulla resilienza della rete, sulla diversità delle opinioni e sulla capacità di adattamento ai cambiamenti esterni. Il "threat hunting" in un ambiente blockchain implica proprio questo: osservare attentamente il flusso, identificare anomalie e prevenire attacchi prima che possano causare danni.
+
 
 
 
