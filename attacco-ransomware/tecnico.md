@@ -1,6 +1,7 @@
 # Attacco Ransomware: Un’Analisi dei Recenti Incidenti
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
 
 
 
@@ -46,6 +47,7 @@ La priorità è isolare il sistema infetto, notificare alle autorità competenti
 
 ### Quali sono le principali misure di prevenzione?
 Le principali misure di prevenzione includono l'implementazione di solide pratiche di sicurezza informatica, l'utilizzo di software antivirus e antimalware, e la formazione del personale sulla consapevolezza del phishing.
+
 
 
 

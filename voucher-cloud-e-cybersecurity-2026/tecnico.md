@@ -1,6 +1,7 @@
 # Voucher Cloud Computing & Cybersecurity: Guida Tecnica al Supporto MIMIT 2026
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
 
 
 Questo articolo fornisce una panoramica tecnica del Voucher Cloud Computing & Cybersecurity lanciato dal Ministero dello Sviluppo Economico (MIMIT), offrendo un supporto finanziario fino a 20.000 euro per le imprese che investono in soluzioni di cloud computing e sicurezza informatica. Esploreremo i requisiti, le aree di intervento supportate e le implicazioni per le aziende che desiderano modernizzare la propria infrastruttura IT e rafforzare la propria postura di sicurezza.
@@ -50,6 +51,7 @@ I tempi previsti per l'erogazione del voucher sono di circa 60 giorni dall'appro
 ### Cosa devo allegare alla domanda?
 
 Devi allegare la visura camerale aggiornata, il preventivo dei servizi cloud o delle soluzioni di cybersecurity che intendi acquistare e una descrizione dettagliata del tuo progetto.
+
 
 
 ## Fonti

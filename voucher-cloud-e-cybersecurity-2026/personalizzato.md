@@ -1,6 +1,7 @@
 # Voucher Cloud Computing & Cybersecurity 2026: Un Passo Avanti per la Sicurezza Digitale
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
 
 
 
@@ -38,6 +39,7 @@ I tempi previsti per l'erogazione del voucher sono di circa 60 giorni dall'appro
 ### Cosa devo allegare alla domanda?
 
 Devi allegare la visura camerale aggiornata, il preventivo dei servizi cloud o delle soluzioni di cybersecurity che intendi acquistare e una descrizione dettagliata del tuo progetto.
+
 
 
 ## Fonti
