@@ -1,6 +1,6 @@
 # Attacco Ransomware: Cosa Sapere Quando le Aziende Sono in Guerra
 
-> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
 
 
 

@@ -1,6 +1,7 @@
 # Intelligenza Artificiale: Un'Esplorazione Iniziale
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 
@@ -147,6 +148,7 @@ Creare immagini con l'intelligenza artificiale è diventato accessibile a tutti 
 
 ### Come posso modificare le mie foto con l'intelligenza artificiale?
 Gli strumenti di modifica delle foto basati sull'intelligenza artificiale possono automatizzare molte attività che richiederebbero molto tempo e competenza. Possono correggere automaticamente il colore, la luminosità e il contrasto, rimuovere oggetti indesiderati, migliorare la nitidezza e persino creare effetti artistici.
+
 
 
 

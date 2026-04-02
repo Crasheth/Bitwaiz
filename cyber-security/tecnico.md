@@ -1,6 +1,7 @@
 # Cybersecurity: Proteggere Asset Digitali e Fisici
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
 
 
 
@@ -115,6 +116,7 @@ Per migliorare la sicurezza delle tue informazioni, dovresti implementare una se
 *   Conformità normativa
 *   Sicurezza delle reti
 *   Sicurezza delle applicazioni
+
 
 
 
