@@ -1,6 +1,7 @@
 # Samsung smartphone
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
 
 
 
@@ -44,6 +45,7 @@ Il nome in codice interno del Samsung Galaxy era GT-I7500. Questo nome era utili
 ## Vedi anche
 
 *   Samsung smartphone battery issues
+
 
 
 

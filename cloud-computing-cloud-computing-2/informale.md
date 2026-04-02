@@ -1,6 +1,7 @@
 # Cloud Computing: La Tua Guida Rapida
 
-> Tutto ciò che può essere digitalizzato verrà digitalizzato. — Nicholas Negroponte.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
 
 
 
@@ -85,6 +86,7 @@ Considera le tue esigenze specifiche, il budget, la sicurezza e la conformità n
 
 *   [Cloud Storage](https://azure.microsoft.com/it-it/resources/cloud-computing-dictionary/cloud-storage)
 *   [Cloud Security](https://www.salesforce.com/eu/platform/cloud-computing/security/)
+
 
 
 
