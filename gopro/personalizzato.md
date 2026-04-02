@@ -1,6 +1,7 @@
 # Qual è la differenza tra GoPro Hero 13 e GoPro 360?
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -57,6 +58,7 @@ Le action camera 360 di GoPro, come la Hero 9 Black e la Hero 12 Black, sono in 
 *   GoPro Hero 12 Black: [https://www.bestbuy.com/site/brands/gopro/pcmcat238900050009.c?id=pcmcat238900050009](https://www.bestbuy.com/site/brands/gopro/pcmcat238900050009.c?id=pcmcat238900050009)
 *   GoPro: [https://en.wikipedia.org/wiki/GoPro](https://en.wikipedia.org/wiki/GoPro)
 *   GoPro Action Cameras, Mounts & Accessories - Best Buy: [https://www.bestbuy.com/site/brands/gopro/pcmcat238900050009.c?id=pcmcat238900050009](https://www.bestbuy.com/site/brands/gopro/pcmcat238900050009.c?id=pcmcat238900050009)
+
 
 
 

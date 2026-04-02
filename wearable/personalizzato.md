@@ -1,6 +1,7 @@
 # L'Evoluzione Temporale del Rischio Cardiaco: La Cardiovertere Portatile e il Flusso del Tao
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
 
 
 
@@ -134,6 +135,7 @@ La tecnologia indossabile, nata per monitorare parametri vitali e migliorare la 
 *   **Il ruolo degli studi clinici:** Studi come il VEST trial, e i registri di pazienti, evidenziano che, nonostante l'elevata efficacia dei primi shock, l'ICD non riduce significativamente la mortalità a lungo termine. Questo suggerisce che il fattore più determinante rimane la gestione del rischio cardiaco sottostante, un concetto che si riflette nel principio buddhista di "karma": le azioni, sia preventive che terapeutiche, plasmano il futuro.
 
 Il dispositivo, quindi, non è una panacea, ma un'opportunità per rallentare il flusso, per dare un'altra possibilità. Il suo successo non risiede nella sua capacità di cambiare il corso del fiume, ma nel suo ruolo di sentinella, di guardiano che avverte del pericolo e offre un’interruzione temporanea. Il saggio, come suggerisce il Tao Te Ching, parla poco, ma ogni parola conta, e l'ICD, in questo senso, è una parola di speranza.
+
 
 
 

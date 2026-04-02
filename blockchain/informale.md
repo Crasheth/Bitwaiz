@@ -1,6 +1,7 @@
 # Blockchain: La Catena di Blocchi Spiegata
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Blockchain è la tecnologia. Bitcoin è meramente la prima manifestazione. — Marc Andreessen.
+
 
 
 
@@ -138,6 +139,7 @@ Ecco i punti chiave:
 *   **Consenso:** Prima che un nuovo blocco venga aggiunto alla catena, deve essere approvato dalla maggior parte dei computer nella rete. Questo processo di consenso garantisce che tutte le transazioni siano valide.
 
 Secondo le fonti, la blockchain ha un impatto enorme in diversi settori, dalla finanza alla logistica, passando per la sanità e il voto elettronico.
+
 
 
 

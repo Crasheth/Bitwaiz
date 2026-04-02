@@ -1,6 +1,7 @@
 # Diventa un Esperto di Cybersecurity: Proteggi il Futuro Digitale
 
-> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+
 
 
 
@@ -141,6 +142,7 @@ Secondo le fonti, le prospettive di lavoro nel cybersecurity sono estremamente p
 
 *   [Sicurezza informatica per IT e manager](https://www.bbs.unibo.it/open-program/cybersecurity-management/)
 *   [Cyber Threat Intelligence](https://www.coursera.org/courses?query=cyber%20threat%20intelligence)
+
 
 
 

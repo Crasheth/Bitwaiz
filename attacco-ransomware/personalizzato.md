@@ -1,6 +1,6 @@
 # Legami tecnici e quotidianità: come un attacco ransomware ha cambiato la vita di Norsk Hydro
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
 
 
 

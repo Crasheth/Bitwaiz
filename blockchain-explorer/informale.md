@@ -1,6 +1,7 @@
 # Bitcoin e Volatilità: Un'Analisi del Mercato
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
 
 
 
@@ -104,6 +105,7 @@ Il mercato delle criptovalute, e in particolare quello del Bitcoin, è noto per 
 
 
 ![blockchain explorer](https://media.pmf-research.eu/pmf-research.eu/wp-content/uploads/2023/09/Blockchain-explorer-2-EN.jpg)
+
 
 
 

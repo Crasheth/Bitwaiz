@@ -1,6 +1,7 @@
 # Redmi: la chiave e semplicita con sostanza
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
 
 
 
@@ -112,6 +113,7 @@ Le serie piu note sono Redmi Note (equilibrio tra prezzo e funzionalita) e Redmi
 
 ### Redmi produce solo smartphone?
 No. Oltre agli smartphone, Redmi propone anche prodotti IoT come tablet, TV e accessori audio, integrati nell'ecosistema Xiaomi.
+
 
 
 

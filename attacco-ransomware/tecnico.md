@@ -1,34 +1,35 @@
 # Attacchi Ransomware: Un&#x27;Analisi dei Recentissimi Incidenti
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
 
 Un attacco ransomware è un tipo di attacco informatico in cui un criminale informatico prende il controllo di un computer o di una rete e richiede un riscatto per ripristinare l'accesso ai dati.
 
-## Punto chiave
+## Approfondimento 1
 Esistono diversi tipi di ransomware, tra cui ransomware di tipo Locker, Ransomware di tipo Crypto e Ransomware di tipo Double Extortion.
 
-## Punto chiave
+## Approfondimento 2
 Ci sono diverse misure che puoi adottare per proteggerti dagli attacchi ransomware, tra cui l'utilizzo di software antivirus, l'esecuzione di backup regolari dei dati e l'aggiornamento del software.
 
-## Punto chiave
+## Approfondimento 3
 Le conseguenze di un attacco ransomware possono essere gravi, tra cui la perdita di dati, l'interruzione delle operazioni aziendali e danni alla reputazione.
 
-## Punto chiave
+## Approfondimento 4
 Se sei vittima di un attacco ransomware, è importante contattare immediatamente le forze dell'ordine e un professionista della sicurezza informatica.
 
-## Punto chiave
+## Approfondimento 5
 Gli IOC sono elementi che indicano che un sistema è stato compromesso da un attacco informatico. Questi elementi possono includere indirizzi IP, nomi di dominio, hash di file e modelli di traffico di rete.
 
-## Punto chiave
+## Approfondimento 6
 Le regole MITRE ATT&CK sono un framework di riferimento per comprendere e analizzare le tattiche, le tecniche e le procedure utilizzate dagli aggressori informatici.
 
-## Punto chiave
+## Approfondimento 7
 L'EDR è una tecnologia di sicurezza che monitora continuamente i sistemi per rilevare e rispondere alle minacce informatiche.
 
-## Punto chiave
+## Approfondimento 8
 Un backup air-gapped è un backup dei dati che viene salvato su un dispositivo o un sistema che non è connesso alla rete, rendendolo immune agli attacchi informatici.
 
-## Punto chiave
+## Approfondimento 9
 La threat hunting è il processo di ricerca proattiva di minacce informatiche all'interno di una rete o di un sistema.
 
 

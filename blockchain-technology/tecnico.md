@@ -1,6 +1,7 @@
 # Blockchain: เทคโนโลยีพื้นฐานสำหรับการจัดเก็บข้อมูลแบบกระจายศูนย์
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 
@@ -117,6 +118,7 @@ La blockchain è un registro digitale, immutabile e distribuito che registra le 
 
 
 ![blockchain technology](https://static.vecteezy.com/system/resources/previews/011/494/437/original/blockchain-technology-isometric-flat-illustration-concept-hi-tech-block-chain-data-structure-visualization-vector.jpg)
+
 
 
 

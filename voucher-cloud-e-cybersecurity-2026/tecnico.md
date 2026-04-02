@@ -1,6 +1,7 @@
 # Voucher Cloud Computing &amp; Cybersecurity 2026: Un Passo Avanti per la Sicurezza Digitale
 
-> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
 
 Secondo il bando MIMIT 2026, i requisiti principali riguardano l'attività svolta dall'impresa (attività di interesse generale, ricerca e sviluppo, ecc.), la presenza di un piano di cybersecurity e la conformità alle normative vigenti in materia di protezione dei dati.
 
@@ -208,6 +209,7 @@ Ci sono diverse misure che puoi adottare per proteggere la tua azienda, tra cui 
 ### Quali sono i vantaggi dell'utilizzo di servizi cloud?
 
 L'utilizzo di servizi cloud offre numerosi vantaggi, tra cui la riduzione dei costi, la scalabilità, l'accesso a tecnologie all'avanguardia, la maggiore flessibilità e la possibilità di concentrarsi sul core business.
+
 
 
 ## Fonti

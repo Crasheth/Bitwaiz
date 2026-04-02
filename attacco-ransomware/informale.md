@@ -1,6 +1,7 @@
 # Texas sotto attacco ransomware: città in ginocchio e riscatto da non pagare
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
 
 
 Ragazzi, succede un casino. Un attacco ransomware ha colpito diverse città in Texas, e la situazione è piuttosto seria. Il problema è che, a quanto pare, nessuno dei comuni interessati ha intenzione di pagare il riscatto richiesto dagli hacker. Scopriamo i dettagli.
@@ -8,7 +9,7 @@ Ragazzi, succede un casino. Un attacco ransomware ha colpito diverse città in T
 
 ![Attacchi Ransomware: Un&#x27;Analisi dei Recentissimi Incidenti](https://www.smeup.com/magazine/wp-content/uploads/sites/5/2023/07/Misure-ransomware-1024x535.png)
 
-## Punto chiave
+## Approfondimento 1
 
 L'attacco ha colpito diversi sistemi informatici di piccole e medie città in Texas. Gli attaccanti, probabilmente di tipo ransomware, hanno cifrato i dati e chiesto un riscatto per la loro restituzione. La risposta delle autorità è stata sorprendente: nessuno ha ceduto. Questo è un segnale forte che l'approccio tradizionale di pagare il riscatto non è sempre la soluzione migliore.
 
@@ -16,7 +17,7 @@ L'attacco ha colpito diversi sistemi informatici di piccole e medie città in Te
 
 La decisione di non pagare il riscatto è stata presa dopo una valutazione dei rischi e dei costi. Si tratta di una mossa strategica per evitare di finanziare attività criminali e per non incoraggiare ulteriori attacchi. Inoltre, si è capito che la restituzione dei dati era improbabile, e che l'investimento in un'accurata ricostruzione dei sistemi sarebbe stato più vantaggioso.
 
-## Punto chiave
+## Approfondimento 2
 
 Questo episodio mette in luce la vulnerabilità delle piccole città di fronte agli attacchi informatici. Senza risorse adeguate, la risposta può essere lenta e inefficace. Inoltre, sottolinea l'importanza di una gestione proattiva della sicurezza informatica, che include la formazione del personale, la verifica periodica dei sistemi e la definizione di piani di emergenza.
 
