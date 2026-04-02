@@ -1,6 +1,6 @@
 # Hemingway ransomware attack: No city will pay the ransom.
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
 
 
 

@@ -1,6 +1,6 @@
 # Texas sotto attacco ransomware: città in ginocchio e riscatto da non pagare
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
 
 
 

@@ -1,6 +1,6 @@
 # Legami tecnici e quotidianità: come un attacco ransomware ha cambiato la vita di Norsk Hydro
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
 
 
 

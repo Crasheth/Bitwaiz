@@ -1,6 +1,7 @@
 # Mr. Robot: Analisi di una Serie Televisiva Psicologica
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> La tecnologia migliore è quella che scompare. — Mark Weiser.
+
 
 
 
@@ -111,6 +112,7 @@ Dipende dal caso d'uso: in genere il valore sta nel rapporto tra prestazioni, co
 
 ### Quali limiti devo considerare su Mr. Robot: Un’analisi psicologica di un’anima digitale?
 Prima di adottarlo valuta limiti tecnici, lock-in, costi nel tempo e qualita del supporto/documentazione.
+
 
 
 

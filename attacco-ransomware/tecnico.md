@@ -1,6 +1,7 @@
 # Attacco Ransomware in Texas: Richiesto un Riscatto di 2,5 Milioni di Dollari
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 L'attacco ransomware che ha colpito una società nel Texas ha evidenziato la vulnerabilità delle infrastrutture critiche e la necessità di una risposta immediata e coordinata. Questo incidente, che ha richiesto un riscatto di 2,5 milioni di dollari, solleva interrogativi sulla sicurezza dei dati e sulla preparazione delle organizzazioni di fronte a minacce sempre più sofisticate.

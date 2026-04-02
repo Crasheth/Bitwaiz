@@ -1,6 +1,6 @@
 # Attacco Ransomware: Cosa Sapere Quando le Aziende Sono in Guerra
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
 
 
 
