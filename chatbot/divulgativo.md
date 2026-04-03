@@ -131,6 +131,8 @@
 
 
 
+
+
 I chatbot, o agenti virtuali, rappresentano una delle più rapide e rivoluzionarie evoluzioni nel campo dell'intelligenza artificiale.  In sostanza, si tratta di programmi progettati per simulare una conversazione umana, offrendo risposte, assistenza e persino intrattenimento.  La loro popolarità è in costante crescita, alimentata dai progressi nell'elaborazione del linguaggio naturale e dall'aumento della potenza computazionale.  Ma come sono nati questi sistemi e dove li stiamo portando?
 
 Il concetto di chatbot risale agli anni '70, con primi tentativi di creare programmi in grado di interagire in modo rudimentale con gli utenti.  Tuttavia, le limitazioni tecnologiche dell'epoca ne hanno frenato lo sviluppo.  Negli anni successivi, i chatbot sono stati spesso basati su alberi decisionali, sistemi complessi di regole che guidavano l'utente attraverso percorsi predefiniti.  Un esempio classico è un chatbot che chiede una serie di domande per determinare il problema dell'utente e poi offre una soluzione pre-programmata.  Questi sistemi erano efficaci solo per compiti semplici e specifici.
@@ -138,6 +140,8 @@ Il concetto di chatbot risale agli anni '70, con primi tentativi di creare progr
 La vera rivoluzione è arrivata con l'avvento del machine learning e, più recentemente, dei modelli linguistici di grandi dimensioni (LLM).  Questi modelli, come ChatGPT, sono in grado di apprendere dai dati e di generare testo in modo coerente e naturale.  Non si limitano a rispondere a domande, ma possono anche creare storie, tradurre lingue, scrivere codice e persino partecipare a conversazioni creative.  Il loro funzionamento è simile a quello di un bambino che impara parlando e ascoltando: analizzano enormi quantità di testo per identificare schemi e relazioni, e poi utilizzano queste conoscenze per generare nuove frasi e risposte.
 
 La capacità di questi modelli di "comprendere" il linguaggio naturale li rende incredibilmente versatili.  Oggi, i chatbot sono utilizzati in una vasta gamma di applicazioni, dall'assistenza clienti al servizio di informazioni, alla creazione di contenuti e all'intrattenimento.  E la loro evoluzione è tutt'altro che conclusa.  Il futuro dei chatbot promette interazioni ancora più naturali, intelligenti e personalizzate, con un impatto potenzialmente profondo su tutti gli aspetti della nostra vita.
+
+
 
 
 

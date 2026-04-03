@@ -1,6 +1,8 @@
 # L'Intelligenza Artificiale: Un'Esplorazione delle Origini e delle Potenzialità
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+
 
 
 
@@ -126,6 +128,8 @@ Creare immagini con l'intelligenza artificiale è diventato accessibile a tutti 
 
 ### Come posso modificare le mie foto con l'intelligenza artificiale?
 Gli strumenti di modifica delle foto basati sull'intelligenza artificiale possono automatizzare molte attività che richiederebbero molto tempo e competenza. Possono correggere automaticamente il colore, la luminosità e il contrasto, rimuovere oggetti indesiderati, migliorare la nitidezza e persino creare effetti artistici.
+
+
 
 
 

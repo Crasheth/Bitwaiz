@@ -1,6 +1,8 @@
 # Samsung smartphone
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
+
 
 
 
@@ -55,6 +57,8 @@ Il nome in codice interno del Samsung Galaxy era GT-I7500. Questo nome era utili
 ## Vedi anche
 
 *   Samsung smartphone battery issues
+
+
 
 
 

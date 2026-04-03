@@ -1,6 +1,8 @@
 # Cybersecurity Best Practices: Proteggere la Tua Informatica
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
+
 
 
 
@@ -64,6 +66,8 @@ Le soluzioni SIEM (Security Information and Event Management) raccolgono e anali
 
 *   [Cybersecurity Awareness Month](https://staysafeonline.org/cybersecurity-awareness-month)
 *   [President's Cup Cybersecurity Competition](https://www.cisa.gov/presidents-cup-cybersecurity-competition)
+
+
 
 
 
