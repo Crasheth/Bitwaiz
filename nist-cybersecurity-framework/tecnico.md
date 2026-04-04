@@ -80,6 +80,9 @@
 
 
 
+
+
+
 Il NIST Cybersecurity Framework (CSF) è un'infrastruttura volontaria per la gestione del rischio di cybersecurity, sviluppata dal National Institute of Standards and Technology (NIST) degli Stati Uniti. Questo framework fornisce un approccio flessibile e adattabile per organizzazioni di tutte le dimensioni e settori, consentendo loro di migliorare la propria postura di sicurezza e ridurre i rischi. Il CSF non impone standard obbligatori, ma offre una struttura per la valutazione, la gestione e la comunicazione dei rischi di cybersecurity. La sua adozione diffusa testimonia l'importanza di un linguaggio comune e di un approccio standardizzato alla sicurezza informatica.
 
 ## Contesto e Problema
@@ -137,6 +140,9 @@ Il CSF è particolarmente importante per le PMI, che spesso hanno risorse limita
 *   **Threat Intelligence:** La raccolta e l'analisi di informazioni sulle minacce informatiche per migliorare la consapevolezza e la capacità di risposta.
 *   **Security Orchestration, Automation and Response (SOAR):**  Soluzioni che automatizzano e orchestrano le attività di sicurezza per migliorare l'efficienza e la reattività.
 *   **MisP (MITRE ATT&CK):** Un knowledge base che descrive le tattiche e le tecniche utilizzate dagli aggressori informatici.
+
+
+
 
 
 

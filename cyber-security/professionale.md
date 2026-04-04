@@ -78,6 +78,9 @@
 
 
 
+
+
+
 Cyber security, o sicurezza informatica, è la pratica di proteggere sistemi informatici, reti e dati da danni, furti o accessi non autorizzati. Comprende un ampio spettro di misure, dalla protezione di singoli dispositivi alla gestione di reti complesse e infrastrutture critiche. In sostanza, si tratta di mitigare i rischi associati all'uso di tecnologie digitali, riconoscendo che la minaccia è in continua evoluzione e richiede un approccio proattivo e stratificato.  Questo campo è fondamentale per individui, aziende e governi, in quanto i sistemi informatici sono diventati parte integrante di quasi ogni aspetto della vita moderna, rendendoli bersagli attraenti per criminali informatici, stati-nazione e altri attori malintenzionati. Il successo della cyber security dipende da una combinazione di tecnologie, processi e consapevolezza umana, con l'obiettivo di mantenere la riservatezza, l'integrità e la disponibilità delle informazioni e dei sistemi.
 
 
@@ -112,6 +115,9 @@ Per migliorare la sicurezza delle tue informazioni, dovresti implementare una se
 *   Conformità normativa
 *   Sicurezza delle reti
 *   Sicurezza delle applicazioni
+
+
+
 
 
 

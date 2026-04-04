@@ -53,6 +53,9 @@
 
 
 
+
+
+
 ## Cos'è l'Intelligenza Artificiale?
 
 Ti sei mai chiesto cosa si nasconde dietro i sistemi di raccomandazione di Netflix, le auto a guida autonoma o gli assistenti vocali come Siri? La risposta è l'Intelligenza Artificiale (AI), un campo in rapida evoluzione che sta trasformando il nostro mondo. In parole povere, l'AI si concentra sulla creazione di macchine in grado di "pensare" e agire come gli esseri umani. Non si tratta di robot senzienti, ma di algoritmi sofisticati che possono apprendere, risolvere problemi e prendere decisioni. Questa tecnologia sta già influenzando settori come la sanità, la finanza, l'automotive e molti altri, e il suo impatto continuerà a crescere nei prossimi anni.
@@ -84,6 +87,9 @@ Per riassunti, bozze, analisi preliminari e automazioni semplici, con verifica u
 
 - [Machine learning (Wikipedia)](https://it.wikipedia.org/wiki/Machine_learning)
 - [Deep learning (Wikipedia)](https://it.wikipedia.org/wiki/Deep_learning)
+
+
+
 
 
 

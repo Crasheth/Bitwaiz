@@ -133,6 +133,9 @@
 
 
 
+
+
+
 La crescente domanda di dati e l'esplosione di dispositivi IoT stanno mettendo a dura prova le tradizionali infrastrutture cloud. L'edge computing offre una soluzione innovativa, portando l'elaborazione dati più vicino alla fonte, riducendo la latenza e ottimizzando l'utilizzo della banda.
 
 *   **Cos'è l'Edge Computing?**
@@ -154,6 +157,9 @@ La crescente domanda di dati e l'esplosione di dispositivi IoT stanno mettendo a
     *   **Sicurezza:** Proteggere i nodi edge da attacchi informatici.
     *   **Gestione:** Gestire e monitorare una rete distribuita di nodi edge.
     *   **Standardizzazione:** Sviluppare standard per garantire l'interoperabilità tra diversi dispositivi e piattaforme edge.
+
+
+
 
 
 
