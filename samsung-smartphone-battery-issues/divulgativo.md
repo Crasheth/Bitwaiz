@@ -1,7 +1,6 @@
 # Samsung Galaxy (2009): Un Passo Pionieristico verso Android
 
-> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
-
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
 
 
 
@@ -25,34 +24,30 @@ All'inizio degli anni 2000, il mercato degli smartphone era dominato da Symbian 
 
 Il Samsung Galaxy (2009) non è stato il primo smartphone, ma ha giocato un ruolo fondamentale nell'accelerare l'adozione di Android e nel creare un ecosistema competitivo. Ha dimostrato che un sistema operativo open-source poteva competere con le soluzioni proprietarie di Apple e Nokia, aprendo la strada a una nuova era di innovazione nel settore degli smartphone.
 
-# Quali sono le principali caratteristiche del Samsung Galaxy (2009)?
-
+## Nota 1: Quali sono le principali caratteristiche del Samsung Galaxy (2009)
 Il Samsung Galaxy (2009) era dotato di un display touchscreen LCD da 3.2 pollici, un processore Qualcomm Snapdragon da 1 GHz, 256 MB di RAM, 20 GB di memoria interna, una fotocamera da 5 MP e una batteria da 1500 mAh. Offriva supporto per le reti 3G e Wi-Fi e includeva applicazioni preinstallate come Google Maps, Gmail e YouTube.
 
-# Qual è stato l'impatto del Samsung Galaxy (2009) sul mercato degli smartphone?
-
+## Nota 2: Qual è stato l'impatto del Samsung Galaxy (2009) sul mercato degli sm...
 Il Samsung Galaxy (2009) ha contribuito a stimolare la concorrenza nel mercato degli smartphone, spingendo Apple e Nokia a innovare e a migliorare i propri prodotti. Ha anche contribuito a diffondere Android, che è diventato il sistema operativo mobile più utilizzato al mondo.
 
-# Quali sono le principali differenze tra il Samsung Galaxy (2009) e l'iPhone (al momento del suo lancio)?
-
+## Nota 3: Quali sono le principali differenze tra il Samsung Galaxy (2009) e l'...
 Il Samsung Galaxy (2009) era più economico dell'iPhone, offriva un display touchscreen più grande e includeva supporto per le reti 3G. Tuttavia, l'iPhone aveva un sistema operativo più intuitivo e una maggiore selezione di applicazioni disponibili.
-
 
 ## Domande frequenti
 
-# Qual è il prezzo di vendita del Samsung Galaxy (2009) al suo lancio?
+### Qual è il prezzo di vendita del Samsung Galaxy (2009) al suo lancio?
 
 Il Samsung Galaxy (2009) era inizialmente venduto a un prezzo di circa 499 dollari.
 
-# Quali sono le specifiche tecniche del Samsung Galaxy (2009)?
+### Quali sono le specifiche tecniche del Samsung Galaxy (2009)?
 
 Il Samsung Galaxy (2009) aveva un display touchscreen LCD da 3.2 pollici, un processore Qualcomm Snapdragon da 1 GHz, 256 MB di RAM, 20 GB di memoria interna, una fotocamera da 5 MP e una batteria da 1500 mAh.
 
-# Quali sono le principali applicazioni preinstallate nel Samsung Galaxy (2009)?
+### Quali sono le principali applicazioni preinstallate nel Samsung Galaxy (2009)?
 
 Il Samsung Galaxy (2009) includeva applicazioni preinstallate come Google Maps, Gmail, YouTube, e il browser web Samsung.
 
-# Qual è stata la risposta del mercato al lancio del Samsung Galaxy (2009)?
+### Qual è stata la risposta del mercato al lancio del Samsung Galaxy (2009)?
 
 Il Samsung Galaxy (2009) ha incontrato un buon successo di mercato, contribuendo a stimolare la concorrenza nel settore degli smartphone e a diffondere l'ecosistema Android.
 

@@ -1,6 +1,7 @@
 # La Difesa a Strati: Come le Aziende Italiane Combattono le Minacce Cyber
 
-> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
 
 
 
@@ -53,6 +54,7 @@ Le fonti suggeriscono che le piccole imprese possono adottare misure di sicurezz
 
 # Cosa si intende per "cybersecurity awareness"?
 La cybersecurity awareness si riferisce alla consapevolezza dei rischi informatici e alla capacità di riconoscere e prevenire le minacce.
+
 
 
 
