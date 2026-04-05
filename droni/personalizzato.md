@@ -1,6 +1,8 @@
 # Jurgita Dronina: Una Danza tra Arte e Tecnologia
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -145,6 +147,8 @@ Il suo lavoro, focalizzato principalmente sulla progettazione e la costruzione d
 La sua attività si concentra sull'utilizzo di droni per la creazione di opere d'arte digitali, spesso in collaborazione con artisti e registi. Questi progetti non sono semplici dimostrazioni tecnologiche, ma veri e propri spettacoli visivi che esplorano il potenziale dei droni come strumenti creativi. L'utilizzo di droni per la creazione di opere d'arte digitali, spesso in collaborazione con artisti e registi, non è semplice dimostrazione tecnologica, ma veri e proprio spettacoli visivi che esplorano il potenziale dei droni come strumenti creativi.
 
 Il percorso di Dronina è un esempio di come la tecnologia possa essere utilizzata per ampliare i confini dell'espressione artistica. Il suo lavoro ci invita a riflettere sul ruolo dell'uomo nella società tecnologica, sulla necessità di trovare un equilibrio tra innovazione e creatività, e sulla possibilità di utilizzare la tecnologia per creare un mondo più bello e armonioso. La sua visione, come un fiume che si adatta alla roccia, è un invito a trovare la nostra strada, a seguire il flusso del Tao, senza resistenza, ma con consapevolezza e rispetto per l'ambiente circostante.
+
+
 
 
 

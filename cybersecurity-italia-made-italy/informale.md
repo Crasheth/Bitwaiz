@@ -1,5 +1,8 @@
 # ## Domande frequenti
 
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
+
 ## Domande frequenti
 
 ### Nota 1: Qual è il ruolo dell'intelligenza artificiale nella cybersecurity
@@ -19,7 +22,6 @@ La cybersecurity awareness si riferisce alla consapevolezza dei rischi informati
 
 ## Domande frequenti
 
-> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
 
 
 ### Qual è il vantaggio dell'utilizzo dell'AI nella cybersecurity?
@@ -36,6 +38,8 @@ L'AI può aiutare a combattere minacce come malware, ransomware, attacchi zero-d
 
 
 ![cybersecurity italia](https://www.cybersecitalia.it/wp-content/uploads/2022/03/cybersec2022-prima-edizione.jpg)
+
+
 
 ## Fonti
 

@@ -1,6 +1,8 @@
 # Bitcoin e Volatilità: Un'Analisi del Mercato
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
+
 
 
 
@@ -113,6 +115,8 @@ Il mercato delle criptovalute, e in particolare quello del Bitcoin, è noto per 
 
 
 ![blockchain explorer](https://media.pmf-research.eu/pmf-research.eu/wp-content/uploads/2023/09/Blockchain-explorer-2-EN.jpg)
+
+
 
 
 

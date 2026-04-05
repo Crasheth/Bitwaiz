@@ -1,6 +1,8 @@
 # Reset Password: Un Approccio Tecnico
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -47,6 +49,8 @@ Se non ricevi l'email, controlla la cartella spam o posta indesiderata. In alter
 
 # Come posso proteggere la mia password dopo averla reimpostata?
 Dopo aver reimpostato la tua password, scegli una password complessa e unica, evitando di utilizzare informazioni personali facilmente reperibili. Abilita l'autenticazione a due fattori per una maggiore sicurezza.
+
+
 
 
 

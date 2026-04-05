@@ -1,6 +1,8 @@
 # Machine Learning: Una Guida Introduttiva
 
-> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
+
 
 
 
@@ -150,6 +152,8 @@ Il machine learning ha un impatto enorme su molti settori, tra cui la sanità, l
 
 
 Il machine learning sta trasformando il modo in cui viviamo e lavoriamo, e il suo potenziale è ancora in gran parte inesplorato.
+
+
 
 
 

@@ -1,6 +1,8 @@
 # Samsung Galaxy (2009): Un Passo Pionieristico verso Android
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 La data di lancio del Samsung Galaxy (2009) è stata il 6 giugno 2009, inizialmente in Europa, con una successiva espansione in altri mercati.
@@ -30,6 +32,8 @@ Il Samsung Galaxy (2009) includeva applicazioni preinstallate come Google Maps, 
 ### Qual è stata la risposta del mercato al lancio del Samsung Galaxy (2009)?
 
 Il Samsung Galaxy (2009) ha incontrato un buon successo di mercato, contribuendo a stimolare la concorrenza nel settore degli smartphone e a diffondere l'ecosistema Android.
+
+
 
 
 ## Fonti

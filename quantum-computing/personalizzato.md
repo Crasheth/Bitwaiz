@@ -1,6 +1,8 @@
 # Computer quantistici: un viaggio nel vuoto e nel Tao
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
+
 
 
 
@@ -145,6 +147,8 @@ I computer quantistici, con la loro promessa di rivoluzionare la computazione, e
 *   **Sfide:** La costruzione di computer quantistici è un'impresa incredibilmente complessa. I qubit sono estremamente sensibili al rumore ambientale, e mantenere la loro coerenza quantistica (la capacità di mantenere la sovrapposizione e l'entanglement) è una sfida tecnologica enorme.  È come lavorare con il vuoto, un'entità trasparente ma potente, che richiede la massima precisione.
 
 Il campo del computing quantistico è in rapida evoluzione, e sebbene la sua piena realizzazione sia ancora lontana, il potenziale di questa tecnologia è innegabile.  Come ogni grande scoperta, il computer quantistico rappresenta sia un'opportunità che una responsabilità, un invito a riflettere sulla natura della realtà e sul nostro ruolo nel mondo.  Il saggio parla poco ma ogni parola conta.
+
+
 
 
 
