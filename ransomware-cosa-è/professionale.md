@@ -3,6 +3,8 @@
 > Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
 
 
+
+
 I ransomware sono un tipo di malware che blocca l'accesso al sistema operativo di una vittima e richiede un riscatto per ripristinare l'accesso. Questi attacchi, diventati sempre più sofisticati e diffusi, rappresentano una seria minaccia per individui, aziende e persino infrastrutture critiche. In sostanza, i ransomware crittografano i file della vittima, rendendoli inaccessibili fino a quando non viene pagato un riscatto, spesso in criptovaluta, per la chiave di decrittazione. La minaccia è amplificata dalla capacità di questi attacchi di diffondersi rapidamente attraverso email di phishing, exploit di vulnerabilità software e campagne di ingegneria sociale.
 
 ## Tipologie di ransomware: da PC Cyborg ai ransomcloud, i blocker e i wiper
@@ -31,6 +33,8 @@ Mantenendo il software aggiornato, facendo attenzione alle email e agli allegati
 
 ### Quali sono i tipi di ransomware più comuni?
 PC Cyborg, Locky, Ransomware Cloud (Ransomcloud), Blocker e Wiper.
+
+
 
 
 ## Fonti
