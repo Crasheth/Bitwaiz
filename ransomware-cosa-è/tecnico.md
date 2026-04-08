@@ -4,7 +4,6 @@
 
 
 
-
 Il ransomware rappresenta una delle minacce informatiche più pervasive e dannose nel panorama digitale odierno. Questo articolo fornisce una panoramica tecnica del fenomeno, analizzando le diverse tipologie di ransomware, i meccanismi di attacco e le strategie di difesa. Il lettore acquisirà una comprensione approfondita di come operano questi attacchi e come proteggere i propri sistemi e dati.
 
 ## Contesto e Problema
@@ -43,23 +42,21 @@ La difesa contro il ransomware richiede un approccio a più livelli, che include
 *   **Segmentazione della Rete:** Dividere la rete in segmenti più piccoli per limitare la diffusione del ransomware.
 *   **Monitoraggio e Rilevamento delle Minacce:** Implementare sistemi di monitoraggio e rilevamento delle minacce per identificare e rispondere agli attacchi ransomware in tempo reale.
 
-
-
 ## Domande frequenti
 
-# Cosa è un ransomware?
+### Cosa è un ransomware?
 Un ransomware è un tipo di malware che crittografa i tuoi file e chiede un riscatto per la loro decrittazione.
 
-# Come si diffondono i ransomware?
+### Come si diffondono i ransomware?
 Principalmente tramite email di phishing, allegati infetti o siti web compromessi.
 
-# Cosa succede se il mio computer è infettato da ransomware?
+### Cosa succede se il mio computer è infettato da ransomware?
 Il ransomware crittografa i tuoi file, rendendoli inaccessibili e richiedendo un riscatto per il loro recupero.
 
-# Come posso proteggermi dai ransomware?
+### Come posso proteggermi dai ransomware?
 Mantenendo il software aggiornato, facendo attenzione alle email e agli allegati, utilizzando un software antivirus e eseguendo regolarmente il backup dei tuoi dati.
 
-# Quali sono i tipi di ransomware più comuni?
+### Quali sono i tipi di ransomware più comuni?
 PC Cyborg, Locky, Ransomware Cloud (Ransomcloud), Blocker e Wiper.
 
 

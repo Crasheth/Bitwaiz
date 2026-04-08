@@ -1,6 +1,7 @@
 #  Titolo: Informazioni sulla sicurezza delle informazioni
 
-> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -130,6 +131,7 @@ Per migliorare la sicurezza delle tue informazioni, dovresti implementare una se
 *   Conformità normativa
 *   Sicurezza delle reti
 *   Sicurezza delle applicazioni
+
 
 
 

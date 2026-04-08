@@ -1,7 +1,6 @@
-# Cosa sono i ransomware?
+# Ransomware cosa è
 
 > Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
-
 
 
 I ransomware sono un tipo di malware che blocca l'accesso al sistema operativo di una vittima e richiede un riscatto per ripristinare l'accesso. Questi attacchi, diventati sempre più sofisticati e diffusi, rappresentano una seria minaccia per individui, aziende e persino infrastrutture critiche. In sostanza, i ransomware crittografano i file della vittima, rendendoli inaccessibili fino a quando non viene pagato un riscatto, spesso in criptovaluta, per la chiave di decrittazione. La minaccia è amplificata dalla capacità di questi attacchi di diffondersi rapidamente attraverso email di phishing, exploit di vulnerabilità software e campagne di ingegneria sociale.
@@ -16,22 +15,21 @@ I ransomware blocker bloccano l’accesso all’intero dispositivo. I ransomware
 
 I ransomcloud, come ben suggerito dal nome, pre…
 
-
 ## Domande frequenti
 
-# Cosa è un ransomware?
+### Cosa è un ransomware?
 Un ransomware è un tipo di malware che crittografa i tuoi file e chiede un riscatto per la loro decrittazione.
 
-# Come si diffondono i ransomware?
+### Come si diffondono i ransomware?
 Principalmente tramite email di phishing, allegati infetti o siti web compromessi.
 
-# Cosa succede se il mio computer è infettato da ransomware?
+### Cosa succede se il mio computer è infettato da ransomware?
 Il ransomware crittografa i tuoi file, rendendoli inaccessibili e richiedendo un riscatto per il loro recupero.
 
-# Come posso proteggermi dai ransomware?
+### Come posso proteggermi dai ransomware?
 Mantenendo il software aggiornato, facendo attenzione alle email e agli allegati, utilizzando un software antivirus e eseguendo regolarmente il backup dei tuoi dati.
 
-# Quali sono i tipi di ransomware più comuni?
+### Quali sono i tipi di ransomware più comuni?
 PC Cyborg, Locky, Ransomware Cloud (Ransomcloud), Blocker e Wiper.
 
 

@@ -1,12 +1,11 @@
-# Cosa sono i Ransomware?
+# Ransomware cosa è
 
 > Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
 
 
-
 Se sei un utente medio, probabilmente hai sentito parlare di ransomware. Ma cosa sono esattamente e perché sono così pericolosi? In parole semplici, un ransomware è un tipo di malware (software dannoso) che crittografa i tuoi file, rendendoli inaccessibili. Per recuperare i tuoi dati, i criminali informatici ti chiedono un riscatto, spesso in criptovaluta come Bitcoin. È un attacco che può devastare sia privati che aziende. In questo articolo, ti spiegheremo come funzionano i ransomware, quali sono i tipi più comuni e, soprattutto, come proteggerti.
 
-## Come Funzionano i Ransomware?
+## Nota 1: Come Funzionano i Ransomware
 
 I ransomware si diffondono principalmente tramite email di phishing, allegati infetti o siti web compromessi. Una volta che il tuo dispositivo è infettato, il ransomware inizia a crittografare i tuoi file. Questo processo è spesso irreversibile, e anche se riesci a decrittare i file, non hai garanzia di recuperare le versioni originali. Il ransomware può anche bloccare il sistema operativo, impedendoti di accedere ai tuoi file o al tuo computer. La minaccia è sempre più concreta, soprattutto con l'aumento degli attacchi mirati.
 
@@ -29,22 +28,21 @@ La buona notizia è che ci sono diverse misure che puoi adottare per proteggerti
 *   **Utilizza un software antivirus affidabile:** Un buon antivirus può rilevare e bloccare i ransomware prima che possano infettare il tuo sistema.
 *   **Esegui regolarmente il backup dei tuoi dati:** In caso di attacco ransomware, puoi ripristinare i tuoi dati da un backup.
 
-
 ## Domande frequenti
 
-# Cosa è un ransomware?
+### Cosa è un ransomware?
 Un ransomware è un tipo di malware che crittografa i tuoi file e chiede un riscatto per la loro decrittazione.
 
-# Come si diffondono i ransomware?
+### Come si diffondono i ransomware?
 Principalmente tramite email di phishing, allegati infetti o siti web compromessi.
 
-# Cosa succede se il mio computer è infettato da ransomware?
+### Cosa succede se il mio computer è infettato da ransomware?
 Il ransomware crittografa i tuoi file, rendendoli inaccessibili e richiedendo un riscatto per il loro recupero.
 
-# Come posso proteggermi dai ransomware?
+### Come posso proteggermi dai ransomware?
 Mantenendo il software aggiornato, facendo attenzione alle email e agli allegati, utilizzando un software antivirus e eseguendo regolarmente il backup dei tuoi dati.
 
-# Quali sono i tipi di ransomware più comuni?
+### Quali sono i tipi di ransomware più comuni?
 PC Cyborg, Locky, Ransomware Cloud (Ransomcloud), Blocker e Wiper.
 
 

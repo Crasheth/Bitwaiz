@@ -1,6 +1,7 @@
 # Cybersecurity Best Practices: Proteggere la Tua Informatica
 
-> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -69,6 +70,7 @@ Le soluzioni SIEM (Security Information and Event Management) raccolgono e anali
 
 *   [Cybersecurity Awareness Month](https://staysafeonline.org/cybersecurity-awareness-month)
 *   [President's Cup Cybersecurity Competition](https://www.cisa.gov/presidents-cup-cybersecurity-competition)
+
 
 
 

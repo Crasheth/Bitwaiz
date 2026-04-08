@@ -1,8 +1,8 @@
 # ## Domande frequenti
 
+## Domande frequenti
+
 > La sicurezza è un processo, non un prodotto. — Bruce Schneier.
-
-
 
 
 ## Domande frequenti
@@ -25,7 +25,6 @@ La cybersecurity awareness si riferisce alla consapevolezza dei rischi informati
 ## Domande frequenti
 
 
-
 ### Qual è il vantaggio dell'utilizzo dell'AI nella cybersecurity?
 
 L'AI permette di analizzare grandi quantità di dati in tempo reale, identificando modelli e anomalie che sfuggirebbero all'occhio umano, automatizzando la risposta agli incidenti e migliorando la protezione degli endpoint.
@@ -40,9 +39,6 @@ L'AI può aiutare a combattere minacce come malware, ransomware, attacchi zero-d
 
 
 ![cybersecurity italia](https://www.cybersecitalia.it/wp-content/uploads/2022/03/cybersec2022-prima-edizione.jpg)
-
-
-
 
 
 ## Fonti

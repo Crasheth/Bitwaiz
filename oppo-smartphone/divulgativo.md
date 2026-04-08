@@ -1,6 +1,7 @@
 # Cosa sono Google Mobile Services?
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 
 
@@ -47,6 +48,7 @@ Risposta: Se riscontri problemi durante l'installazione di Google Mobile Service
 
 *   [Documentazione Google Mobile Services](https://developers.google.com/gmobile/docs)
 *   [Standard Android](https://developer.android.com/reference)
+
 
 
 
