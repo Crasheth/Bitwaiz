@@ -1,6 +1,8 @@
 # Cybersecurity tips cyber security
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> Sii il cambiamento che vuoi vedere nel mondo. — Mahatma Gandhi.
+
+
 
 
 
@@ -54,6 +56,8 @@ Le soluzioni SIEM (Security Information and Event Management) raccolgono e anali
 
 *   [Cybersecurity Awareness Month](https://staysafeonline.org/cybersecurity-awareness-month)
 *   [President's Cup Cybersecurity Competition](https://www.cisa.gov/presidents-cup-cybersecurity-competition)
+
+
 
 
 
