@@ -1,6 +1,8 @@
 # Osservazione e Flusso: Cloud Computing
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
+
 
 
 
@@ -115,6 +117,8 @@ Considera le tue esigenze specifiche, il budget, la sicurezza e la conformità n
 
 *   [Cloud Storage](https://azure.microsoft.com/it-it/resources/cloud-computing-dictionary/cloud-storage)
 *   [Cloud Security](https://www.salesforce.com/eu/platform/cloud-computing/security/)
+
+
 
 
 

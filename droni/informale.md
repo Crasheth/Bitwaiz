@@ -1,6 +1,8 @@
 # Bustin’ + Dronin’: un’esplorazione remixata del suono di Blur
 
-> La tecnologia migliore è quella che scompare. — Mark Weiser.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -149,6 +151,8 @@
 *   **Un'esplosione di creatività:** I remix dimostrano la versatilità di Blur e la loro volontà di sperimentare con diversi generi musicali.
 *   **Un'occasione per riscoprire:**  Per i fan, è un'occasione per riscoprire un album già amato e per apprezzarne ulteriormente l'innovazione.
 *   **Un'interessante testimonianza:** La compilation è un esempio di come un album possa generare nuove interpretazioni e remix, contribuendo a mantenerlo vivo nel tempo.
+
+
 
 
 

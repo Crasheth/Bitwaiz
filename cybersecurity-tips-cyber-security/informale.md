@@ -28,6 +28,8 @@
 
 
 
+
+
 Secondo le fonti, la "cyber hygiene" si riferisce all'insieme delle pratiche di sicurezza informatica di base che ogni individuo e organizzazione dovrebbe adottare per proteggere i propri sistemi e dati. Include azioni come l'utilizzo di password complesse, l'aggiornamento regolare del software, l'attenzione a link sospetti e l'abilitazione dell'autenticazione a più fattori.
 
 ## Punto chiave
@@ -61,6 +63,8 @@ Le soluzioni SIEM (Security Information and Event Management) raccolgono e anali
 
 *   [Cybersecurity Awareness Month](https://staysafeonline.org/cybersecurity-awareness-month)
 *   [President's Cup Cybersecurity Competition](https://www.cisa.gov/presidents-cup-cybersecurity-competition)
+
+
 
 
 

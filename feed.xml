@@ -3,10 +3,31 @@
   <channel>
     <title>BITWAIZ — Articoli</title>
     <link>https://bitwaiz.it/</link>
-    <description>Articoli su trend tech, cybersecurity, elettronica e innovazione.</description>
+    <description>Articoli su trend tech, cybersecurity, elettronica e innovazione. Pilastro BITWAIZ: spiegare semplice per rendere la curiosità contagiosa e accessibile.</description>
     <language>it-it</language>
-    <lastBuildDate>Wed, 08 Apr 2026 16:06:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 06:10:16 GMT</lastBuildDate>
     <atom:link href="https://bitwaiz.it/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>Fotografia Notturna con lo Smartphone: Svelare i Segreti della Luce</title>
+    <link>https://bitwaiz.it/fotografia-smartphone/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/fotografia-smartphone/</guid>
+    <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[La fotografia notturna con lo smartphone può sembrare un’impresa ardua, ma con le giuste tecniche e un po’ di pazienza, è possibile catturar…]]></description>
+  </item>
+  <item>
+    <title>Rimuovere il Malware dal Tuo Computer: Una Guida Pratica</title>
+    <link>https://bitwaiz.it/how-to-remove-malware/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/how-to-remove-malware/</guid>
+    <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[Se sei un utente di computer, probabilmente ti sei trovato a dover affrontare il malware. Il malware, o software dannoso, può compromettere …]]></description>
+  </item>
+  <item>
+    <title>El Ecosistema Startup de India: Un Caos Organizado</title>
+    <link>https://bitwaiz.it/startup-tech/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/startup-tech/</guid>
+    <pubDate>Thu, 09 Apr 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[Un ecosistema startup è un ambiente che supporta la nascita e la crescita di nuove imprese. Include investitori, mentori, incubatori, accele…]]></description>
+  </item>
   <item>
     <title>Le 10 Migliori Intelligenze Artificiali Gratuite per il 2025</title>
     <link>https://bitwaiz.it/intelligenza-artificiale-gratis-migliori-2/</link>

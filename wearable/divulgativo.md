@@ -1,6 +1,8 @@
 # Dispositivi indossabili: un'analisi di base
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -156,6 +158,8 @@ Ecco alcuni punti chiave da considerare:
 
 
 ![wearable](https://images.datainsightsmarket.com/pmr/banner/chart-Wearable-Fire-Insulation-Materials.png)
+
+
 
 
 

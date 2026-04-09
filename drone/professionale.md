@@ -1,6 +1,8 @@
 # Sviluppo di sistemi di sorveglianza aerea con droni
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -167,6 +169,8 @@ Ecco i punti chiave relativi allo sviluppo di sistemi di sorveglianza aerea con 
     *   **Agricoltura:** Monitoraggio delle colture, rilevamento di malattie e ottimizzazione dell'irrigazione.
     *   **Edilizia:** Ispezioni di infrastrutture, monitoraggio dei cantieri e gestione del territorio.
     *   **Ambiente:** Monitoraggio della fauna selvatica, rilevamento di incendi e valutazione dell'impatto ambientale.
+
+
 
 
 

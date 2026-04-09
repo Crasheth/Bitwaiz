@@ -1,6 +1,8 @@
 # L'Internet delle Cose: Un'Evoluzione Inarrestabile
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -156,6 +158,8 @@ Ecco i punti chiave:
 
 
 L'IoT non è solo un insieme di gadget connessi; è un'infrastruttura fondamentale per il futuro, con il potenziale di trasformare radicalmente il modo in cui viviamo e lavoriamo.  E' un'evoluzione inarrestabile, che promette di ottimizzare processi, migliorare l'efficienza e creare nuove opportunità di business.
+
+
 
 
 
