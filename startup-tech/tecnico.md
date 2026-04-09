@@ -1,6 +1,8 @@
 # Startup tech
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 Secondo Wikipedia, i settori più dinamici includono fintech, e-commerce, software, edtech e healthcare. Questi settori beneficiano di una crescente penetrazione di internet, di un aumento del potere d'acquisto dei consumatori e di un forte supporto governativo.
@@ -51,6 +53,8 @@ Las startups más comunes están en sectores como fintech, e-commerce, salud, ed
 
 ### ¿Cómo puede el gobierno indio apoyar mejor el ecosistema startup?
 El gobierno puede apoyar mejor el ecosismo startup a través de incentivos fiscales, programas de financiación, políticas favorables a la innovación y la simplificación de los procesos regulatorios.
+
+
 
 
 

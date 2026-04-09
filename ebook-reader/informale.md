@@ -1,6 +1,8 @@
 # La Storia degli E-reader: Dalla Visione di Brown al Kindle
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -42,6 +44,8 @@ La tecnologia E Ink utilizza minuscoli cristalli di pigmenti che si orientano in
 ## Vedi anche
 
 *   [E-book](https://en.wikipedia.org/wiki/E-book) - La definizione tecnica di e-book.
+
+
 
 
 
