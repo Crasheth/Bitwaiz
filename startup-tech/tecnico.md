@@ -1,9 +1,6 @@
 # Startup tech
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
-
-
-
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
 
 
 
@@ -56,11 +53,6 @@ Las startups más comunes están en sectores como fintech, e-commerce, salud, ed
 
 ### ¿Cómo puede el gobierno indio apoyar mejor el ecosistema startup?
 El gobierno puede apoyar mejor el ecosismo startup a través de incentivos fiscales, programas de financiación, políticas favorables a la innovación y la simplificación de los procesos regulatorios.
-
-
-
-
-
 
 
 

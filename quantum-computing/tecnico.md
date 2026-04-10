@@ -1,6 +1,8 @@
 # Computer Quantistici: Un'Introduzione
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -176,6 +178,8 @@ Nonostante il loro potenziale, i computer quantistici sono ancora in una fase di
 *   **Correzione degli Errori:** A causa della decoerenza e di altri fattori, i computer quantistici sono soggetti a errori. Sviluppare tecniche efficaci di correzione degli errori è essenziale per ottenere risultati affidabili.
 
 ## Prospettive Future
+
+
 
 
 

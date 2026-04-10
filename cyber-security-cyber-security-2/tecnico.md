@@ -1,6 +1,8 @@
 # Sicurezza Informatica: Una Guida Essenziale
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+
+
 
 
 
@@ -111,6 +113,8 @@ Il cyber security awareness è la consapevolezza e la comprensione dei rischi di
 
 ### Quali sono le competenze richieste per un tecnico cyber security?
 Un tecnico cyber security deve possedere competenze in aree come la sicurezza delle reti, la sicurezza dei sistemi operativi, la crittografia, la gestione delle vulnerabilità e la risposta agli incidenti.
+
+
 
 
 

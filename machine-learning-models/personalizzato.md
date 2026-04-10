@@ -1,6 +1,8 @@
 # Machine Learning: Un Flusso di Informazioni
 
-> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
+
 
 
 
@@ -157,6 +159,8 @@ Il machine learning, o apprendimento automatico, rappresenta un approccio rivolu
 Il cuore del machine learning risiede nella creazione di modelli matematici. Questi modelli, come il vuoto che accoglie ogni cosa, sono inizialmente privi di conoscenza, ma vengono riempiti con i dati. Attraverso un processo iterativo di apprendimento, il modello affina i suoi parametri, proprio come un monaco affina la sua meditazione, riducendo il "rumore" e concentrandosi sul "silenzio" – la vera conoscenza. Esistono diverse tipologie di apprendimento: supervisionato, in cui il modello viene addestrato su dati etichettati, come un allievo che impara da un maestro; non supervisionato, dove il modello esplora autonomamente i dati, come un viaggiatore che scopre nuovi territori; e per rinforzo, in cui il modello impara attraverso tentativi ed errori, come un monaco che perfeziona il suo kung fu.
 
 L'efficacia del machine learning dipende dalla qualità dei dati e dalla scelta dell'algoritmo. Un set di dati distorto, come un cristallo imperfetto, può portare a risultati inaccurati. Analogamente, un algoritmo mal scelto, come un sentiero sbagliato, può ostacolare il progresso. La chiave sta nel trovare l'equilibrio giusto, nel seguire il "wu wei" – l'azione senza sforzo – che si manifesta quando agiamo in armonia con il flusso naturale delle cose. Il machine learning, quindi, non è solo una tecnica, ma una filosofia, un modo di interagire con il mondo basato sull'osservazione, l'adattamento e l'apprendimento continuo.
+
+
 
 
 

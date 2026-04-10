@@ -1,6 +1,8 @@
 # DJI Action 2: La Nuova Action Cam Modulare per Avventure Intense
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -98,6 +100,8 @@ Il prezzo dell'Action 2 varia a seconda del modello e degli accessori inclusi. I
 
 *   DJI Osmo Action 3: La action cam più piccola e leggera di DJI - [https://gizmoschamber.com/dji-osmo-action-3-the-smallest-and-lightest-action-camera-of-dji/](https://gizmoschamber.com/dji-osmo-action-3-the-smallest-and-lightest-action-camera-of-dji/)
 *   DJI Action 3: Action Cam Modulare - [https://www.dji.com/action-3](https://www.dji.com/action-3)
+
+
 
 
 
