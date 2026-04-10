@@ -1,6 +1,8 @@
 # Intelligenza Artificiale Intelligenza Artificiale 2
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
 
 
 
@@ -112,6 +114,8 @@ Per riassunti, bozze, analisi preliminari e automazioni semplici, con verifica u
 
 - [Machine learning (Wikipedia)](https://it.wikipedia.org/wiki/Machine_learning)
 - [Deep learning (Wikipedia)](https://it.wikipedia.org/wiki/Deep_learning)
+
+
 
 
 

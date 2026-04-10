@@ -1,6 +1,8 @@
 # Analisi del Mercato Cripto: Un'Onda di Volatilità
 
-> Blockchain è la tecnologia. Bitcoin è meramente la prima manifestazione. — Marc Andreessen.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
 
 
 
@@ -133,6 +135,8 @@ Ecco i punti chiave da tenere a mente:
 Il mercato delle criptovalute è in continua evoluzione, e la chiave del successo è l'adattamento e la capacità di apprendere dagli errori. Come diceva il filosofo romano, "L'uomo di successo non è colui che non sbaglia, ma colui che impara dai suoi errori".
 
 ![blockchain explorer](https://media.pmf-research.eu/pmf-research.eu/wp-content/uploads/2023/09/Blockchain-explorer-2-EN.jpg)
+
+
 
 
 

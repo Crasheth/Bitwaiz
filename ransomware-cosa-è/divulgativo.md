@@ -1,6 +1,8 @@
 # Ransomware cosa è
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
+
 
 
 
@@ -58,6 +60,8 @@ Mantenendo il software aggiornato, facendo attenzione alle email e agli allegati
 
 ### Quali sono i tipi di ransomware più comuni?
 PC Cyborg, Locky, Ransomware Cloud (Ransomcloud), Blocker e Wiper.
+
+
 
 
 
