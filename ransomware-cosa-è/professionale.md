@@ -1,6 +1,8 @@
 # Ransomware cosa è
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
+
 
 
 
@@ -37,6 +39,8 @@ Mantenendo il software aggiornato, facendo attenzione alle email e agli allegati
 
 ### Quali sono i tipi di ransomware più comuni?
 PC Cyborg, Locky, Ransomware Cloud (Ransomcloud), Blocker e Wiper.
+
+
 
 
 

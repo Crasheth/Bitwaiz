@@ -1,6 +1,8 @@
 # Home Assistant: Il Tuo Domo Intelligente
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -155,6 +157,8 @@ Ecco le azioni operative principali che puoi fare con Home Assistant:
 *   **Controlla la tua casa da qualsiasi luogo:** Utilizza l'app mobile di Home Assistant per monitorare e controllare la tua casa da remoto.
 *   **Personalizza l'interfaccia:** Adatta l'interfaccia utente alle tue esigenze, creando dashboard personalizzate e visualizzando le informazioni che ti interessano.
 *   **Sfrutta la potenza della community:** Accedi a una vasta gamma di integrazioni, personalizzazioni e supporto offerti dalla comunità di Home Assistant.
+
+
 
 
 

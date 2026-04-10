@@ -1,6 +1,8 @@
 # Startup tech
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -48,6 +50,8 @@ Las startups más comunes están en sectores como fintech, e-commerce, salud, ed
 
 ### ¿Cómo puede el gobierno indio apoyar mejor el ecosistema startup?
 El gobierno puede apoyar mejor el ecosismo startup a través de incentivos fiscales, programas de financiación, políticas favorables a la innovación y la simplificación de los procesos regulatorios.
+
+
 
 
 

@@ -107,6 +107,8 @@
 
 
 
+
+
 L'intelligenza artificiale (AI) rappresenta un campo in rapida evoluzione, con implicazioni profonde per una vasta gamma di settori. Dalle applicazioni quotidiane come gli assistenti vocali e i sistemi di raccomandazione, fino alle applicazioni più complesse nel settore medico, finanziario e manifatturiero, l'AI sta trasformando il modo in cui viviamo e lavoriamo. Questo articolo esplora le origini dell'AI, le sue principali aree di sviluppo e le sfide associate al suo crescente impatto sulla società.
 
 Le radici dell'AI affondano nel mid-20° secolo, con i primi tentativi di creare macchine in grado di pensare e risolvere problemi. Figure chiave come Alan Turing, con il suo test di Turing, e i pionieri del Dartmouth Workshop del 1956, considerato l'atto di nascita dell'AI, hanno gettato le basi per questo campo. Le prime ricerche si concentrarono su sistemi esperti, progettati per imitare le capacità decisionali di esperti umani in domini specifici. Negli anni successivi, l'AI ha attraversato periodi di entusiasmo (e disillusione) a causa delle limitazioni degli approcci computazionali dell'epoca.
@@ -143,6 +145,8 @@ Creare immagini con l'intelligenza artificiale è diventato accessibile a tutti 
 
 ### Come posso modificare le mie foto con l'intelligenza artificiale?
 Gli strumenti di modifica delle foto basati sull'intelligenza artificiale possono automatizzare molte attività che richiederebbero molto tempo e competenza. Possono correggere automaticamente il colore, la luminosità e il contrasto, rimuovere oggetti indesiderati, migliorare la nitidezza e persino creare effetti artistici.
+
+
 
 
 

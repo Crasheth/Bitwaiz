@@ -1,6 +1,8 @@
 # Intelligenza Artificiale: Legami e Quotidianità
 
-> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
 
 
 
@@ -113,6 +115,8 @@ Secondo le fonti, l'IA può essere utilizzata per creare canzoni in vari modi, a
 
 *   **Sicurezza informatica:** La protezione dei sistemi informatici e dei dati da minacce e attacchi.
 *   **Etica dell'IA:** L'analisi dei dilemmi morali e delle implicazioni sociali dello sviluppo e dell'uso dell'IA.
+
+
 
 
 
