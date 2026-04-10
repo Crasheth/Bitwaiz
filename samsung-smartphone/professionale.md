@@ -1,6 +1,8 @@
 # Samsung Galaxy (2009 smartphone)
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
 
 
 
@@ -85,6 +87,8 @@ Il nome in codice interno del Samsung Galaxy era GT-I7500. Questo nome era utili
 ## Vedi anche
 
 *   Samsung smartphone battery issues
+
+
 
 
 

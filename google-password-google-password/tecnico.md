@@ -1,6 +1,8 @@
 # Gestori di Password: Un Confronto tra Google e Brave
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -114,6 +116,8 @@ Sì, i password manager affidabili utilizzano crittografia avanzata e altre misu
 
 ### Cosa succede se dimentico la mia password del password manager?
 La maggior parte dei password manager offre metodi di recupero della password, come domande di sicurezza o l'autenticazione a due fattori, per aiutarti a recuperare l'accesso al tuo account se dimentichi la tua password.
+
+
 
 
 

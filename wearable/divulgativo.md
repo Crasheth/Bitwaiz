@@ -1,6 +1,8 @@
 # Dispositivi indossabili: un'analisi di base
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -168,6 +170,8 @@ Ecco alcuni punti chiave da considerare:
 
 
 ![wearable](https://images.datainsightsmarket.com/pmr/banner/chart-Wearable-Fire-Insulation-Materials.png)
+
+
 
 
 

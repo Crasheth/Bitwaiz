@@ -1,6 +1,8 @@
 # PagesScrollView/Edge Computing
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -170,6 +172,8 @@ La computazione di confine sta guadagnando popolarità grazie alla proliferazion
 
 
 La computazione di confine offre vantaggi significativi, tra cui la riduzione della congestione della rete, la maggiore privacy dei dati e l'aumento della tolleranza ai guasti. Supporta una vasta gamma di applicazioni in settori come la produzione, l'automotive, l'assistenza sanitaria, il retail, la finanza, l'energia e le città intelligenti, oltre all'automazione industriale per la manutenzione predittiva. Inoltre, si integra con tecnologie emergenti come l'intelligenza artificiale e la blockchain per un'analisi avanzata dei dati al margine. Tuttavia, persistono sfide nell'orchestrazione delle risorse, nella sicurezza contro le minacce specifiche del margine e nella standardizzazione per garantire l'interoperabilità in ambienti eterogenei.
+
+
 
 
 
