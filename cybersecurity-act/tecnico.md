@@ -101,6 +101,7 @@
 
 
 
+
 L'Cybersecurity Information Sharing Act (CISA) è un tentativo legislativo statunitense volto a rafforzare la protezione informatica attraverso la condivisione di informazioni sulle minacce tra il governo federale, le imprese e le organizzazioni statali. Il tema è complesso e carico di implicazioni per la privacy e la sorveglianza, ma questo articolo si concentra sui meccanismi chiave e sulle diverse prospettive coinvolte. Comprendere le sfide poste dalla CISA è cruciale per chi opera nel campo della sicurezza informatica, della politica tecnologica e per chiunque sia interessato alle implicazioni della crescente dipendenza dalla tecnologia.
 
 
@@ -148,6 +149,7 @@ Secondo le fonti, il CISA prevede la creazione di un'agenzia governativa (Cyber 
 ## Vedi anche
 
 *   EU Cybersecurity Act | Shaping Europe’s digital future
+
 
 
 
