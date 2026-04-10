@@ -1,6 +1,7 @@
 # La Sicurezza Cibernetica in Evoluzione: Nuove Tecniche e Approcci
 
-> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
 
 
 
@@ -66,6 +67,7 @@ Le fonti suggeriscono che le piccole imprese possono adottare misure di sicurezz
 
 # Cosa si intende per "cybersecurity awareness"?
 La cybersecurity awareness si riferisce alla consapevolezza dei rischi informatici e alla capacità di riconoscere e prevenire le minacce.
+
 
 
 

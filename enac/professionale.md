@@ -1,6 +1,7 @@
 # L'ENAC: Origini e Funzioni di un'Agenzia di Accreditamento
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 
@@ -42,6 +43,7 @@ L'ENAC contribuisce alla sicurezza dell'aviazione attraverso l'accreditamento de
 ### Cosa significa l'accreditamento dell'ENAC?
 
 L'accreditamento dell'ENAC è un riconoscimento ufficiale che una scuola di volo o un'azienda di manutenzione soddisfa gli standard di qualità e sicurezza stabiliti dall'ENAC. Questo accreditamento garantisce che i professionisti formati da queste organizzazioni siano qualificati per operare in modo sicuro e efficiente nel settore dell'aviazione civile.
+
 
 
 

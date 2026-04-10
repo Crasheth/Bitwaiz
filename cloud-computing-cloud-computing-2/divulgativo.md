@@ -1,6 +1,7 @@
 # Cloud Computing per Progetti IoT: guida pratica
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 
@@ -126,6 +127,7 @@ Certo: elettronica sul campo, cloud per orchestrazione e lettura dati. E una cop
 
 - [Cloud storage](https://azure.microsoft.com/it-it/resources/cloud-computing-dictionary/cloud-storage)
 - [Cloud security](https://www.salesforce.com/eu/platform/cloud-computing/security/)
+
 
 
 

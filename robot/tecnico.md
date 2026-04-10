@@ -34,6 +34,7 @@
 
 
 
+
 L'articolo esplora il concetto di robotica, concentrandosi sulle loro definizioni, caratteristiche chiave e applicazioni.  Si propone di fornire una panoramica chiara e concisa per chiunque sia interessato a comprendere il ruolo crescente dei robot in diversi settori. Il lettore acquisirà una comprensione dei principi fondamentali alla base della robotica e delle sue implicazioni.
 
 ## Definizione e Caratteristiche
@@ -68,6 +69,7 @@ L'uso dei robot solleva importanti questioni etiche, come la responsabilità in 
 *   [Standard ISO 8373](https://www.iso.org/standard/7763.html) – Robot – Terminologia e definizioni
 *   [Robotica collaborativa](https://it.wikipedia.org/wiki/Robotica_collaborativa) – Un approccio alla robotica che prevede la collaborazione tra robot e esseri umani.
 *   [Robotica industriale](https://it.wikipedia.org/wiki/Robotica_industriale) – L'applicazione della robotica nell'industria manifatturiera.
+
 
 
 

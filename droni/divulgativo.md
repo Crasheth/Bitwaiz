@@ -1,6 +1,7 @@
 # Bustin’ + Dronin’: Un’esplorazione sonora del balletto del suono
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
 
 
 
@@ -158,6 +159,7 @@ L'album si articola in due sezioni principali. La prima, intitolata “Danza”,
 La seconda parte, “Risonanze”, è un'interpretazione musicale di questi dati. Il produttore, utilizzando i dati audio raccolti dai droni, ha creato paesaggi sonori astratti, combinando campioni di suoni ambientali, sintetizzatori e manipolazioni digitali. L'obiettivo non è replicare la performance di Dronina, ma piuttosto esplorare le "risonanze" che il suo movimento genera nell'ambiente circostante. In altre parole, l’album è un’interpretazione del movimento, un tentativo di catturare l'essenza del movimento stesso, non la sua forma visiva.
 
 Il progetto di Bustin’ + Dronin’ solleva interrogativi interessanti sul rapporto tra arte, tecnologia e percezione. Ci invita a riflettere su come la tecnologia possa essere utilizzata non solo per documentare il mondo, ma anche per trasformarlo, per creare nuove forme di esperienza sensoriale. È un esempio di come l'innovazione tecnologica possa arricchire la nostra comprensione del mondo e della nostra stessa esistenza.
+
 
 
 
