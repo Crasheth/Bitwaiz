@@ -1,6 +1,8 @@
 # Byers # Cloud Computing
 
-> Il cloud è solo il computer di qualcun altro. — Variante di Larry Ellison.
+> Tutto ciò che può essere digitalizzato verrà digitalizzato. — Nicholas Negroponte.
+
+
 
 
 
@@ -114,6 +116,8 @@ Considera le tue esigenze specifiche, il budget, la sicurezza e la conformità n
 
 *   [Cloud Storage](https://azure.microsoft.com/it-it/resources/cloud-computing-dictionary/cloud-storage)
 *   [Cloud Security](https://www.salesforce.com/eu/platform/cloud-computing/security/)
+
+
 
 
 

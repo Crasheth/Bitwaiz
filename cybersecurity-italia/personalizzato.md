@@ -1,6 +1,8 @@
 # Italia: Un Fiume di Minacce, Un Percorso di Resilienza
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+
+
 
 
 
@@ -157,6 +159,8 @@ Le azioni operative, o i passi fondamentali, per affrontare questa sfida sono mo
 *   **Sostenere l'innovazione:** Investire nella ricerca e nello sviluppo di nuove tecnologie di sicurezza, come l'intelligenza artificiale e il machine learning.  L'AI come flusso del Tao, un'onda che si adatta e si evolve.
 
 La situazione attuale, con un'alta percentuale di aziende italiane bersaglio di attacchi (22% secondo CyberEdge), evidenzia la necessità di un cambio di paradigma. Non si tratta più di "proteggere" in modo passivo, ma di "resistere" attivamente, di trasformare le minacce in opportunità di apprendimento e miglioramento.  L'attaccante segue il percorso del fiume verso il punto più basso, e noi dobbiamo anticipare i suoi movimenti.
+
+
 
 
 

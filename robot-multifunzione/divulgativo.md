@@ -1,6 +1,8 @@
 # Robot Multifunzione: Un'Arma Silenziosa per la Cucina
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -137,6 +139,8 @@ Dipende dal caso d'uso: in genere il valore sta nel rapporto tra prestazioni, co
 
 ### Quali limiti devo considerare su Robot Multifunzione: Un&#x27;Arma Silenziosa per la Cucina?
 Prima di adottarlo valuta limiti tecnici, lock-in, costi nel tempo e qualita del supporto/documentazione.
+
+
 
 
 

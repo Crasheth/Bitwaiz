@@ -16,6 +16,8 @@
 
 
 
+
+
 Il ransomware rappresenta una delle minacce informatiche più pervasive e dannose nel panorama digitale odierno. Questo articolo fornisce una panoramica tecnica del fenomeno, analizzando le diverse tipologie di ransomware, i meccanismi di attacco e le strategie di difesa. Il lettore acquisirà una comprensione approfondita di come operano questi attacchi e come proteggere i propri sistemi e dati.
 
 ## Contesto e Problema
@@ -70,6 +72,8 @@ Mantenendo il software aggiornato, facendo attenzione alle email e agli allegati
 
 ### Quali sono i tipi di ransomware più comuni?
 PC Cyborg, Locky, Ransomware Cloud (Ransomcloud), Blocker e Wiper.
+
+
 
 
 

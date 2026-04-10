@@ -1,6 +1,8 @@
 # Compatibilità LG TV: il segreto è WOW Synergy
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -35,6 +37,8 @@ Risposta: Le soundbar LG sono progettate specificamente per funzionare con i TV 
 
 ### Posso collegare la soundbar LG al mio sistema audio esistente?
 Risposta: Alcuni modelli di soundbar LG supportano la connessione a sistemi audio esterni tramite HDMI ARC o Bluetooth, permettendoti di condividere l'audio con altri dispositivi.
+
+
 
 
 
