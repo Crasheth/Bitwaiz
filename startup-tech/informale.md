@@ -12,6 +12,8 @@
 
 
 
+
+
 ¿Te suena a que el mundo de las startups en India es un caos absoluto? Pues en parte es cierto, pero está perfectamente organizado.  Es un ecosistema vibrante, lleno de energía y con una velocidad de crecimiento que te dejará boquiabierto. Si estás buscando entender cómo funcionan las startups en India, este artículo te dará una visión general de lo que se está cocinando.
 
 
@@ -58,6 +60,8 @@ Las startups más comunes están en sectores como fintech, e-commerce, salud, ed
 
 ### ¿Cómo puede el gobierno indio apoyar mejor el ecosistema startup?
 El gobierno puede apoyar mejor el ecosismo startup a través de incentivos fiscales, programas de financiación, políticas favorables a la innovación y la simplificación de los procesos regulatorios.
+
+
 
 
 

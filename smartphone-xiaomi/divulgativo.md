@@ -1,6 +1,8 @@
 # Smartphone Xiaomi: Un'Arma a Doppio Taglio
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -67,6 +69,8 @@ Utilizza password complesse e autenticazione a due fattori. Sii cauto quando con
 *   Protezione dei Dati su Smartphone: Guida Completa
 
 ---
+
+
 
 
 

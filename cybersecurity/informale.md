@@ -1,6 +1,8 @@
 # wrs: # Cybersecurity: Proteggere il Mondo Digitale
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -174,6 +176,8 @@ Ecco alcuni punti chiave da tenere a mente:
 La cybersecurity è diventata una priorità globale, e la sua importanza continuerà a crescere man mano che la nostra società diventa sempre più dipendente dalla tecnologia.  Proteggere il mondo digitale non è solo una questione di tecnologia, ma anche di responsabilità e consapevolezza.
 
 ![cybersecurity](https://img.freepik.com/premium-photo/cybersecurity-data-protection-concept-illustrating-importance-security-protocols-encryption-digital-age-with-visual-elements-representing-firewalls-security-measures-set_1282204-9929.jpg)
+
+
 
 
 

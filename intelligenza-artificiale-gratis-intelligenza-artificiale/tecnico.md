@@ -2,7 +2,13 @@
 
 ## Domande frequenti
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+## Domande frequenti
+
+
+## Domande frequenti
+
 
 ## Domande frequenti
 
