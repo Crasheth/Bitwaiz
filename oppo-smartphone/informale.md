@@ -1,6 +1,8 @@
 # Installare i servizi Google Mobile su smartphone OPPO
 
-> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
+
 
 
 
@@ -80,6 +82,8 @@ Risposta: Se riscontri problemi durante l'installazione di Google Mobile Service
 
 *   [Documentazione Google Mobile Services](https://developers.google.com/gmobile/docs)
 *   [Standard Android](https://developer.android.com/reference)
+
+
 
 
 

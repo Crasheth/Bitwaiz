@@ -29,6 +29,8 @@
 
 
 
+
+
 L'ENAC (École Nationale de l'Aviation Civile), l'Ente Nazionale di Accreditamento francese, è molto più di una semplice scuola di volo. È un'istituzione fondamentale per garantire la sicurezza e l'efficienza del trasporto aereo in Francia e, per estensione, in tutto il mondo. Questo articolo esplorerà la sua storia, le sue attività e il suo ruolo cruciale nel formare i professionisti che guidano le nostre rotte aeree. Imparerai come l'ENAC si adatta alle sfide del futuro dell'aviazione, integrando nuove tecnologie e metodologie di formazione.
 
 
@@ -78,6 +80,8 @@ L'ENAC contribuisce alla sicurezza dell'aviazione attraverso l'accreditamento de
 ### Cosa significa l'accreditamento dell'ENAC?
 
 L'accreditamento dell'ENAC è un riconoscimento ufficiale che una scuola di volo o un'azienda di manutenzione soddisfa gli standard di qualità e sicurezza stabiliti dall'ENAC. Questo accreditamento garantisce che i professionisti formati da queste organizzazioni siano qualificati per operare in modo sicuro e efficiente nel settore dell'aviazione civile.
+
+
 
 
 

@@ -1,6 +1,8 @@
 # Power bank
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+
 
 
 Un power bank es un dispositivo portátil que almacena energía eléctrica para cargar dispositivos electrónicos como smartphones, tablets y auriculares. Sirve como una fuente de energía de respaldo cuando no se dispone de una toma de corriente.
@@ -68,6 +70,8 @@ Se scegli una batteria portatile di buona qualità, è improbabile che danneggi 
 ### Come faccio a sapere quando la mia batteria portatile è esaurita?
 
 La maggior parte delle batterie portatili ha un indicatore LED che mostra il livello di carica rimanente. Alcune batterie portatili hanno anche un display digitale che mostra la capacità della batteria in percentuale.
+
+
 
 
 

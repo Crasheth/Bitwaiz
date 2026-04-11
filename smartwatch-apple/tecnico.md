@@ -1,6 +1,8 @@
 # Apple Watch: Analisi Tecnica dello Sviluppo e delle Sfide
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -36,6 +38,8 @@ L'Apple Watch ha ridefinito il concetto di wearable, dimostrando che gli smartwa
 ### Qual è il rapporto tra l'Apple Watch e l'iPhone?
 
 L'Apple Watch è stato progettato per funzionare in modo nativo con l'iPhone, consentendo agli utenti di ricevere notifiche, rispondere a chiamate e controllare la musica direttamente dal polso, sfruttando l'ecosistema Apple.
+
+
 
 
 

@@ -1,6 +1,8 @@
 # Legami tecnologici e quotidianità della sicurezza informatica
 
-> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+
+
 
 
 
@@ -67,6 +69,8 @@ Le fonti suggeriscono che le piccole imprese possono adottare misure di sicurezz
 
 # Cosa si intende per "cybersecurity awareness"?
 La cybersecurity awareness si riferisce alla consapevolezza dei rischi informatici e alla capacità di riconoscere e prevenire le minacce.
+
+
 
 
 

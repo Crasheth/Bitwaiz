@@ -1,6 +1,8 @@
 # Power bank
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+
 
 
 Un power bank, o batterie esterne, è un dispositivo portatile che immagazzina energia elettrica e la fornisce a dispositivi elettronici come smartphone, tablet e fotocamere.
@@ -65,6 +67,8 @@ Se scegli una batteria portatile di buona qualità, è improbabile che danneggi 
 ### Come faccio a sapere quando la mia batteria portatile è esaurita?
 
 La maggior parte delle batterie portatili ha un indicatore LED che mostra il livello di carica rimanente. Alcune batterie portatili hanno anche un display digitale che mostra la capacità della batteria in percentuale.
+
+
 
 
 

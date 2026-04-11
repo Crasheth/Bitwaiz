@@ -1,7 +1,6 @@
 # Voucher Cloud e Cybersecurity 2026: Sostegno alle PMI per la Trasformazione Digitale e la Protezione dei Dati
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
-
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
 
 
 
@@ -38,7 +37,6 @@ Il Voucher è destinato alle PMI di tutte le dimensioni e settori, che desideran
 ### Quanto costa il Voucher?
 
 Il costo del Voucher varia a seconda delle esigenze specifiche dell'azienda.
-
 
 
 ## Fonti

@@ -1,6 +1,8 @@
 # Cloud Computing: Una Guida Introduttiva
 
-> Tutto ciò che può essere digitalizzato verrà digitalizzato. — Nicholas Negroponte.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -68,6 +70,8 @@ I rischi includono problemi di sicurezza, perdita di controllo sui dati, dipende
 ### Come posso scegliere il giusto provider di cloud computing?
 
 Considera fattori come il tipo di servizi offerti, i prezzi, la sicurezza, la conformità normativa e il supporto tecnico.
+
+
 
 
 
