@@ -3,10 +3,24 @@
   <channel>
     <title>BITWAIZ — Articoli</title>
     <link>https://bitwaiz.it/</link>
-    <description>Articoli su trend tech, cybersecurity, elettronica e innovazione.</description>
+    <description>Articoli su trend tech, cybersecurity, elettronica e innovazione. Pilastro BITWAIZ: spiegare semplice per rendere la curiosità contagiosa e accessibile.</description>
     <language>it-it</language>
-    <lastBuildDate>Sat, 11 Apr 2026 07:23:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 06:09:39 GMT</lastBuildDate>
     <atom:link href="https://bitwaiz.it/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>Impara a Proteggere la Tua Vita Digitale: Una Guida Pratica alla Sicurezza Informatica</title>
+    <link>https://bitwaiz.it/cybersecurity-corso/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/cybersecurity-corso/</guid>
+    <pubDate>Sun, 12 Apr 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[La sicurezza informatica può sembrare un campo oscuro e pieno di termini tecnici, ma in realtà si tratta di proteggere le informazioni e i d…]]></description>
+  </item>
+  <item>
+    <title>Wearable: il cuore che batte anche fuori dal corpo</title>
+    <link>https://bitwaiz.it/wearable-cardioverter-defibrillator/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/wearable-cardioverter-defibrillator/</guid>
+    <pubDate>Sun, 12 Apr 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[Un WCD è un dispositivo medico indossabile che monitora continuamente l'attività elettrica del cuore e, in caso di necessità, può erogare un…]]></description>
+  </item>
   <item>
     <title>Come Scegliere il Monitor Perfetto per il Gaming (e Non Solo)</title>
     <link>https://bitwaiz.it/how-to-choose-a-gaming-monitor-ultimate/</link>

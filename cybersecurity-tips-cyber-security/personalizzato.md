@@ -1,6 +1,8 @@
 # Cybersecurity Best Practices: Proteggere la Tua Informatica
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -97,6 +99,8 @@ Le soluzioni SIEM (Security Information and Event Management) raccolgono e anali
 
 *   [Cybersecurity Awareness Month](https://staysafeonline.org/cybersecurity-awareness-month)
 *   [President's Cup Cybersecurity Competition](https://www.cisa.gov/presidents-cup-cybersecurity-competition)
+
+
 
 
 

@@ -1,6 +1,8 @@
 # Cloud Computing: La Guida per Non Perdersi
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -74,6 +76,8 @@ I rischi includono problemi di sicurezza, perdita di controllo sui dati, dipende
 ### Come posso scegliere il giusto provider di cloud computing?
 
 Considera fattori come il tipo di servizi offerti, i prezzi, la sicurezza, la conformità normativa e il supporto tecnico.
+
+
 
 
 

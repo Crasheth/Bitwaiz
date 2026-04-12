@@ -2,7 +2,13 @@
 
 ## Domande frequenti
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
+## Domande frequenti
+
+
+## Domande frequenti
+
 
 ## Domande frequenti
 

@@ -1,6 +1,8 @@
 # Home Assistant: Il Potente Assistente Domotico Open Source
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -195,6 +197,8 @@ Ecco un esempio di automazione che puoi creare in Home Assistant:
 *   [Home Assistant](https://grokipedia.com/page/Home_Assistant)
 *   [Home Assistant](https://www.home-assistant.io/)
 *   [Installation - Home Assistant](https://www.home-assistant.io/installation/)
+
+
 
 
 

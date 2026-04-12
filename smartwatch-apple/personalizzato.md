@@ -16,6 +16,8 @@
 
 
 
+
+
 L'amore per gli smartwatch, Apple Watch compreso, è in fondo fame di precisione: sensori, notifiche, misure. Questo dispositivo, con i suoi numerosi sensori, ci permette di controllare molti aspetti della giornata dal polso. Ma al di là delle funzionalità tecniche, l'Apple Watch può essere letto anche come metafora della nostra relazione con la natura: un equilibrio precario tra tecnologia e mondo fisico.
 
 
@@ -76,6 +78,8 @@ L'Apple Watch ha ridefinito il concetto di wearable, dimostrando che gli smartwa
 ### Qual è il rapporto tra l'Apple Watch e l'iPhone?
 
 L'Apple Watch è stato progettato per funzionare in modo nativo con l'iPhone, consentendo agli utenti di ricevere notifiche, rispondere a chiamate e controllare la musica direttamente dal polso, sfruttando l'ecosistema Apple.
+
+
 
 
 

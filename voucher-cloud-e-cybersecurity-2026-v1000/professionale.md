@@ -1,6 +1,8 @@
 # Voucher Cloud e Cybersecurity 2026: Sostegno alle PMI per la Trasformazione Digitale e la Protezione dei Dati
 
-> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
+
 
 
 
@@ -37,6 +39,8 @@ Il Voucher è destinato alle PMI di tutte le dimensioni e settori, che desideran
 ### Quanto costa il Voucher?
 
 Il costo del Voucher varia a seconda delle esigenze specifiche dell'azienda.
+
+
 
 
 ## Fonti

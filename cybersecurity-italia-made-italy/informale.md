@@ -2,7 +2,13 @@
 
 ## Domande frequenti
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
+## Domande frequenti
+
+
+## Domande frequenti
+
 
 ## Domande frequenti
 

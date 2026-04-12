@@ -1,6 +1,8 @@
 # Dispositivi medici indossabili per la gestione dell'aritmia: un'analisi delle evidenze
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -175,6 +177,8 @@ In conclusione, i dispositivi medici indossabili rappresentano uno strumento pro
 
 
 ![wearable](https://images.datainsightsmarket.com/pmr/banner/chart-Wearable-Fire-Insulation-Materials.png)
+
+
 
 
 
