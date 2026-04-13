@@ -50,6 +50,8 @@
 
 
 
+
+
 L'articolo presenta una panoramica dei robot, dalla loro definizione alle loro applicazioni, evidenziando l'evoluzione tecnologica e le implicazioni del loro impiego. Il lettore acquisirà una comprensione dei concetti chiave relativi ai robot, delle loro capacità e del loro impatto su diversi settori. Si esploreranno le caratteristiche distintive dei robot, le loro applicazioni in settori come la medicina, l'industria e l'esplorazione spaziale, nonché le sfide etiche e le preoccupazioni legate al loro sviluppo e alla loro implementazione.
 
 
@@ -87,6 +89,8 @@ L'uso dei robot solleva importanti questioni etiche, come la responsabilità in 
 *   [Standard ISO 8373](https://www.iso.org/standard/7763.html) – Robot – Terminologia e definizioni
 *   [Robotica collaborativa](https://it.wikipedia.org/wiki/Robotica_collaborativa) – Un approccio alla robotica che prevede la collaborazione tra robot e esseri umani.
 *   [Robotica industriale](https://it.wikipedia.org/wiki/Robotica_industriale) – L'applicazione della robotica nell'industria manifatturiera.
+
+
 
 
 

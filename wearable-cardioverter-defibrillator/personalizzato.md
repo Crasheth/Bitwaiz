@@ -5,6 +5,8 @@
 
 
 
+
+
 ![wearable](https://hitech.net.au/wp-content/uploads/2024/01/ac39357e-f6ef-4c47-b0ef-fd3cb760d5e9.png)
 
 ## Introduzione
@@ -48,6 +50,8 @@ La durata della batteria è un fattore limitante per l'utilizzo dei WCD. L'ottim
 
 ### Come vengono gestiti i dati raccolti dai WCD?
 I dati raccolti dai WCD vengono trasmessi a un centro di monitoraggio o a un medico per l'analisi e la gestione del paziente. È fondamentale garantire la sicurezza e la privacy di questi dati, implementando protocolli di accesso controllati e crittografia dei dati.
+
+
 
 
 

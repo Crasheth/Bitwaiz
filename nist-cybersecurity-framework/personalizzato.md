@@ -81,6 +81,8 @@
 
 
 
+
+
 La sicurezza informatica è spesso vista come un prodotto, una soluzione tecnologica definitiva che garantisce protezione a lungo termine. Tuttavia, la realtà è diversa: la sicurezza informatica è un processo continuo di miglioramento e adattamento alle nuove minacce.
 
 ## Introduzione
@@ -141,6 +143,8 @@ Il CSF è particolarmente importante per le PMI, che spesso hanno risorse limita
 *   **Threat Intelligence:** La raccolta e l'analisi di informazioni sulle minacce informatiche per migliorare la consapevolezza e la capacità di risposta.
 *   **Security Orchestration, Automation and Response (SOAR):**  Soluzioni che automatizzano e orchestrano le attività di sicurezza per migliorare l'efficienza e la reattività.
 *   **MisP (MITRE ATT&CK):** Un knowledge base che descrive le tattiche e le tecniche utilizzate dagli aggressori informatici.
+
+
 
 
 

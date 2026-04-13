@@ -56,6 +56,8 @@
 
 
 
+
+
 PolyD è un servizio che permette a privati e aziende di ottenere prototipi e piccole serie di pezzi in plastica, utilizzando stampanti 3D professionali. Offre la possibilità di creare oggetti personalizzati, partendo da un modello digitale (CAD), con una vasta gamma di materiali e finiture.
 
 ## Come funziona il servizio "Nested Build"?
@@ -99,6 +101,8 @@ La stampa 3D è una tecnologia che ha trasformato molte industrie, offrendo solu
 
 - [Stampa 3D online - PolyD](https://polyd.com/it/)
 - [Stampa 3D Online | Preventivo Immediato, Servizio per Business e Privati](https://www.fama3d.com/it/)
+
+
 
 
 

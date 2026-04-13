@@ -56,6 +56,8 @@
 
 
 
+
+
 Questo articolo spiega le peculiarità del Samsung Galaxy, il primo smartphone di Samsung basato su Android, analizzando il suo impatto sull'ecosistema mobile e le sue innovazioni tecniche. Scoprirai come questo dispositivo abbia segnato l'inizio di una rivoluzione, aprendo la strada a un'era di dispositivi connessi e personalizzabili, e come le sue caratteristiche, pur essendo semplici dal punto di vista odierno, rappresentassero un salto di qualità per l'epoca.
 
 
@@ -108,6 +110,8 @@ Il nome in codice interno del Samsung Galaxy era GT-I7500. Questo nome era utili
 ## Vedi anche
 
 *   Samsung smartphone battery issues
+
+
 
 
 
