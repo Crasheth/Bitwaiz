@@ -1,6 +1,9 @@
 # Introduzione alla 5G: Velocità, Connettività e il Futuro
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
+
 
 
 
@@ -166,6 +169,9 @@ Secondo le fonti, la 5G supporterà l'automazione industriale, la robotica colla
 
 *   Internet of Things (IoT): [https://it.wikipedia.org/wiki/Internet_of_Things](https://it.wikipedia.org/wiki/Internet_of_Things)
 *   Network Slicing: [https://www.itu.int/en/ITU-D-Terminology/Glossary/Pages/network-slicing.aspx](https://www.itu.int/en/ITU-D-Terminology/Glossary/Pages/network-slicing.aspx)
+
+
+
 
 
 

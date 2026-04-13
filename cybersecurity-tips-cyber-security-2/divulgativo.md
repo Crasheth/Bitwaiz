@@ -1,6 +1,9 @@
 # Creare una Difesa Solida: Proteggere i Dati nel Mondo Connesso
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
+
+
 
 
 
@@ -54,6 +57,9 @@ Per proteggere i tuoi dati online, utilizza password forti e univoche, abilita l
 
 ### Cosa devo fare se vengo attaccato da un attacco informatico?
 Se sospetti di essere stato attaccato da un attacco informatico, disconnetti immediatamente il dispositivo dalla rete, cambia le tue password e contatta un professionista della sicurezza informatica per assistenza.
+
+
+
 
 
 

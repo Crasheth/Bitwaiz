@@ -1,6 +1,9 @@
 # TESTI PARALLELI – Tendenze scientifiche: intelligenza artificiale, una maledizione o una benedizione? L’appello degli esperti per affrontare le minacce alla sicurezza
 
-> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+
+
 
 
 
@@ -116,6 +119,9 @@ Secondo le fonti, l'IA può essere utilizzata per creare canzoni in vari modi, a
 
 *   **Sicurezza informatica:** La protezione dei sistemi informatici e dei dati da minacce e attacchi.
 *   **Etica dell'IA:** L'analisi dei dilemmi morali e delle implicazioni sociali dello sviluppo e dell'uso dell'IA.
+
+
+
 
 
 

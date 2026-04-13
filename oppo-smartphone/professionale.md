@@ -1,6 +1,9 @@
 # Installare Google Mobile Services on OPPO smartphones
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
+
+
 
 
 
@@ -89,6 +92,9 @@ Risposta: Se riscontri problemi durante l'installazione di Google Mobile Service
 
 *   [Documentazione Google Mobile Services](https://developers.google.com/gmobile/docs)
 *   [Standard Android](https://developer.android.com/reference)
+
+
+
 
 
 

@@ -1,6 +1,9 @@
 # Voucher Cloud e Cybersecurity 2026: Come Proteggere la Tua PMI (e Non Farla Fallire)
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
+
+
 
 
 
@@ -52,6 +55,9 @@ Il Voucher è destinato alle PMI di tutte le dimensioni e settori, che desideran
 ### Quanto costa il Voucher?
 
 Il costo del Voucher varia a seconda delle esigenze specifiche dell'azienda.
+
+
+
 
 
 

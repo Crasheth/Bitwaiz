@@ -1,6 +1,9 @@
 # Hacking elettronico
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+
+
+
 
 
 Un attacco DDoS (Distributed Denial of Service) è un tipo di attacco informatico in cui un sistema viene sovraccaricato con traffico di rete proveniente da più fonti, rendendolo inaccessibile agli utenti legittimi.
@@ -36,6 +39,9 @@ La protezione include l'implementazione di soluzioni di mitigazione DDoS, come s
 
 ### Qual è il ruolo del backup air-gapped?
 Un backup air-gapped è un backup che non è connesso alla rete principale, fornendo una protezione aggiuntiva in caso di attacco informatico.
+
+
+
 
 
 

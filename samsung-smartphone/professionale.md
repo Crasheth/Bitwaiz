@@ -1,6 +1,9 @@
 # Samsung Galaxy (2009 smartphone)
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
+
+
 
 
 
@@ -97,6 +100,9 @@ Il nome in codice interno del Samsung Galaxy era GT-I7500. Questo nome era utili
 ## Vedi anche
 
 *   Samsung smartphone battery issues
+
+
+
 
 
 

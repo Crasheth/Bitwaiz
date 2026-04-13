@@ -1,6 +1,9 @@
 # Blockchain: Un Registro Immutabile
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
+
 
 
 
@@ -144,6 +147,9 @@ Il concetto è simile al principio buddista del "non-attaccamento": una volta ch
 
 
 ![blockchain technology](https://static.vecteezy.com/system/resources/previews/011/494/437/original/blockchain-technology-isometric-flat-illustration-concept-hi-tech-block-chain-data-structure-visualization-vector.jpg)
+
+
+
 
 
 

@@ -1,6 +1,9 @@
 # Analisi dello Stato del Mercato Cripto: Panoramica e Indicatori Chiave
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> Blockchain è la tecnologia. Bitcoin è meramente la prima manifestazione. — Marc Andreessen.
+
+
+
 
 
 
@@ -142,6 +145,9 @@ Secondo le fonti disponibili, il mercato delle criptovalute presenta un panorama
 
 
 ![blockchain explorer](https://media.pmf-research.eu/pmf-research.eu/wp-content/uploads/2023/09/Blockchain-explorer-2-EN.jpg)
+
+
+
 
 
 

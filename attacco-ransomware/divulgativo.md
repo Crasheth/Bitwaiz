@@ -1,6 +1,9 @@
 # Attacco Ransomware: Cosa Sapere Quando le Aziende Sono in Guerra
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
+
+
 
 
 
@@ -86,6 +89,9 @@ Se si viene colpiti da un attacco ransomware, è importante isolare il sistema i
 
 ### Come posso proteggermi dagli attacchi ransomware?
 Per proteggersi dagli attacchi ransomware, è importante avere un solido piano di sicurezza informatica, aggiornare regolarmente il software, utilizzare password complesse e fare attenzione alle email e ai link sospetti.
+
+
+
 
 
 

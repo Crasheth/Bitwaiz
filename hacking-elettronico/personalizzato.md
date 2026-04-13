@@ -1,6 +1,9 @@
 # Hacking elettronico
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+
+
+
 
 
 
@@ -9,7 +12,7 @@ Mi chiedo se la sicurezza digitale sia sempre stata così complessa. Il recente 
 
 ![hacking elettronico](https://www.udacity.com/blog/wp-content/uploads/2022/07/Hacker_Blog-scaled.jpeg)
 
-## Contexto e problema
+## Contesto e problema
 
 Axios è un servizio di registrazione digitale utilizzato da molte aziende per gestire i loro dati sensibili. Quando si parla di hackerato, ci si riferisce a una violazione del sistema che permette agli attaccanti di accedere in modo non autorizzato ai dati protetti. In questo caso, Axios ha subito un'intercettazione dei dati utente, compromettendo la privacy e sicurezza di migliaia di persone.
 
@@ -42,6 +45,9 @@ La protezione include l'implementazione di soluzioni di mitigazione DDoS, come s
 
 ### Qual è il ruolo del backup air-gapped?
 Un backup air-gapped è un backup che non è connesso alla rete principale, fornendo una protezione aggiuntiva in caso di attacco informatico.
+
+
+
 
 
 

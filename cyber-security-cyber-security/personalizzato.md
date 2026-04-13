@@ -1,6 +1,9 @@
 # La sicurezza informatica: un giardino di protezioni
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
+
 
 
 
@@ -134,6 +137,9 @@ Secondo le fonti, puoi proteggere i tuoi dispositivi e dati utilizzando password
 
 *   [ISO 27001](https://www.iso.org/isoiec27001-information-security.html) – Standard internazionale per la gestione della sicurezza delle informazioni.
 *   [Cyber security](https://en.wikipedia.org/wiki/Cyber_security) – Definizione di cyber security su Wikipedia.
+
+
+
 
 
 
