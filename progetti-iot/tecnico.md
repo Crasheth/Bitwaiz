@@ -6,6 +6,7 @@
 
 
 
+
 Secondo ZeroUno, l'IoT si riferisce alla rete di dispositivi fisici, veicoli, elettrodomestici e altri oggetti integrati con sensori, software e altre tecnologie che consentono loro di raccogliere e scambiare dati. I componenti principali includono dispositivi IoT, reti di comunicazione, piattaforme IoT e applicazioni.
 
 ## 2. Quali sono i principali rischi associati all'implementazione dell'IoT?
@@ -56,6 +57,7 @@ Esistono diversi tipi di dispositivi IoT, tra cui sensori, attuatori, gateway e 
 
 ### Quali sono i vantaggi dell'IoT?
 I vantaggi dell'IoT includono l'aumento dell'efficienza operativa, il miglioramento della sicurezza, la creazione di nuovi servizi e prodotti e la raccolta di dati preziosi per il processo decisionale.
+
 
 
 

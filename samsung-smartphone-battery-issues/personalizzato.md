@@ -1,6 +1,7 @@
 # Il Samsung Galaxy 2009: Un Passo Indietro Verso il Futuro
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 
@@ -68,6 +69,7 @@ Il Samsung Galaxy (2009) includeva applicazioni preinstallate come Google Maps, 
 ### Qual è stata la risposta del mercato al lancio del Samsung Galaxy (2009)?
 
 Il Samsung Galaxy (2009) ha incontrato un buon successo di mercato, contribuendo a stimolare la concorrenza nel settore degli smartphone e a diffondere l'ecosistema Android.
+
 
 
 

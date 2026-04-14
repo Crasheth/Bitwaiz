@@ -1,6 +1,7 @@
 # Cybersecurity: 5 consigli che probabilmente ti stai perdendo
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
 
 
 
@@ -174,6 +175,7 @@ Ok team, parliamo di cybersecurity. Tutti sappiamo che il panorama digitale camb
 Questi sono solo alcuni suggerimenti di base, ma possono fare una grande differenza nella tua sicurezza online. Ricorda, la sicurezza non è qualcosa che fai una volta sola, ma un processo continuo.
 
 Per approfondire, ecco alcune risorse utili:
+
 
 
 

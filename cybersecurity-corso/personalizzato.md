@@ -1,6 +1,7 @@
 # Corsi di Sicurezza Informatica Certificati per Iniziare Gratis
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+
 
 
 
@@ -57,6 +58,7 @@ Puoi proteggere i tuoi dispositivi da malware utilizzando un buon software antiv
 ### Cosa fare in caso di violazione dei dati?
 
 Se sospetti di aver subito una violazione dei dati, cambia immediatamente le tue password, monitora i tuoi account per attività sospette e segnala l'incidente alle autorità competenti.
+
 
 
 

@@ -1,6 +1,7 @@
 # Samsung smartphone
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 
@@ -95,6 +96,7 @@ Il nome in codice interno del Samsung Galaxy era GT-I7500. Questo nome era utili
 ## Vedi anche
 
 *   Samsung smartphone battery issues
+
 
 
 
