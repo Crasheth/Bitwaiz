@@ -9,6 +9,8 @@
 
 
 
+
+
 Mi chiedo se l'Internet delle cose (IoT) sia davvero accessibile a tutti, o se rimanga un campo riservato solo agli esperti. Tuttavia, con i progetti IoT per principianti come quelli che utilizzano Arduino e Raspberry Pi, la barriera di ingresso sembra diventare meno alta.
 
 
@@ -56,6 +58,8 @@ Esistono diversi tipi di dispositivi IoT, tra cui sensori, attuatori, gateway e 
 
 ### Quali sono i vantaggi dell'IoT?
 I vantaggi dell'IoT includono l'aumento dell'efficienza operativa, il miglioramento della sicurezza, la creazione di nuovi servizi e prodotti e la raccolta di dati preziosi per il processo decisionale.
+
+
 
 
 

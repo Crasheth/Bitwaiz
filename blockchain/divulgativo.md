@@ -1,6 +1,8 @@
 # Blockchain: la catena di fiducia
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
 
 
 
@@ -190,6 +192,8 @@ Ma la blockchain non è solo tecnologia. È un cambiamento di paradigma, un modo
 Nonostante il suo potenziale, la blockchain è ancora in fase di sviluppo. Ci sono sfide da affrontare, come la scalabilità (la capacità di gestire un gran numero di transazioni) e la regolamentazione. Tuttavia, la blockchain rappresenta un passo importante verso un futuro più trasparente, sicuro e decentralizzato.
 
 ![blockchain](https://emilyandblair.com/wp-content/uploads/2022/12/blockchain.jpg)
+
+
 
 
 

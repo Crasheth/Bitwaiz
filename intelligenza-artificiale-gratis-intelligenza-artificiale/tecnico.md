@@ -2,7 +2,13 @@
 
 ## Domande frequenti
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
+## Domande frequenti
+
+
+## Domande frequenti
+
 
 ## Domande frequenti
 

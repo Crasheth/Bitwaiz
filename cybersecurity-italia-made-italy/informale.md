@@ -2,7 +2,13 @@
 
 ## Domande frequenti
 
-> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
+## Domande frequenti
+
+
+## Domande frequenti
+
 
 ## Domande frequenti
 

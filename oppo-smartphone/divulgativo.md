@@ -1,6 +1,8 @@
 # Cosa sono Google Mobile Services?
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
+
 
 
 
@@ -78,6 +80,8 @@ Risposta: Se riscontri problemi durante l'installazione di Google Mobile Service
 
 *   [Documentazione Google Mobile Services](https://developers.google.com/gmobile/docs)
 *   [Standard Android](https://developer.android.com/reference)
+
+
 
 
 

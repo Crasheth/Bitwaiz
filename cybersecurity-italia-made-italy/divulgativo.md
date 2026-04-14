@@ -1,6 +1,8 @@
 # La Difesa a Strati: Come le Aziende Italiane Combattono le Minacce Cyber
 
-> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
+
 
 
 
@@ -89,6 +91,8 @@ Le fonti suggeriscono che le piccole imprese possono adottare misure di sicurezz
 
 # Cosa si intende per "cybersecurity awareness"?
 La cybersecurity awareness si riferisce alla consapevolezza dei rischi informatici e alla capacità di riconoscere e prevenire le minacce.
+
+
 
 
 

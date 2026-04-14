@@ -1,6 +1,8 @@
 # Cybersecurity Best Practices: Una Guida Essenziale
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
+
 
 
 
@@ -95,6 +97,8 @@ Le soluzioni SIEM (Security Information and Event Management) raccolgono e anali
 
 *   [Cybersecurity Awareness Month](https://staysafeonline.org/cybersecurity-awareness-month)
 *   [President's Cup Cybersecurity Competition](https://www.cisa.gov/presidents-cup-cybersecurity-competition)
+
+
 
 
 

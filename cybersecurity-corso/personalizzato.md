@@ -11,6 +11,8 @@
 
 
 
+
+
 Mi chiedo se la tecnologia sia sempre stata così intricata e misteriosa come oggi. Ogni volta che mi immetto in uno di questi corsi, mi rendo conto di quanto ci siano aspetti tecnici da affinare, ma anche di quanti concetti umani si intrechino a essi.
 
 
@@ -58,6 +60,8 @@ Puoi proteggere i tuoi dispositivi da malware utilizzando un buon software antiv
 ### Cosa fare in caso di violazione dei dati?
 
 Se sospetti di aver subito una violazione dei dati, cambia immediatamente le tue password, monitora i tuoi account per attività sospette e segnala l'incidente alle autorità competenti.
+
+
 
 
 

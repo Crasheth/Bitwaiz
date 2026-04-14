@@ -1,6 +1,8 @@
 # Problemi di batteria dei telefoni Samsung
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
 
 
 
@@ -106,6 +108,8 @@ Il nome in codice interno del Samsung Galaxy era GT-I7500. Questo nome era utili
 ## Vedi anche
 
 *   Samsung smartphone battery issues
+
+
 
 
 

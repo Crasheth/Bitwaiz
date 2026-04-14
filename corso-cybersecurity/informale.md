@@ -1,6 +1,8 @@
 # Corsi Cybersecurity Online: Impara a Proteggere il Mondo Digitale
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -167,6 +169,8 @@ Secondo le fonti, le prospettive di lavoro nel cybersecurity sono estremamente p
 
 *   [Sicurezza informatica per IT e manager](https://www.bbs.unibo.it/open-program/cybersecurity-management/)
 *   [Cyber Threat Intelligence](https://www.coursera.org/courses?query=cyber%20threat%20intelligence)
+
+
 
 
 
