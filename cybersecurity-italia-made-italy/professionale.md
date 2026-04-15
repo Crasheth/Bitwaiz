@@ -1,6 +1,8 @@
 # La Cybersecurity in Italia: Innovazione e Sfide
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
+
 
 
 
@@ -80,6 +82,8 @@ Le fonti suggeriscono che le piccole imprese possono adottare misure di sicurezz
 
 # Cosa si intende per "cybersecurity awareness"?
 La cybersecurity awareness si riferisce alla consapevolezza dei rischi informatici e alla capacità di riconoscere e prevenire le minacce.
+
+
 
 
 

@@ -64,6 +64,8 @@
 
 
 
+
+
 Il termine "file stampa 3D" si riferisce al modello digitale (solitamente in formato STL, OBJ o 3MF) che rappresenta la geometria dell'oggetto che si desidera creare tramite la stampa 3D. È come la "ricetta" per la stampante, contenente tutte le informazioni necessarie per costruire l'oggetto strato dopo strato.  Un file stampa 3D è essenzialmente un'immagine tridimensionale, ma con i dati necessari per la produzione.
 
 ## Come posso trovare un file per la stampa 3D?
@@ -107,6 +109,8 @@ La stampa 3D è una tecnologia che ha trasformato molte industrie, offrendo solu
 
 - [Stampa 3D online - PolyD](https://polyd.com/it/)
 - [Stampa 3D Online | Preventivo Immediato, Servizio per Business e Privati](https://www.fama3d.com/it/)
+
+
 
 
 

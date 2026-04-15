@@ -1,6 +1,8 @@
 # Ransomware: Come Proteggere la Tua Azienda da un Attacco |
 
-> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
+
 
 
 Il ransomware è un tipo di malware che crittografa i file di un computer o di una rete, rendendoli inaccessibili fino a quando non viene pagato un riscatto. Il malware si diffonde attraverso e-mail, siti web compromessi o sfruttando vulnerabilità di sicurezza.
@@ -30,6 +32,8 @@ Come spiega momit.eu, i rischi principali includono la perdita di dati, interruz
 
 ### Come posso proteggermi dal ransomware?
 Come evidenzia osservatori.net, la prevenzione è fondamentale, con aggiornamenti software, backup regolari e consapevolezza dei rischi.
+
+
 
 
 

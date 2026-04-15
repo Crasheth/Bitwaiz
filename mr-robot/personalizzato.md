@@ -1,6 +1,8 @@
 # Mr. Robot: Un'Analisi del Caos e del Controllo
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -147,6 +149,8 @@ Dipende dal caso d'uso: in genere il valore sta nel rapporto tra prestazioni, co
 
 ### Quali limiti devo considerare su Mr. Robot: Un’analisi psicologica di un’anima digitale?
 Prima di adottarlo valuta limiti tecnici, lock-in, costi nel tempo e qualita del supporto/documentazione.
+
+
 
 
 

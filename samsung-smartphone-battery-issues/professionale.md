@@ -1,6 +1,8 @@
 # Samsung Galaxy (2009): Un passo verso Android
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -49,6 +51,8 @@ Il Samsung Galaxy (2009) includeva applicazioni preinstallate come Google Maps, 
 ### Qual è stata la risposta del mercato al lancio del Samsung Galaxy (2009)?
 
 Il Samsung Galaxy (2009) ha incontrato un buon successo di mercato, contribuendo a stimolare la concorrenza nel settore degli smartphone e a diffondere l'ecosistema Android.
+
+
 
 
 

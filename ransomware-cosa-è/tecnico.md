@@ -1,6 +1,8 @@
 # Ransomware: Una Guida Tecnica alla Minaccia Crescente
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+
+
 
 
 
@@ -90,6 +92,8 @@ Mantenendo il software aggiornato, facendo attenzione alle email e agli allegati
 
 ### Quali sono i tipi di ransomware più comuni?
 PC Cyborg, Locky, Ransomware Cloud (Ransomcloud), Blocker e Wiper.
+
+
 
 
 

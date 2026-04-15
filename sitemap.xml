@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://bitwaiz.it/</loc><lastmod>2026-04-14</lastmod><changefreq>daily</changefreq></url>
-  <url><loc>https://bitwaiz.it/privacy.html</loc><lastmod>2026-04-14</lastmod><changefreq>monthly</changefreq></url>
+  <url><loc>https://bitwaiz.it/</loc><lastmod>2026-04-15</lastmod><changefreq>daily</changefreq></url>
+  <url><loc>https://bitwaiz.it/privacy.html</loc><lastmod>2026-04-15</lastmod><changefreq>monthly</changefreq></url>
+  <url><loc>https://bitwaiz.it/cybersecurity-italia-cybersecurityitalia/</loc><lastmod>2026-04-15</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://bitwaiz.it/stampante-3d/</loc><lastmod>2026-04-15</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://bitwaiz.it/cloudflare-zero-trust/</loc><lastmod>2026-04-14</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://bitwaiz.it/garmin-smartwatch/</loc><lastmod>2026-04-14</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://bitwaiz.it/ransomware-significato/</loc><lastmod>2026-04-14</lastmod><changefreq>weekly</changefreq></url>

@@ -1,6 +1,8 @@
 # Voucher Cloud e Cybersecurity 2026: Ottimizzazione della Difesa per le PMI
 
-> Il cloud è solo il computer di qualcun altro. — Variante di Larry Ellison.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+
 
 
 
@@ -79,6 +81,8 @@ Il Voucher è destinato alle PMI di tutte le dimensioni e settori, che desideran
 ### Quanto costa il Voucher?
 
 Il costo del Voucher varia a seconda delle esigenze specifiche dell'azienda.
+
+
 
 
 

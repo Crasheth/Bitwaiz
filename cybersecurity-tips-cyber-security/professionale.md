@@ -1,6 +1,8 @@
 # Cybersecurity tips cyber security
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -89,6 +91,8 @@ Le soluzioni SIEM (Security Information and Event Management) raccolgono e anali
 
 *   [Cybersecurity Awareness Month](https://staysafeonline.org/cybersecurity-awareness-month)
 *   [President's Cup Cybersecurity Competition](https://www.cisa.gov/presidents-cup-cybersecurity-competition)
+
+
 
 
 

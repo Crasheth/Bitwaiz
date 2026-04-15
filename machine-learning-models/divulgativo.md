@@ -1,6 +1,8 @@
 # Machine Learning: Una Guida Introduttiva
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
 
 
 
@@ -187,6 +189,8 @@ Il machine learning ha un impatto enorme su molti settori, tra cui la sanità, l
 
 
 Il machine learning sta trasformando il modo in cui viviamo e lavoriamo, e il suo potenziale è ancora in gran parte inesplorato.
+
+
 
 
 

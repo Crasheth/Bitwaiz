@@ -1,6 +1,8 @@
 # Blockchain: Un Registro Immutabile
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Blockchain è la tecnologia. Bitcoin è meramente la prima manifestazione. — Marc Andreessen.
+
+
 
 
 
@@ -150,6 +152,8 @@ Il concetto è simile al principio buddista del "non-attaccamento": una volta ch
 
 
 ![blockchain technology](https://static.vecteezy.com/system/resources/previews/011/494/437/original/blockchain-technology-isometric-flat-illustration-concept-hi-tech-block-chain-data-structure-visualization-vector.jpg)
+
+
 
 
 
