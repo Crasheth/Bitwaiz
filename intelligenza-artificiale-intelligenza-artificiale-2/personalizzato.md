@@ -92,6 +92,8 @@
 
 
 
+
+
 ## Introduzione
 
 La tecnologia dell'intelligenza artificiale (IA) ci circonda in modo sempre più intimo. Da quando ci svegliamo fino a quando chiudiamo gli occhi per dormire, l'IA guida le nostre giornate con decisioni che non percepiamo come tali. Questo pezzo esplora come la IA si integra nella nostra vita quotidiana e quali implicazioni questo ha per i legami familiari e il benessere personale.
@@ -150,6 +152,8 @@ Per riassunti, bozze, analisi preliminari e automazioni semplici, con verifica u
 
 - [Machine learning (Wikipedia)](https://it.wikipedia.org/wiki/Machine_learning)
 - [Deep learning (Wikipedia)](https://it.wikipedia.org/wiki/Deep_learning)
+
+
 
 
 

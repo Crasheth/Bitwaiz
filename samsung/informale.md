@@ -1,6 +1,8 @@
 # ốTitolo: Samsung Electronics: Un Gigante Tecnologico in Evoluzione
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -190,6 +192,8 @@ Samsung Electronics sta adottando misure per ridurre il suo impatto ambientale, 
 ### Quali sono i principali concorrenti di Samsung Electronics?
 
 I principali concorrenti di Samsung Electronics includono Apple, Huawei e Xiaomi.
+
+
 
 
 

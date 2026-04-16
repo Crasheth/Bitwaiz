@@ -1,6 +1,8 @@
 # Automazione
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -201,6 +203,8 @@ Ecco alcuni punti chiave sull'automazione:
 
 
 ![automazione](https://www.kablator.com/wp-content/uploads/2024/03/Automazione-robotica-industriale-Kablator.png)
+
+
 
 
 

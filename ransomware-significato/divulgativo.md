@@ -1,6 +1,8 @@
 # Slave # Titolo: Ransomware: Come Proteggere la Tua Azienda da un Attacco
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
+
 
 
 
@@ -56,6 +58,8 @@ Come spiega momit.eu, i rischi principali includono la perdita di dati, interruz
 
 ### Come posso proteggermi dal ransomware?
 Come evidenzia osservatori.net, la prevenzione è fondamentale, con aggiornamenti software, backup regolari e consapevolezza dei rischi.
+
+
 
 
 

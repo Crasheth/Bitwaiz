@@ -1,6 +1,8 @@
 # Gestire le Password in Modo Sicuro: Una Panoramica
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -121,6 +123,8 @@ Sì, i password manager affidabili utilizzano crittografia avanzata e altre misu
 
 ### Cosa succede se dimentico la mia password del password manager?
 La maggior parte dei password manager offre metodi di recupero della password, come domande di sicurezza o l'autenticazione a due fattori, per aiutarti a recuperare l'accesso al tuo account se dimentichi la tua password.
+
+
 
 
 

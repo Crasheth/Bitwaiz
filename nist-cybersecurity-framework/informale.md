@@ -1,6 +1,8 @@
 # NIST Cybersecurity Framework
 
-> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
+
 
 
 
@@ -158,6 +160,8 @@ Il CSF è particolarmente importante per le PMI, che spesso hanno risorse limita
 *   **Threat Intelligence:** La raccolta e l'analisi di informazioni sulle minacce informatiche per migliorare la consapevolezza e la capacità di risposta.
 *   **Security Orchestration, Automation and Response (SOAR):**  Soluzioni che automatizzano e orchestrano le attività di sicurezza per migliorare l'efficienza e la reattività.
 *   **MisP (MITRE ATT&CK):** Un knowledge base che descrive le tattiche e le tecniche utilizzate dagli aggressori informatici.
+
+
 
 
 

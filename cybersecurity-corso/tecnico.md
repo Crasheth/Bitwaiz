@@ -1,6 +1,8 @@
 # Corso di Sicurezza Informatica Certificato 2026 | Inizia Gratis
 
-> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -64,6 +66,8 @@ Puoi proteggere i tuoi dispositivi da malware utilizzando un buon software antiv
 ### Cosa fare in caso di violazione dei dati?
 
 Se sospetti di aver subito una violazione dei dati, cambia immediatamente le tue password, monitora i tuoi account per attività sospette e segnala l'incidente alle autorità competenti.
+
+
 
 
 

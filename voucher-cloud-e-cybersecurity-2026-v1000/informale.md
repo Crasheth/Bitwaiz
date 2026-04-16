@@ -1,6 +1,8 @@
 # Voucher Cloud e Cybersecurity 2026: Come Proteggere la Tua PMI (e Non Farla Fallire)
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
+
 
 
 
@@ -60,6 +62,8 @@ Il Voucher è destinato alle PMI di tutte le dimensioni e settori, che desideran
 ### Quanto costa il Voucher?
 
 Il costo del Voucher varia a seconda delle esigenze specifiche dell'azienda.
+
+
 
 
 

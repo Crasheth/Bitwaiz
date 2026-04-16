@@ -1,6 +1,8 @@
 # Guida all'acquisto di stampante 3D 2026 | Modelli, materiali
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
+
 
 
 Secondo le fonti, prima di scegliere una stampante 3D, devi considerare il tuo budget, il tipo di materiali che vuoi usare e la complessità dei progetti che vuoi stampare. Ricorda, una stampante 3D più costosa non significa necessariamente una migliore qualità di stampa.
@@ -37,6 +39,8 @@ Il costo delle stampanti 3D varia notevolmente a seconda della tecnologia, delle
 ### Quali materiali posso usare in una stampante 3D?
 
 Le stampanti 3D possono utilizzare una vasta gamma di materiali, tra cui PLA, ABS, PETG, TPU, resine e materiali compositi. La scelta del materiale dipende dall'applicazione prevista e dalle proprietà desiderate, come resistenza, flessibilità e resistenza al calore.
+
+
 
 
 

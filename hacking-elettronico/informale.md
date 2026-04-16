@@ -1,6 +1,8 @@
 # Axios hackerato: il registro elettronico scatta in tilt
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
+
 
 
 
@@ -34,6 +36,8 @@ La protezione include l'implementazione di soluzioni di mitigazione DDoS, come s
 
 ### Qual è il ruolo del backup air-gapped?
 Un backup air-gapped è un backup che non è connesso alla rete principale, fornendo una protezione aggiuntiva in caso di attacco informatico.
+
+
 
 
 

@@ -1,6 +1,8 @@
 # Auntonazione
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -198,6 +200,8 @@ L'automazione ha un impatto significativo su diversi settori, dalla produzione a
 
 
 ![automazione](https://www.kablator.com/wp-content/uploads/2024/03/Automazione-robotica-industriale-Kablator.png)
+
+
 
 
 
