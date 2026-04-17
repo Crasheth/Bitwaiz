@@ -170,6 +170,8 @@
 
 
 
+
+
 Ok, ragazzi, la situazione in Italia sulla cybersecurity è un po’ preoccupante. Dati freschi di Trend Micro e Censis ci dicono che siamo in testa in Europa per ransomware e malware macro, e il problema non è solo la quantità di attacchi, ma anche che la maggior parte degli italiani non fa quasi nulla per proteggere i propri dispositivi. Solo il 40% ha ricevuto una formazione specifica e la maggior parte è completamente ignara dei rischi.  Sembra che la gente non capisca cosa significhi realmente la cybersecurity.
 
 Ecco i punti chiave:
@@ -184,6 +186,8 @@ Quindi, cosa possiamo fare?  Dobbiamo aumentare la consapevolezza, investire in 
 
 
 ![cybersecurity italia](https://www.cybersecitalia.it/wp-content/uploads/2022/03/cybersec2022-prima-edizione.jpg)
+
+
 
 
 

@@ -101,6 +101,8 @@
 
 
 
+
+
 L'intelligenza artificiale (AI) sta rapidamente trasformando il panorama tecnologico e la nostra vita quotidiana. Ma cosa significa esattamente? In termini semplici, l'AI si riferisce alla capacità delle macchine di imitare le funzioni cognitive umane, come l'apprendimento, il ragionamento e la risoluzione dei problemi. Questa tecnologia non è un concetto monolitico, bensì un insieme di approcci e tecniche che mirano a creare sistemi intelligenti capaci di svolgere compiti che tradizionalmente richiedevano l'intervento umano.  Dalla guida autonoma all'analisi dei dati, l'AI sta già avendo un impatto significativo su numerosi settori, e il suo potenziale di crescita e innovazione è enorme. Questo articolo esplorerà i concetti chiave dell'AI, i suoi diversi tipi e le sue applicazioni, fornendo una panoramica completa di questa tecnologia in rapida evoluzione.
 
 ## Tipi di Intelligenza Artificiale
@@ -145,6 +147,8 @@ Per riassunti, bozze, analisi preliminari e automazioni semplici, con verifica u
 
 - [Machine learning (Wikipedia)](https://it.wikipedia.org/wiki/Machine_learning)
 - [Deep learning (Wikipedia)](https://it.wikipedia.org/wiki/Deep_learning)
+
+
 
 
 

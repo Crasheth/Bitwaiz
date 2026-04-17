@@ -62,6 +62,8 @@
 
 
 
+
+
 Un robot è un sistema meccanico programmabile in grado di percepire l'ambiente circostante e agire di conseguenza, grazie a sensori, attuatori e algoritmi di controllo.
 
 ## Punto chiave
@@ -112,6 +114,8 @@ L'uso dei robot solleva importanti questioni etiche, come la responsabilità in 
 *   [Standard ISO 8373](https://www.iso.org/standard/7763.html) – Robot – Terminologia e definizioni
 *   [Robotica collaborativa](https://it.wikipedia.org/wiki/Robotica_collaborativa) – Un approccio alla robotica che prevede la collaborazione tra robot e esseri umani.
 *   [Robotica industriale](https://it.wikipedia.org/wiki/Robotica_industriale) – L'applicazione della robotica nell'industria manifatturiera.
+
+
 
 
 

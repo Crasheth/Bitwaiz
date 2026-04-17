@@ -99,6 +99,8 @@
 
 
 
+
+
 Quando senti "intelligenza artificiale", pensa prima a questo: software che impara dai dati e ti aiuta a fare compiti in modo piu veloce.
 Niente fantascienza obbligatoria: l'AI oggi e gia nelle cose che usi tutti i giorni.
 
@@ -150,6 +152,8 @@ Per riassunti, bozze, analisi preliminari e automazioni semplici, con verifica u
 
 - [Machine learning (Wikipedia)](https://it.wikipedia.org/wiki/Machine_learning)
 - [Deep learning (Wikipedia)](https://it.wikipedia.org/wiki/Deep_learning)
+
+
 
 
 
