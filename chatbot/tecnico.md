@@ -180,6 +180,8 @@
 
 
 
+
+
 I chatbot, o agenti virtuali, rappresentano un'evoluzione significativa nell'interazione uomo-macchina, spostando l'attenzione da interfacce complesse a conversazioni naturali e intuitive. La loro diffusione, alimentata dai progressi nell'intelligenza artificiale, sta rimodellando settori che vanno dal servizio clienti all'assistenza sanitaria, aprendo nuove prospettive per l'efficienza e l'esperienza utente.
 
 I chatbot possono essere classificati in diverse categorie in base alla loro complessità tecnologica e alle funzionalità offerte. I chatbot basati su alberi decisionali, i più semplici, operano attraverso un sistema predefinito di domande e risposte organizzate in un albero decisionale, guidando gli utenti lungo percorsi lineari. Al contrario, i chatbot basati su prompting su modelli generativi, sfruttano modelli linguistici di grandi dimensioni (LLM) per interagire in modo più fluido e naturale, coprendo una vasta gamma di argomenti.  La capacità di questi modelli di apprendere e adattarsi alle conversazioni rende i chatbot più versatili e capaci di gestire richieste complesse.
@@ -189,6 +191,8 @@ L'ascesa dei chatbot è strettamente legata allo sviluppo dell'intelligenza arti
 La crescente adozione dei chatbot è guidata anche da considerazioni pratiche, come il miglioramento dell'efficienza operativa e la riduzione dei costi.  "Ci sono solo due tipi di aziende che chiamano i propri clienti 'utenti': la droga e il software." — Edward Tufte. Questa osservazione evidenzia la tendenza a semplificare l'interazione, e i chatbot offrono un modo efficiente per gestire le richieste degli utenti, liberando risorse umane per compiti più complessi.
 
 Il futuro dei chatbot è promettente, con ulteriori progressi nell'intelligenza artificiale che promettono di migliorare ulteriormente la loro capacità di comprendere e rispondere alle esigenze degli utenti.  "I computer sono incredibilmente veloci, accurati e stupidi." — Leo Cherne.  Nonostante le limitazioni attuali, i chatbot rappresentano un passo fondamentale verso un'interazione uomo-macchina più naturale e intuitiva, e il loro impatto continuerà a crescere nei prossimi anni.
+
+
 
 
 

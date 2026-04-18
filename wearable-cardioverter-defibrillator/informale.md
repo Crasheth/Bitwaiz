@@ -19,6 +19,8 @@
 
 
 
+
+
 Ma seriamente, hai mai pensato a quanto sia strano? Un cuore che batte, un organo vitale, ora si può monitorare e persino aiutare con un gadget al polso. Parliamo di wearable, quei dispositivi che non sono solo orologi, ma veri e propri occhi e orecchie del nostro corpo. Se sei un tipo che non ama stare in ospedale o che ha un cuore un po' speciale, allora questo articolo fa per te. Cercheremo di capire cosa sono, come funzionano e perché stanno rivoluzionando il modo in cui affrontiamo la salute.
 
 
@@ -63,6 +65,8 @@ La durata della batteria è un fattore limitante per l'utilizzo dei WCD. L'ottim
 
 ### Come vengono gestiti i dati raccolti dai WCD?
 I dati raccolti dai WCD vengono trasmessi a un centro di monitoraggio o a un medico per l'analisi e la gestione del paziente. È fondamentale garantire la sicurezza e la privacy di questi dati, implementando protocolli di accesso controllati e crittografia dei dati.
+
+
 
 
 

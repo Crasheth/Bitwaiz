@@ -143,6 +143,8 @@
 
 
 
+
+
 Il mercato delle criptovalute, e in particolare quello del Bitcoin, è noto per la sua elevata volatilità. Questo significa che i prezzi possono fluttuare drasticamente in brevi periodi di tempo, presentando sia opportunità che rischi per gli investitori. Analizziamo alcuni fattori chiave che contribuiscono a questa volatilità e le implicazioni per il trading e gli investimenti.
 
 *   **Offerta Limitata:** Il Bitcoin ha un'offerta massima di 21 milioni di monete, il che lo rende un bene scarso. La scarsità intrinseca, combinata con l'aumento della domanda, può portare a forti aumenti di prezzo quando la domanda supera l'offerta.
@@ -156,6 +158,8 @@ Il mercato delle criptovalute, e in particolare quello del Bitcoin, è noto per 
 
 
 ![blockchain explorer](https://media.pmf-research.eu/pmf-research.eu/wp-content/uploads/2023/09/Blockchain-explorer-2-EN.jpg)
+
+
 
 
 

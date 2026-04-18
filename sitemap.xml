@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://bitwaiz.it/</loc><lastmod>2026-04-17</lastmod><changefreq>daily</changefreq></url>
-  <url><loc>https://bitwaiz.it/privacy.html</loc><lastmod>2026-04-17</lastmod><changefreq>monthly</changefreq></url>
+  <url><loc>https://bitwaiz.it/</loc><lastmod>2026-04-18</lastmod><changefreq>daily</changefreq></url>
+  <url><loc>https://bitwaiz.it/privacy.html</loc><lastmod>2026-04-18</lastmod><changefreq>monthly</changefreq></url>
+  <url><loc>https://bitwaiz.it/google-password-comparison-manager/</loc><lastmod>2026-04-18</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://bitwaiz.it/spear-phishing/</loc><lastmod>2026-04-18</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://bitwaiz.it/microcontrollore/</loc><lastmod>2026-04-17</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://bitwaiz.it/password-generator/</loc><lastmod>2026-04-17</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://bitwaiz.it/innovazione/</loc><lastmod>2026-04-16</lastmod><changefreq>weekly</changefreq></url>

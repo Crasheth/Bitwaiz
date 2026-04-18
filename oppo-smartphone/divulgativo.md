@@ -50,6 +50,8 @@
 
 
 
+
+
 Google Mobile Services (GMS) è un insieme di componenti software che forniscono accesso alle app e ai servizi Google su dispositivi mobili. Include app come Gmail, Google Maps, Google Play Store e altri servizi Google.
 
 ![oppo smartphone](https://image.oppo.com/content/dam/oppo/common/mkt/v2-2/reno12-f-en/product/860-720-orange-green.png)
@@ -86,6 +88,8 @@ Risposta: Se riscontri problemi durante l'installazione di Google Mobile Service
 
 *   [Documentazione Google Mobile Services](https://developers.google.com/gmobile/docs)
 *   [Standard Android](https://developer.android.com/reference)
+
+
 
 
 

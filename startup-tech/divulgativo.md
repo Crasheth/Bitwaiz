@@ -32,6 +32,8 @@
 
 
 
+
+
 Un ecosistema startup è un ambiente che supporta la nascita e la crescita di nuove imprese. Include investitori, mentori, incubatori, acceleratori, università e il governo.
 
 ## Nota 1: Quali sono i principali settori in cui operano le startup indiane
@@ -79,6 +81,8 @@ Las startups más comunes están en sectores como fintech, e-commerce, salud, ed
 
 ### ¿Cómo puede el gobierno indio apoyar mejor el ecosistema startup?
 El gobierno puede apoyar mejor el ecosismo startup a través de incentivos fiscales, programas de financiación, políticas favorables a la innovación y la simplificación de los procesos regulatorios.
+
+
 
 
 

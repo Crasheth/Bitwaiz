@@ -15,6 +15,8 @@
 
 
 
+
+
 Secondo le fonti, l'obiettivo principale è promuovere lo sviluppo e l'implementazione di tecnologie avanzate per la sicurezza informatica e la risposta alle emergenze, migliorando la capacità di protezione e la resilienza di agenzie governative e di primo soccorso.
 
 ## Nota 1: Chi sono i principali stakeholder coinvolti nel progetto
@@ -65,6 +67,8 @@ Per proteggere i tuoi dati online, utilizza password forti e univoche, abilita l
 
 ### Cosa devo fare se vengo attaccato da un attacco informatico?
 Se sospetti di essere stato attaccato da un attacco informatico, disconnetti immediatamente il dispositivo dalla rete, cambia le tue password e contatta un professionista della sicurezza informatica per assistenza.
+
+
 
 
 
