@@ -1,6 +1,8 @@
 # Da Wikipedia, l'enciclopedia libera
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
 
 
 
@@ -153,6 +155,8 @@ I blockchain sono tipicamente gestiti da una rete peer-to-peer (P2P) di computer
 Un blockchain è stato creato da una persona (o gruppo di persone) che ha usato il nome (o alias) Satoshi Nakamoto nel 2008 per servire come registro pubblico per le transazioni di criptovaluta Bitcoin, basato sul lavoro precedente di Stuart Haber, Scott Stornetta e Dave Bayer. [6]
 L'implementazione del blockchain all'interno di Bitcoin ha permesso al Bitcoin di risolvere il problema dello "spending doppio" senza la necessità di un'autorità di fiducia o server centrale. Il design di Bitcoin ha ispirato altre applicazioni [3] [2] e blockchain che sono accessibili al pubblico e ampiamente utilizzate per le criptovalute. Il blockchain può essere considerato un "rail di pagamento". [7]
 I blockchain privati sono stati proposti per l'uso aziendale. Computerworld ha definito il marketing di blockchain privati senza un modello di sicurezza adeguato come "fuffa". [8] Tuttavia, altri hanno sostenuto che i blockchain permessi, se progettati con attenzione, possono essere più decentralizzati e quindi più sicuri rispetto ai blockchain permessi. [4] [9]
+
+
 
 
 

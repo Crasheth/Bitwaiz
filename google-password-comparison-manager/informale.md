@@ -1,6 +1,8 @@
 # Google vs Brave Password Manager: Quale scegliere per la tua
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -48,6 +50,8 @@ L'autenticazione a due fattori (2FA) aggiunge un ulteriore livello di sicurezza 
 
 ### Quali sono le differenze tra password manager basati su cloud e locali?
 I password manager basati su cloud sono accessibili da qualsiasi dispositivo con connessione internet, offrendo sincronizzazione automatica e backup, mentre quelli locali memorizzano i dati sul dispositivo dell'utente, garantendo maggiore controllo e privacy, ma richiedendo un backup manuale.
+
+
 
 
 

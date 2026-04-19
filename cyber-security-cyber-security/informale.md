@@ -100,6 +100,8 @@
 
 
 
+
+
 ## Sicurezza Informatica: Cos'è e Perché Dovresti Preoccupartene
 
 
@@ -141,6 +143,8 @@ Secondo le fonti, puoi proteggere i tuoi dispositivi e dati utilizzando password
 
 *   [ISO 27001](https://www.iso.org/isoiec27001-information-security.html) – Standard internazionale per la gestione della sicurezza delle informazioni.
 *   [Cyber security](https://en.wikipedia.org/wiki/Cyber_security) – Definizione di cyber security su Wikipedia.
+
+
 
 
 

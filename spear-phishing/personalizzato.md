@@ -1,6 +1,8 @@
 # Come proteggersi dal phishing: guida completa 2026
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+
 
 
 
@@ -80,6 +82,8 @@ Le tecniche più comuni utilizzate dagli attaccanti nello spear phishing includo
 ## Come posso segnalare un attacco di spear phishing?
 
 Puoi segnalare un attacco di spear phishing alle autorità competenti, come la polizia postale o il CERT (Centro Operativo Regionale) della tua regione.
+
+
 
 
 

@@ -78,7 +78,6 @@ Il refresh rate del monitor indica quanti volte al secondo il monitor aggiorna l
 Puoi migliorare le prestazioni del tuo PC gaming aggiornando le componenti hardware, ottimizzando le impostazioni grafiche dei giochi e chiudendo le applicazioni non necessarie.
 
 
-
 ## Fonti
 
 - [PC gaming](https://en.wikipedia.org/wiki/PC_gaming)

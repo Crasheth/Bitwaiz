@@ -12,6 +12,8 @@
 
 
 
+
+
 Se stai pensando di entrare nel mondo della stampa 3D, ti troverai sommerso da un mare di modelli, materiali e tecnologie. Scegliere la stampante giusta può sembrare un’impresa ardua, ma non deve esserlo. Questo articolo ti guiderà attraverso le opzioni disponibili, fornendoti le informazioni necessarie per fare una scelta informata e realizzare i tuoi progetti creativi.
 
 
@@ -76,6 +78,8 @@ Il costo delle stampanti 3D varia notevolmente a seconda della tecnologia, delle
 ### Quali materiali posso usare in una stampante 3D?
 
 Le stampanti 3D possono utilizzare una vasta gamma di materiali, tra cui PLA, ABS, PETG, TPU, resine e materiali compositi. La scelta del materiale dipende dall'applicazione prevista e dalle proprietà desiderate, come resistenza, flessibilità e resistenza al calore.
+
+
 
 
 

@@ -1,6 +1,8 @@
 # Ransomware: Come Proteggere la Tua Azienda da un Attacco |
 
-> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
+
 
 
 
@@ -53,6 +55,8 @@ Come spiega momit.eu, i rischi principali includono la perdita di dati, interruz
 
 ### Come posso proteggermi dal ransomware?
 Come evidenzia osservatori.net, la prevenzione è fondamentale, con aggiornamenti software, backup regolari e consapevolezza dei rischi.
+
+
 
 
 

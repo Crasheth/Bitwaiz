@@ -1,6 +1,8 @@
 # Genera Password Forti: La Guida per Non Farti Rubare l'Identità
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -57,6 +59,8 @@ Utilizza un password manager per memorizzare e generare password complesse.
 ### Cosa succede se dimentico la mia password?
 
 Utilizza la funzione di recupero password fornita dal servizio a cui stai tentando di accedere.
+
+
 
 
 

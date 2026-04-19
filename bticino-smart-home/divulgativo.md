@@ -1,6 +1,8 @@
 # Smart Home: Trasforma la Tua Casa con BTicino
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+
 
 
 
@@ -195,6 +197,8 @@ Ecco come puoi trasformare la tua casa con BTicino:
 *   **Integrazione con Altri Dispositivi Smart:** Integra i prodotti BTicino con altri dispositivi smart che utilizzi già, creando un ecosistema domestico connesso e controllabile da un'unica piattaforma.
 
 BTicino ti offre soluzioni complete e flessibili per la domotica, adatte a tutte le esigenze e i budget. Con la nostra tecnologia avanzata e il nostro team di esperti, puoi creare la casa intelligente dei tuoi sogni.
+
+
 
 
 
