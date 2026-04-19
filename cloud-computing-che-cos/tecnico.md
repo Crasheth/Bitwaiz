@@ -35,6 +35,8 @@
 
 
 
+
+
 Il cloud computing è come affittare potenza di calcolo, archiviazione e software invece di possederli direttamente. Invece di acquistare e gestire server fisici, si accede a risorse informatiche tramite Internet, pagando solo per ciò che si utilizza.
 
 ## Nota 1: Quali sono i diversi tipi di servizi cloud
@@ -93,6 +95,8 @@ I rischi includono problemi di sicurezza, perdita di controllo sui dati, dipende
 ### Come posso scegliere il giusto provider di cloud computing?
 
 Considera fattori come il tipo di servizi offerti, i prezzi, la sicurezza, la conformità normativa e il supporto tecnico.
+
+
 
 
 

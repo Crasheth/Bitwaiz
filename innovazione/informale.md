@@ -8,6 +8,8 @@
 
 
 
+
+
 Sei nel bel mezzo di un incubo: il tuo progetto sta andando a rotoli, l'azienda non riesce a innovare, e il tempo stringe. Non preoccuparti, non sei solo. Friuli Innovazione, o meglio TEC4I FVG, è qui per darti una mano. In pratica, aiutano aziende e realtà locali a fare un salto di qualità nel mondo della tecnologia e dell’innovazione.
 
 
@@ -58,6 +60,8 @@ Supportano un'ampia gamma di settori, tra cui l'automotive, l'energia, l'ambient
 ### Dove si trova la sede di TEC4I FVG?
 
 La sede principale è situata a Udine, Friuli Venezia Giulia, Italia.
+
+
 
 
 

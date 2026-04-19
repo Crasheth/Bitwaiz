@@ -20,6 +20,8 @@
 
 
 
+
+
 «Ok, quindi il solito: password complesse, non cliccare su link sospetti... già l'ho sentito mille volte.»  Se ti riconosci in questa frase, allora sei nel posto giusto. Questo non è un manuale di sicurezza da 1000 pagine, ma una guida pratica per capire come proteggerti dagli attacchi online, senza diventare un guru della crittografia. Cercheremo di spiegare le cose in modo semplice, così potrai fare scelte più intelligenti e ridurre il rischio di diventare una preda facile.
 
 
@@ -76,6 +78,8 @@ Puoi proteggere i tuoi dispositivi da malware utilizzando un buon software antiv
 ### Cosa fare in caso di violazione dei dati?
 
 Se sospetti di aver subito una violazione dei dati, cambia immediatamente le tue password, monitora i tuoi account per attività sospette e segnala l'incidente alle autorità competenti.
+
+
 
 
 

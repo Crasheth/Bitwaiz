@@ -21,6 +21,8 @@
 
 
 
+
+
 L'evoluzione dei dispositivi medici, in particolare dei wearable cardioverter defibrillatori (WCD), rappresenta un'area di crescente interesse per cardiologi, ingegneri biomedici e specialisti in sicurezza informatica. Questi dispositivi, progettati per prevenire e trattare aritmie cardiache, integrano tecnologie avanzate di monitoraggio, diagnostica e terapia, sollevando al contempo sfide significative in termini di affidabilità, sicurezza e interoperabilità. Questo articolo analizza i WCD, focalizzandosi sulle loro funzionalità tecniche, i rischi associati e le strategie per mitigare tali rischi, fornendo una panoramica per professionisti e decisori.
 
 
@@ -58,6 +60,8 @@ La durata della batteria è un fattore limitante per l'utilizzo dei WCD. L'ottim
 
 ### Come vengono gestiti i dati raccolti dai WCD?
 I dati raccolti dai WCD vengono trasmessi a un centro di monitoraggio o a un medico per l'analisi e la gestione del paziente. È fondamentale garantire la sicurezza e la privacy di questi dati, implementando protocolli di accesso controllati e crittografia dei dati.
+
+
 
 
 

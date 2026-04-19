@@ -41,6 +41,8 @@
 
 
 
+
+
 La fotografia notturna con lo smartphone può sembrare un’impresa ardua, ma con le giuste tecniche e un po’ di pazienza, è possibile catturare immagini sorprendenti. Spesso, la sfida principale è la scarsa quantità di luce disponibile, che rende difficile ottenere foto nitide e con colori vivaci. In questo articolo, esploreremo come affrontare questa sfida, fornendo consigli pratici e spiegazioni chiare per aiutare sia i principianti che gli appassionati a migliorare le loro fotografie notturne. Impareremo a sfruttare al meglio le capacità del nostro smartphone e a comprendere i principi fondamentali dell'esposizione alla luce.
 
 
@@ -84,6 +86,8 @@ Le tue foto notturne potrebbero essere troppo scure a causa di un tempo di espos
 ### Come posso ridurre il rumore nelle mie foto notturne?
 
 Il rumore nelle foto notturne è causato da un ISO elevato o da un tempo di esposizione troppo lungo. Per ridurre il rumore, utilizza la modalità notturna (se disponibile), mantieni l'ISO il più basso possibile e utilizza la stabilizzazione dell'immagine.
+
+
 
 
 

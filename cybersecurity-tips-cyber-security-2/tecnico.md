@@ -18,6 +18,8 @@
 
 
 
+
+
 La crescente sofisticazione delle minacce informatiche rappresenta una seria minaccia per gli enti governativi, mettendo a rischio la sicurezza nazionale, la privacy dei cittadini e l’efficienza operativa. La creazione di un hub di sicurezza centralizzato e resiliente è quindi un imperativo strategico per mitigare questi rischi, integrando capacità di difesa avanzate, monitoraggio proattivo e piani di risposta incidentale robusti. Questo documento definisce i requisiti chiave per la progettazione e l’implementazione di tale hub, focalizzandosi su aspetti operativi e tecnici.
 
 
@@ -66,6 +68,8 @@ Per proteggere i tuoi dati online, utilizza password forti e univoche, abilita l
 
 ### Cosa devo fare se vengo attaccato da un attacco informatico?
 Se sospetti di essere stato attaccato da un attacco informatico, disconnetti immediatamente il dispositivo dalla rete, cambia le tue password e contatta un professionista della sicurezza informatica per assistenza.
+
+
 
 
 
