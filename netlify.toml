@@ -18,6 +18,16 @@
   [headers.values]
     Content-Type = "application/xml; charset=UTF-8"
 
+# HTML: evita che CDN/browser servino pagine obsolete dopo un deploy (home + articoli in sottocartelle)
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+[[headers]]
+  for = "/*/*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
 [[redirects]]
   from = "/webhooks/buymeacoffee"
   to = "/.netlify/functions/bmc-webhook"

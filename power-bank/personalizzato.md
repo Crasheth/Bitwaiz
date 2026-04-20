@@ -1,6 +1,7 @@
 # Come i Power Banks Stanno Cambiando la Nostro Relazioni con l'Informazione
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 
 
@@ -82,6 +83,7 @@ Se scegli una batteria portatile di buona qualità, è improbabile che danneggi 
 ### Come faccio a sapere quando la mia batteria portatile è esaurita?
 
 La maggior parte delle batterie portatili ha un indicatore LED che mostra il livello di carica rimanente. Alcune batterie portatili hanno anche un display digitale che mostra la capacità della batteria in percentuale.
+
 
 
 

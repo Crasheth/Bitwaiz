@@ -1,6 +1,7 @@
 # Creazione di un Hub di Sicurezza Resiliente per Enti Governativi
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
 
 
 
@@ -72,6 +73,7 @@ Per proteggere i tuoi dati online, utilizza password forti e univoche, abilita l
 
 ### Cosa devo fare se vengo attaccato da un attacco informatico?
 Se sospetti di essere stato attaccato da un attacco informatico, disconnetti immediatamente il dispositivo dalla rete, cambia le tue password e contatta un professionista della sicurezza informatica per assistenza.
+
 
 
 

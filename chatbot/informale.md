@@ -1,6 +1,7 @@
 # TfChatbot - La guida completa per principianti e non solo
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 
@@ -203,6 +204,7 @@ Ecco una panoramica completa, pensata per essere chiara e concisa, con un focus 
     *   **E-commerce:** Aiutano gli utenti a trovare prodotti, effettuare ordini e tracciare le spedizioni.
     *   **Sanità:** Forniscono informazioni mediche, fissano appuntamenti e monitorano i pazienti.
     *   **Finanza:** Offrono consulenza finanziaria, gestiscono transazioni e forniscono assistenza clienti.
+
 
 
 

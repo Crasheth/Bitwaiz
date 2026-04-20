@@ -1,6 +1,7 @@
 # Redmi: Il Successo di Xiaomi nel Segmento Smartphone
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
 
 
 
@@ -195,6 +196,7 @@ Le serie piu note sono Redmi Note (equilibrio tra prezzo e funzionalita) e Redmi
 
 ### Redmi produce solo smartphone?
 No. Oltre agli smartphone, Redmi propone anche prodotti IoT come tablet, TV e accessori audio, integrati nell'ecosistema Xiaomi.
+
 
 
 

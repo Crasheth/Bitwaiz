@@ -1,6 +1,7 @@
 # L’Intelligenza Artificiale preoccupa – LA BARBA DI DIOGENE
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 
 
@@ -199,6 +200,7 @@ La gestione di questi rischi richiede un approccio multidisciplinare che coinvol
 
 
 ![intelligenza artificiale](https://brainpod.ai/wp-content/uploads/2025/08/how-are-artificial-intelligence-made.png)
+
 
 
 

@@ -1,6 +1,7 @@
 # Microcontrollori: Il Cuore Silenzioso dell'Innovazione (2026)
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 
@@ -49,6 +50,7 @@ Un microcontrollore è un sistema completo su un singolo chip, contenente un cor
 
 ### Quali sono le applicazioni più comuni dei microcontrollori?
 I microcontrollori sono utilizzati in una vasta gamma di applicazioni, tra cui sistemi di controllo industriale, robotica, automazione domestica, dispositivi medici, elettronica di consumo e IoT.
+
 
 
 
