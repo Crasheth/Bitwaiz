@@ -1,6 +1,8 @@
 # L'intelligenza artificiale e le nostre quotidianità: confini, legami e cura applicata
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+
 
 
 
@@ -160,6 +162,8 @@ Per riassunti, bozze, analisi preliminari e automazioni semplici, con verifica u
 
 - [Machine learning (Wikipedia)](https://it.wikipedia.org/wiki/Machine_learning)
 - [Deep learning (Wikipedia)](https://it.wikipedia.org/wiki/Deep_learning)
+
+
 
 
 

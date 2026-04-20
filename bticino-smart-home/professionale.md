@@ -1,6 +1,8 @@
 # Smart Home: la casa intelligente e connessa
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
+
 
 
 
@@ -210,6 +212,8 @@ Per scoprire di più sulle soluzioni Smart Home di Bticino e come possono miglio
 
 
 ![bticino smart home](https://professionisti.bticino.it/sites/default/files/2022-05/03_SMARTHOME_1.jpg)
+
+
 
 
 

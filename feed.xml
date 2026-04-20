@@ -5,8 +5,29 @@
     <link>https://bitwaiz.it/</link>
     <description>Articoli su trend tech, cybersecurity, elettronica e innovazione.</description>
     <language>it-it</language>
-    <lastBuildDate>Sun, 19 Apr 2026 12:31:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 06:18:42 GMT</lastBuildDate>
     <atom:link href="https://bitwaiz.it/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>Antivirus: Storia e Evoluzione degli Strumenti di Protezione</title>
+    <link>https://bitwaiz.it/anti-malware/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/anti-malware/</guid>
+    <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[L'antimalware è un software progettato per rilevare e rimuovere software dannoso (malware) come virus, worm, trojan e ransomware dai tuoi di…]]></description>
+  </item>
+  <item>
+    <title>Smartphone: Guida all&#x27;acquisto 2026 - Modelli, Prezzi e</title>
+    <link>https://bitwaiz.it/offerte-smartphone/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/offerte-smartphone/</guid>
+    <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[Quale smartphone scegliere nel 2026? Scopri i migliori modelli, i prezzi e le ultime tendenze per una scelta informata.]]></description>
+  </item>
+  <item>
+    <title>Le migliori tastiere gaming per dominare contro qualunque</title>
+    <link>https://bitwaiz.it/tastiera-meccanica-gaming/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/tastiera-meccanica-gaming/</guid>
+    <pubDate>Mon, 20 Apr 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[Quale tastiera gaming scegliere per il 2026? Guida alle migliori tastiere meccaniche e a membrana, con recensioni e prezzi.]]></description>
+  </item>
   <item>
     <title>API: Guida Completa per Sviluppatori e Stakeholder</title>
     <link>https://bitwaiz.it/api/</link>

@@ -2,7 +2,13 @@
 
 ## Domande frequenti
 
-> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
+## Domande frequenti
+
+
+## Domande frequenti
+
 
 ## Domande frequenti
 

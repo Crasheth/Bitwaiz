@@ -1,6 +1,8 @@
 # Cybersecurity in Italia: Aumento del Rischio Cyber con l'AI e la Direttiva NIS2
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
+
 
 
 
@@ -66,6 +68,8 @@ La preparazione prevede la valutazione del rischio, l'implementazione di misure 
 
 ### Cosa significa "backup air-gapped"?
 Un backup air-gapped è un backup dei dati che non è direttamente connesso alla rete aziendale, rendendolo immune agli attacchi informatici che potrebbero compromettere i dati.
+
+
 
 
 

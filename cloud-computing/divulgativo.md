@@ -1,6 +1,8 @@
 # Cloud Computing: The Invisible Power Behind Everything
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il cloud è solo il computer di qualcun altro. — Variante di Larry Ellison.
+
+
 
 
 
@@ -209,6 +211,8 @@ Il cloud computing è diventato sempre più popolare negli ultimi anni, e per bu
 
 
 ![cloud computing](https://www.intellectsoft.net/blog/wp-content/uploads/3-9-1024x868.png)
+
+
 
 
 

@@ -1,6 +1,8 @@
 # Voucher Cloud e Cybersecurity 2026: Come Proteggere la Tua PMI (e Non Farla Fallire)
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> Tutto ciò che può essere digitalizzato verrà digitalizzato. — Nicholas Negroponte.
+
+
 
 
 
@@ -70,6 +72,8 @@ Il Voucher è destinato alle PMI di tutte le dimensioni e settori, che desideran
 ### Quanto costa il Voucher?
 
 Il costo del Voucher varia a seconda delle esigenze specifiche dell'azienda.
+
+
 
 
 

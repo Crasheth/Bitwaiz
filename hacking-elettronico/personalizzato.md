@@ -1,6 +1,8 @@
 # Hacking elettronico
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
+
 
 
 
@@ -60,6 +62,8 @@ La protezione include l'implementazione di soluzioni di mitigazione DDoS, come s
 
 ### Qual è il ruolo del backup air-gapped?
 Un backup air-gapped è un backup che non è connesso alla rete principale, fornendo una protezione aggiuntiva in caso di attacco informatico.
+
+
 
 
 

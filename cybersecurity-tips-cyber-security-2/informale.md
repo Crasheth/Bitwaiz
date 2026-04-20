@@ -1,6 +1,8 @@
 # Creare un firewall umano: come proteggere la tua azienda da attacchi informatici
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -45,6 +47,8 @@ Per proteggere i tuoi dati online, utilizza password forti e univoche, abilita l
 
 ### Cosa devo fare se vengo attaccato da un attacco informatico?
 Se sospetti di essere stato attaccato da un attacco informatico, disconnetti immediatamente il dispositivo dalla rete, cambia le tue password e contatta un professionista della sicurezza informatica per assistenza.
+
+
 
 
 
