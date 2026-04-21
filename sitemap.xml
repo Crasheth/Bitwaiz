@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://bitwaiz.it/</loc><lastmod>2026-04-20</lastmod><changefreq>daily</changefreq></url>
-  <url><loc>https://bitwaiz.it/privacy.html</loc><lastmod>2026-04-20</lastmod><changefreq>monthly</changefreq></url>
+  <url><loc>https://bitwaiz.it/</loc><lastmod>2026-04-21</lastmod><changefreq>daily</changefreq></url>
+  <url><loc>https://bitwaiz.it/privacy.html</loc><lastmod>2026-04-21</lastmod><changefreq>monthly</changefreq></url>
+  <url><loc>https://bitwaiz.it/xiaomi/</loc><lastmod>2026-04-21</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://bitwaiz.it/anti-malware/</loc><lastmod>2026-04-20</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://bitwaiz.it/offerte-smartphone/</loc><lastmod>2026-04-20</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://bitwaiz.it/tastiera-meccanica-gaming/</loc><lastmod>2026-04-20</lastmod><changefreq>weekly</changefreq></url>

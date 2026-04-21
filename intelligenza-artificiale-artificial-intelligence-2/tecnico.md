@@ -1,6 +1,8 @@
 # Intelligenza Artificiale: Un'Introduzione alle Nuove Frontiere
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
+
 
 
 
@@ -201,6 +203,8 @@ Le fonti suggeriscono di iniziare con corsi online (Coursera, Udacity, edX), lib
 
 ### Qual è il futuro dell'IA?
 Le fonti prevedono un'ulteriore crescita esponenziale dell'IA, con un impatto sempre più profondo sulla società e sull'economia. Si prevede che l'IA diventerà sempre più integrata nella nostra vita quotidiana, automatizzando compiti, migliorando l'efficienza e creando nuove opportunità.
+
+
 
 
 

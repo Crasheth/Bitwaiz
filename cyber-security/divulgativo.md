@@ -1,6 +1,8 @@
 # Informazioni sulla sicurezza
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -174,6 +176,8 @@ Per migliorare la sicurezza delle tue informazioni, dovresti implementare una se
 *   Conformità normativa
 *   Sicurezza delle reti
 *   Sicurezza delle applicazioni
+
+
 
 
 

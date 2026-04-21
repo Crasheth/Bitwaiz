@@ -1,6 +1,8 @@
 # Samsung Galaxy (2009): Un passo verso Android
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -64,6 +66,8 @@ Il Samsung Galaxy (2009) includeva applicazioni preinstallate come Google Maps, 
 ### Qual è stata la risposta del mercato al lancio del Samsung Galaxy (2009)?
 
 Il Samsung Galaxy (2009) ha incontrato un buon successo di mercato, contribuendo a stimolare la concorrenza nel settore degli smartphone e a diffondere l'ecosistema Android.
+
+
 
 
 

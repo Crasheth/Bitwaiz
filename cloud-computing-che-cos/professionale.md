@@ -1,6 +1,8 @@
 # Cloud Computing: Una Panoramica Essenziale
 
-> Tutto ciò che può essere digitalizzato verrà digitalizzato. — Nicholas Negroponte.
+> Il cloud è solo il computer di qualcun altro. — Variante di Larry Ellison.
+
+
 
 
 
@@ -90,6 +92,8 @@ I rischi includono problemi di sicurezza, perdita di controllo sui dati, dipende
 ### Come posso scegliere il giusto provider di cloud computing?
 
 Considera fattori come il tipo di servizi offerti, i prezzi, la sicurezza, la conformità normativa e il supporto tecnico.
+
+
 
 
 

@@ -1,6 +1,8 @@
 # Dispositivi medici indossabili per la gestione dell'aritmia: un'analisi delle evidenze
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -200,6 +202,8 @@ In conclusione, i dispositivi medici indossabili rappresentano uno strumento pro
 
 
 ![wearable](https://images.datainsightsmarket.com/pmr/banner/chart-Wearable-Fire-Insulation-Materials.png)
+
+
 
 
 

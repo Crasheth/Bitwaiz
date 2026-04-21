@@ -1,6 +1,8 @@
 # Cloud Computing: Un'Onda di Servizi Distribuita
 
-> Tutto ciò che può essere digitalizzato verrà digitalizzato. — Nicholas Negroponte.
+> Il cloud è solo il computer di qualcun altro. — Variante di Larry Ellison.
+
+
 
 
 
@@ -205,6 +207,8 @@ Il cloud computing non è solo una tecnologia; è un cambiamento di mentalità, 
 
 
 ![cloud computing](https://www.intellectsoft.net/blog/wp-content/uploads/3-9-1024x868.png)
+
+
 
 
 

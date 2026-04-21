@@ -1,6 +1,8 @@
 # ➙ # Cybersecurity: Una Panoramica
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -204,6 +206,8 @@ Ecco alcuni punti chiave relativi alla cybersecurity:
 *   **Responsabilità:** La responsabilità della cybersecurity è condivisa tra organizzazioni, governi e individui. Le organizzazioni sono responsabili di implementare misure di sicurezza adeguate, mentre i governi stabiliscono normative e standard, e gli individui devono adottare pratiche di sicurezza informatica consapevoli.
 
 La cybersecurity è un campo dinamico e in continua evoluzione, guidato dall’innovazione tecnologica e dalle nuove minacce informatiche. La capacità di adattarsi rapidamente a queste sfide è fondamentale per garantire la sicurezza dei sistemi informatici e dei dati.
+
+
 
 
 

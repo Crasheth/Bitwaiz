@@ -1,6 +1,8 @@
 # Generare Password Forti: La Chiave per la Tua Sicurezza Online
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -66,6 +68,8 @@ Utilizza un password manager per memorizzare e generare password complesse.
 ### Cosa succede se dimentico la mia password?
 
 Utilizza la funzione di recupero password fornita dal servizio a cui stai tentando di accedere.
+
+
 
 
 
