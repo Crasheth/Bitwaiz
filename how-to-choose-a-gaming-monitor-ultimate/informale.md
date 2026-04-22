@@ -33,6 +33,8 @@
 
 
 
+
+
 Sei stanco di un gaming a scatti e immagini sgranate? Vuoi un monitor che ti faccia sentire veramente immerso nel tuo gioco preferito? Scegliere il monitor giusto può fare la differenza tra una sessione di gioco piacevole e frustrante. In questo articolo ti spiegheremo come fare, senza tecnicismi inutili e concentrandoci su quello che conta davvero per un gamer.
 
 
@@ -71,6 +73,8 @@ Dipende dalle tue preferenze e dal tuo budget. I pannelli IPS sono ideali per la
 ### Cosa sono FreeSync e G-Sync?
 
 FreeSync e G-Sync sono tecnologie che sincronizzano il refresh rate del monitor con la frequenza di aggiornamento della scheda grafica, eliminando il tearing e il stuttering.
+
+
 
 
 

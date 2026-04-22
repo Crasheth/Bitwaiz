@@ -15,6 +15,8 @@
 
 
 
+
+
 ## Introduzione: Oltre l'Efficienza, un'Esplorazione Umana dell'Automazione
 
 L'innovazione, intesa come creazione di valore attraverso nuove idee e processi, è da sempre il motore del progresso umano. Ma l'attuale ondata di trasformazione digitale, guidata dall'automazione e dall'intelligenza artificiale (AI), non si limita a ottimizzare l'efficienza. Rappresenta un cambiamento di paradigma, un'opportunità per ripensare il nostro rapporto con il lavoro, la creatività e persino la nostra stessa definizione di intelligenza. Questo articolo esplora le implicazioni di questa rivoluzione, non come un mero elenco di tecnologie, ma come un'occasione per una riflessione più profonda sul ruolo dell'uomo nell'era dell'automazione, con un'attenzione particolare all'estensione della consapevolezza e alla capacità di integrare strumenti come l'AI nella nostra vita quotidiana.  Non si tratta di sostituire il pensiero umano, ma di amplificarlo, di creare nuove forme di collaborazione tra uomo e macchina.
@@ -66,6 +68,8 @@ Supportano un'ampia gamma di settori, tra cui l'automotive, l'energia, l'ambient
 ### Dove si trova la sede di TEC4I FVG?
 
 La sede principale è situata a Udine, Friuli Venezia Giulia, Italia.
+
+
 
 
 

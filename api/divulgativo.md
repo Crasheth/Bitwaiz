@@ -11,6 +11,8 @@
 
 
 
+
+
 Se hai mai usato un'app sul tuo smartphone, navigato su un sito web o interagito con un dispositivo intelligente, hai interagito con un'API. Ma cosa sono esattamente e perché sono così importanti? In questo articolo, demistificheremo il concetto di API, spiegando come funzionano e il loro ruolo fondamentale nel mondo digitale di oggi.
 
 
@@ -58,6 +60,8 @@ Un API Gateway è un componente software che funge da punto di ingresso per tutt
 ### Come posso testare un'API?
 
 Esistono diversi strumenti per testare un'API, tra cui Postman, Insomnia e strumenti integrati nei browser web. Questi strumenti consentono di inviare richieste all'API, analizzare le risposte e verificare che l'API funzioni correttamente.
+
+
 
 
 

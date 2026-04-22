@@ -136,6 +136,8 @@
 
 
 
+
+
 Informazioni sulla sicurezza sono essenziali per proteggere le informazioni, i sistemi e le reti da minacce, sia digitali che fisiche. Questo campo multidisciplinare comprende una vasta gamma di discipline, tra cui la crittografia, la sicurezza delle reti, la sicurezza delle applicazioni e la sicurezza fisica. Le informazioni sulla sicurezza sono fondamentali per le organizzazioni di tutte le dimensioni, nonché per individui e governi. La crescente dipendenza dalla tecnologia e la natura sempre più interconnessa del mondo hanno reso la sicurezza delle informazioni più importante che mai.
 
 
@@ -176,6 +178,8 @@ Per migliorare la sicurezza delle tue informazioni, dovresti implementare una se
 *   Conformità normativa
 *   Sicurezza delle reti
 *   Sicurezza delle applicazioni
+
+
 
 
 

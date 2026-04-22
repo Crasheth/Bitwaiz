@@ -114,6 +114,8 @@
 
 
 
+
+
 Cloud computing, in parole povere, significa usare servizi informatici – come salvare file, eseguire applicazioni o utilizzare computer potenti – tramite internet invece di avere tutto installato sul tuo dispositivo. È come l'elettricità: non ti preoccupi di come funziona la centrale elettrica, ti basta collegarti e usarla. Questo approccio rende le cose più facili, economiche (paghi solo per quello che usi) e scalabili (puoi aumentare o diminuire la potenza senza problemi). È un concetto fondamentale per chiunque lavori con dati o applicazioni, e offre un modo efficiente per gestire le risorse IT.
 
 ## Cos'è il Cloud Computing?
@@ -156,6 +158,8 @@ Considera le tue esigenze specifiche, il budget, la sicurezza e la conformità n
 
 *   [Cloud Storage](https://azure.microsoft.com/it-it/resources/cloud-computing-dictionary/cloud-storage)
 *   [Cloud Security](https://www.salesforce.com/eu/platform/cloud-computing/security/)
+
+
 
 
 

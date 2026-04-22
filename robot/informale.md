@@ -75,6 +75,8 @@
 
 
 
+
+
 Robotica: una disciplina che sta cambiando il mondo a un ritmo vertiginoso. Ma cosa sono esattamente? E perché dovresti preoccuparti di questo campo in continua evoluzione? Questo articolo ti darà una panoramica chiara e concisa, spiegando le basi della robotica, le sue applicazioni e il suo impatto potenziale sul futuro. Imparerai come i robot stanno trasformando industrie, migliorando la nostra vita quotidiana e sollevando importanti questioni etiche.
 
 ## Punto chiave
@@ -115,6 +117,8 @@ L'uso dei robot solleva importanti questioni etiche, come la responsabilità in 
 *   [Standard ISO 8373](https://www.iso.org/standard/7763.html) – Robot – Terminologia e definizioni
 *   [Robotica collaborativa](https://it.wikipedia.org/wiki/Robotica_collaborativa) – Un approccio alla robotica che prevede la collaborazione tra robot e esseri umani.
 *   [Robotica industriale](https://it.wikipedia.org/wiki/Robotica_industriale) – L'applicazione della robotica nell'industria manifatturiera.
+
+
 
 
 

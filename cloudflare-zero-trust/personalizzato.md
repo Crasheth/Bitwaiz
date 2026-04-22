@@ -21,6 +21,8 @@
 
 
 
+
+
 Nel mondo digitale odierno, la sicurezza informatica non è più una questione di firewall e password complesse. È un ecosistema dinamico che richiede un approccio olistico, un “giardino” dove proteggere ogni elemento per garantire l’equilibrio generale. Cloudflare Zero Trust rappresenta questo approccio, spostando l’attenzione dalla tradizionale difesa perimetrale verso un modello basato sulla fiducia zero, dove ogni richiesta di accesso viene verificata e autenticata, indipendentemente dalla sua origine. Questo significa non fidarsi di nessuno per impostazione predefinita, ma controllare costantemente ogni tentativo di accesso.
 
 Cloudflare Zero Trust non è un prodotto singolo, ma un insieme di pratiche e tecnologie che, combinate, creano un ambiente più sicuro. Si basa su principi fondamentali come la segmentazione della rete, il controllo degli accessi basato sul ruolo, l’autenticazione a più fattori e il monitoraggio continuo. L’obiettivo è ridurre al minimo l’impatto di una violazione della sicurezza, limitando la superficie di attacco e impedendo agli aggressori di muoversi lateralmente all’interno della rete. In pratica, noto che l’approccio tradizionale, basato su un perimetro di sicurezza rigido, è diventato sempre più inefficace contro le minacce moderne, che spesso provengono da dentro l’organizzazione.
@@ -67,6 +69,8 @@ Cloudflare Zero Trust è un approccio alla sicurezza che si basa sull’assunto 
 L’architettura Zero Trust di Cloudflare si articola su diversi livelli, tra cui l’autenticazione a più fattori (MFA), che richiede agli utenti di fornire più forme di verifica per accedere alle risorse, la microsegmentazione della rete, che divide la rete in segmenti più piccoli e isolati per limitare l’impatto di una potenziale violazione, e il monitoraggio comportamentale, che analizza il comportamento degli utenti e delle applicazioni per rilevare attività sospette.
 
 Inoltre, Cloudflare Tunnel gioca un ruolo fondamentale in un’architettura Zero Trust, fornendo un accesso sicuro e privato alle risorse on-premise, riducendo la dipendenza da connessioni esterne e mitigando i rischi associati all’utilizzo di reti non protette. L’implementazione di Zero Trust richiede un approccio olistico alla sicurezza, che coinvolge tutti gli stakeholder e che è continuamente monitorato e adattato per affrontare le nuove minacce.
+
+
 
 
 

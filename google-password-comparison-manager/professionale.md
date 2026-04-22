@@ -12,6 +12,8 @@
 
 
 
+
+
 Un password manager è un software che genera, memorizza e gestisce le tue password in modo sicuro. Ti permette di creare password complesse e univoche per ogni sito web e applicazione, eliminando la necessità di ricordare password diverse e riducendo il rischio di violazioni della sicurezza.
 
 ## Nota 1: Quali sono i vantaggi dell’utilizzo di un password manager
@@ -59,6 +61,8 @@ L’autenticazione a due fattori (2FA) aggiunge un ulteriore livello di sicurezz
 
 ### Quali sono le differenze tra password manager basati su cloud e locali?
 I password manager basati su cloud sono accessibili da qualsiasi dispositivo con connessione internet, offrendo sincronizzazione automatica e backup, mentre quelli locali memorizzano i dati sul dispositivo dell’utente, garantendo maggiore controllo e privacy, ma richiedendo un backup manuale.
+
+
 
 
 
