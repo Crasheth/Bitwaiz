@@ -148,6 +148,8 @@
 
 
 
+
+
 L'intelligenza artificiale (IA) non è solo un termine di moda tecnologica. È un cambiamento di paradigma, un modo nuovo di pensare ai problemi e di costruire soluzioni. Invece di cercare di replicare la mente umana (un'impresa che si è rivelata estremamente complessa), l'IA si concentra sull’esaltazione delle nostre capacità, creando un'alleanza inaspettata tra uomo e macchina.
 
 Pensateci: l’IA non sta cercando di sostituirci, ma di amplificarci. Un programmatore, ad esempio, non è sostituito da un algoritmo che scrive codice, ma lo affianca, offrendo intuizioni e spingendo i confini della creatività. Un medico non viene sostituito da una diagnosi automatica, ma riceve un supporto cruciale, filtrando dati e individuando pattern che l'occhio umano potrebbe perdere.
@@ -182,6 +184,8 @@ Creare immagini con l'intelligenza artificiale è diventato accessibile a tutti 
 
 ### Come posso modificare le mie foto con l'intelligenza artificiale?
 Gli strumenti di modifica delle foto basati sull'intelligenza artificiale possono automatizzare molte attività che richiederebbero molto tempo e competenza. Possono correggere automaticamente il colore, la luminosità e il contrasto, rimuovere oggetti indesiderati, migliorare la nitidezza e persino creare effetti artistici.
+
+
 
 
 

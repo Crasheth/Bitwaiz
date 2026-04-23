@@ -192,6 +192,8 @@
 
 
 
+
+
 I computer quantistici rappresentano un paradigma di calcolo radicalmente diverso dai computer classici, sfruttando i principi della meccanica quantistica per risolvere problemi che sono intrattabili per i computer tradizionali. Questa capacità deriva dall'utilizzo di bit quantistici (qubit) che, a differenza dei bit classici che rappresentano 0 o 1, possono esistere in una sovrapposizione di entrambi gli stati contemporaneamente.
 
 ## Principi Fondamentali
@@ -218,6 +220,8 @@ Nonostante il loro potenziale, i computer quantistici sono ancora in una fase di
 *   **Correzione degli Errori:** A causa della decoerenza e di altri fattori, i computer quantistici sono soggetti a errori. Sviluppare tecniche efficaci di correzione degli errori è essenziale per ottenere risultati affidabili.
 
 ## Prospettive Future
+
+
 
 
 

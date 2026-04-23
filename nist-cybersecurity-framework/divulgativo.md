@@ -140,6 +140,8 @@
 
 
 
+
+
 Il mondo digitale è in costante evoluzione, e con esso, le minacce alla sicurezza informatica. Per le organizzazioni di ogni dimensione, navigare in questo panorama complesso può sembrare un’impresa disperata. Il framework di cybersecurity NIST (National Institute of Standards and Technology) offre una bussola, una struttura organizzata per affrontare queste sfide, trasformando la sicurezza da un’attività reattiva a un processo proattivo e strategico. Questo articolo esplorerà i concetti chiave del framework, spiegandoli in modo accessibile e fornendo una panoramica pratica per chiunque voglia migliorare la propria postura di sicurezza.
 
 
@@ -210,6 +212,8 @@ Il CSF è particolarmente importante per le PMI, che spesso hanno risorse limita
 *   **Threat Intelligence:** La raccolta e l'analisi di informazioni sulle minacce informatiche per migliorare la consapevolezza e la capacità di risposta.
 *   **Security Orchestration, Automation and Response (SOAR):**  Soluzioni che automatizzano e orchestrano le attività di sicurezza per migliorare l'efficienza e la reattività.
 *   **MisP (MITRE ATT&CK):** Un knowledge base che descrive le tattiche e le tecniche utilizzate dagli aggressori informatici.
+
+
 
 
 

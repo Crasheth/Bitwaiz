@@ -77,6 +77,8 @@
 
 
 
+
+
 Se hai una rete Wi-Fi, probabilmente ti sei già chiesto quanto sia sicura. La verità è che la maggior parte delle persone non prende seriamente la sicurezza della propria rete domestica, e questo la rende un bersaglio facile per hacker e criminali informatici. Questa guida ti darà una panoramica rapida di come proteggere la tua rete Wi-Fi, anche se non sei un esperto di tecnologia. Imparerai come cambiare la password predefinita, abilitare la crittografia e disabilitare l'accesso remoto per ridurre al minimo i rischi.
 
 ## Comprendere i Rischi
@@ -114,6 +116,8 @@ Sì, è altamente consigliabile cambiare regolarmente la password del tuo router
 
 *   **Sicurezza delle reti domestiche:** [https://www.wikipedia.org/wiki/Sicurezza_della_rete_domestica](https://www.wikipedia.org/wiki/Sicurezza_della_rete_domestica)
 *   **Router: Guida all'acquisto:** [https://www.computer.it/router-guida-acquisto/](https://www.computer.it/router-guida-acquisto/)
+
+
 
 
 

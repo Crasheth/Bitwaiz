@@ -3,6 +3,8 @@
 > La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
 
 
+
+
 Il ransomware WannaCry è un tipo di malware che crittografa i file di un computer infetto e chiede un riscatto per la loro decrittazione. Utilizza una vulnerabilità nel sistema operativo Windows chiamata EternalBlue.
 
 ![ransomware](https://image-optimizer.cyberriskalliance.com/unsafe/1920x0/https://files.scmagazine.com/wp-content/uploads/2024/01/012324_ransomware.jpg)
@@ -37,6 +39,8 @@ R: WannaCry ha avuto un impatto globale, colpendo la NHS nel Regno Unito, aziend
 R: Per prevenire attacchi come WannaCry, è importante mantenere aggiornati i software e i sistemi operativi, implementare robuste misure di sicurezza di rete, formare gli utenti sulla sicurezza informatica e avere un piano di risposta agli incidenti ben definito.
 
 ### Titolo (# WannaCry: Un'Analisi Approfondita del Malware Ransomware)
+
+
 
 
 

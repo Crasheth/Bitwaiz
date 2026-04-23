@@ -20,6 +20,8 @@
 
 
 
+
+
 La NIS2 (Network and Information Security Directive 2) è una direttiva europea che punta a rafforzare la sicurezza informatica degli Stati membri. Introduce obblighi più stringenti per le grandi imprese e gli enti pubblici, come la valutazione del rischio, la realizzazione di un piano di resilienza e la segnalazione degli incidenti.
 
 ## Nota 1: Cosa sono i CISO
@@ -58,6 +60,8 @@ La preparazione prevede la valutazione del rischio, l'implementazione di misure 
 
 ### Cosa significa "backup air-gapped"?
 Un backup air-gapped è un backup dei dati che non è direttamente connesso alla rete aziendale, rendendolo immune agli attacchi informatici che potrebbero compromettere i dati.
+
+
 
 
 

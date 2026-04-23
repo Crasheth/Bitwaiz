@@ -142,6 +142,8 @@
 
 
 
+
+
 ## Comprendere la Cybersecurity
 
 La cybersecurity si concentra sulla protezione di sistemi informatici, reti e dati da accessi non autorizzati, danni o furti. Si tratta di un approccio multilivello che include misure tecniche, politiche e procedure per mitigare i rischi.  Fondamentalmente, la cybersecurity mira a garantire la riservatezza, l'integrità e la disponibilità delle informazioni.
@@ -184,6 +186,8 @@ L'autenticazione a due fattori (2FA) aggiunge un ulteriore livello di sicurezza 
 
 *   **Gestione delle identità e degli accessi (IAM):**  Un approccio che si concentra sulla gestione delle identità digitali e sull'assegnazione dei privilegi di accesso.
 *   **Threat Intelligence:** Raccogliere e analizzare informazioni sulle minacce informatiche per anticipare e prevenire gli attacchi.
+
+
 
 
 

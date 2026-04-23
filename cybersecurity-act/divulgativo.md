@@ -141,6 +141,8 @@
 
 
 
+
+
 Questo articolo spiega l'Cybersecurity Information Sharing Act (CISA), un tentativo di rafforzare la sicurezza informatica degli Stati Uniti tramite la condivisione di informazioni tra il governo e il settore privato. Cercheremo di capire perché è stato creato, come funziona e quali sono le controversie che lo circondano. Imparerai come le aziende e le agenzie governative possono collaborare per contrastare le minacce informatiche.
 
 ## Contesto e Problema
@@ -181,6 +183,8 @@ Secondo le fonti, il CISA prevede la creazione di un'agenzia governativa (Cyber 
 ## Vedi anche
 
 *   EU Cybersecurity Act | Shaping Europe’s digital future
+
+
 
 
 
