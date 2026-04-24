@@ -195,6 +195,8 @@
 
 
 
+
+
 Secondo le fonti, la casa intelligente non è solo un insieme di dispositivi, ma un’opportunità per armonizzare la vita quotidiana con la tecnologia, un’eco del flusso del Tao. Come un fiume che segue il suo corso naturale, un sistema domotico ben progettato dovrebbe rispondere alle esigenze dell’utente con fluidità e intuitività, senza imposizioni o controlli eccessivi. Il “wu wei” – l’azione senza sforzo – è il principio guida: il sistema si adatta, anticipa, ottimizza, ma sempre in modo discreto e naturale.  È come respirare: un movimento costante, essenziale e invisibile, che sostiene l’esistenza.
 
 *   **Automazione Intelligente:**  La centralizzazione del controllo permette di creare scenari personalizzati, adattando l’ambiente alle proprie attività. Immagina di premere un pulsante e la luce si abbassa, la temperatura si regola, la musica si avvia – un’azione spontanea, un’estensione del tuo stesso essere.
@@ -206,6 +208,8 @@ La tecnologia, in questo contesto, non è un fine a sé stesso, ma un mezzo per 
 
 
 ![bticino smart home](https://professionisti.bticino.it/sites/default/files/2022-05/03_SMARTHOME_1.jpg)
+
+
 
 
 

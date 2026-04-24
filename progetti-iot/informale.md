@@ -32,6 +32,8 @@
 
 
 
+
+
 Se sei qui, probabilmente ti sei chiesto perché i progetti IoT (Internet of Things) sono così spesso un disastro. Non è solo questione di tecnologia, ma di come le cose vengono pianificate, implementate e gestite. Cerchiamo di capire cosa va storto e come fare meglio.
 
 
@@ -66,6 +68,8 @@ Esistono diversi tipi di dispositivi IoT, tra cui sensori, attuatori, gateway e 
 
 ### Quali sono i vantaggi dell'IoT?
 I vantaggi dell'IoT includono l'aumento dell'efficienza operativa, il miglioramento della sicurezza, la creazione di nuovi servizi e prodotti e la raccolta di dati preziosi per il processo decisionale.
+
+
 
 
 

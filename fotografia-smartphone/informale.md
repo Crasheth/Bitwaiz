@@ -54,6 +54,8 @@
 
 
 
+
+
 Ok, quindi vuoi fare delle foto da bruckShimetti di notte con il tuo smartphone? È più semplice di quanto pensi, ma ci sono un paio di accortezze che fanno la differenza. In pratica, questo articolo ti spiega come sfruttare al meglio le capacità del tuo telefono per catturare immagini mozzafiato anche quando la luce è scarsa. Imparerai a gestire tempi di esposizione, sensibilità ISO e altri parametri per ottenere risultati sorprendenti.
 
 
@@ -101,6 +103,8 @@ Le tue foto notturne potrebbero essere troppo scure a causa di un tempo di espos
 ### Come posso ridurre il rumore nelle mie foto notturne?
 
 Il rumore nelle foto notturne è causato da un ISO elevato o da un tempo di esposizione troppo lungo. Per ridurre il rumore, utilizza la modalità notturna (se disponibile), mantieni l'ISO il più basso possibile e utilizza la stabilizzazione dell'immagine.
+
+
 
 
 

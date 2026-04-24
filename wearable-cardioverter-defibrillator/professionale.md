@@ -32,6 +32,8 @@
 
 
 
+
+
 Un cardioverter defibrillatore indossabile (ICD) è un dispositivo che aiuta a prevenire e trattare aritmie cardiache pericolose per la vita. A differenza degli ICD tradizionali, un ICD indossabile può essere indossato sotto i vestiti, consentendo alle persone di vivere la loro vita normalmente.
 
 ## Nota 1: Come funzionano gli ICD indossabili
@@ -65,6 +67,8 @@ La durata della batteria è un fattore limitante per l'utilizzo dei WCD. L'ottim
 
 ### Come vengono gestiti i dati raccolti dai WCD?
 I dati raccolti dai WCD vengono trasmessi a un centro di monitoraggio o a un medico per l'analisi e la gestione del paziente. È fondamentale garantire la sicurezza e la privacy di questi dati, implementando protocolli di accesso controllati e crittografia dei dati.
+
+
 
 
 

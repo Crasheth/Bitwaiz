@@ -31,6 +31,8 @@
 
 
 
+
+
 Sai, a volte la parte più vulnerabile di un'azienda non sono i server o i database, ma le persone. Gli hacker sanno che spesso il modo più semplice per ottenere ciò che vogliono è ingannare un dipendente, facendolo cliccare su un link sospetto o aprire un allegato dannoso. Quindi, come possiamo creare un "firewall umano" per proteggere la nostra azienda?
 
 Fondamentalmente, si tratta di sensibilizzare i dipendenti e di insegnare loro a riconoscere i tentativi di phishing e altre minacce informatiche. Non è chiedere di diventare esperti di sicurezza informatica, ma di essere vigili e di mettere in discussione le cose. Se qualcosa sembra troppo bello per essere vero, probabilmente lo è.
@@ -54,6 +56,8 @@ Per proteggere i tuoi dati online, utilizza password forti e univoche, abilita l
 
 ### Cosa devo fare se vengo attaccato da un attacco informatico?
 Se sospetti di essere stato attaccato da un attacco informatico, disconnetti immediatamente il dispositivo dalla rete, cambia le tue password e contatta un professionista della sicurezza informatica per assistenza.
+
+
 
 
 

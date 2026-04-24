@@ -15,6 +15,8 @@
 
 
 
+
+
 ## Come riconoscere e bloccare le minacce mirate: la guida completa al phishing
 
 Il phishing, o "rapina di informazioni", è una delle tattiche più subdole utilizzate dai criminali informatici. Non si tratta di un attacco casuale, ma di un'operazione mirata, dove l'obiettivo è ingannare individui specifici per ottenere dati sensibili come password, informazioni finanziarie o dettagli personali. Immagina un ladro che non butta a caso porte a caso, ma studia attentamente le finestre e le persone per individuare la vittima più vulnerabile. Questo è il phishing in azione. Questa guida ti aiuterà a capire come funziona, quali sono le tecniche più comuni e come proteggerti.
@@ -72,6 +74,8 @@ Le tecniche più comuni utilizzate dagli attaccanti nello spear phishing includo
 ## Come posso segnalare un attacco di spear phishing?
 
 Puoi segnalare un attacco di spear phishing alle autorità competenti, come la polizia postale o il CERT (Centro Operativo Regionale) della tua regione.
+
+
 
 
 

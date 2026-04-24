@@ -228,6 +228,12 @@
 
 ## Domande frequenti
 
+
+## Domande frequenti
+
+
+## Domande frequenti
+
 ### Cosa significa "allucinazione" nell'intelligenza artificiale?
 Secondo le fonti, l' "allucinazione" nell'IA si riferisce alla tendenza dei modelli linguistici di grandi dimensioni (LLM) a generare informazioni false o inventate, presentandole come fatti reali. Questo fenomeno è dovuto al modo in cui questi modelli sono stati addestrati: imparano a prevedere la parola successiva in una sequenza, senza una vera comprensione del mondo.
 

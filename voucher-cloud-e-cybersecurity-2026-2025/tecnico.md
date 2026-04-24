@@ -4,6 +4,8 @@
 
 
 
+
+
 L’evoluzione accelerata delle minacce informatiche e l’integrazione sempre più pervasiva dell’intelligenza artificiale (AI) richiedono un approccio olistico alla sicurezza digitale. Il Cybersecurity Summit 2026 si concentra sulle strategie più avanzate per affrontare le sfide emergenti, dalla detection e response automatizzata all’adozione responsabile dell’AI e alla gestione del rischio per le organizzazioni di ogni dimensione. Questo evento offre una piattaforma unica per esperti, decisori e professionisti del settore per condividere conoscenze, sviluppare partnership e definire il futuro della sicurezza informatica.
 
 
@@ -43,6 +45,8 @@ I partecipanti potranno acquisire conoscenze approfondite, fare networking con e
 
 ### Dove si terrà il summit?
 Il Cybersecurity Summit 2026 si terrà a Monaco di Baviera, Germania.
+
+
 
 
 

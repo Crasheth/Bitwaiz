@@ -32,6 +32,8 @@
 
 
 
+
+
 Mi chiedo se ci sia una differenza tra chi pensa che la sicurezza digitale sia un compito da affrontare solo in caso di emergenza e chi vede questa pratica come parte integrante della vita quotidiana. La seconda prospettiva, quella di considerare la sicurezza come un'abitudine, mi sembra più saggia e produttiva.
 
 
@@ -82,6 +84,8 @@ Per proteggere i tuoi dati online, utilizza password forti e univoche, abilita l
 
 ### Cosa devo fare se vengo attaccato da un attacco informatico?
 Se sospetti di essere stato attaccato da un attacco informatico, disconnetti immediatamente il dispositivo dalla rete, cambia le tue password e contatta un professionista della sicurezza informatica per assistenza.
+
+
 
 
 
