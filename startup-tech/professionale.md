@@ -49,6 +49,8 @@
 
 
 
+
+
 L'ecosistema delle startup comprende tutti gli attori e le risorse che contribuiscono alla nascita, alla crescita e al successo delle startup. Include investitori, mentori, incubatori, acceleratori, università, governi e la comunità imprenditoriale nel suo complesso.
 
 ## Nota 1: Quali sono i principali settori di crescita delle startup in India
@@ -92,6 +94,8 @@ Las startups más comunes están en sectores como fintech, e-commerce, salud, ed
 
 ### ¿Cómo puede el gobierno indio apoyar mejor el ecosistema startup?
 El gobierno puede apoyar mejor el ecosismo startup a través de incentivos fiscales, programas de financiación, políticas favorables a la innovación y la simplificación de los procesos regulatorios.
+
+
 
 
 

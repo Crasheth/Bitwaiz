@@ -58,6 +58,8 @@
 
 
 
+
+
 I ransomware sono un tipo di attacco informatico che sta diventando sempre più comune e pericoloso. In sostanza, un ransomware infetta il tuo computer o dispositivo, crittografando i tuoi file e rendendoli inaccessibili. Per recuperare i file, i criminali informatici richiedono un riscatto, solitamente in criptovaluta come Bitcoin. Questo rende i ransomware una minaccia seria per individui, aziende e persino enti governativi. Comprendere come funzionano i ransomware è il primo passo per proteggersi da questi attacchi.
 
 ## Nota 1: Come Funzionano i Ransomware
@@ -102,6 +104,8 @@ Mantenendo il software aggiornato, facendo attenzione alle email e agli allegati
 
 ### Quali sono i tipi di ransomware più comuni?
 PC Cyborg, Locky, Ransomware Cloud (Ransomcloud), Blocker e Wiper.
+
+
 
 
 

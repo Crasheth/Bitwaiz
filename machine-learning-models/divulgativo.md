@@ -197,6 +197,8 @@
 
 
 
+
+
 Il machine learning (ML) è un campo dell'intelligenza artificiale che permette ai sistemi di imparare dai dati senza essere esplicitamente programmati. Immagina di insegnare a un bambino a riconoscere un gatto: gli mostri esempi di gatti, e lui alla fine impara a identificarli anche in situazioni nuove. Il machine learning funziona in modo simile, ma con algoritmi matematici e enormi quantità di dati.
 
 Il cuore del machine learning risiede nella capacità di identificare schemi e relazioni nei dati. Questi schemi vengono poi utilizzati per fare previsioni o prendere decisioni. Esistono diversi tipi di machine learning, tra cui:
@@ -210,6 +212,8 @@ Il machine learning ha un impatto enorme su molti settori, tra cui la sanità, l
 
 
 Il machine learning sta trasformando il modo in cui viviamo e lavoriamo, e il suo potenziale è ancora in gran parte inesplorato.
+
+
 
 
 

@@ -25,6 +25,8 @@
 
 
 
+
+
 Questo articolo analizza l'attuale panorama della cybersecurity in Italia, focalizzandosi sull'aumento del rischio cyber legato all'adozione dell'intelligenza artificiale (AI) e all'implementazione della Direttiva NIS2. L'obiettivo è fornire una panoramica tecnica per i professionisti della sicurezza informatica, evidenziando le sfide e le opportunità che si presentano in questo contesto in rapida evoluzione.
 
 
@@ -77,6 +79,8 @@ La preparazione prevede la valutazione del rischio, l'implementazione di misure 
 
 ### Cosa significa "backup air-gapped"?
 Un backup air-gapped è un backup dei dati che non è direttamente connesso alla rete aziendale, rendendolo immune agli attacchi informatici che potrebbero compromettere i dati.
+
+
 
 
 

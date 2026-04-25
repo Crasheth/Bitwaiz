@@ -142,6 +142,8 @@
 
 
 
+
+
 Questo articolo fornisce una panoramica dei corsi di cybersecurity online disponibili, focalizzandosi su opzioni come Epicode, Coursera e corsi universitari. Esploreremo le competenze acquisibili, i diversi livelli di difficoltà e le opportunità di carriera nel campo della sicurezza informatica.  Comprendere le opzioni formative disponibili è fondamentale per chiunque desideri intraprendere una carriera in questo settore in rapida crescita.
 
 ## Panoramica dei Corsi di Cybersecurity Online
@@ -188,6 +190,8 @@ Secondo le fonti, le prospettive di lavoro nel cybersecurity sono estremamente p
 
 *   [Sicurezza informatica per IT e manager](https://www.bbs.unibo.it/open-program/cybersecurity-management/)
 *   [Cyber Threat Intelligence](https://www.coursera.org/courses?query=cyber%20threat%20intelligence)
+
+
 
 
 

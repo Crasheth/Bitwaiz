@@ -50,6 +50,8 @@
 
 
 
+
+
 ## Introduzione
 
 Mi chiedo se la tecnologia non sia diventata troppo invisibile nella nostra vita quotidiana. Ogni volta che accediamo a un'applicazione online, navighiamo su un sito web o inviamo un'email, stiamo effettuando operazioni di cloud computing. Ma cosa significa esattamente? Il cloud computing è una tecnologia che permette l'accesso remoto ai servizi informatici e alle risorse, come server, storage e applicazioni, attraverso internet.
@@ -97,6 +99,8 @@ I rischi includono problemi di sicurezza, perdita di controllo sui dati, dipende
 ### Come posso scegliere il giusto provider di cloud computing?
 
 Considera fattori come il tipo di servizi offerti, i prezzi, la sicurezza, la conformità normativa e il supporto tecnico.
+
+
 
 
 

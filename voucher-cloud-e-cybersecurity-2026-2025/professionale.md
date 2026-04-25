@@ -5,6 +5,8 @@
 
 
 
+
+
 Secondo le fonti, le principali minacce includono attacchi basati sull'intelligenza artificiale (AI), deepfake, ransomware avanzati e vulnerabilità nell'IoT.
 
 ## Nota 1: Come posso proteggere la mia azienda da queste minacce
@@ -67,6 +69,8 @@ I partecipanti potranno acquisire conoscenze approfondite, fare networking con e
 
 ### Dove si terrà il summit?
 Il Cybersecurity Summit 2026 si terrà a Monaco di Baviera, Germania.
+
+
 
 
 

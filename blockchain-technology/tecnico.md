@@ -159,6 +159,8 @@
 
 
 
+
+
 La blockchain è un registro digitale, immutabile e distribuito che registra le transazioni in blocchi collegati tra loro in modo crittografico.  [Blockchain technology](https://en.wikipedia.org/wiki/Blockchain_technology)  ระบบนี้ใช้ในปัจจุบันอย่างแพร่หลายสำหรับการจัดเก็บข้อมูลและการทำธุรกรรมที่ต้องการความน่าเชื่อถือและความโปร่งใสสูง  โครงสร้างพื้นฐานของ blockchain ประกอบด้วย nodes (โหนด) จำนวนมากที่กระจายอยู่ทั่วโลก ซึ่งแต่ละโหนดเก็บสำเนาของบล็อกเชนทั้งหมด ทำให้มั่นใจได้ถึงความทนทานต่อความผิดพลาดและความปลอดภัย
 
 การทำงานหลักของ blockchain คือการใช้ cryptographic hash เพื่อเชื่อมโยงบล็อกแต่ละบล็อกเข้าด้วยกัน บล็อกแต่ละบล็อกประกอบด้วยข้อมูลธุรกรรม (transaction data)  แฮชของบล็อกก่อนหน้า และ timestamp  เมื่อมีการสร้างบล็อกใหม่  แฮชของบล็อกก่อนหน้าจะถูกรวมเข้ากับบล็อกใหม่ ทำให้การเปลี่ยนแปลงข้อมูลในบล็อกใดบล็อกหนึ่งเป็นไปไม่ได้โดยไม่ถูกตรวจพบ  การทำงานนี้ถูกทำให้เป็นไปโดย consensus mechanism ซึ่งเป็นกลไกที่ใช้โดย nodes ในเครือข่ายเพื่อตกลงกันว่าบล็อกใหม่ใดที่ควรถูกเพิ่มเข้าไปใน blockchain
@@ -186,6 +188,8 @@ La blockchain è un registro digitale, immutabile e distribuito che registra le 
 
 
 ![blockchain technology](https://static.vecteezy.com/system/resources/previews/011/494/437/original/blockchain-technology-isometric-flat-illustration-concept-hi-tech-block-chain-data-structure-visualization-vector.jpg)
+
+
 
 
 
