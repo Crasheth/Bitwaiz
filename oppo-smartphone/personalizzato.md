@@ -69,6 +69,8 @@
 
 
 
+
+
 Questo articolo è indirizzato a tutti gli utenti di OPPO che desiderano utilizzare app Google senza dover cambiare smartphone. L'installazione manuale di Google Mobile Services (GMS) può essere un compito complesso, ma con le informazioni corrette si può ottenere una soluzione soddisfacente.
 
 # Cosa impara il lettore
@@ -96,6 +98,8 @@ Risposta: Se riscontri problemi durante l'installazione di Google Mobile Service
 
 *   [Documentazione Google Mobile Services](https://developers.google.com/gmobile/docs)
 *   [Standard Android](https://developer.android.com/reference)
+
+
 
 
 

@@ -34,6 +34,8 @@
 
 
 
+
+
 Un attacco DDoS (Distributed Denial of Service) è un tipo di attacco informatico in cui un sistema viene sovraccaricato con traffico di rete proveniente da più fonti, rendendolo inaccessibile agli utenti legittimi.
 
 ![hacking elettronico](https://as1.ftcdn.net/v2/jpg/05/69/40/36/1000_F_569403685_wBdRDeIIg52MneGRb82bnbxtpNCKgmqS.jpg)
@@ -67,6 +69,8 @@ La protezione include l'implementazione di soluzioni di mitigazione DDoS, come s
 
 ### Qual è il ruolo del backup air-gapped?
 Un backup air-gapped è un backup che non è connesso alla rete principale, fornendo una protezione aggiuntiva in caso di attacco informatico.
+
+
 
 
 

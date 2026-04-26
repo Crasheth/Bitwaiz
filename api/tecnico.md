@@ -18,6 +18,8 @@
 
 
 
+
+
 Un'API è un insieme di definizioni e protocolli che consente a diverse applicazioni software di comunicare e interagire tra loro. Funziona come un intermediario, definendo le regole per la richiesta e la risposta dei dati.
 
 ## Nota 1: Quali sono i tipi principali di API
@@ -75,6 +77,8 @@ Un API Gateway è un componente software che funge da punto di ingresso per tutt
 ### Come posso testare un'API?
 
 Esistono diversi strumenti per testare un'API, tra cui Postman, Insomnia e strumenti integrati nei browser web. Questi strumenti consentono di inviare richieste all'API, analizzare le risposte e verificare che l'API funzioni correttamente.
+
+
 
 
 

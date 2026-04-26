@@ -18,6 +18,8 @@
 
 
 
+
+
 Secondo le fonti, un'API è un insieme di regole e specifiche che definiscono come le applicazioni software devono interagire tra loro. In pratica, permette a diverse parti di un sistema di scambiarsi dati e funzionalità.
 
 ## Nota 1: Perché usare le API
@@ -83,6 +85,8 @@ Un API Gateway è un componente software che funge da punto di ingresso per tutt
 ### Come posso testare un'API?
 
 Esistono diversi strumenti per testare un'API, tra cui Postman, Insomnia e strumenti integrati nei browser web. Questi strumenti consentono di inviare richieste all'API, analizzare le risposte e verificare che l'API funzioni correttamente.
+
+
 
 
 

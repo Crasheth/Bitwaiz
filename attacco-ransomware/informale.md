@@ -72,6 +72,8 @@
 
 
 
+
+
 Ragazzi, succede un casino. Un attacco ransomware ha colpito diverse città in Texas, e la situazione è piuttosto seria. Il problema è che, a quanto pare, nessuno dei comuni interessati ha intenzione di pagare il riscatto richiesto dagli hacker. Scopriamo i dettagli.
 
 
@@ -105,6 +107,8 @@ Se si viene colpiti da un attacco ransomware, è importante isolare il sistema i
 
 ### Come posso proteggermi dagli attacchi ransomware?
 Per proteggersi dagli attacchi ransomware, è importante avere un solido piano di sicurezza informatica, aggiornare regolarmente il software, utilizzare password complesse e fare attenzione alle email e ai link sospetti.
+
+
 
 
 

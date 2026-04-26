@@ -9,6 +9,8 @@
 
 
 
+
+
 Secondo le fonti, i droni FPV (First Person View) sono droni controllati in tempo reale tramite una telecamera, offrendo all'operatore una visione immersiva dell'ambiente circostante. Questo tipo di drone è particolarmente apprezzato per il freestyle flying e le competizioni di corse.
 
 ![droni](https://www.startmag.it/wp-content/uploads/Droni-in-volo.jpg)
@@ -39,6 +41,8 @@ Per mitigare i rischi, è fondamentale seguire le normative locali, ottenere le 
 
 ### Quali sono le applicazioni dei droni FPV?
 I droni FPV trovano applicazioni in diversi settori, tra cui ispezioni di infrastrutture (ponti, torri, linee elettriche), agricoltura di precisione (monitoraggio delle colture, mappatura dei campi), sicurezza (sorveglianza, ricerca e soccorso) e fotografia/videografia aerea.
+
+
 
 
 

@@ -51,6 +51,8 @@
 
 
 
+
+
 Il panorama delle startup in India è uno spettacolo di energia, innovazione e sviluppo. Da piccole impresa a giganti globali, queste imprese sono al centro dell'osservazione, con un'importante presenza sia nella scena tecnologica che nel mondo del corpo e del movimento.
 
 
@@ -104,6 +106,8 @@ Las startups más comunes están en sectores como fintech, e-commerce, salud, ed
 
 ### ¿Cómo puede el gobierno indio apoyar mejor el ecosistema startup?
 El gobierno puede apoyar mejor el ecosismo startup a través de incentivos fiscales, programas de financiación, políticas favorables a la innovación y la simplificación de los procesos regulatorios.
+
+
 
 
 

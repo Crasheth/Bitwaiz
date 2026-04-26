@@ -3,6 +3,8 @@
 > La semplicità è la massima sofisticazione. — Leonardo da Vinci.
 
 
+
+
 Secondo le fonti, l'apertura ISO è un parametro che indica la sensibilità del sensore di un'immagine alla luce. Un ISO più alto rende il sensore più sensibile, ma può anche introdurre più rumore nell'immagine. La fotografia con smartphone utilizza l'ISO per adattarsi a diverse condizioni di illuminazione, ma è importante gestirlo con attenzione per evitare artefatti indesiderati.
 
 ## Nota 1: Come posso migliorare la composizione delle mie foto con uno smartphone
@@ -35,6 +37,8 @@ Puoi migliorare i colori nelle tue foto usando un'app di editing fotografico. Qu
 
 ### Qual è la risoluzione migliore per le foto che scatto con il mio smartphone?
 La risoluzione migliore per le foto che scatti con il tuo smartphone è quella massima che offre il tuo telefono. Questo ti garantirà le foto più dettagliate e offre maggiore flessibilità per la stampa o la modifica.
+
+
 
 
 
