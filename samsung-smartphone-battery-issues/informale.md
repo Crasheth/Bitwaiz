@@ -53,6 +53,8 @@
 
 
 
+
+
 La data di lancio del Samsung Galaxy (2009) è stata il 6 giugno 2009, inizialmente in Europa, con una successiva espansione in altri mercati.
 ## Nota 1: Quali erano le principali caratteristiche tecniche del Samsung Galaxy...
 Il Samsung Galaxy (2009) includeva un display AMOLED da 3.2 pollici, un processore Qualcomm Snapdragon, una fotocamera da 5 megapixel, connettività HSPA+ e l'accesso all'ecosistema Google, tra cui Search, Maps, YouTube e Gmail.
@@ -80,6 +82,8 @@ Il Samsung Galaxy (2009) includeva applicazioni preinstallate come Google Maps, 
 ### Qual è stata la risposta del mercato al lancio del Samsung Galaxy (2009)?
 
 Il Samsung Galaxy (2009) ha incontrato un buon successo di mercato, contribuendo a stimolare la concorrenza nel settore degli smartphone e a diffondere l'ecosistema Android.
+
+
 
 
 

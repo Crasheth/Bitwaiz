@@ -36,6 +36,8 @@
 
 
 
+
+
 Un attacco DDoS (Distributed Denial of Service) è come un'inondazione di richieste a un sito web, sovraccaricandolo e rendendolo inaccessibile agli utenti legittimi. Gli attaccanti utilizzano spesso un'armata di computer infettati (bot) per lanciare questo attacco.
 
 ## Nota 1: Cosa significa "allucinazione" in ambito AI
@@ -69,6 +71,8 @@ La protezione include l'implementazione di soluzioni di mitigazione DDoS, come s
 
 ### Qual è il ruolo del backup air-gapped?
 Un backup air-gapped è un backup che non è connesso alla rete principale, fornendo una protezione aggiuntiva in caso di attacco informatico.
+
+
 
 
 

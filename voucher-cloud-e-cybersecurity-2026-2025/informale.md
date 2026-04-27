@@ -10,6 +10,8 @@
 
 
 
+
+
 Ragazzi, sentatevi che vi racconto una cosa seria. Il mondo digitale è diventato un casino, e non nel senso divertente. Con l'intelligenza artificiale che fa danni a gogò e le fake news che spopolano, il rischio di fare un disastro è altissimo. Se non ci si mette in guardia, si finisce per essere vittima di attacchi, furti di dati o, peggio, di essere manipolati. Ma non temete, con un po' di attenzione, si può evitare il peggio.
 
 
@@ -56,6 +58,8 @@ I partecipanti potranno acquisire conoscenze approfondite, fare networking con e
 
 ### Dove si terrà il summit?
 Il Cybersecurity Summit 2026 si terrà a Monaco di Baviera, Germania.
+
+
 
 
 

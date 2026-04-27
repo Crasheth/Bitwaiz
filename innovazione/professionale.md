@@ -27,6 +27,8 @@
 
 
 
+
+
 Questo articolo fornisce una panoramica di Friuli Innovazione, ora rinominata TEC4I FVG, un consorzio che supporta la ricerca, il trasferimento tecnologico e l’innovazione aziendale nella regione Friuli Venezia Giulia. Esploreremo le sue origini, il suo ruolo nel promuovere l’ecosistema tecnologico locale e le principali attività che svolge. Il focus è su un’analisi professionale per stakeholder e decisori.
 
 ![innovazione](https://img.esg360.it/wp-content/uploads/2023/09/19124445/innovazione-sostenibile.jpg)
@@ -70,6 +72,8 @@ Supportano un'ampia gamma di settori, tra cui l'automotive, l'energia, l'ambient
 ### Dove si trova la sede di TEC4I FVG?
 
 La sede principale è situata a Udine, Friuli Venezia Giulia, Italia.
+
+
 
 
 

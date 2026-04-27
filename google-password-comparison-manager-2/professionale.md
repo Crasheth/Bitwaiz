@@ -3,6 +3,8 @@
 > L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
 
 
+
+
 ![google password](https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/10/google-account-change-password.jpg)
 
 Secondo le fonti, un password manager è uno strumento che genera, memorizza e gestisce password complesse per vari account online. Utilizzarlo aiuta a migliorare la sicurezza, evitando password riutilizzate e semplificando l’accesso ai servizi.
@@ -40,6 +42,8 @@ Google Password Manager sincronizza automaticamente le tue password su tutti i t
 ### Il Brave Password Manager è gratuito?
 
 Sì, Brave Password Manager è completamente gratuito e open-source.
+
+
 
 
 

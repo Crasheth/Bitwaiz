@@ -6,6 +6,8 @@
 
 
 
+
+
 Allora, senti, se anche tu hai un telefono che scatta foto decenti (e ammettiamolo, quasi tutti ce l’hanno), probabilmente ti sei ritrovato a fare foto che sembrano... beh, foto fatte con un telefono. Ma non preoccuparti, non serve un obiettivo Leica per fare delle belle immagini. Questo articolo ti spiega come tirare fuori il meglio dal tuo smartphone, senza diventare un esperto di fotografia in un giorno.
 
 
@@ -48,6 +50,8 @@ Puoi migliorare i colori nelle tue foto usando un’app di editing fotografico. 
 
 ### Qual è la risoluzione migliore per le foto che scatto con il mio smartphone?
 La risoluzione migliore per le foto che scatti con il tuo smartphone è quella massima che offre il tuo telefono. Questo ti garantirà le foto più dettagliate e offre maggiore flessibilità per la stampa o la modifica.
+
+
 
 
 
