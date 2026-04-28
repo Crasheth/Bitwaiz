@@ -25,6 +25,8 @@
 
 
 
+
+
 Lo spear phishing, o phishing mirato, rappresenta una delle minacce più insidiose nel panorama della sicurezza informatica. Non si tratta più di messaggi generici e indiscriminati, ma di attacchi altamente personalizzati che sfruttano la nostra psicologia e la nostra tendenza a fidarci di chi ci sembra familiare. Comprendere il meccanismo di questo fenomeno, analizzando sia gli aspetti tecnici che quelli comportamentali, è fondamentale per sviluppare strategie di difesa efficaci. In questo articolo, esploreremo le diverse tecniche utilizzate dagli attaccanti, l’impatto di questi attacchi e le misure che possiamo adottare per proteggerci. Il focus sarà sulla natura del movimento – il flusso di informazioni e l’azione dell’attaccante – e sulla costruzione del “corpo” dell’inganno, ovvero la credibilità dell’attacco.
 
 Lo spear phishing si distingue dal phishing tradizionale per la sua precisione. Invece di inviare messaggi a un vasto pubblico, gli attaccanti conducono una ricerca approfondita sulle loro vittime, raccogliendo informazioni da fonti pubbliche, social media, siti web aziendali e persino da dati compromessi in violazioni di dati precedenti. Questa informazione viene poi utilizzata per creare messaggi di phishing che sembrano provenire da fonti legittime, aumentando notevolmente le probabilità di successo dell’attacco. La personalizzazione non è solo un dettaglio, ma il fulcro dell’intera strategia.
@@ -99,6 +101,8 @@ Le tecniche più comuni utilizzate dagli attaccanti nello spear phishing includo
 ## Come posso segnalare un attacco di spear phishing?
 
 Puoi segnalare un attacco di spear phishing alle autorità competenti, come la polizia postale o il CERT (Centro Operativo Regionale) della tua regione.
+
+
 
 
 

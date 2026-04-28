@@ -4,6 +4,8 @@
 
 
 
+
+
 La sicurezza delle navi e delle operazioni marittime è un campo in continua evoluzione, influenzato da nuove minacce e dalla necessità di una sorveglianza sempre più efficiente. Elettronica, azienda italiana leader nella progettazione e realizzazione di sistemi elettronici per applicazioni navali, è in prima linea in questa trasformazione, offrendo soluzioni avanzate per la protezione e il controllo.
 
 ![elettronica di base](https://fablabparma.org/wp-content/uploads/2017/01/elettronica-e-arduino-1024x375.png)
@@ -68,6 +70,8 @@ Per presentare i suoi prodotti e tecnologie alle navi e alle aziende navali.
 
 ### Quali sono le nuove Elettronica per le navi?
 Elettronica sta sviluppando nuovi radar e sistemi di comunicazione per le navi, con un focus sull'innovazione e sulle prestazioni.
+
+
 
 
 

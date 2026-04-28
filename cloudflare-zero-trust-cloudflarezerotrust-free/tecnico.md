@@ -14,6 +14,8 @@
 
 
 
+
+
 Cloudflare Zero Trust è un framework di sicurezza che rivoluziona il modo in cui proteggiamo le applicazioni e i dati. Abbandona i tradizionali modelli di firewall basati sullo spazio dei confini, adottando un approccio basato sul principio di "fiducia zero", dove ogni richiesta di accesso viene verificata e autorizzata, indipendentemente dalla posizione dell'utente o del dispositivo. Questo modello, supportato da una vasta rete globale di Cloudflare, offre una protezione avanzata contro le minacce sempre più sofisticate.
 
 ![cloudflare zero trust](https://www.bleepstatic.com/images/news/u/1220909/Diagrams/Cloudflare_Zero_Trust_graphic_-_light_blue_bg.png)
@@ -34,6 +36,8 @@ Cloudflare Zero Trust protegge le applicazioni web bloccando gli attacchi DDoS, 
 
 ### Cloudflare Zero Trust è complesso da implementare?
 Cloudflare semplifica l'implementazione del Zero Trust fornendo un servizio gestito. Gli utenti possono sfruttare i vantaggi del Zero Trust senza dover gestire l'infrastruttura sottostante.
+
+
 
 
 

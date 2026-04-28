@@ -3,6 +3,8 @@
 > Tutto ciò che può essere digitalizzato verrà digitalizzato. — Nicholas Negroponte.
 
 
+
+
 Il "cloud" è semplicemente un insieme di server remoti, gestiti da aziende specializzate, che forniscono risorse di calcolo, storage e applicazioni.
 
 ## Nota 1: Perché usare il cloud invece di un computer tradizionale
@@ -63,6 +65,8 @@ La migrazione può essere eseguita attraverso diversi approcci, tra cui la migra
 ### Cosa significa "vendor lock-in" nel cloud computing?
 
 Il "vendor lock-in" si riferisce alla dipendenza da un singolo fornitore di servizi cloud, rendendo difficile e costoso il passaggio a un altro fornitore.
+
+
 
 
 

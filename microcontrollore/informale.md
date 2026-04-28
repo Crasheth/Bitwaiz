@@ -27,6 +27,8 @@
 
 
 
+
+
 Se ti sei mai chiesto come fanno i tuoi smartphone, automobili o robot a fare cose incredibili, la risposta potrebbe essere un piccolo chip chiamato microcontrollore. Non preoccuparti, non è magia, ma ingegneria! In questo articolo, ti spiegheremo cos’è un microcontrollore, perché sono così importanti e perché a volte ti sembra di essere in una specie di film di fantascienza.
 
 
@@ -58,6 +60,8 @@ Un microcontrollore è un sistema completo su un singolo chip, contenente un cor
 
 ### Quali sono le applicazioni più comuni dei microcontrollori?
 I microcontrollori sono utilizzati in una vasta gamma di applicazioni, tra cui sistemi di controllo industriale, robotica, automazione domestica, dispositivi medici, elettronica di consumo e IoT.
+
+
 
 
 

@@ -24,6 +24,8 @@
 
 
 
+
+
 Secondo Fortinet, lo spear phishing è una tecnica di ingegneria sociale mirata che sfrutta informazioni specifiche su un individuo o un'organizzazione per creare email o messaggi di phishing più convincenti. Questo approccio personalizzato aumenta significativamente il tasso di successo di questi attacchi. [Spear phishing](https://en.wikipedia.org/wiki/Spear_phishing)
 
 ## Nota 1: Quali sono le tattiche comuni dello spear phishing
@@ -60,6 +62,8 @@ Le tecniche più comuni utilizzate dagli attaccanti nello spear phishing includo
 ## Come posso segnalare un attacco di spear phishing?
 
 Puoi segnalare un attacco di spear phishing alle autorità competenti, come la polizia postale o il CERT (Centro Operativo Regionale) della tua regione.
+
+
 
 
 

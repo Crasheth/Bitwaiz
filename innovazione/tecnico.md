@@ -28,6 +28,8 @@
 
 
 
+
+
 Un attacco alla supply chain per i CI si verifica quando un aggressore compromette il processo di produzione o distribuzione di un CI, inserendo malware o vulnerabilità nel chip stesso.
 
 ## Nota 1: Quali sono i tipi di vulnerabilità nei CI
@@ -63,6 +65,8 @@ Supportano un'ampia gamma di settori, tra cui l'automotive, l'energia, l'ambient
 ### Dove si trova la sede di TEC4I FVG?
 
 La sede principale è situata a Udine, Friuli Venezia Giulia, Italia.
+
+
 
 
 

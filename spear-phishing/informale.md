@@ -24,6 +24,8 @@
 
 
 
+
+
 Il phishing è una tecnica di ingegneria sociale in cui i criminali informatici si travestono da entità affidabili (banche, aziende, servizi online) per indurti a rivelare informazioni personali come password, numeri di carta di credito o dati sensibili.
 
 ![spear phishing](https://www.itarian.com/blog/wp-content/uploads/2025/06/what-is-spear-phishing-attack.png)
@@ -63,6 +65,8 @@ Le tecniche più comuni utilizzate dagli attaccanti nello spear phishing includo
 ## Come posso segnalare un attacco di spear phishing?
 
 Puoi segnalare un attacco di spear phishing alle autorità competenti, come la polizia postale o il CERT (Centro Operativo Regionale) della tua regione.
+
+
 
 
 

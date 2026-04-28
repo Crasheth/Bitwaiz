@@ -3,6 +3,8 @@
 > Tutto ciò che può essere digitalizzato verrà digitalizzato. — Nicholas Negroponte.
 
 
+
+
 Il cloud computing è un modello di fornitura di servizi informatici—ad esempio, server, storage, database, software, reti, analisi e intelligence—l'utilizzo di Internet. Invece di possedere e gestire le proprie infrastrutture IT, le aziende possono accedere a queste risorse tramite Internet, pagando solo per ciò che usano.
 
 ## Nota 1: Quali sono i diversi tipi di cloud computing
@@ -75,6 +77,8 @@ La migrazione può essere eseguita attraverso diversi approcci, tra cui la migra
 ### Cosa significa "vendor lock-in" nel cloud computing?
 
 Il "vendor lock-in" si riferisce alla dipendenza da un singolo fornitore di servizi cloud, rendendo difficile e costoso il passaggio a un altro fornitore.
+
+
 
 
 

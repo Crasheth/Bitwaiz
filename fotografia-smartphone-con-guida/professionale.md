@@ -7,6 +7,8 @@
 
 
 
+
+
 Secondo le fonti, la modalità HDR (High Dynamic Range) in una fotocamera smartphone combina più scatti con diverse esposizioni per catturare una gamma dinamica più ampia di colori e dettagli, sia nelle aree chiare che in quelle scure dell'immagine. Questo risulta particolarmente utile in condizioni di illuminazione contrastata.
 
 ## Nota 1: Qual è l'importanza della composizione fotografica
@@ -40,6 +42,8 @@ Puoi migliorare i colori nelle tue foto usando un'app di editing fotografico. Qu
 
 ### Qual è la risoluzione migliore per le foto che scatto con il mio smartphone?
 La risoluzione migliore per le foto che scatti con il tuo smartphone è quella massima che offre il tuo telefono. Questo ti garantirà le foto più dettagliate e offre maggiore flessibilità per la stampa o la modifica.
+
+
 
 
 

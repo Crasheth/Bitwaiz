@@ -13,6 +13,8 @@
 
 
 
+
+
 "FPV" è un acronimo usato nel mondo dei droni. Significa "First Person View", ovvero la possibilità di vedere il mondo attraverso la telecamera del drone in tempo reale, proprio come se fossi seduto al suo interno. Questo permette al pilota di avere un controllo più preciso e immersivo.
 
 ## Nota 1: Quali sono i requisiti per pilotare un drone
@@ -44,6 +46,8 @@ Per mitigare i rischi, è fondamentale seguire le normative locali, ottenere le 
 
 ### Quali sono le applicazioni dei droni FPV?
 I droni FPV trovano applicazioni in diversi settori, tra cui ispezioni di infrastrutture (ponti, torri, linee elettriche), agricoltura di precisione (monitoraggio delle colture, mappatura dei campi), sicurezza (sorveglianza, ricerca e soccorso) e fotografia/videografia aerea.
+
+
 
 
 

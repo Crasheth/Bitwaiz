@@ -14,6 +14,8 @@
 
 
 
+
+
 Ok, quindi ti interessa il mondo dei droni FPV? Non ti preoccupare, è un po' come entrare in un club segreto fatto di elettronica, acrobazie e, diciamolo, un pizzico di rischio. Ma prima di lanciarti a capofitto, cerchiamo di capire di cosa si tratta e perché tutti ne parlano. In pratica, i droni FPV (FPV sta per "First Person View") sono droni controllati da remoto con una telecamera che ti permette di vedere il mondo esattamente come lo vede il drone. È un po' come guidare una macchina da corsa, ma con un drone.
 
 
@@ -32,6 +34,8 @@ Per mitigare i rischi, è fondamentale seguire le normative locali, ottenere le 
 
 ### Quali sono le applicazioni dei droni FPV?
 I droni FPV trovano applicazioni in diversi settori, tra cui ispezioni di infrastrutture (ponti, torri, linee elettriche), agricoltura di precisione (monitoraggio delle colture, mappatura dei campi), sicurezza (sorveglianza, ricerca e soccorso) e fotografia/videografia aerea.
+
+
 
 
 

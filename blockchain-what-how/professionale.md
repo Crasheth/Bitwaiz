@@ -9,6 +9,8 @@
 
 
 
+
+
 Secondo Britannica Money, una blockchain è un registro digitale distribuito che registra le transazioni in modo sicuro e trasparente. Ogni transazione è raggruppata in un "blocco" che viene collegato al blocco precedente, formando una "catena" di blocchi. Questa struttura rende la blockchain estremamente resistente alla manomissione.
 
 ## Nota 1: Quali sono i componenti principali di una blockchain
@@ -46,6 +48,8 @@ La decentralizzazione offre numerosi vantaggi, tra cui maggiore sicurezza, resil
 ### Come la blockchain può essere utilizzata nella gestione della supply chain?
 
 La blockchain può essere utilizzata per tracciare i prodotti lungo l'intera supply chain, fornendo informazioni dettagliate sulla loro origine, movimento e condizioni di conservazione. Questo aumenta la trasparenza, la tracciabilità e l'autenticità dei prodotti, riducendo il rischio di contraffazione e frodi.
+
+
 
 
 

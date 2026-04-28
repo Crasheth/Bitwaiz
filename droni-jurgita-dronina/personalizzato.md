@@ -13,6 +13,8 @@
 
 
 
+
+
 Le normative sull'utilizzo dei droni variano a seconda del paese e della regione. In generale, le normative stabiliscono regole per quanto riguarda l'altezza massima di volo, la distanza minima da persone e proprietà, le aree in cui il volo è vietato e la necessità di ottenere autorizzazioni o licenze. È fondamentale informarsi sulle normative specifiche del luogo in cui si opera e rispettarle scrupolosamente.
 
 ## Nota 1: Quali sono i costi associati all'acquisto e all'utilizzo di un drone
@@ -49,6 +51,8 @@ Per mitigare i rischi, è fondamentale seguire le normative locali, ottenere le 
 
 ### Quali sono le applicazioni dei droni FPV?
 I droni FPV trovano applicazioni in diversi settori, tra cui ispezioni di infrastrutture (ponti, torri, linee elettriche), agricoltura di precisione (monitoraggio delle colture, mappatura dei campi), sicurezza (sorveglianza, ricerca e soccorso) e fotografia/videografia aerea.
+
+
 
 
 

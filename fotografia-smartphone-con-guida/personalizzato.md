@@ -8,6 +8,8 @@
 
 
 
+
+
 La fotografia con smartphone è diventata un'arte accessibile a tutti, un modo immediato per catturare momenti preziosi e condividere la propria visione del mondo. Ma al di là della semplice funzionalità, esiste una tecnica e una sensibilità che possono trasformare una foto scattata distrattamente in un'opera d'arte. Questo articolo esplora le fondamenta della fotografia con smartphone, concentrandosi non solo sugli aspetti tecnici, ma anche sulla comprensione del movimento, della composizione e del ruolo del corpo nel processo creativo. Impareremo a sfruttare al meglio gli strumenti a nostra disposizione per raccontare storie visive autentiche e significative.
 
 ![fotografia smartphone](https://fotografiaartistica.it/wp-content/uploads/2025/03/guida-fotografia-foto-smartphone-cellulare-come-fare-trucchi-tecniche-696x464.jpg)
@@ -54,6 +56,8 @@ Puoi migliorare i colori nelle tue foto usando un'app di editing fotografico. Qu
 
 ### Qual è la risoluzione migliore per le foto che scatto con il mio smartphone?
 La risoluzione migliore per le foto che scatti con il tuo smartphone è quella massima che offre il tuo telefono. Questo ti garantirà le foto più dettagliate e offre maggiore flessibilità per la stampa o la modifica.
+
+
 
 
 
