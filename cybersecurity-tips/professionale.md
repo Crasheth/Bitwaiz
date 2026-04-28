@@ -1,6 +1,9 @@
 # 5 Essential Cybersecurity Tips You’re Probably Overlooking
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
+
+
 
 
 
@@ -206,6 +209,9 @@ Secondo le fonti, la sicurezza informatica è un aspetto cruciale per individui 
 *   **Esegui Regolari Backup dei Dati:** Esegui regolarmente il backup dei tuoi dati su un dispositivo di archiviazione esterno o su un servizio di archiviazione cloud. In caso di attacco ransomware o di altra perdita di dati, i backup possono essere utilizzati per ripristinare i dati.
 
 Queste misure, insieme alle pratiche di base, contribuiscono a creare una difesa più solida contro le minacce informatiche. La consapevolezza e l’adozione di queste strategie, secondo le fonti, possono ridurre significativamente il rischio di incidenti di sicurezza.
+
+
+
 
 
 

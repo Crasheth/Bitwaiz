@@ -1,6 +1,9 @@
 # Come i Wearable Potranno Cambiare la Tua Vita
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
+
 
 
 
@@ -87,6 +90,9 @@ La durata della batteria è un fattore limitante per l'utilizzo dei WCD. L'ottim
 
 ### Come vengono gestiti i dati raccolti dai WCD?
 I dati raccolti dai WCD vengono trasmessi a un centro di monitoraggio o a un medico per l'analisi e la gestione del paziente. È fondamentale garantire la sicurezza e la privacy di questi dati, implementando protocolli di accesso controllati e crittografia dei dati.
+
+
+
 
 
 

@@ -1,6 +1,9 @@
 # Cybersecurity: 5 consigli che probabilmente ti stai perdendo
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
+
+
 
 
 
@@ -208,6 +211,9 @@ Ok team, parliamo di cybersecurity. Tutti sappiamo che il panorama digitale camb
 Questi sono solo alcuni suggerimenti di base, ma possono fare una grande differenza nella tua sicurezza online. Ricorda, la sicurezza non è qualcosa che fai una volta sola, ma un processo continuo.
 
 Per approfondire, ecco alcune risorse utili:
+
+
+
 
 
 

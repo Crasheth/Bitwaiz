@@ -1,6 +1,9 @@
 # Edge Computing: Il Flusso del Tao dei Dati
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
+
 
 
 
@@ -221,6 +224,9 @@ L'applicazione di edge computing si estende a una vasta gamma di settori, dall'a
 
 
 ![edge computing](https://lh4.googleusercontent.com/hJjupTvL1O7AanqsJFLpkVFYmDdEjYnUfYwQtM4xWfWgeIYpZcYwyWuDciOygaDqlJNwqeHi8tHlAEWezqUaEmB8ZOHzxms_26cp9A223aVnTOOc3oZVkMxU0nNKiyqvfIxDbsHU)
+
+
+
 
 
 

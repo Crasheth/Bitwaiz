@@ -1,6 +1,9 @@
 # Italia: Rafforzare la Resilienza Cibernetica Attraverso un Approccio Multidimensionale
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
+
+
 
 
 
@@ -211,6 +214,9 @@ Secondo rapporti come il 2023 CyberEdge report, il numero di attacchi subiti dal
 L'Italia, in linea con le normative GDPR, è un punto focale per discussioni e implementazioni nel campo della cybersecurity. L'ItaliaSec Cyber Summit, in programma a Milano, si propone di accelerare questo processo, favorendo lo scambio di conoscenze e la collaborazione tra esperti e leader del settore.
 
 ![cybersecurity italia](https://www.cybersecitalia.events/cybersec2026/wp-content/uploads/2025/10/Locandina-CyberSEC2026-1920x1080-1.jpg)
+
+
+
 
 
 

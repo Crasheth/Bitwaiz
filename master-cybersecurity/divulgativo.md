@@ -1,6 +1,9 @@
 # Master in Cybersecurity: Guida Completa (2026)
 
-> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
+
 
 
 
@@ -80,6 +83,9 @@ Le certificazioni come CISSP, CISM, CEH e CompTIA Security+ sono altamente valor
 
 ### Come un master in cybersecurity prepara a una carriera nella threat hunting?
 I programmi di master in cybersecurity forniscono le competenze necessarie per la threat hunting, tra cui l'analisi dei log, l'identificazione di anomalie e l'utilizzo di strumenti di intelligence sulle minacce per individuare attività dannose all'interno di una rete.
+
+
+
 
 
 

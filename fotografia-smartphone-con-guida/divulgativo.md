@@ -1,6 +1,9 @@
 # La fotografia con lo smartphone è diventata un’arte accessibile a tutti. Prima, la qualità dell’immagine dipendeva da macchine fotografiche costose e complicate. Oggi, con un po’ di conoscenza e pratica, chiunque può catturare momenti indimenticabili. Questo articolo ti guiderà attraverso i concetti fondamentali, offrendoti 15 consigli pratici per migliorare le tue foto e sfruttare al massimo il potenziale del tuo smartphone. Imparerai a vedere il mondo con occhi da fotografo e a trasformare le tue immagini in vere opere d’arte.
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
+
 
 
 
@@ -66,6 +69,9 @@ Puoi migliorare i colori nelle tue foto usando un'app di editing fotografico. Qu
 
 ### Qual è la risoluzione migliore per le foto che scatto con il mio smartphone?
 La risoluzione migliore per le foto che scatti con il tuo smartphone è quella massima che offre il tuo telefono. Questo ti garantirà le foto più dettagliate e offre maggiore flessibilità per la stampa o la modifica.
+
+
+
 
 
 

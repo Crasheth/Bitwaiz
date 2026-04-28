@@ -1,6 +1,9 @@
 # Introduzione
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
+
+
 
 
 
@@ -97,6 +100,9 @@ Risposta: Puoi testare un chatbot ponendogli domande di vario tipo, sia semplici
 
 Risposta: Un chatbot basato su regole segue un insieme predefinito di regole e risposte, mentre uno basato sull'IA utilizza l'intelligenza artificiale e il machine learning per comprendere il linguaggio naturale e generare risposte più realistiche. I chatbot basati sull'IA sono più flessibili e possono gestire conversazioni complesse.
 ## Vedi anche
+
+
+
 
 
 

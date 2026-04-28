@@ -1,6 +1,9 @@
 # Soundbar LG: un’esperienza sonora immersiva per il tuo TV
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
+
 
 
 
@@ -109,6 +112,9 @@ Risposta: Le soundbar LG sono progettate specificamente per funzionare con i TV 
 
 ### Posso collegare la soundbar LG al mio sistema audio esistente?
 Risposta: Alcuni modelli di soundbar LG supportano la connessione a sistemi audio esterni tramite HDMI ARC o Bluetooth, permettendoti di condividere l'audio con altri dispositivi.
+
+
+
 
 
 

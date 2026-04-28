@@ -1,6 +1,9 @@
 # Samsung: Costruire il Futuro, Un Pixel alla Volta
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
+
 
 
 
@@ -196,6 +199,9 @@ Samsung Electronics sta adottando misure per ridurre il suo impatto ambientale, 
 ### Quali sono i principali concorrenti di Samsung Electronics?
 
 I principali concorrenti di Samsung Electronics includono Apple, Huawei e Xiaomi.
+
+
+
 
 
 

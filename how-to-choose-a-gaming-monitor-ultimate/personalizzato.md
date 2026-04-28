@@ -1,6 +1,9 @@
 # Come scegliere un monitor per il gioco: l'arte dell'impostazione tecnica e la natura del cambiamento
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
+
 
 
 
@@ -108,6 +111,9 @@ Dipende dalle tue preferenze e dal tuo budget. I pannelli IPS sono ideali per la
 ### Cosa sono FreeSync e G-Sync?
 
 FreeSync e G-Sync sono tecnologie che sincronizzano il refresh rate del monitor con la frequenza di aggiornamento della scheda grafica, eliminando il tearing e il stuttering.
+
+
+
 
 
 

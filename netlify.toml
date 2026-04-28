@@ -18,7 +18,228 @@
   [headers.values]
     Content-Type = "application/xml; charset=UTF-8"
 
+# HTML: evita che CDN/browser servino pagine obsolete dopo un deploy (home + articoli in sottocartelle)
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+[[headers]]
+  for = "/*/*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
 [[redirects]]
   from = "/webhooks/buymeacoffee"
   to = "/.netlify/functions/bmc-webhook"
   status = 200
+
+# Redirect SEO: consolidamento pagine duplicate/sovrapposte
+[[redirects]]
+  from = "/anti-malware/"
+  to = "/anti-malware-antivirus-software/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/chatbot/"
+  to = "/chatbot-build-your/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/cloud-computing-che-cos/"
+  to = "/cloud-computing/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/cloud-computing-cloud-computing-2/"
+  to = "/cloud-computing/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/cloud-computing-what-ibm/"
+  to = "/cloud-computing/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/cloudflare-zero-trust-cloudflarezerotrust-free/"
+  to = "/cloudflare-zero-trust/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/corso-cybersecurity/"
+  to = "/cybersecurity-corso/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/cyber-security-cyber-security/"
+  to = "/cyber-security/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/cyber-security-cyber-security-2/"
+  to = "/cyber-security/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/cybersecurity-italia-cybersecurityitalia/"
+  to = "/cybersecurity-italia/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/cybersecurity-italia-made-italy/"
+  to = "/cybersecurity-italia/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/cybersecurity-tips-cyber-security/"
+  to = "/cybersecurity-tips/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/cybersecurity-tips-cyber-security-2/"
+  to = "/cybersecurity-tips/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/drone/"
+  to = "/droni-jurgita-dronina/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/droni/"
+  to = "/droni-jurgita-dronina/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/fotografia-smartphone/"
+  to = "/fotografia-smartphone-con-guida/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/google-password-comparison-manager-2/"
+  to = "/google-password-comparison-manager/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/google-password-google-password/"
+  to = "/google-password/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/how-to-choose-a-gaming-monitor/"
+  to = "/how-to-choose-a-gaming-monitor-ultimate/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/intelligenza-artificiale-gratis-intelligenza-artificiale/"
+  to = "/intelligenza-artificiale-gratis/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/intelligenza-artificiale-gratis-intelligenza-artificiale-2/"
+  to = "/intelligenza-artificiale-gratis/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/intelligenza-artificiale-gratis-migliori-2/"
+  to = "/intelligenza-artificiale-gratis-migliori/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/intelligenza-artificiale-intelligenza-artificiale/"
+  to = "/intelligenza-artificiale/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/intelligenza-artificiale-intelligenza-artificiale-2/"
+  to = "/intelligenza-artificiale/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/miglior-stampante-3d/"
+  to = "/stampante-3d/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/oppo-smartphone/"
+  to = "/oppo-smartphone-installing-google/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/progetti-iot-internet-cose/"
+  to = "/progetti-iot/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/ransomware-cosa-è/"
+  to = "/ransomware/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/ransomware-significato/"
+  to = "/ransomware/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/reset-password-self-service/"
+  to = "/reset-password/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/robot-multifunzione/"
+  to = "/robot/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/stampa-3d/"
+  to = "/stampante-3d/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/startup-tech/"
+  to = "/startup-tech-ecosystem-india/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/voucher-cloud-e-cybersecurity-2026-2025/"
+  to = "/voucher-cloud-e-cybersecurity-2026/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/voucher-cloud-e-cybersecurity-2026-v1000/"
+  to = "/voucher-cloud-e-cybersecurity-2026/"
+  status = 301
+  force = true
