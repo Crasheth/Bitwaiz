@@ -45,6 +45,8 @@
 
 
 
+
+
 Ma che succede se il tuo registro elettronico, quello che usi per fare la scuola, si blocca all'improvviso? Succede, e sembra che a molti studenti e insegnanti di tutta Italia sia capitato. Un attacco informatico ha messo ko la piattaforma Axios, bloccando l'accesso a compiti, voti e comunicazioni. Non è il momento ideale per un imprevisto del genere, ma vediamo cosa è successo e come si può risolvere.
 
 
@@ -66,6 +68,8 @@ La protezione include l'implementazione di soluzioni di mitigazione DDoS, come s
 
 ### Qual è il ruolo del backup air-gapped?
 Un backup air-gapped è un backup che non è connesso alla rete principale, fornendo una protezione aggiuntiva in caso di attacco informatico.
+
+
 
 
 

@@ -9,6 +9,8 @@
 
 
 
+
+
 Elettronica presenta nuove soluzioni per l’elettronica per sistemi di guerra elettronica (EW) navali, focalizzate sull’integrazione di tecnologie avanzate per migliorare le capacità di difesa. L’azienda, con una solida esperienza nel settore navale, offre suite complete di sistemi EW, che includono radar, comunicazioni e sistemi di guerra elettronica. Questi sistemi sono progettati per affrontare le minacce emergenti, come droni, missili anti-nave e altre minacce aeree e marittime. L’azienda si concentra sull’innovazione e sulla collaborazione con i propri clienti per fornire soluzioni EW personalizzate che soddisfano le loro esigenze specifiche.
 
 L’azienda si concentra sull’innovazione e sulla collaborazione con i propri clienti per fornire soluzioni EW personalizzate che soddisfano le loro esigenze specifiche.
@@ -46,6 +48,8 @@ Per presentare i suoi prodotti e tecnologie alle navi e alle aziende navali.
 Elettronica sta sviluppando nuovi radar e sistemi di comunicazione per le navi, con un focus sull’innovazione e sulle prestazioni.
 
 ![elettronica di base](https://fablabparma.org/wp-content/uploads/2017/01/elettronica-e-arduino-1024x375.png)
+
+
 
 
 

@@ -1,6 +1,8 @@
 # segitiga # Razer BlackWidow V4 Pro: La Tastiera Meccanica che Trasforma il Tuo Gameplay
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -82,6 +84,8 @@ Non esiste una "migliore" tastiera gaming, dipende dalle tue esigenze e dal tuo 
 *   [Le migliori tastiere da gaming per dominare contro qualunque avversario | Wired Italia](https://www.wired.it/migliori-tastiere-gaming/)
 *   [Tastiere gaming: Prezzi e Offerte online su Comet](https://www.comet.it/console-e-games/pc-games/tastiere-gaming)
 *   [16 Migliori tastiere gaming meccaniche inverno [Guida]](https://gamersarsenal.it/tastiera-gaming-migliori/)
+
+
 
 
 

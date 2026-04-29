@@ -6,6 +6,8 @@
 
 
 
+
+
 La tecnologia CoreXY è un sistema di movimentazione dei nastri che permette alla stampante di muoversi in modo più efficiente e preciso, riducendo il fenomeno di "stringing" (filamento che fuoriesce da un'estrusione) e garantendo stampe di qualità superiore.
 
 ## Nota 1: Quali filamenti posso usare con la H2D
@@ -43,6 +45,8 @@ La H2D ha un volume di stampa di 300 x 300 x 400 mm, il che ti permette di stamp
 
 *   [Stampa 3D: Guida per Principianti](https://www.arduino.cc/en/Guide/3DPrinting) - Una guida completa per chi si avvicina alla stampa 3D.
 *   [Ricerca di materiali per la stampa 3D](https://www.matterhackers.com/blog/materials-3d-printing) - Informazioni sui diversi materiali disponibili per la stampa 3D e le loro applicazioni.
+
+
 
 
 

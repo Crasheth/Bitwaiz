@@ -98,6 +98,8 @@
 
 
 
+
+
 Il 2009 è stato un anno cruciale per Samsung e per l'ecosistema Android. L'introduzione del Galaxy ha segnato l'ingresso ufficiale del colosso coreano nel mercato dei touchscreen, ma anche l'inizio di una delle crisi di fiducia più significative nella storia della tecnologia. Questo articolo ripercorre le origini di questi problemi, analizzando le cause e le conseguenze di una serie di malfunzionamenti hardware e software che hanno colpito milioni di dispositivi Galaxy. Impareremo come un'innovazione promettente si è trasformata in un disastro reputazionale, offrendo spunti preziosi sulla gestione del rischio e sulla comunicazione in ambito tecnologico.
 
 
@@ -142,6 +144,8 @@ Il nome in codice interno del Samsung Galaxy era GT-I7500. Questo nome era utili
 ## Vedi anche
 
 *   Samsung smartphone battery issues
+
+
 
 
 

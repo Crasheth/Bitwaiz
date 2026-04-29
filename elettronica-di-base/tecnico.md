@@ -8,6 +8,8 @@
 
 
 
+
+
 Secondo le fonti, i sistemi EW (Elettronica) di Elettronica proteggono le navi da una vasta gamma di minacce, tra cui missili antinave, droni, aerei da ricognizione e altre navi nemiche. La capacità di rilevare e sopprimere queste minacce consente alle navi di operare in modo più sicuro ed efficace.
 
 ## Nota 1: Come si integrano i sistemi EW di Elettronica con i sistemi d'arma delle navi?
@@ -47,6 +49,8 @@ Per presentare i suoi prodotti e tecnologie alle navi e alle aziende navali.
 Elettronica sta sviluppando nuovi radar e sistemi di comunicazione per le navi, con un focus sull'innovazione e sulle prestazioni.
 
 ![elettronica di base](https://fablabparma.org/wp-content/uploads/2017/01/elettronica-e-arduino-1024x375.png)
+
+
 
 
 

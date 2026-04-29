@@ -45,6 +45,8 @@
 
 
 
+
+
 L'attacco alla piattaforma di gestione scolastica Axios, che ha temporaneamente bloccato l'accesso a numerosi insegnanti e studenti, è un esempio lampante di come gli attacchi DDoS (Distributed Denial of Service) possano avere conseguenze significative, soprattutto in contesti ad alta intensità di dati e comunicazione. Questo articolo analizza il meccanismo di un attacco di questo tipo, le sue implicazioni e le misure difensive da implementare per mitigare il rischio.
 
 
@@ -100,6 +102,8 @@ La protezione include l'implementazione di soluzioni di mitigazione DDoS, come s
 
 ### Qual è il ruolo del backup air-gapped?
 Un backup air-gapped è un backup che non è connesso alla rete principale, fornendo una protezione aggiuntiva in caso di attacco informatico.
+
+
 
 
 

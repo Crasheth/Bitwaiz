@@ -1,6 +1,8 @@
 # Droni: Guida completa per principianti - 2026
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -49,6 +51,8 @@ Per mitigare i rischi, è fondamentale seguire le normative locali, ottenere le 
 
 ### Quali sono le applicazioni dei droni FPV?
 I droni FPV trovano applicazioni in diversi settori, tra cui ispezioni di infrastrutture (ponti, torri, linee elettriche), agricoltura di precisione (monitoraggio delle colture, mappatura dei campi), sicurezza (sorveglianza, ricerca e soccorso) e fotografia/videografia aerea.
+
+
 
 
 

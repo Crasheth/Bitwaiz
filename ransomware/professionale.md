@@ -18,6 +18,8 @@
 
 
 
+
+
 WannaCry è un tipo di malware ransomware che crittografa i file delle vittime e richiede un riscatto per la loro decrittazione. È stato diffuso attraverso una vulnerabilità del sistema operativo Windows.
 
 ## Nota 1: Qual è stata l'impatto di WannaCry
@@ -70,6 +72,8 @@ R: WannaCry ha avuto un impatto globale, colpendo la NHS nel Regno Unito, aziend
 R: Per prevenire attacchi come WannaCry, è importante mantenere aggiornati i software e i sistemi operativi, implementare robuste misure di sicurezza di rete, formare gli utenti sulla sicurezza informatica e avere un piano di risposta agli incidenti ben definito.
 
 ### Titolo (# WannaCry: Un'Analisi Approfondita del Malware Ransomware)
+
+
 
 
 

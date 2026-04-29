@@ -12,6 +12,8 @@
 
 
 
+
+
 ![sensori elettronici](https://www.telestar-automation.it/media/prod/Hall-effect-SENSORS.jpg)
 
 Un sensore è un dispositivo che converte una grandezza fisica (come la temperatura o la pressione) in un segnale elettrico. Un trasmettitore, invece, è un dispositivo che trasmette questo segnale elettrico a un altro dispositivo, come un computer o un sistema di controllo. In pratica, il sensore è il "cervello" che rileva la grandezza, mentre il trasmettitore è il "corpo" che la comunica.
@@ -49,6 +51,8 @@ Un sensore a fibra ottica utilizza la luce trasmessa attraverso una fibra ottica
 ### Quali sono le applicazioni dei sensori nell'automazione industriale?
 
 I sensori sono ampiamente utilizzati nell'automazione industriale per il controllo di processi, il monitoraggio delle macchine, la robotica e l'assemblaggio. Permettono di migliorare l'efficienza, la precisione e la sicurezza dei processi produttivi.
+
+
 
 
 

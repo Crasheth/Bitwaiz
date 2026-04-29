@@ -1,6 +1,8 @@
 # Smart Home: la casa intelligente e connessa
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+
 
 
 
@@ -232,6 +234,8 @@ Per scoprire di più sulle soluzioni Smart Home di Bticino e come possono miglio
 
 
 ![bticino smart home](https://professionisti.bticino.it/sites/default/files/2022-05/03_SMARTHOME_1.jpg)
+
+
 
 
 

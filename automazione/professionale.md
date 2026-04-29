@@ -1,6 +1,8 @@
 # Auntonazione
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> La tecnologia migliore è quella che scompare. — Mark Weiser.
+
+
 
 
 
@@ -230,6 +232,8 @@ L'automazione ha un impatto significativo su diversi settori, dalla produzione a
 
 
 ![automazione](https://www.kablator.com/wp-content/uploads/2024/03/Automazione-robotica-industriale-Kablator.png)
+
+
 
 
 

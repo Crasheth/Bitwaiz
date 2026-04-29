@@ -6,6 +6,8 @@
 
 
 
+
+
 Secondo le fonti, Bambu Lab offre diverse stampanti 3D, tra cui la serie A1 (A1 e A1 Mini) e la P2S. La H2D è una delle stampanti più avanzate, progettata per applicazioni professionali.
 
 ## Nota 1: Quali sono le caratteristiche distintive della H2D
@@ -43,6 +45,8 @@ Le stampanti Bambu Lab possono essere monitorate tramite l'app Bambu Studio, che
 
 *   [Stampa 3D: Guida per Principianti](https://www.arduino.cc/en/Guide/3DPrinting) - Una guida completa per chi si avvicina alla stampa 3D.
 *   [Ricerca di materiali per la stampa 3D](https://www.matterhackers.com/blog/materials-3d-printing) - Informazioni sui diversi materiali disponibili per la stampa 3D e le loro applicazioni.
+
+
 
 
 

@@ -19,6 +19,8 @@
 
 
 
+
+
 Il ransomware WannaCry, apparso nel maggio del 2017, ha rappresentato un attacco informatico su scala globale, mettendo a rischio infrastrutture critiche e aziende di ogni dimensione. Questo incidente non è stato solo un attacco informatico, ma un campanello d'allarme sulla vulnerabilità del nostro ecosistema digitale e sulla necessità di una maggiore consapevolezza sulla sicurezza informatica. Questo articolo esplorerà le origini, il funzionamento, l’impatto e le lezioni apprese da WannaCry, fornendo una panoramica completa di questo evento cruciale nella storia della sicurezza informatica. Comprendereemo le tecniche utilizzate, le vulnerabilità sfruttate e le misure necessarie per prevenire attacchi simili in futuro.
 
 
@@ -65,6 +67,8 @@ R: WannaCry ha avuto un impatto globale, colpendo la NHS nel Regno Unito, aziend
 R: Per prevenire attacchi come WannaCry, è importante mantenere aggiornati i software e i sistemi operativi, implementare robuste misure di sicurezza di rete, formare gli utenti sulla sicurezza informatica e avere un piano di risposta agli incidenti ben definito.
 
 ### Titolo (# WannaCry: Un'Analisi Approfondita del Malware Ransomware)
+
+
 
 
 

@@ -1,6 +1,8 @@
 # Innovazione: Guida Completa per Comprendere il Futuro (2026)
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -76,6 +78,8 @@ Supportano un'ampia gamma di settori, tra cui l'automotive, l'energia, l'ambient
 ### Dove si trova la sede di TEC4I FVG?
 
 La sede principale è situata a Udine, Friuli Venezia Giulia, Italia.
+
+
 
 
 

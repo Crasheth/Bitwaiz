@@ -13,6 +13,8 @@
 
 
 
+
+
 Se ti sei mai chiesto come un termostato sa quanto fa freddo, o come un sensore di movimento accende la luce, la risposta sta nei sensori. Questi piccoli dispositivi sono ovunque, trasformando dati invisibili in informazioni che usiamo ogni giorno. Ma cosa fanno esattamente e perché sono così importanti?
 
 Questo articolo ti guiderà attraverso il mondo dei sensori, spiegando come funzionano, quali tipi esistono e come vengono utilizzati in una vasta gamma di applicazioni, dalla tua casa all'industria. Imparerai a capire come questi dispositivi silenziosi stanno plasmando il nostro mondo.
@@ -77,6 +79,8 @@ Un sensore a fibra ottica utilizza la luce trasmessa attraverso una fibra ottica
 ### Quali sono le applicazioni dei sensori nell'automazione industriale?
 
 I sensori sono ampiamente utilizzati nell'automazione industriale per il controllo di processi, il monitoraggio delle macchine, la robotica e l'assemblaggio. Permettono di migliorare l'efficienza, la precisione e la sicurezza dei processi produttivi.
+
+
 
 
 

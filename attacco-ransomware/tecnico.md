@@ -1,6 +1,8 @@
 # Attacco Ransomware in Texas: Richiesto un Riscatto di 2,5 Milioni di Dollari
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -115,6 +117,8 @@ Se si viene colpiti da un attacco ransomware, è importante isolare il sistema i
 
 ### Come posso proteggermi dagli attacchi ransomware?
 Per proteggersi dagli attacchi ransomware, è importante avere un solido piano di sicurezza informatica, aggiornare regolarmente il software, utilizzare password complesse e fare attenzione alle email e ai link sospetti.
+
+
 
 
 

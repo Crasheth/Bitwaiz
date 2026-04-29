@@ -1,6 +1,8 @@
 # Monitor gaming 32 pollici
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -53,6 +55,8 @@ Il refresh rate (misurato in Hz) indica il numero di volte al secondo che il mon
 
 ### Quali funzionalità aggiuntive dovrebbero essere considerate in un monitor gaming?
 Funzionalità come FreeSync o G-Sync (tecnologie di sincronizzazione adattiva) riducono il tearing dello schermo e lo stuttering, garantendo un'esperienza di gioco fluida e stabile. Altre funzionalità includono HDMI 2.1, DisplayPort 1.4a e supporto per HDR.
+
+
 
 
 

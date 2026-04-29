@@ -9,6 +9,8 @@
 
 
 
+
+
 ## Introduzione
 
 Ehi, quindi ti capita mai di trovarti di fronte a un nuovo sistema per navi e ti chiedi chi c'è dietro? Beh, oggi parliamo di Elettronica, un'azienda italiana che sta facendo un sacco di strada nel mondo dell’elettronica per le forze armate e le navi. In pratica, producono sistemi super avanzati per radar, comunicazione e controllo, e sono stati al Salone IMDEX di Singapore per mostrare le ultime novità. Il loro obiettivo? Far vedere che sono sempre all'avanguardia, soprattutto per quanto riguarda i radar.
@@ -52,6 +54,8 @@ Elettronica sta sviluppando nuovi radar e sistemi di comunicazione per le navi, 
 
 
 ![elettronica di base](https://fablabparma.org/wp-content/uploads/2017/01/elettronica-e-arduino-1024x375.png)
+
+
 
 
 
