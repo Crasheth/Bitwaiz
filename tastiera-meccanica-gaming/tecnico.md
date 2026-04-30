@@ -1,6 +1,9 @@
 # Le migliori tastiere gaming per dominare contro qualunque
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
+
 
 
 
@@ -84,6 +87,9 @@ Dipende dal tipo di giochi che giochi. Se giochi a giochi di strategia, simulazi
 ### Qual è la tastiera gaming migliore per me?
 
 Non esiste una "migliore" tastiera gaming, dipende dalle tue esigenze e dal tuo budget. Se sei un gamer serio che cerca il massimo della performance, la Logitech G915 LIGHTSPEED è un'ottima scelta. Se hai un budget limitato, la Ducky One 3 Aura White SF Gaming è un'ottima opzione.
+
+
+
 
 
 

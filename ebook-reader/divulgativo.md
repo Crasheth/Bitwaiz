@@ -1,6 +1,9 @@
 # E-reader: La Rivoluzione della Lettura
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
+
 
 
 
@@ -126,6 +129,9 @@ La tecnologia E Ink utilizza minuscoli cristalli di pigmenti che si orientano in
 ## Vedi anche
 
 *   [E-book](https://en.wikipedia.org/wiki/E-book) - La definizione tecnica di e-book.
+
+
+
 
 
 

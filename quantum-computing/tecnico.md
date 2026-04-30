@@ -1,6 +1,9 @@
 # Computer Quantistici: Un'Introduzione
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
+
 
 
 
@@ -235,6 +238,9 @@ Nonostante il loro potenziale, i computer quantistici sono ancora in una fase di
 *   **Correzione degli Errori:** A causa della decoerenza e di altri fattori, i computer quantistici sono soggetti a errori. Sviluppare tecniche efficaci di correzione degli errori è essenziale per ottenere risultati affidabili.
 
 ## Prospettive Future
+
+
+
 
 
 

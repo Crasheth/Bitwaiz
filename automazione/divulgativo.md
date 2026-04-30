@@ -210,6 +210,9 @@
 
 
 
+
+
+
 L’automazione, in sostanza, è l’uso di sistemi e macchine per svolgere compiti che normalmente richiederebbero l’intervento umano. Non si tratta solo di robot che fanno lavori pesanti, ma di un concetto molto più ampio che permea ogni aspetto della nostra vita, dall’industria all’agricoltura, passando per la casa e l’ufficio. Immaginate un’orchestra in cui ogni strumento suona automaticamente in armonia, senza bisogno di un direttore che lo guidi costantemente: questo è l’obiettivo dell’automazione.
 
 Ecco alcuni punti chiave per capire meglio cosa significa:
@@ -223,6 +226,9 @@ L’automazione non è un concetto nuovo: le prime forme di automazione risalgon
 
 
 ![automazione](https://www.kablator.com/wp-content/uploads/2024/03/Automazione-robotica-industriale-Kablator.png)
+
+
+
 
 
 
