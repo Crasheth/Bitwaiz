@@ -1,6 +1,8 @@
 # Le Migliori App di Intelligenza Artificiale Gratuite 2026
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
+
 
 
 
@@ -132,6 +134,8 @@ Sì, assolutamente. Molte app di editing fotografico offrono funzionalità di AI
 ### Come posso creare canzoni con l'intelligenza artificiale gratuitamente?
 
 Stable Audio è uno strumento che ti permette di generare musica originale in vari stili, basandosi su prompt testuali. Puoi specificare il genere musicale, l'umore, gli strumenti e altri parametri per creare brani musicali unici.
+
+
 
 
 

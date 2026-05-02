@@ -1,6 +1,8 @@
 # Smart Home: Il Flusso del Tao nella Tua Casa Connessa
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
+
 
 
 
@@ -224,6 +226,8 @@ La tecnologia, in questo contesto, non è un fine a sé stesso, ma un mezzo per 
 
 
 ![bticino smart home](https://professionisti.bticino.it/sites/default/files/2022-05/03_SMARTHOME_1.jpg)
+
+
 
 
 
