@@ -1,6 +1,8 @@
 # Sistemi di Sorveglianza Navale: Proteggi la Tua Nave con
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -86,6 +88,8 @@ Per presentare i suoi prodotti e tecnologie alle navi e alle aziende navali.
 
 ### Quali sono le nuove Elettronica per le navi?
 Elettronica sta sviluppando nuovi radar e sistemi di comunicazione per le navi, con un focus sull'innovazione e sulle prestazioni.
+
+
 
 
 

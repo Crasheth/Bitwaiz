@@ -1,6 +1,8 @@
 # Soundbar: Analisi Tecnica per l'Audio TV
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -64,6 +66,8 @@ Considera le dimensioni della tua stanza, il tipo di contenuto che guardi (film,
 
 ### Cosa sono Dolby Atmos e DTS:X?
 Dolby Atmos e DTS:X sono formati audio immersivi che creano un'esperienza sonora tridimensionale, posizionando gli altoparlanti in diverse posizioni nella stanza per simulare un suono più realistico e coinvolgente.
+
+
 
 
 
