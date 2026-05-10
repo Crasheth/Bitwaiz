@@ -1,0 +1,38 @@
+# Verifica dell'Identità per Progetti IoT: Un Approccio Sicuro
+
+> Il cloud è solo il computer di qualcun altro. — Variante di Larry Ellison.
+
+
+
+Questo documento illustra l'importanza di implementare meccanismi di verifica dell'identità robusti per i progetti IoT, in particolare quando si gestiscono risorse universitarie come quelle offerte dalla Federazione IDEM. La crescente diffusione dei dispositivi IoT introduce nuove vulnerabilità, e garantire che l'accesso alle risorse sia effettivamente autorizzato è fondamentale per la sicurezza e l'integrità dei dati.
+
+La gestione di progetti IoT, come dimostrato dall'iniziativa dell'Università di Torino, richiede un approccio strutturato che includa controlli di accesso rigorosi. La risorsa "Gestione progetti IoT" dell'Università di Torino, ora parte della Federazione IDEM, facilita l'accesso a dispositivi IoT dislocati presso l'università. Tuttavia, l'accesso non può essere automatizzato senza una validazione dell'identità, per prevenire l'uso non autorizzato o il potenziale accesso malevolo.
+
+La verifica dell'identità, nel contesto dei progetti IoT, si concentra sulla conferma che la richiesta di accesso provenga da un'entità legittima, ovvero un utente o un sistema autorizzato. Questo processo può includere l'utilizzo di metodi di autenticazione a più fattori, l'analisi del traffico di rete e l'implementazione di controlli di accesso basati sui ruoli. L'utilizzo di piattaforme come IDEM, con il suo sistema di registrazione oggetti IoT, rappresenta un passo importante, ma non elimina la necessità di una verifica continua.
+
+
+![progetti iot](https://it.emcelettronica.com/wp-content/uploads/2024/10/IoT.jpg)
+
+## Domande frequenti
+
+### Cosa significa "Federazione IDEM"?
+La Federazione IDEM è un'infrastruttura che consente a diverse organizzazioni (in questo caso, l'Università di Torino) di condividere in modo sicuro le proprie risorse, come servizi di gestione progetti IoT. Permette a più istituzioni di accedere e collaborare su progetti comuni, riducendo la duplicazione degli sforzi e migliorando l'efficienza.
+
+### Come funziona il processo di registrazione dei dispositivi IoT tramite IDEM?
+Secondo le fonti, l'utente accede al portale [https://richieste-iot.unito.it/Shibboleth.sso/Login](https://richieste-iot.unito.it/Shibboleth.sso/Login) tramite la propria identità universitaria (Federazione IDEM). Una volta autenticato, il dispositivo IoT viene registrato e gestito all'interno del sistema.
+
+### Quali sono i vantaggi dell'utilizzo della Federazione IDEM per i progetti IoT?
+I vantaggi principali includono la centralizzazione della gestione, la semplificazione della collaborazione tra team e l'aumento della sicurezza dei dati e dei dispositivi IoT. Permette una gestione più efficiente delle risorse e riduce il rischio di errori o problemi di sicurezza.
+
+### Cosa succede se il sito web richiede una "verifica" prima di procedere?
+La verifica richiesta (come il controllo della connessione sicura su Vimeo) è una misura di sicurezza per garantire che il sito web a cui si sta tentando di accedere sia sicuro e non un tentativo di accesso non autorizzato. È un meccanismo di protezione contro potenziali minacce.
+
+### Quali tipi di dispositivi IoT possono essere gestiti tramite questa risorsa?
+La risorsa gestisce oggetti IoT dislocati presso l'Università di Torino, suggerendo un focus su dispositivi e sensori utilizzati all'interno dell'istituzione.
+
+
+
+## Fonti
+
+- [Progetti IoT](https://vimeo.com/711223207)
+- [IDEM GARR AAI - Gestione progetti IoT dell’Università di](https://www.idem.garr.it/en/federazione-idem-en/blog/818-gestione-progetti-iot-dell-universita-di-torino-in-idem)

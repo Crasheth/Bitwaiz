@@ -1,0 +1,48 @@
+# Gestire i Progetti IoT: Un Approccio Pratico
+
+> Il cloud è solo il computer di qualcun altro. — Variante di Larry Ellison.
+
+
+
+La gestione di progetti IoT (Internet of Things) può sembrare un labirinto di dispositivi, protocolli di comunicazione e requisiti di sicurezza. Immaginate di dover coordinare sensori, attuatori e piattaforme cloud, tutti con esigenze diverse e spesso in competizione tra loro. Il rischio di disallineamenti, ritardi e, peggio, vulnerabilità è alto. La Federazione IDEM, con la sua risorsa per la gestione dei progetti IoT dell’Università di Torino, offre un approccio strutturato per affrontare questa complessità.
+
+L’iniziativa, resa disponibile tramite il portale [https://richieste-iot.unito.it/Shibboleth.sso/Login](https://richieste-iot.unito.it/), si concentra sulla gestione efficiente di progetti che coinvolgono dispositivi IoT distribuiti all’interno dell’università. Il sistema, accessibile tramite la Federazione IDEM, facilita la registrazione e il monitoraggio di questi oggetti, semplificando la collaborazione tra i diversi team coinvolti. Questo non è solo un modo per evitare di perdere il filo conduttore di un progetto, ma anche per garantire che ogni componente del sistema funzioni sinergicamente, come un organo in un corpo umano.
+
+Il meccanismo di verifica dell’identità (come il controllo della connessione sicura su Vimeo) è un esempio di come l’IDEM garantisce la qualità dei progetti. È una misura di sicurezza per assicurarsi che l’accesso alla risorsa sia autorizzato e che non si tratti di un tentativo di accesso non autorizzato (uno “spam bot”, per usare un’espressione colloquiale). Questo aspetto è cruciale, soprattutto quando si tratta di dispositivi connessi a reti sensibili.
+
+Il progetto IDEM, in sostanza, offre un framework per gestire la complessità intrinseca dei progetti IoT, fornendo una piattaforma centralizzata per la registrazione, il monitoraggio e la gestione dei dispositivi. Questo approccio, se ben implementato, può ridurre significativamente i rischi associati alla gestione di reti IoT distribuite e aumentare l’efficacia dei progetti.
+
+![progetti iot](https://it.emcelettronica.com/wp-content/uploads/2024/10/IoT.jpg)
+
+## Vedi anche
+
+*   [Gestione progetti IoT dell’Università di Bologna](https://www.idem.unibo.it/) - Un’altra risorsa per la gestione di progetti IoT, che può fornire un confronto utile.
+
+## Domande frequenti
+
+### Cosa significa "Federazione IDEM"?
+
+La Federazione IDEM è un’infrastruttura che consente a diverse organizzazioni (in questo caso, l’Università di Torino) di condividere in modo sicuro le proprie risorse, come servizi di gestione progetti IoT. Permette a più istituzioni di accedere e collaborare su progetti comuni, riducendo la duplicazione degli sforzi e migliorando l’efficienza.
+
+### Come funziona il processo di registrazione dei dispositivi IoT tramite IDEM?
+
+Secondo le fonti, l’utente accede al portale [https://richieste-iot.unito.it/Shibboleth.sso/Login](https://richieste-iot.unito.it/Shibboleth.sso/Login) tramite la propria identità universitaria (Federazione IDEM). Una volta autenticato, il dispositivo IoT viene registrato e gestito all’interno del sistema.
+
+### Quali sono i vantaggi dell’utilizzo della Federazione IDEM per i progetti IoT?
+
+I vantaggi principali includono la centralizzazione della gestione, la semplificazione della collaborazione tra team e l’aumento della sicurezza dei dati e dei dispositivi IoT. Permette una gestione più efficiente delle risorse e riduce il rischio di errori o problemi di sicurezza.
+
+### Cosa succede se il sito web richiede una "verifica" prima di procedere?
+
+La verifica richiesta (come il controllo della connessione sicura su Vimeo) è una misura di sicurezza per garantire che il sito web a cui si sta tentando di accedere sia sicuro e non un tentativo di accesso non autorizzato. È un meccanismo di protezione contro potenziali minacce.
+
+### Quali tipi di dispositivi IoT possono essere gestiti tramite questa risorsa?
+
+La risorsa gestisce oggetti IoT dislocati presso l’Università di Torino, suggerendo un focus su dispositivi e sensori utilizzati all’interno dell’istituzione.
+
+
+
+## Fonti
+
+- [Progetti IoT](https://vimeo.com/711223207)
+- [IDEM GARR AAI - Gestione progetti IoT dell’Università di](https://www.idem.garr.it/en/federazione-idem-en/blog/818-gestione-progetti-iot-dell-universita-di-torino-in-idem)
