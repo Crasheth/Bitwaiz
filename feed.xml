@@ -5,8 +5,15 @@
     <link>https://bitwaiz.it/</link>
     <description>Articoli su trend tech, cybersecurity, elettronica e innovazione.</description>
     <language>it-it</language>
-    <lastBuildDate>Mon, 11 May 2026 06:25:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 06:25:32 GMT</lastBuildDate>
     <atom:link href="https://bitwaiz.it/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>Breadboard: Guida Rapida per Principianti (e non solo)</title>
+    <link>https://bitwaiz.it/breadboard/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/breadboard/</guid>
+    <pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[Se sei un appassionato di elettronica, sei probabilmente stanco di saldare componenti su schede di circuito stampato per ogni piccolo esperi…]]></description>
+  </item>
   <item>
     <title>Windows 11: Risoluzione Problemi Microfono Non Riconosciuto</title>
     <link>https://bitwaiz.it/microfono-usb/</link>
