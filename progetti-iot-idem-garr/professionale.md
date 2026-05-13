@@ -8,6 +8,8 @@
 
 
 
+
+
 Questo documento illustra l'importanza di implementare meccanismi di verifica dell'identità robusti per i progetti IoT, in particolare quando si gestiscono risorse universitarie come quelle offerte dalla Federazione IDEM. La crescente diffusione dei dispositivi IoT introduce nuove vulnerabilità, e garantire che l'accesso alle risorse sia effettivamente autorizzato è fondamentale per la sicurezza e l'integrità dei dati.
 
 La gestione di progetti IoT, come dimostrato dall'iniziativa dell'Università di Torino, richiede un approccio strutturato che includa controlli di accesso rigorosi. La risorsa "Gestione progetti IoT" dell'Università di Torino, ora parte della Federazione IDEM, facilita l'accesso a dispositivi IoT dislocati presso l'università. Tuttavia, l'accesso non può essere automatizzato senza una validazione dell'identità, per prevenire l'uso non autorizzato o il potenziale accesso malevolo.
@@ -33,6 +35,8 @@ La verifica richiesta (come il controllo della connessione sicura su Vimeo) è u
 
 ### Quali tipi di dispositivi IoT possono essere gestiti tramite questa risorsa?
 La risorsa gestisce oggetti IoT dislocati presso l'Università di Torino, suggerendo un focus su dispositivi e sensori utilizzati all'interno dell'istituzione.
+
+
 
 
 

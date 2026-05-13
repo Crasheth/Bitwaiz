@@ -3,6 +3,8 @@
 > Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
 
 
+
+
 Un breadboard è un circuito stampato temporaneo che utilizza canali di contatto per collegare componenti elettronici. Permette di creare rapidamente circuiti per test e prototipazione senza la necessità di saldature.
 
 ## Nota 1: Quali sono i vantaggi dell’utilizzo di un breadboard
@@ -77,6 +79,8 @@ Puoi alimentare la tua breadboard con una fonte di alimentazione DC (corrente co
 
 ### Cosa succede se sbaglio una connessione?
 Se sbagli una connessione, il tuo circuito potrebbe non funzionare correttamente o addirittura danneggiare i componenti. Presta molta attenzione quando costruisci i tuoi circuiti e usa un multimetro per testare le connessioni.
+
+
 
 
 
