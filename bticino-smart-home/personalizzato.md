@@ -1,6 +1,8 @@
 # Smart Home: Il Flusso del Tao nella Tua Casa Connessa
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -248,6 +250,8 @@ La tecnologia, in questo contesto, non è un fine a sé stesso, ma un mezzo per 
 
 
 ![bticino smart home](https://professionisti.bticino.it/sites/default/files/2022-05/03_SMARTHOME_1.jpg)
+
+
 
 
 

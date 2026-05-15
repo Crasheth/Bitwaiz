@@ -1,6 +1,8 @@
 # Gestire i Progetti IoT: Un Approccio Pratico
 
-> Il cloud è solo il computer di qualcun altro. — Variante di Larry Ellison.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -45,6 +47,8 @@ La verifica richiesta (come il controllo della connessione sicura su Vimeo) è u
 ### Quali tipi di dispositivi IoT possono essere gestiti tramite questa risorsa?
 
 La risorsa gestisce oggetti IoT dislocati presso l’Università di Torino, suggerendo un focus su dispositivi e sensori utilizzati all’interno dell’istituzione.
+
+
 
 
 

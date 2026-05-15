@@ -1,6 +1,8 @@
 # Perché Xiaomi è un leader nel mercato dei smartphone?
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -151,6 +153,8 @@ Utilizza password complesse e autenticazione a due fattori. Sii cauto quando con
 *   Protezione dei Dati su Smartphone: Guida Completa
 
 ---
+
+
 
 
 
