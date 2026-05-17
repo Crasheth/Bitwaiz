@@ -8,6 +8,8 @@
 
 
 
+
+
 L'UVC (USB Video Class) è uno standard USB che definisce le specifiche per le webcam, consentendo la comunicazione tra la webcam e il sistema host. Definisce i protocolli di comunicazione, i formati dei dati e le funzionalità supportate.
 
 ## Nota 1: Come posso proteggere la mia webcam da accessi non autorizzati
@@ -42,6 +44,8 @@ Le webcam sono utilizzate in varie applicazioni, tra cui la sorveglianza, la sic
 
 ### Dove posso vedere le webcam in diretta?
 Esistono numerosi siti web che trasmettono video in diretta da webcam in tutto il mondo, come Skylinewebcams.com o Pontedilegno Tonale.
+
+
 
 
 
