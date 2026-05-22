@@ -24,6 +24,8 @@
 
 
 
+
+
 Ok, allora, parliamo di IoT. In pratica, quando si tratta di progetti basati su dispositivi connessi, la cosa più importante è assicurarsi che tutto funzioni *e* che non ci siano falle di sicurezza. Questo articolo serve a capire come verificare che il tuo progetto sia a norma, concentrandosi su un esempio concreto: la gestione dei progetti IoT dell’Università di Torino tramite la Federazione IDEM.
 
 In sostanza, l’Università di Torino ha creato una risorsa per gestire i progetti IoT che utilizzano i loro dispositivi. Questa risorsa, raggiungibile tramite l’URL https://richieste-iot.unito.it/Shibboleth.sso/Login, permette di registrare questi oggetti IoT. È un buon punto di partenza per chiunque voglia implementare progetti IoT, ma come si fa a sapere che è tutto a posto?
@@ -51,6 +53,8 @@ La verifica richiesta (come il controllo della connessione sicura su Vimeo) è u
 
 ### Quali tipi di dispositivi IoT possono essere gestiti tramite questa risorsa?
 La risorsa gestisce oggetti IoT dislocati presso l’Università di Torino, suggerendo un focus su dispositivi e sensori utilizzati all’interno dell’istituzione.
+
+
 
 
 
