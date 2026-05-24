@@ -9,6 +9,8 @@
 
 
 
+
+
 L'IDE di Arduino è un programma che ti permette di scrivere, modificare e caricare codice sul tuo microcontrollore Arduino. È come un editor di testo superpotenziato per i tuoi progetti hardware.
 
 ![arduino](http://upload.wikimedia.org/wikipedia/commons/7/71/Arduino-uno-perspective-transparent.png)
@@ -47,6 +49,8 @@ L'Arduino Uno è il modello più popolare e ampiamente utilizzato. Ha una vasta 
 ### Dove posso trovare tutorial e risorse per Arduino?
 
 Ci sono numerose risorse online disponibili per imparare Arduino, tra cui il sito web ufficiale di Arduino, forum della comunità, tutorial su YouTube e corsi online.
+
+
 
 
 
