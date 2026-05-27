@@ -1,6 +1,8 @@
 # Arduino
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+
 
 
 
@@ -51,6 +53,8 @@ L'Arduino Uno è il modello più popolare e ampiamente utilizzato. Ha una vasta 
 ### Dove posso trovare tutorial e risorse per Arduino?
 
 Ci sono numerose risorse online disponibili per imparare Arduino, tra cui il sito web ufficiale di Arduino, forum della comunità, tutorial su YouTube e corsi online.
+
+
 
 
 

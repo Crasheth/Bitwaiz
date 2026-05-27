@@ -1,6 +1,8 @@
 # 5G: Cosa Significa e Come Funziona (Guida 2026)
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -98,6 +100,8 @@ Il 5G normale utilizza la tecnologia 5G di base, che offre comunque velocità si
 Puoi utilizzare app di test della velocità per confrontare le velocità di connessione con diverse reti.
 
 ![5G](https://etimg.etb2bimg.com/photo/92005566.cms)
+
+
 
 
 
