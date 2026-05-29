@@ -1,6 +1,8 @@
 # Smart Home: la casa intelligente e connessa
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
+
 
 
 
@@ -285,6 +287,8 @@ Per scoprire di più sulle soluzioni Smart Home di Bticino e come possono miglio
 
 
 ![bticino smart home](https://professionisti.bticino.it/sites/default/files/2022-05/03_SMARTHOME_1.jpg)
+
+
 
 
 

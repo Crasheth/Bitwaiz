@@ -1,6 +1,8 @@
 # 5G: Cosa Significa e Come Funziona (Guida 2026)
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -78,6 +80,8 @@ Puoi utilizzare app di test della velocità per confrontare le velocità di conn
 
 
 ![5G](https://etimg.etb2bimg.com/photo/92005566.cms)
+
+
 
 
 
