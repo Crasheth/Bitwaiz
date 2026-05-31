@@ -47,6 +47,8 @@
 
 
 
+
+
 Il refresh rate, misurato in Hertz (Hz), indica il numero di volte al secondo che il monitor aggiorna l'immagine. Il response time, invece, misura il tempo impiegato da un pixel per cambiare colore, influenzando la nitidezza dei movimenti.
 
 ![how to choose a gaming monitor](https://gadgetstripe.com/wp-content/uploads/2021/08/gaming-monitors.jpg)
@@ -80,6 +82,8 @@ Queste tecnologie sincronizzano la frequenza di aggiornamento del monitor con la
 
 ### Quali sono le dimensioni del monitor ideali per il gaming?
 Le dimensioni ideali dipendono dalla tua distanza di visione e dalle tue preferenze personali, ma i monitor da 24-27 pollici sono i più comuni per il gaming.
+
+
 
 
 

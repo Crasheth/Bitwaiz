@@ -34,6 +34,8 @@
 
 
 
+
+
 Se sei un appassionato di elettronica, sei probabilmente stanco di saldare componenti su schede di circuito stampato per ogni piccolo esperimento. La breadboard è la soluzione: un modo semplice e flessibile per prototipare e testare circuiti elettronici senza dover fare saldature permanenti. Imparare a usare la breadboard è un passo fondamentale per qualsiasi aspirante ingegnere o hobbista.
 
 
@@ -73,6 +75,8 @@ Puoi alimentare la tua breadboard con una fonte di alimentazione DC (corrente co
 
 ### Cosa succede se sbaglio una connessione?
 Se sbagli una connessione, il tuo circuito potrebbe non funzionare correttamente o addirittura danneggiare i componenti. Presta molta attenzione quando costruisci i tuoi circuiti e usa un multimetro per testare le connessioni.
+
+
 
 
 
