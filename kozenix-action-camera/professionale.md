@@ -5,6 +5,8 @@
 
 
 
+
+
 La Kozenix S8 6K supporta la registrazione video fino a 4K (3840x2160) a 60fps, oltre a capacità 4K a 30fps e 2.7K a 120fps, offrendo flessibilità per diverse esigenze di ripresa.
 
 ## Nota 1: Quali sono le principali caratteristiche di stabilizzazione dell'immagine?
@@ -59,6 +61,8 @@ Sì, la Kozenix S8 è dotata di un'interfaccia intuitiva e di numerosi controlli
 
 ### Quali accessori sono inclusi?
 La confezione include una custodia di trasporto, un supporto per il casco, una tracolla e un adattatore per il microfono esterno.
+
+
 
 
 

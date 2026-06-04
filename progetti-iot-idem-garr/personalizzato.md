@@ -46,6 +46,8 @@
 
 
 
+
+
 La gestione di progetti IoT, lungi dall'essere un semplice esercizio di connettività, si rivela un’attività complessa che richiede un approccio olistico. Non si tratta solo di far comunicare dispositivi sparsi, ma di creare un ecosistema resiliente, sicuro e in grado di fornire valore reale. Il testo fornito, con la sua enfasi sulla verifica di sicurezza e sulla registrazione di oggetti IoT, rappresenta solo la punta dell'iceberg. Implica, in realtà, una profonda riflessione su come questi dispositivi, intrusi nella nostra quotidianità, interagiscono con il mondo che ci circonda e con le nostre vite.
 
 Il progetto gestito dall’Università di Torino, attraverso la Federazione IDEM, è un esempio concreto di questo approccio. La sua funzionalità di registrazione degli oggetti IoT, accessibile tramite il sito [https://richieste-iot.unito.it/Shibboleth.sso/Login](https://richieste-iot.unito.it/Shibboleth.sso/Login), non è semplicemente un servizio tecnico, ma un nodo cruciale in una rete di scambio di dati e risorse. Questo, in sostanza, ci riporta a una domanda fondamentale: come possiamo garantire che questa rete, così complessa e interconnessa, non diventi anche un vettore di vulnerabilità? La sicurezza, in questo contesto, non è un’aggiunta, ma il fondamento stesso del progetto.
@@ -83,6 +85,8 @@ La verifica richiesta (come il controllo della connessione sicura su Vimeo) è u
 
 ### Quali tipi di dispositivi IoT possono essere gestiti tramite questa risorsa?
 La risorsa gestisce oggetti IoT dislocati presso l’Università di Torino, suggerendo un focus su dispositivi e sensori utilizzati all’interno dell’istituzione.
+
+
 
 
 
