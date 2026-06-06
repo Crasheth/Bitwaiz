@@ -10,6 +10,8 @@
 
 
 
+
+
 Se sei un appassionato di sport estremi, viaggi avventurosi o semplicemente ami immortalare i momenti speciali della tua vita, una action camera come la Kozenix S8 6K potrebbe essere la soluzione che stavi cercando. Questa fotocamera offre una qualità video impressionante, una serie di funzionalità avanzate e un design compatto e resistente, rendendola ideale per un’ampia gamma di attività. Ma cosa rende la Kozenix S8 così speciale?
 
 
@@ -56,6 +58,8 @@ Sì, la Kozenix S8 è dotata di un'interfaccia intuitiva e di numerosi controlli
 
 ### Quali accessori sono inclusi?
 La confezione include una custodia di trasporto, un supporto per il casco, una tracolla e un adattatore per il microfono esterno.
+
+
 
 
 
