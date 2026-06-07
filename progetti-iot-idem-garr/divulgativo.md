@@ -52,6 +52,8 @@
 
 
 
+
+
 La gestione di progetti IoT (Internet of Things) può sembrare un labirinto di dispositivi, protocolli di comunicazione e requisiti di sicurezza. Immaginate di dover coordinare sensori, attuatori e piattaforme cloud, tutti con esigenze diverse e spesso in competizione tra loro. Il rischio di disallineamenti, ritardi e, peggio, vulnerabilità è alto. La Federazione IDEM, con la sua risorsa per la gestione dei progetti IoT dell’Università di Torino, offre un approccio strutturato per affrontare questa complessità.
 
 L’iniziativa, resa disponibile tramite il portale [https://richieste-iot.unito.it/Shibboleth.sso/Login](https://richieste-iot.unito.it/), si concentra sulla gestione efficiente di progetti che coinvolgono dispositivi IoT distribuiti all’interno dell’università. Il sistema, accessibile tramite la Federazione IDEM, facilita la registrazione e il monitoraggio di questi oggetti, semplificando la collaborazione tra i diversi team coinvolti. Questo non è solo un modo per evitare di perdere il filo conduttore di un progetto, ma anche per garantire che ogni componente del sistema funzioni sinergicamente, come un organo in un corpo umano.
@@ -87,6 +89,8 @@ La verifica richiesta (come il controllo della connessione sicura su Vimeo) è u
 ### Quali tipi di dispositivi IoT possono essere gestiti tramite questa risorsa?
 
 La risorsa gestisce oggetti IoT dislocati presso l’Università di Torino, suggerendo un focus su dispositivi e sensori utilizzati all’interno dell’istituzione.
+
+
 
 
 

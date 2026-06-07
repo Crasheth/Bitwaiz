@@ -37,6 +37,8 @@
 
 
 
+
+
 I modelli linguistici di grandi dimensioni (LLM) come questo possono "allucinare" generando informazioni false o senza fondamento, presentandole come fatti reali. Questo è dovuto al modo in cui sono addestrati su enormi quantità di dati, dove possono imparare a generare testo coerente ma non necessariamente accurato.
 
 ## Nota 1: Come posso verificare l'accuratezza delle informazioni generate da un...
@@ -80,6 +82,8 @@ Assicurati che il Bluetooth del tuo dispositivo sia attivo, che la soundbar sia 
 
 ### Come posso pulire la soundbar?
 Pulisci la soundbar con un panno morbido e asciutto. Evita l'uso di detergenti abrasivi.
+
+
 
 
 
