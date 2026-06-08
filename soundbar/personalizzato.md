@@ -1,6 +1,8 @@
 # Soundbar: Un Viaggio tra Suono e Tecnologia
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -139,6 +141,8 @@ Considera le dimensioni della tua stanza, il tipo di contenuto che guardi (film,
 
 ### Cosa sono Dolby Atmos e DTS:X?
 Dolby Atmos e DTS:X sono formati audio immersivi che creano un'esperienza sonora tridimensionale, posizionando gli altoparlanti in diverse posizioni nella stanza per simulare un suono più realistico e coinvolgente.
+
+
 
 
 

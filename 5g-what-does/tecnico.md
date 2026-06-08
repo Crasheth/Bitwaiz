@@ -1,6 +1,8 @@
 # 5G: Cosa Significa e Come Funziona (Guida 2026)
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -120,6 +122,8 @@ Il 5G normale utilizza la tecnologia 5G di base, che offre comunque velocità si
 Puoi utilizzare app di test della velocità per confrontare le velocità di connessione con diverse reti.
 
 ![5G](https://etimg.etb2bimg.com/photo/92005566.cms)
+
+
 
 
 

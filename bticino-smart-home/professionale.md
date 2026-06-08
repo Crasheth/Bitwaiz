@@ -1,6 +1,8 @@
 # Smart Home: la casa intelligente e connessa
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -305,6 +307,8 @@ Per scoprire di più sulle soluzioni Smart Home di Bticino e come possono miglio
 
 
 ![bticino smart home](https://professionisti.bticino.it/sites/default/files/2022-05/03_SMARTHOME_1.jpg)
+
+
 
 
 
