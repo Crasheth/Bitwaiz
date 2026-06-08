@@ -1,6 +1,7 @@
 # Smartphone Xiaomi: Un’Analisi Proattiva per la Sicurezza
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
 
 
 
@@ -186,6 +187,7 @@ Utilizza password complesse e autenticazione a due fattori. Sii cauto quando con
 *   Protezione dei Dati su Smartphone: Guida Completa
 
 ---
+
 
 
 

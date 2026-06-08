@@ -1,6 +1,7 @@
 # Oppo e Google: Il Segreto del GMS su Smartphone Cinesi
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 
@@ -183,6 +184,7 @@ Se riscontri problemi di accesso al Google Play Store dopo aver installato GMS, 
 ### È sicuro installare GMS su un Oppo?
 
 L'installazione di GMS su un Oppo è generalmente sicura, ma è importante scaricare i file APK da fonti affidabili per evitare malware. Assicurati di concedere le autorizzazioni necessarie alle app di Google per garantire il corretto funzionamento.
+
 
 
 

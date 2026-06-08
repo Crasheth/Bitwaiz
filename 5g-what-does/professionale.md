@@ -1,6 +1,7 @@
 # 5G: Cosa Significa e Come Funziona (Guida 2026)
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 
 
@@ -112,6 +113,7 @@ Puoi utilizzare app di test della velocità per confrontare le velocità di conn
 
 
 ![5G](https://etimg.etb2bimg.com/photo/92005566.cms)
+
 
 
 
