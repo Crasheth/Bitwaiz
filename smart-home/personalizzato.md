@@ -1,6 +1,7 @@
 # Smart Home: Un’Onda di Connessione per la Famiglia
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
 
 
 
@@ -75,6 +76,7 @@ Le fonti indicano che i costi di una smart home possono variare notevolmente a s
 ### Come posso integrare i miei dispositivi smart home esistenti?
 
 Le fonti suggeriscono di utilizzare un hub per la smart home compatibile con i tuoi dispositivi esistenti o di utilizzare app e servizi di terze parti che supportano una vasta gamma di dispositivi smart home.
+
 
 
 

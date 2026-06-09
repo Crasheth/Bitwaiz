@@ -1,6 +1,7 @@
 # Progetti iot
 
-> La tecnologia migliore è quella che scompare. — Mark Weiser.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -167,6 +168,7 @@ Esistono diversi tipi di dispositivi IoT, tra cui sensori, attuatori, gateway e 
 
 ### Quali sono i vantaggi dell'IoT?
 I vantaggi dell'IoT includono l'aumento dell'efficienza operativa, il miglioramento della sicurezza, la creazione di nuovi servizi e prodotti e la raccolta di dati preziosi per il processo decisionale.
+
 
 
 

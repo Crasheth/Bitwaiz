@@ -1,6 +1,7 @@
 # Perché Xiaomi è un leader nel mercato dei smartphone?
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -202,6 +203,7 @@ Utilizza password complesse e autenticazione a due fattori. Sii cauto quando con
 *   Protezione dei Dati su Smartphone: Guida Completa
 
 ---
+
 
 
 
