@@ -1,6 +1,8 @@
 # Samsung Galaxy: Un Primo Passo Verso il Futuro Mobile
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -232,6 +234,8 @@ Il nome in codice interno del Samsung Galaxy era GT-I7500. Questo nome era utili
 ## Vedi anche
 
 *   Samsung smartphone battery issues
+
+
 
 
 

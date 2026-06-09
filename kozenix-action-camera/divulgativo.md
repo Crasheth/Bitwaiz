@@ -1,6 +1,8 @@
 # Kozenix S8 6K Action Camera – Video 4K 60fps | 2026
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -63,6 +65,8 @@ Sì, la Kozenix S8 è dotata di un'interfaccia intuitiva e di numerosi controlli
 
 ### Quali accessori sono inclusi?
 La confezione include una custodia di trasporto, un supporto per il casco, una tracolla e un adattatore per il microfono esterno.
+
+
 
 
 

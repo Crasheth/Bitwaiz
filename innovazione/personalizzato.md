@@ -1,6 +1,8 @@
 # ## Introduzione: Oltre l'Efficienza, un'Esplorazione Umana dell'Automazione
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -159,6 +161,8 @@ Supportano un'ampia gamma di settori, tra cui l'automotive, l'energia, l'ambient
 ### Dove si trova la sede di TEC4I FVG?
 
 La sede principale è situata a Udine, Friuli Venezia Giulia, Italia.
+
+
 
 
 
