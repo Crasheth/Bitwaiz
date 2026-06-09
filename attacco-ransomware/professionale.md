@@ -1,6 +1,7 @@
 # Hemingway ransomware attack: No city will pay the ransom.
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
 
 
 
@@ -212,6 +213,7 @@ Se si viene colpiti da un attacco ransomware, è importante isolare il sistema i
 
 ### Come posso proteggermi dagli attacchi ransomware?
 Per proteggersi dagli attacchi ransomware, è importante avere un solido piano di sicurezza informatica, aggiornare regolarmente il software, utilizzare password complesse e fare attenzione alle email e ai link sospetti.
+
 
 
 

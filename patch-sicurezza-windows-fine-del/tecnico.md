@@ -1,6 +1,7 @@
 # Windows 10: Fine del Supporto e Nuove Strategie di Difesa
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
 
 
 L'inattesa fine del supporto da parte di Microsoft per Windows 10 rappresenta un punto di svolta per le organizzazioni e gli utenti individuali. La transizione verso versioni più recenti di Windows, come Windows 11, richiede una valutazione attenta e l'implementazione di strategie di difesa rafforzate per mitigare i rischi associati a sistemi operativi non più supportati. Questo articolo analizza le implicazioni di questa decisione e propone azioni concrete per proteggere i sistemi e i dati.

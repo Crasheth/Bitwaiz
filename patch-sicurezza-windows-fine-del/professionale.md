@@ -1,6 +1,7 @@
 # Windows 10’dan Windows 11’e Geçiş Hakkında Sıkça Sorulan Sorular
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
 
 
 *   **Windows 10’dan Windows 11’e geçiş için ne kadar süre var?** Microsoft, 14 Ekim 2025 tarihinde Windows 10’a yönelik destek durduracağını duyurdu. Bu tarihe kadar geçişinizi planlamanız önemlidir.

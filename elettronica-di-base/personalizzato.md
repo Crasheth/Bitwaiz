@@ -1,6 +1,7 @@
 # Sistemi di Sorveglianza Navale: Proteggi la Tua Nave con
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
 
 
 
@@ -146,6 +147,7 @@ Per presentare i suoi prodotti e tecnologie alle navi e alle aziende navali.
 Elettronica sta sviluppando nuovi radar e sistemi di comunicazione per le navi, con un focus sull’innovazione e sulle prestazioni.
 
 ![elettronica di base](https://fablabparma.org/wp-content/uploads/2017/01/elettronica-e-arduino-1024x375.png)
+
 
 
 

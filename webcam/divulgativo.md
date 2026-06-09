@@ -52,6 +52,7 @@
 
 
 
+
 NavBar |  # Webcam: La Storia di un Occhio Digitale che Ti Connette al Mondo
 
 
@@ -95,6 +96,7 @@ Le webcam sono utilizzate in varie applicazioni, tra cui la sorveglianza, la sic
 
 ### Dove posso vedere le webcam in diretta?
 Esistono numerosi siti web che trasmettono video in diretta da webcam in tutto il mondo, come Skylinewebcams.com o Pontedilegno Tonale.
+
 
 
 

@@ -1,6 +1,7 @@
 # Windows 10: fine supporto, patch e cosa fare davvero
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
 
 
 Il mondo dell'IT è in costante evoluzione, un flusso incessante di innovazioni e cambiamenti che spesso lascia indietro chi non riesce a tenere il passo. Windows 10, dopo anni di dominio, sta per giungere al termine del suo ciclo di supporto, un momento che ha scatenato un dibattito acceso tra sviluppatori, aziende e utenti. Ma cosa significa esattamente la fine del supporto? E quali sono le alternative per garantire la sicurezza e la continuità operativa dei sistemi? Questo articolo esplora le implicazioni di questa transizione, le opzioni disponibili e una guida pratica per affrontare le sfide che ci attendono.

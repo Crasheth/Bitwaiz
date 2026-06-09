@@ -1,6 +1,7 @@
 # Microcontrollori: Il Cuore Silenzioso dell'Innovazione (2026)
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
 
 
 
@@ -142,6 +143,7 @@ Un microcontrollore è un sistema completo su un singolo chip, contenente un cor
 
 ### Quali sono le applicazioni più comuni dei microcontrollori?
 I microcontrollori sono utilizzati in una vasta gamma di applicazioni, tra cui sistemi di controllo industriale, robotica, automazione domestica, dispositivi medici, elettronica di consumo e IoT.
+
 
 
 

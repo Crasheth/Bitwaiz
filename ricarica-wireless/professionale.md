@@ -1,6 +1,7 @@
 # Caricabatterie wireless: guida completa 2026
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 
 
@@ -114,6 +115,7 @@ La ricarica wireless offre una maggiore comodità, eliminando la necessità di c
 
 ### Quali sono le considerazioni per la gestione termica nella ricarica wireless?
 La gestione termica è cruciale per dissipare il calore generato durante il processo di ricarica. I caricabatterie più avanzati utilizzano dissipatori di calore e sistemi di raffreddamento per prevenire il surriscaldamento dei dispositivi.
+
 
 
 
