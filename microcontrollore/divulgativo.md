@@ -1,6 +1,7 @@
 # Microcontrollori: Il Cuore Silenzioso dell'Innovazione (2026)
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
 
 
 
@@ -150,6 +151,7 @@ Un microcontrollore è un sistema completo su un singolo chip, contenente un cor
 
 ### Quali sono le applicazioni più comuni dei microcontrollori?
 I microcontrollori sono utilizzati in una vasta gamma di applicazioni, tra cui sistemi di controllo industriale, robotica, automazione domestica, dispositivi medici, elettronica di consumo e IoT.
+
 
 
 

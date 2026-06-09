@@ -1,6 +1,7 @@
 # Bitcoin e Volatilità: Un'Analisi del Mercato
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
 
 
 
@@ -265,6 +266,7 @@ Il mercato delle criptovalute, e in particolare quello del Bitcoin, è noto per 
 
 
 ![blockchain explorer](https://media.pmf-research.eu/pmf-research.eu/wp-content/uploads/2023/09/Blockchain-explorer-2-EN.jpg)
+
 
 
 

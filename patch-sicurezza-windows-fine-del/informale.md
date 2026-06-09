@@ -1,6 +1,7 @@
 # Patch sicurezza windows fine del
 
-> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
 
 MAMMA MIA, che casino! Windows 10 sta per sparire, e Microsoft non fa che sbracciare. Se hai ancora il vecchio Windows 10, sappi che il supporto è finito, e non riceverai più aggiornamenti di sicurezza. Un disastro, no?
 
@@ -38,6 +39,7 @@ I sistemi operativi non supportati sono vulnerabili a nuove minacce informatiche
 ### Come posso garantire la sicurezza del mio sistema Windows 10?
 
 Puoi garantire la sicurezza del tuo sistema Windows 10 implementando misure di sicurezza aggiuntive, come firewall, software antivirus aggiornato e segmentazione della rete.
+
 
 
 

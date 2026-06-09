@@ -1,6 +1,7 @@
 # Radicalità e introspezione: un approccio narrativo per affrontare problemi tecnici complessi.
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -120,6 +121,7 @@ La risoluzione di un problema di microfono che non funziona può sembrare un com
 <!-- BITWAIZ_SERP
 TITLE: Microfono Windows 11 non funziona? Guida 2026
 META: Perché il microfono non funziona su Windows 11? Scopri le soluzioni più comuni per risolvere il problema e ripristinare l'audio. (134 caratteri) -->
+
 
 
 
