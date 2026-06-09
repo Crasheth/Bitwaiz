@@ -1,6 +1,7 @@
 # Generare Password Forti: Un Approccio Orientato al Flusso del Sistema
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
 
 
 
@@ -166,6 +167,7 @@ Utilizza un password manager per memorizzare e generare password complesse.
 ### Cosa succede se dimentico la mia password?
 
 Utilizza la funzione di recupero password fornita dal servizio a cui stai tentando di accedere.
+
 
 
 

@@ -1,6 +1,7 @@
 # Hisense HS3100 Soundbar: Guida completa 2026
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -126,6 +127,7 @@ Il peso totale del prodotto è di 4.5 kg.
 Assicurati che il Bluetooth del tuo dispositivo sia attivo, che la soundbar sia in modalità di accoppiamento e che la distanza tra i due dispositivi non superi i 10 metri.
 ### Come posso pulire la soundbar?
 Pulisci la soundbar con un panno morbido e asciutto. Evita l'uso di detergenti abrasivi.
+
 
 
 

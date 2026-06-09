@@ -1,6 +1,7 @@
 # Installare Google Mobile Services su smartphone Oppo
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
 
 
 
@@ -184,6 +185,7 @@ Se riscontri problemi di accesso al Google Play Store dopo aver installato GMS, 
 ### È sicuro installare GMS su un Oppo?
 
 L'installazione di GMS su un Oppo è generalmente sicura, ma è importante scaricare i file APK da fonti affidabili per evitare malware. Assicurati di concedere le autorizzazioni necessarie alle app di Google per garantire il corretto funzionamento.
+
 
 
 
