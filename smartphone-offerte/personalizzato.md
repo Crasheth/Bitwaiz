@@ -1,6 +1,7 @@
 # Smartphone 2026: Guida all'acquisto modelli migliori |
 
-> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
 
 
 
@@ -133,6 +134,7 @@ Storicamente, "cellulare" si riferiva a un telefono che funzionava solo per la v
 ### Qual è il migliore smartphone per la fotografia?
 
 Attualmente, i Google Pixel 7 e i Samsung Galaxy S26 sono considerati tra i migliori smartphone per la fotografia, grazie alle loro potenti fotocamere e alle loro avanzate funzionalità di elaborazione delle immagini.
+
 
 
 

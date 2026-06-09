@@ -1,6 +1,7 @@
 # Blockchain: Un’Esplorazione Intima del Futuro Digitale
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 
@@ -141,6 +142,7 @@ La decentralizzazione offre numerosi vantaggi, tra cui maggiore sicurezza, resil
 ### Come la blockchain può essere utilizzata nella gestione della supply chain?
 
 La blockchain può essere utilizzata per tracciare i prodotti lungo l'intera supply chain, fornendo informazioni dettagliate sulla loro origine, movimento e condizioni di conservazione. Questo aumenta la trasparenza, la tracciabilità e l'autenticità dei prodotti, riducendo il rischio di contraffazione e frodi.
+
 
 
 

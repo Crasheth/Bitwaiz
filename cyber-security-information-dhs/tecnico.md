@@ -1,6 +1,7 @@
 # Sicurezza Informatica: Proteggi i Tuoi Dati nel 2026 | 58
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
 
 
 
@@ -127,6 +128,7 @@ I principali rischi includono malware, phishing, ransomware, attacchi di ingegne
 
 ### Come posso sapere se il mio dispositivo è stato compromesso?
 Puoi monitorare l'attività del tuo dispositivo, controllare il traffico di rete e utilizzare strumenti di scansione antivirus per rilevare eventuali minacce.
+
 
 
 
