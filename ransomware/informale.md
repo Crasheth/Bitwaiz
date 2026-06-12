@@ -1,6 +1,8 @@
 # WannaCry Ransomware Attack 2026 - Protezione e Prevenzione
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
+
 
 
 
@@ -137,6 +139,8 @@ R: WannaCry ha avuto un impatto globale, colpendo la NHS nel Regno Unito, aziend
 R: Per prevenire attacchi come WannaCry, è importante mantenere aggiornati i software e i sistemi operativi, implementare robuste misure di sicurezza di rete, formare gli utenti sulla sicurezza informatica e avere un piano di risposta agli incidenti ben definito.
 
 ### Titolo (# WannaCry: Un'Analisi Approfondita del Malware Ransomware)
+
+
 
 
 
