@@ -23,6 +23,8 @@
 
 
 
+
+
 Puoi utilizzare un'app idroponica dedicata o creare la tua. Queste app spesso includono sensori Bluetooth per misurare il pH, la temperatura, l'EC (conduttività elettrica) e altri parametri. Gli smartphone possono visualizzare questi dati in tempo reale, aiutandoti a identificare eventuali problemi e a intervenire tempestivamente. Alcune app permettono anche di impostare allarmi per quando i valori superano o scendono al di sotto di determinati limiti.
 
 ## Nota 1: Quali sensori sono necessari per un sistema idroponico
@@ -68,6 +70,8 @@ I prezzi degli smartphone 5G di fascia alta nel 2026 si aggirano tra i 1000 e i 
 ### Quali sono i vantaggi della rete 5G rispetto alla rete 4G?
 
 La rete 5G offre velocità di download e upload significativamente più elevate rispetto alla rete 4G, oltre a una latenza inferiore e una maggiore capacità di rete.
+
+
 
 
 
