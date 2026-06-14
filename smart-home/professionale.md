@@ -23,6 +23,8 @@
 
 
 
+
+
 Un sistema domotico è un insieme di dispositivi e tecnologie interconnesse che automatizzano e controllano vari aspetti della casa, come l'illuminazione, il riscaldamento, la sicurezza e l'intrattenimento.
 
 ![smart home](https://techprorepair.com/wp-content/uploads/2020/05/Home-Automation.jpg)
@@ -60,6 +62,8 @@ Le fonti indicano che i costi di una smart home possono variare notevolmente a s
 ### Come posso integrare i miei dispositivi smart home esistenti?
 
 Le fonti suggeriscono di utilizzare un hub per la smart home compatibile con i tuoi dispositivi esistenti o di utilizzare app e servizi di terze parti che supportano una vasta gamma di dispositivi smart home.
+
+
 
 
 
