@@ -1,6 +1,7 @@
 # Arduino Uno R4 WiFi: IoT & Domotica (2026) 🚀
 
-> La tecnologia migliore è quella che scompare. — Mark Weiser.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -125,6 +126,7 @@ Le dimensioni sono di 65.0 mm x 53.0 mm e il peso è di circa 50g.
 
 ### Quali certificazioni ha?
 Attualmente, l'Arduino Uno R4 WiFi è conforme alle normative CE e RoHS.
+
 
 
 
