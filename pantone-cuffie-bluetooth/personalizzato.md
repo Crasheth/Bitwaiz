@@ -1,6 +1,7 @@
 # Cuffie Bluetooth Pantone PT-WH005N1: Un'Analisi Approfondita per un'Esperienza Audio Immersiva
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
 
 
 
@@ -107,6 +108,7 @@ Il prezzo di queste cuffie è di 25,51 euro.
 ### Dove posso acquistare queste cuffie?
 
 Queste cuffie sono disponibili su Amazon e Ciaoone.
+
 
 
 

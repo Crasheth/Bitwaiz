@@ -1,6 +1,7 @@
 # Le migliori soundbar 2026: guida all’acquisto per il tuo TV
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -124,6 +125,7 @@ L’ottimizzazione include la calibrazione audio, la scelta del posizionamento d
 
 ### Quali sono le considerazioni per la manutenzione di una soundbar LG?
 La manutenzione include la pulizia regolare delle griglie di raffreddamento, il controllo dei cavi e la verifica della compatibilità software. È consigliabile consultare il manuale del produttore per istruzioni specifiche.
+
 
 
 

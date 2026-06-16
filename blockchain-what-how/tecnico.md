@@ -1,6 +1,7 @@
 # Blockchain: Fondamenti e Applicazioni Emergenti
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
 
 
 
@@ -161,6 +162,7 @@ La decentralizzazione offre numerosi vantaggi, tra cui maggiore sicurezza, resil
 ### Come la blockchain può essere utilizzata nella gestione della supply chain?
 
 La blockchain può essere utilizzata per tracciare i prodotti lungo l'intera supply chain, fornendo informazioni dettagliate sulla loro origine, movimento e condizioni di conservazione. Questo aumenta la trasparenza, la tracciabilità e l'autenticità dei prodotti, riducendo il rischio di contraffazione e frodi.
+
 
 
 

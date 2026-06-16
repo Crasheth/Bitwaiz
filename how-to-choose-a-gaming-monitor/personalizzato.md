@@ -1,6 +1,7 @@
 # How to Choose the Right Gaming Monitor: Specs That Actually Matter
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -134,6 +135,7 @@ Il tempo di risposta è il tempo che un pixel impiega per cambiare colore, influ
 
 ### Qual è la differenza tra TN, VA e IPS?
 TN, VA e IPS sono tipi di pannelli LCD con caratteristiche diverse in termini di velocità di risposta, angoli di visione e gamma di colori.
+
 
 
 
