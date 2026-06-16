@@ -5,8 +5,15 @@
     <link>https://bitwaiz.it/</link>
     <description>Articoli su trend tech, cybersecurity, elettronica e innovazione.</description>
     <language>it-it</language>
-    <lastBuildDate>Mon, 15 Jun 2026 10:59:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 06:30:58 GMT</lastBuildDate>
     <atom:link href="https://bitwaiz.it/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>Che cos&#x27;è un CVE? Un&#x27;introduzione ai rischi della sicurezza informatica</title>
+    <link>https://bitwaiz.it/vulnerabilità-cve-vulnerabilit-common/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/vulnerabilità-cve-vulnerabilit-common/</guid>
+    <pubDate>Tue, 16 Jun 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[In questo articolo, esploreremo il concetto di Common Vulnerabilities and Exposures (CVE), una terminologia che emerge spesso nel contesto d…]]></description>
+  </item>
   <item>
     <title>Cos&#x27;è un CVE? E perché è importante per la sicurezza informatica</title>
     <link>https://bitwaiz.it/vulnerabilità-cve/</link>

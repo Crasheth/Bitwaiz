@@ -1,6 +1,8 @@
 # Dispositivi indossabili: un'analisi di base
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -314,6 +316,8 @@ Ecco alcuni punti chiave da considerare:
 
 
 ![wearable](https://images.datainsightsmarket.com/pmr/banner/chart-Wearable-Fire-Insulation-Materials.png)
+
+
 
 
 

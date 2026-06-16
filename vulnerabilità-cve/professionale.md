@@ -1,6 +1,8 @@
 # Cos'è un CVE? Introduzione alla Gestione delle Vulnerabilità
 
-> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
+
 
 
 ![vulnerabilità CVE](https://mlfk3cv5yvnx.i.optimale.com/cb:k-rC.2fd1d/w:auto/h:auto/q:mauto/f:best/https://www.ninjaone.com/wp-content/uploads/2024/02/Common-Vulnerabilities-and-Exposures-What-They-Are-and-Notable-CVEs-to-Be-Aware-Of-1.png)
@@ -38,6 +40,8 @@ I CVE sono importanti perché:
 - **Standardizzazione**: consentono una comunicazione univoca e comprensibile tra gli esperti di sicurezza.
 - **Priorità**: aiutano le organizzazioni a priorizzare la gestione delle vulnerabilità basandosi sulla criticità e l'impatto.
 - **Risposta rapida**: facilitano il processo di identificazione e risoluzione delle vulnerabilità, migliorando la sicurezza globale.
+
+
 
 
 ## Fonti

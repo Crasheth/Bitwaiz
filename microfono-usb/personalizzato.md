@@ -1,6 +1,8 @@
 # Radicalità e introspezione: un approccio narrativo per affrontare problemi tecnici complessi.
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -133,6 +135,8 @@ La risoluzione di un problema di microfono che non funziona può sembrare un com
 <!-- BITWAIZ_SERP
 TITLE: Microfono Windows 11 non funziona? Guida 2026
 META: Perché il microfono non funziona su Windows 11? Scopri le soluzioni più comuni per risolvere il problema e ripristinare l'audio. (134 caratteri) -->
+
+
 
 
 
