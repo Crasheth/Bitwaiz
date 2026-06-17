@@ -5,8 +5,15 @@
     <link>https://bitwaiz.it/</link>
     <description>Articoli su trend tech, cybersecurity, elettronica e innovazione.</description>
     <language>it-it</language>
-    <lastBuildDate>Wed, 17 Jun 2026 06:48:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 07:27:15 GMT</lastBuildDate>
     <atom:link href="https://bitwaiz.it/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>Come proteggere i tuoi dati: la guerra dietro le schermate</title>
+    <link>https://bitwaiz.it/data-breach/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/data-breach/</guid>
+    <pubDate>Wed, 17 Jun 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[In un mondo sempre più digitale, i nostri dati diventano una risorsa preziosa. Ma come siamo noi a gestirli? E chi ce ne ruba dietro le sche…]]></description>
+  </item>
   <item>
     <title>Cos&#x27;è un CVE? E perché è importante per la sicurezza informatica</title>
     <link>https://bitwaiz.it/vulnerabilità-cve/</link>

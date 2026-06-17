@@ -1,6 +1,7 @@
 # Cuffie Bluetooth Pantone PT-WH005N1 Blu: Analisi e Caratteristiche
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 
@@ -109,6 +110,7 @@ Il prezzo di queste cuffie è di 25,51 euro.
 ### Dove posso acquistare queste cuffie?
 
 Queste cuffie sono disponibili su Amazon e Ciaoone.
+
 
 
 

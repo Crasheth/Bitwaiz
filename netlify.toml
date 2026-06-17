@@ -243,3 +243,9 @@
   to = "/voucher-cloud-e-cybersecurity-2026/"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/vulnerabilità-cve-vulnerabilit-common/"
+  to = "/vulnerabilità-cve/"
+  status = 301
+  force = true

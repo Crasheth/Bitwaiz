@@ -1,6 +1,7 @@
 # ## Bambu Lab: Un Nuovo Capitolo nell'Innovazione di Stampa 3D
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
 
 
 
@@ -159,6 +160,7 @@ L'azienda non si limita a vendere stampanti 3D, ma offre anche un supporto tecni
 
 *   [Stampa 3D: Guida per Principianti](https://www.arduino.cc/en/Guide/3DPrinting) - Una guida completa per chi si avvicina alla stampa 3D.
 *   [Ricerca di materiali per la stampa 3D](https://www.matterhackers.com/blog/materials-3d-printing) - Informazioni sui diversi materiali disponibili per la stampa 3D e le loro applicazioni.
+
 
 
 
