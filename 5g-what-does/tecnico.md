@@ -1,6 +1,8 @@
 # 5G: Cosa Significa e Come Funziona (Guida 2026)
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
+
 
 
 
@@ -144,6 +146,8 @@ Il 5G normale utilizza la tecnologia 5G di base, che offre comunque velocità si
 Puoi utilizzare app di test della velocità per confrontare le velocità di connessione con diverse reti.
 
 ![5G](https://etimg.etb2bimg.com/photo/92005566.cms)
+
+
 
 
 

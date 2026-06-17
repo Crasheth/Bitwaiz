@@ -1,6 +1,8 @@
 # Windows 10: fine supporto, patch e cosa fare davvero
 
-> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
+
 
 
 
@@ -74,6 +76,8 @@ Windows 11 offre nuove funzionalità, un'interfaccia utente rinnovata e migliora
 ### Come posso migrare da Windows 10 a Windows 11?
 
 La migrazione da Windows 10 a Windows 11 può essere effettuata tramite l'aggiornamento gratuito o installando una nuova copia di Windows 11. È importante eseguire il backup dei dati prima di effettuare la migrazione.
+
+
 
 
 
