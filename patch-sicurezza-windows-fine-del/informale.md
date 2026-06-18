@@ -1,6 +1,8 @@
 # Patch sicurezza windows fine del
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
+
 
 
 
@@ -57,6 +59,8 @@ I sistemi operativi non supportati sono vulnerabili a nuove minacce informatiche
 ### Come posso garantire la sicurezza del mio sistema Windows 10?
 
 Puoi garantire la sicurezza del tuo sistema Windows 10 implementando misure di sicurezza aggiuntive, come firewall, software antivirus aggiornato e segmentazione della rete.
+
+
 
 
 
