@@ -5,8 +5,15 @@
     <link>https://bitwaiz.it/</link>
     <description>Articoli su trend tech, cybersecurity, elettronica e innovazione.</description>
     <language>it-it</language>
-    <lastBuildDate>Thu, 18 Jun 2026 06:30:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 06:33:07 GMT</lastBuildDate>
     <atom:link href="https://bitwaiz.it/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>La sicurezza è un processo, non un prodotto. — Bruce Schneier</title>
+    <link>https://bitwaiz.it/threat-hunting/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/threat-hunting/</guid>
+    <pubDate>Fri, 19 Jun 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[Negli ultimi anni, il mondo digitale si è trasformato in una palazzina piena di bug e hacker pronti a saltare fuori dal cassetto per mettere…]]></description>
+  </item>
   <item>
     <title>Aggiornamento firmware TV: perché e come farlo in 2026</title>
     <link>https://bitwaiz.it/firmware-update/</link>

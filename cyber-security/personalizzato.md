@@ -252,6 +252,8 @@
 
 
 
+
+
 ## La Sicurezza Informatica come Culto Familiare
 
 
@@ -295,6 +297,8 @@ Per migliorare la sicurezza delle tue informazioni, dovresti implementare una se
 *   Conformità normativa
 *   Sicurezza delle reti
 *   Sicurezza delle applicazioni
+
+
 
 
 
