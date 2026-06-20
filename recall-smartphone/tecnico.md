@@ -1,6 +1,6 @@
-# La fine dell'era Xperia? Sony e i problemi dei smartphone
+# La fine dell'era Xperia? Sony e i problemi degli smartphone
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
 
 
 

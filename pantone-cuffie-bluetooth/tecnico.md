@@ -1,6 +1,7 @@
 # Considerazioni sull'ANC e sulla qualità audio
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 
@@ -108,6 +109,7 @@ Il prezzo di queste cuffie è di 25,51 euro.
 ### Dove posso acquistare queste cuffie?
 
 Queste cuffie sono disponibili su Amazon e Ciaoone.
+
 
 
 

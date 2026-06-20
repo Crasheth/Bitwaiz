@@ -1,6 +1,6 @@
-# La fine dell'era Xperia? Sony e i problemi dei smartphone
+# La fine dell'era Xperia? Sony e i problemi degli smartphone
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
 
 
 
@@ -16,7 +16,7 @@ Il Google Pixel 6a è stato richiamato per un problema di software che poteva ca
 
 ## Sony e i suoi richiami
 
-La situazione per Sony non è diversa: il Xperia è stato incluso nella lista dei smartphone a rischio. Questo segnala una serie di problemi che potrebbero coinvolgere altri modelli della marca, se non vengono affrontati in modo adeguato.
+La situazione per Sony non è diversa: il Xperia è stato incluso nella lista degli smartphone a rischio. Questo segnala una serie di problemi che potrebbero coinvolgere altri modelli della marca, se non vengono affrontati in modo adeguato.
 
 ## Vedi anche
 

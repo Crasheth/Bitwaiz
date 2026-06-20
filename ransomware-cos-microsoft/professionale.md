@@ -1,6 +1,7 @@
 # Come Proteggere il Tuo Business dal Ransomware (2026) 🔒
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
 
 
 
@@ -71,6 +72,7 @@ Il primo passo è isolare i sistemi infetti per prevenire la diffusione del rans
 
 ### Come posso rilevare un attacco ransomware?
 I segnali di allarme includono l’aumento del traffico di rete, l’attività insolita sui file, richieste di riscatto e la presenza di malware sconosciuto sui sistemi.
+
 
 
 

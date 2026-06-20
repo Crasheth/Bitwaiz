@@ -1,6 +1,7 @@
 # API: Guida Completa per Sviluppatori e Stakeholder
 
-> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 
@@ -197,6 +198,7 @@ Un API Gateway è un componente software che funge da punto di ingresso per tutt
 ### Come posso testare un'API?
 
 Esistono diversi strumenti per testare un'API, tra cui Postman, Insomnia e strumenti integrati nei browser web. Questi strumenti consentono di inviare richieste all'API, analizzare le risposte e verificare che l'API funzioni correttamente.
+
 
 
 

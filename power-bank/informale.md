@@ -1,6 +1,7 @@
 # Power Bank: La Guida Definitiva per Non Nerd
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
 
 
 
@@ -214,6 +215,7 @@ Se scegli una batteria portatile di buona qualità, è improbabile che danneggi 
 ### Come faccio a sapere quando la mia batteria portatile è esaurita?
 
 La maggior parte delle batterie portatili ha un indicatore LED che mostra il livello di carica rimanente. Alcune batterie portatili hanno anche un display digitale che mostra la capacità della batteria in percentuale.
+
 
 
 

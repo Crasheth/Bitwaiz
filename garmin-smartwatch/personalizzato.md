@@ -1,6 +1,7 @@
 # Garmin Smartwatch: Prezzi e Offerte – Scopri il Tuo Modello
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
 
 
 
@@ -192,6 +193,7 @@ I Garmin Vivoactive offrono funzionalità come monitoraggio del sonno, monitorag
 
 ### Quali sono i prezzi attuali dei Garmin Forerunner e Vivoactive?
 I prezzi dei Garmin Forerunner e Vivoactive variano a seconda del modello e delle funzionalità. In generale, i modelli Forerunner sono più costosi dei modelli Vivoactive. Al momento (Ottobre 2024), i modelli più recenti di Forerunner partono da circa 350€ e i modelli Vivoactive da circa 250€.
+
 
 
 

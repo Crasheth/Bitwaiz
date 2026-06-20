@@ -16,6 +16,7 @@
 
 
 
+
 Le Common Vulnerabilities and Exposures (CVE) sono come una cartella di risorse per chi si occupa della sicurezza informatica. Queste vulnerabilità e esposizioni vengono identificate e documentate in modo standardizzato, rendendo più facile per gli sviluppatori e i responsabili della sicurezza mantenere le proprie applicazioni al sicuro.
 
 ![vulnerabilità CVE](https://images-na.ssl-images-amazon.com/images/S/pv-target-images/5d5eb88242f1b910ac5082a3f7fb1416a1d74411f1c0b5e3f0594e73fac488ce._RI_V_TTW_.jpg)
@@ -55,6 +56,7 @@ I CVE sono importanti perché:
 - **Standardizzazione**: consentono una comunicazione univoca e comprensibile tra gli esperti di sicurezza.
 - **Priorità**: aiutano le organizzazioni a priorizzare la gestione delle vulnerabilità basandosi sulla criticità e l'impatto.
 - **Risposta rapida**: facilitano il processo di identificazione e risoluzione delle vulnerabilità, migliorando la sicurezza globale.
+
 
 
 
