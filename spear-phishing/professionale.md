@@ -1,6 +1,7 @@
 # Come proteggersi dal phishing: guida completa 2026
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
 
 
 
@@ -171,6 +172,7 @@ Le tecniche più comuni utilizzate dagli attaccanti nello spear phishing includo
 ## Come posso segnalare un attacco di spear phishing?
 
 Puoi segnalare un attacco di spear phishing alle autorità competenti, come la polizia postale o il CERT (Centro Operativo Regionale) della tua regione.
+
 
 
 

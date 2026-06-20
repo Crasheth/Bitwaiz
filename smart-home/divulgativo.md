@@ -1,6 +1,7 @@
 # Smart Home: Il Futuro della Tua Casa è Già Qui (2026) 🏡
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 
@@ -109,6 +110,7 @@ Le fonti indicano che i costi di una smart home possono variare notevolmente a s
 ### Come posso integrare i miei dispositivi smart home esistenti?
 
 Le fonti suggeriscono di utilizzare un hub per la smart home compatibile con i tuoi dispositivi esistenti o di utilizzare app e servizi di terze parti che supportano una vasta gamma di dispositivi smart home.
+
 
 
 

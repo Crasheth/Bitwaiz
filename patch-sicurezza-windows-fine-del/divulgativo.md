@@ -1,6 +1,7 @@
 # Windows 10: Nuova Patch di Sicurezza per Proteggere il Tuo Sistema
 
-> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+
 
 
 
@@ -90,6 +91,7 @@ I sistemi operativi non supportati sono vulnerabili a nuove minacce informatiche
 ### Come posso garantire la sicurezza del mio sistema Windows 10?
 
 Puoi garantire la sicurezza del tuo sistema Windows 10 implementando misure di sicurezza aggiuntive, come firewall, software antivirus aggiornato e segmentazione della rete.
+
 
 
 
