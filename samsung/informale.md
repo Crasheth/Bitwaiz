@@ -1,6 +1,8 @@
 # ốTitolo: Samsung Electronics: Un Gigante Tecnologico in Evoluzione
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -332,6 +334,8 @@ Samsung Electronics sta adottando misure per ridurre il suo impatto ambientale, 
 ### Quali sono i principali concorrenti di Samsung Electronics?
 
 I principali concorrenti di Samsung Electronics includono Apple, Huawei e Xiaomi.
+
+
 
 
 

@@ -1,6 +1,8 @@
 # Gestione Progetti IoT: Verifica dell'Identità e Accesso Sicuro
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La tecnologia migliore è quella che scompare. — Mark Weiser.
+
+
 
 
 
@@ -127,6 +129,8 @@ La verifica richiesta (come il controllo della connessione sicura su Vimeo) è u
 
 ### Quali tipi di dispositivi IoT possono essere gestiti tramite questa risorsa?
 La risorsa gestisce oggetti IoT dislocati presso l'Università di Torino, suggerendo un focus su dispositivi e sensori utilizzati all'interno dell'istituzione.
+
+
 
 
 

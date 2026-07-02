@@ -59,6 +59,8 @@
 
 
 
+
+
 Se sei un appassionato di elettronica, un hobbista o semplicemente curioso di capire come il mondo IoT (Internet of Things) sta cambiando le cose, l'Arduino Uno R4 WiFi è il dispositivo che fa per te. Questo piccolo computer di bordo, dotato di connettività WiFi, ti apre le porte a un universo di possibilità, permettendoti di creare progetti intelligenti e interconnessi. Ma cosa rende l'R4 WiFi così speciale e perché dovresti considerare di usarlo per i tuoi progetti?
 
 
@@ -135,6 +137,8 @@ Le dimensioni sono di 65.0 mm x 53.0 mm e il peso è di circa 30 grammi.
 
 ### Quali sono le certificazioni di conformità dell'Arduino Uno R4 Wifi?
 È conforme alle normative CE, FCC e RoHS.
+
+
 
 
 

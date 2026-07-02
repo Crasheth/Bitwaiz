@@ -1,6 +1,8 @@
 # Aggiornamenti di Sicurezza Estesi di Windows 10: La Guida Definitiva per Non Farti Cacciare
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
+
 
 
 
@@ -76,6 +78,8 @@ Gli ESU forniscono patch di sicurezza regolari direttamente da Microsoft, garant
 ### Cosa succede se non installo gli Aggiornamenti di Sicurezza Estesi?
 
 Se non installi gli ESU, il tuo sistema Windows 10 rimarrà vulnerabile alle ultime minacce informatiche. Questo può portare a violazioni della sicurezza, perdita di dati e interruzioni operative.
+
+
 
 
 

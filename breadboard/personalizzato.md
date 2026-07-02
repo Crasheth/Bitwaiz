@@ -1,6 +1,8 @@
 # Breadboard: Il Cuore Pulsante dell'Elettronica Sperimentale
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -125,6 +127,8 @@ Puoi alimentare la tua breadboard con una fonte di alimentazione DC (corrente co
 
 ### Cosa succede se sbaglio una connessione?
 Se sbagli una connessione, il tuo circuito potrebbe non funzionare correttamente o addirittura danneggiare i componenti. Presta molta attenzione quando costruisci i tuoi circuiti e usa un multimetro per testare le connessioni.
+
+
 
 
 

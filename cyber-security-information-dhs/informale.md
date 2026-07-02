@@ -1,6 +1,8 @@
 # Sicurezza Informatica: Proteggi i Tuoi Dati nel 2026 | 58
 
-> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
+
 
 
 
@@ -136,6 +138,8 @@ I principali rischi includono malware, phishing, ransomware, attacchi di ingegne
 
 ### Come posso sapere se il mio dispositivo è stato compromesso?
 Puoi monitorare l'attività del tuo dispositivo, controllare il traffico di rete e utilizzare strumenti di scansione antivirus per rilevare eventuali minacce.
+
+
 
 
 
