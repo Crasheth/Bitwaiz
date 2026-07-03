@@ -5,8 +5,15 @@
     <link>https://bitwaiz.it/</link>
     <description>Articoli su trend tech, cybersecurity, elettronica e innovazione.</description>
     <language>it-it</language>
-    <lastBuildDate>Thu, 02 Jul 2026 06:38:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 06:40:30 GMT</lastBuildDate>
     <atom:link href="https://bitwaiz.it/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>Proteggi i tuoi dati con l&#x27;EDR in 2026</title>
+    <link>https://bitwaiz.it/edr/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/edr/</guid>
+    <pubDate>Fri, 03 Jul 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[Scopri come l'Endpoint Detection and Response può aiutarti a mantenere la sicurezza dei tuoi dispositivi. 🛡️]]></description>
+  </item>
   <item>
     <title>Zero Day: un avvertimento tecnologico per l&#x27;anno 2026</title>
     <link>https://bitwaiz.it/zero-day/</link>

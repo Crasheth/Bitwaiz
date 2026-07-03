@@ -13,6 +13,8 @@
 
 
 
+
+
 Negli ultimi anni, il mondo digitale si è trasformato in una palazzina piena di bug e hacker pronti a saltare fuori dal cassetto per mettere le mani sui tuoi valori più preziosi: i dati. Ma non dovresti arrenderti! Ci sono strumenti potenti come il "threat hunting" che possono aiutarti a difendere la tua privacy e la sicurezza aziendale.
 
 
@@ -76,6 +78,8 @@ Secondo le fonti, gli strumenti comuni includono EDR (Endpoint Detection and Res
 
 
 ![threat hunting](https://www.crowdstrike.com/wp-content/uploads/2019/06/where-does-threat-hunting-fit-graphic.png)
+
+
 
 
 

@@ -8,6 +8,8 @@
 
 
 
+
+
 Sony è noto per i suoi prodotti elettronici altamente tecnologici, ma nel campo del telefonino ha vissuto anni difficili. Il richiamo del Xperia segna un punto di non ritorno: se questa serie verrà definitivamente smessa, sarà l'ultima grande innovazione della marca in questo settore.
 
 ## Problemi e richiami
@@ -38,6 +40,8 @@ La situazione per Sony non è diversa: il Xperia è stato incluso nella lista de
 ### Qual è stata l'accoglienza negativa più significativa dell'Xperia?
 
 **Le critiche alla batteria, al design e all'hardware hanno costantemente minacciato la popolarità dell'Xperia. Inoltre, il recente caso del Pixel 6a ha evidenziato problemi di sicurezza che potrebbero avere impatto sulla reputazione della marca.**
+
+
 
 
 
