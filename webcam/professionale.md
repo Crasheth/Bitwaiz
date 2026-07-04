@@ -89,6 +89,8 @@
 
 
 
+
+
 Le webcam, dispositivi che catturano immagini o video e le trasmettono su una rete, hanno subito una notevole evoluzione dalla loro nascita come esperimento accademico. Inizialmente, nel 1994, Connectix introdusse la QuickCam, rendendo accessibile la tecnologia al grande pubblico. Questa prima webcam, collegata a un computer, consentiva di visualizzare in tempo reale le immagini catturate, aprendo la strada a nuove applicazioni come la sorveglianza remota e la comunicazione visiva.
 
 ![webcam](https://m.media-amazon.com/images/I/61o5uDZ9buL._AC_SL1500_.jpg)
@@ -130,6 +132,8 @@ Le webcam sono utilizzate in varie applicazioni, tra cui la sorveglianza, la sic
 
 ### Dove posso vedere le webcam in diretta?
 Esistono numerosi siti web che trasmettono video in diretta da webcam in tutto il mondo, come Skylinewebcams.com o Pontedilegno Tonale.
+
+
 
 
 

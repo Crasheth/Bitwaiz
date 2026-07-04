@@ -5,8 +5,15 @@
     <link>https://bitwaiz.it/</link>
     <description>Articoli su trend tech, cybersecurity, elettronica e innovazione.</description>
     <language>it-it</language>
-    <lastBuildDate>Fri, 03 Jul 2026 06:40:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 06:34:16 GMT</lastBuildDate>
     <atom:link href="https://bitwaiz.it/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>SIEM: la montagna di pietre della sicurezza digitale - 2026</title>
+    <link>https://bitwaiz.it/siem/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/siem/</guid>
+    <pubDate>Sat, 04 Jul 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[Come utilizzare un SIEM per proteggere le tue informazioni in tempo reale? Scopri la sua funzione e beneficio. 🌿]]></description>
+  </item>
   <item>
     <title>Proteggi i tuoi dati con l&#x27;EDR in 2026</title>
     <link>https://bitwaiz.it/edr/</link>
