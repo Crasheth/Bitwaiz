@@ -56,6 +56,8 @@
 
 
 
+
+
 La Kozenix S8 offre una registrazione video 6K a 30fps, una stabilizzazione elettronica avanzata e una risoluzione fotografica da 20MP. È dotata di una serie di accessori, tra cui un supporto per il petto, un supporto per il casco e un supporto per il telefono.
 
 ## Nota 1: Qual è la risoluzione video supportata dalla fotocamera d'azione Kozenix S8?
@@ -88,6 +90,8 @@ Sì, la Kozenix S8 è dotata di un'interfaccia intuitiva e di numerosi controlli
 
 ### Quali accessori sono inclusi?
 La confezione include una custodia di trasporto, un supporto per il casco, una tracolla e un adattatore per il microfono esterno.
+
+
 
 
 
