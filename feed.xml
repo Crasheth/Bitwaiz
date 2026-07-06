@@ -5,8 +5,15 @@
     <link>https://bitwaiz.it/</link>
     <description>Articoli su trend tech, cybersecurity, elettronica e innovazione.</description>
     <language>it-it</language>
-    <lastBuildDate>Sun, 05 Jul 2026 06:36:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 06:36:34 GMT</lastBuildDate>
     <atom:link href="https://bitwaiz.it/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>Exploit e HMS Exploit P167: Cosa Sono e Perché Sono Importanti</title>
+    <link>https://bitwaiz.it/exploit/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/exploit/</guid>
+    <pubDate>Mon, 06 Jul 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[In questo articolo esploreremo il significato di &quot;exploit&quot; nel contesto della sicurezza informatica, illustrando come questi potenziali vuln…]]></description>
+  </item>
   <item>
     <title>Proteggere le organizzazioni nel 2026 con l&#x27;ATT&amp;CK (58</title>
     <link>https://bitwaiz.it/mitre-attck/</link>

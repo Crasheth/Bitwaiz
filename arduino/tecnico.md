@@ -80,6 +80,8 @@
 
 
 
+
+
 L'Arduino IDE è un ambiente di sviluppo integrato (IDE) basato su Eclipse, utilizzato per scrivere, caricare e gestire codice per microcontrollori basati su Arduino. Permette agli utenti di creare applicazioni per dispositivi embedded, come sensori e attuatori, che comunicano con il resto del mondo tramite il protocollo seriale.
 
 ## Nota 1: Quali sono i linguaggi di programmazione supportati
@@ -126,6 +128,8 @@ L'Arduino Uno è il modello più popolare e ampiamente utilizzato. Ha una vasta 
 ### Dove posso trovare tutorial e risorse per Arduino?
 
 Ci sono numerose risorse online disponibili per imparare Arduino, tra cui il sito web ufficiale di Arduino, forum della comunità, tutorial su YouTube e corsi online.
+
+
 
 
 

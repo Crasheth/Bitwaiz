@@ -8,6 +8,8 @@
 
 
 
+
+
 ![EDR](https://www.webopedia.com/wp-content/uploads/2019/07/EDR_Graphic-01.png)
 
 ## Introduzione alle linee guida
@@ -49,6 +51,8 @@ L'uso di EDR offre diversi vantaggi come un monitoraggio continuo degli endpoint
 
 ### Come si differenzia l'EDR dagli altri strumenti di sicurezza?
 L'EDR è diverso dagli antivirus tradizionali in quanto agisce come un sistema di rilevamento di comportamenti anomali, monitorando i processi e le attività sui dispositivi. Invece degli antivirus che si basano principalmente su definizioni di malware, l'EDR utilizza tecniche avanzate come l'intelligenza artificiale per identificare minacche nuove o sconosciute.
+
+
 
 
 
