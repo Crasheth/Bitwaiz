@@ -1,0 +1,102 @@
+{
+  "run_id": "20260706-210048",
+  "slug": "recall-smartphone",
+  "topic": "recall smartphone",
+  "tones": [
+    "divulgativo",
+    "personalizzato"
+  ],
+  "sources_meta": [
+    {
+      "title": "The Final Recall: Sony Xperia Smartphone Last Gasp Before ...",
+      "url": "https://www.androidheadlines.com/2025/07/the-final-recall-sony-xperia-smartphone-last-gasp-before-mobile-death.html"
+    },
+    {
+      "title": "Product Safety Report: Google Pixel 6a Smartphones (2509-0317)",
+      "url": "https://www.gov.uk/product-safety-alerts-reports-recalls/product-safety-report-google-pixel-6a-smartphones-2509-0317"
+    },
+    {
+      "title": "Recalls.gov",
+      "url": "https://www.recalls.gov/"
+    },
+    {
+      "title": "Cell Phones | CPSC.gov",
+      "url": "https://www.cpsc.gov/Recall-Products/Cell-Phones"
+    }
+  ],
+  "baseline_ping": {
+    "ok": true,
+    "info": "qwen2.5:3b, nomic-embed-text:latest, glm-ocr:latest"
+  },
+  "candidate_ping": {
+    "ok": false,
+    "info": "HTTPConnectionPool(host='192.168.1.89', port=1234): Max retries exceeded with url: /v1/models (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x0000026FE256CFD0>, 'Connection to 192.168.1.89 timed out. (connect timeout=8.0)'))"
+  },
+  "reports": [
+    {
+      "label": "baseline",
+      "base_url": "http://localhost:11434",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "reachable": true,
+      "tones": {
+        "divulgativo": {
+          "tone": "divulgativo",
+          "chars": 2177,
+          "refusal": false,
+          "body_ok": true,
+          "faq_order_ok": false,
+          "artifacts": {
+            "bracket_h1": 0,
+            "bracket_title_leak": 2,
+            "ricordat_recall": 0,
+            "dei_smartphone": 0,
+            "crucified": 0,
+            "idroponica_offtopic": 0
+          },
+          "stats": {
+            "words": 249,
+            "h2": 6,
+            "faq_questions": 0
+          },
+          "seconds": 520.6
+        },
+        "personalizzato": {
+          "tone": "personalizzato",
+          "chars": 3747,
+          "refusal": false,
+          "body_ok": true,
+          "faq_order_ok": false,
+          "artifacts": {
+            "bracket_h1": 0,
+            "bracket_title_leak": 3,
+            "ricordat_recall": 0,
+            "dei_smartphone": 0,
+            "crucified": 0,
+            "idroponica_offtopic": 0
+          },
+          "stats": {
+            "words": 368,
+            "h2": 5,
+            "faq_questions": 0
+          },
+          "personalizzato_ok": true,
+          "seconds": 974.6
+        }
+      }
+    },
+    {
+      "label": "candidate-fallback",
+      "base_url": "http://localhost:11434",
+      "model": "qwen3.5:4b",
+      "reachable": true,
+      "tones": {
+        "divulgativo": {
+          "error": "Errore Ollama durante la generazione. Dettaglio: RuntimeError: Output LLM non valido: articolo non in italiano o non conforme allo stile richiesto.. Modello richiesto: 'qwen3.5:4b'.  Endpoint OK (200). Modelli visibili: qwen2.5:3b, nomic-embed-text:latest, glm-ocr:latest, llama3.2:3b, qwen2.5:7b-instruct-q4_K_M, cyberQ4:latest, cyber:latest, qwen3.5:4b Verifica servizio (`ollama serve`) e modello (`ollama pull qwen3.5:4b`)."
+        },
+        "personalizzato": {
+          "error": "Errore Ollama durante la generazione. Dettaglio: RuntimeError: Output LLM non valido: articolo non in italiano o non conforme allo stile richiesto.. Modello richiesto: 'qwen3.5:4b'.  Endpoint OK (200). Modelli visibili: qwen2.5:3b, nomic-embed-text:latest, glm-ocr:latest, llama3.2:3b, qwen2.5:7b-instruct-q4_K_M, cyberQ4:latest, cyber:latest, qwen3.5:4b Verifica servizio (`ollama serve`) e modello (`ollama pull qwen3.5:4b`)."
+        }
+      }
+    }
+  ]
+}

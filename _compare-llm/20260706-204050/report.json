@@ -1,0 +1,65 @@
+{
+  "run_id": "20260706-204050",
+  "slug": "recall-smartphone",
+  "topic": "recall smartphone",
+  "tones": [
+    "divulgativo",
+    "personalizzato"
+  ],
+  "sources_meta": [
+    {
+      "title": "The Final Recall: Sony Xperia Smartphone Last Gasp Before ...",
+      "url": "https://www.androidheadlines.com/2025/07/the-final-recall-sony-xperia-smartphone-last-gasp-before-mobile-death.html"
+    },
+    {
+      "title": "Product Safety Report: Google Pixel 6a Smartphones (2509-0317)",
+      "url": "https://www.gov.uk/product-safety-alerts-reports-recalls/product-safety-report-google-pixel-6a-smartphones-2509-0317"
+    },
+    {
+      "title": "Recalls.gov",
+      "url": "https://www.recalls.gov/"
+    },
+    {
+      "title": "Cell Phones | CPSC.gov",
+      "url": "https://www.cpsc.gov/Recall-Products/Cell-Phones"
+    }
+  ],
+  "baseline_ping": {
+    "ok": true,
+    "info": "qwen2.5:3b, nomic-embed-text:latest, glm-ocr:latest"
+  },
+  "candidate_ping": {
+    "ok": false,
+    "info": "HTTPConnectionPool(host='192.168.1.89', port=1234): Max retries exceeded with url: /v1/models (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001A57E4CE390>, 'Connection to 192.168.1.89 timed out. (connect timeout=8.0)'))"
+  },
+  "reports": [
+    {
+      "label": "baseline",
+      "base_url": "http://localhost:11434",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "reachable": true,
+      "tones": {
+        "divulgativo": {
+          "error": "Errore Ollama durante la generazione. Dettaglio: APITimeoutError: Request timed out.. Modello richiesto: 'qwen2.5:7b-instruct-q4_K_M'.  Endpoint OK (200). Modelli visibili: qwen2.5:3b, nomic-embed-text:latest, glm-ocr:latest, llama3.2:3b, qwen2.5:7b-instruct-q4_K_M, cyberQ4:latest, cyber:latest, qwen3.5:4b Verifica servizio (`ollama serve`) e modello (`ollama pull qwen2.5:7b-instruct-q4_K_M`)."
+        },
+        "personalizzato": {
+          "error": "Errore Ollama durante la generazione. Dettaglio: APITimeoutError: Request timed out.. Modello richiesto: 'qwen2.5:7b-instruct-q4_K_M'.  Endpoint OK (200). Modelli visibili: qwen2.5:3b, nomic-embed-text:latest, glm-ocr:latest, llama3.2:3b, qwen2.5:7b-instruct-q4_K_M, cyberQ4:latest, cyber:latest, qwen3.5:4b Verifica servizio (`ollama serve`) e modello (`ollama pull qwen2.5:7b-instruct-q4_K_M`)."
+        }
+      }
+    },
+    {
+      "label": "candidate-fallback",
+      "base_url": "http://localhost:11434",
+      "model": "cyberQ4:latest",
+      "reachable": true,
+      "tones": {
+        "divulgativo": {
+          "error": "Errore Ollama durante la generazione. Dettaglio: BadRequestError: Error code: 400 - {'error': {'message': '{\"error\":{\"code\":400,\"message\":\"request (7133 tokens) exceeds the available context size (4096 tokens), try increasing it\",\"type\":\"exceed_context_size_error\",\"n_prompt_tokens\":7133,\"n_ctx\":4096}}', 'type': 'invalid_requ. Modello richiesto: 'cyberQ4:latest'.  Endpoint OK (200). Modelli visibili: qwen2.5:3b, nomic-embed-text:latest, glm-ocr:latest, llama3.2:3b, qwen2.5:7b-instruct-q4_K_M, cyberQ4:latest, cyber:latest, qwen3.5:4b Verifica servizio (`ollama serve`) e modello (`ollama pull cyberQ4:latest`)."
+        },
+        "personalizzato": {
+          "error": "Errore Ollama durante la generazione. Dettaglio: BadRequestError: Error code: 400 - {'error': {'message': '{\"error\":{\"code\":400,\"message\":\"request (7849 tokens) exceeds the available context size (4096 tokens), try increasing it\",\"type\":\"exceed_context_size_error\",\"n_prompt_tokens\":7849,\"n_ctx\":4096}}', 'type': 'invalid_requ. Modello richiesto: 'cyberQ4:latest'.  Endpoint OK (200). Modelli visibili: qwen2.5:3b, nomic-embed-text:latest, glm-ocr:latest, llama3.2:3b, qwen2.5:7b-instruct-q4_K_M, cyberQ4:latest, cyber:latest, qwen3.5:4b Verifica servizio (`ollama serve`) e modello (`ollama pull cyberQ4:latest`)."
+        }
+      }
+    }
+  ]
+}

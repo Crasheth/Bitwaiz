@@ -20,6 +20,8 @@
 
 
 
+
+
 Nel mondo sempre più connesso di oggi, le PMI e le grandi aziende devono affrontare una serie di sfide che vanno dal phishing all'intrusione informatica. Tra queste minacce emergono quelle che si chiamano "minacce zero-day" o "zero-hour", caratterizzate dalla loro capacità di sfruttare vulnerabilità non ancora note dalle firme antivirus. Per affrontare questo scenario, le organizzazioni hanno iniziato a utilizzare una pratica tecnica chiamata *threat hunting*.
 
 ![threat hunting](https://www.crowdstrike.com/wp-content/uploads/2019/06/where-does-threat-hunting-fit-graphic.png)
@@ -65,6 +67,8 @@ Secondo le fonti, gli strumenti comuni includono EDR (Endpoint Detection and Res
 
 
 ![threat hunting](https://www.crowdstrike.com/wp-content/uploads/2019/06/where-does-threat-hunting-fit-graphic.png)
+
+
 
 
 

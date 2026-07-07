@@ -12,6 +12,8 @@
 
 
 
+
+
 ![zero day](https://m.media-amazon.com/images/M/MV5BMmYwNWM3ZWEtMmRlMi00MTA5LWFlY2QtMGI2MTdjOWFiZjgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg)
 
 ## Introduzione al Problema
@@ -70,6 +72,8 @@ Per prevenire minacce AI, è necessario:
 - **Implementare MFA (Multi-Factor Authentication)**: Assicurarsi che l'accesso ai sistemi sia protetto da più fattori.
 - **Utilizzare EDR (Endpoint Detection and Response)**: Monitorare i comportamenti sospetti sulle endpoint per identificare attività anomale.
 - **Riservare backup air-gapped**: Creare copie di riserva in isolamento fisico per proteggere dati critici.
+
+
 
 
 

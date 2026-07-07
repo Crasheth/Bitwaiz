@@ -8,6 +8,8 @@
 
 
 
+
+
 Se immaginassi una montagna composta da molte piccole pietre, ogni pietra rappresenterebbe un'informazione digitale. Ogni giorno, queste pietre si spostano e cambiano posizione, ma la montagna rimane alta e solida. La sicurezza delle informazioni è come questa montagna: non un prodotto che puoi costruire una volta per tutte, ma un processo continuo di protezione.
 
 Nel mondo moderno, l'informazione digitale è sempre in movimento, e con essa vengono introdotte nuove minacce. Per garantire la sicurezza delle tue informazioni, devi avere strumenti che possano sorvegliare costantemente questa montagna di pietre - e questo è esattamente ciò che il SIEM (Security Information and Event Management) fa.
@@ -42,6 +44,8 @@ Può essere utilizzato per l'analisi di eventi in tempo reale e la raccolta di d
 ### Come si differenzia il SIEM dalle soluzioni antivirus?
 
 Il SIEM monitora e analizza i log e i flussi di eventi in tempo reale, mentre le soluzioni antivirus sono concentrate sulla protezione statica dei file e delle applicazioni.
+
+
 
 
 

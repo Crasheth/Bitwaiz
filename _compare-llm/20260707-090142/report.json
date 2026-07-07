@@ -1,0 +1,139 @@
+{
+  "run_id": "20260707-090142",
+  "slug": "recall-smartphone",
+  "topic": "recall smartphone",
+  "tones": [
+    "divulgativo",
+    "personalizzato"
+  ],
+  "sources_meta": [
+    {
+      "title": "The Final Recall: Sony Xperia Smartphone Last Gasp Before ...",
+      "url": "https://www.androidheadlines.com/2025/07/the-final-recall-sony-xperia-smartphone-last-gasp-before-mobile-death.html"
+    },
+    {
+      "title": "Product Safety Report: Google Pixel 6a Smartphones (2509-0317)",
+      "url": "https://www.gov.uk/product-safety-alerts-reports-recalls/product-safety-report-google-pixel-6a-smartphones-2509-0317"
+    },
+    {
+      "title": "Recalls.gov",
+      "url": "https://www.recalls.gov/"
+    },
+    {
+      "title": "Cell Phones | CPSC.gov",
+      "url": "https://www.cpsc.gov/Recall-Products/Cell-Phones"
+    }
+  ],
+  "baseline_ping": {
+    "ok": true,
+    "info": "qwen2.5:3b, nomic-embed-text:latest, glm-ocr:latest"
+  },
+  "candidate_ping": {
+    "ok": true,
+    "info": "deepseek-r1-distill-qwen-7b, text-embedding-nomic-embed-text-v1.5"
+  },
+  "reports": [
+    {
+      "label": "baseline",
+      "base_url": "http://localhost:11434",
+      "model": "qwen2.5:7b-instruct-q4_K_M",
+      "reachable": true,
+      "tones": {
+        "divulgativo": {
+          "tone": "divulgativo",
+          "chars": 2266,
+          "refusal": false,
+          "body_ok": true,
+          "faq_order_ok": false,
+          "artifacts": {
+            "bracket_h1": 0,
+            "bracket_title_leak": 1,
+            "ricordat_recall": 1,
+            "dei_smartphone": 0,
+            "crucified": 0,
+            "idroponica_offtopic": 0
+          },
+          "stats": {
+            "words": 216,
+            "h2": 5,
+            "faq_questions": 0
+          },
+          "seconds": 66.3
+        },
+        "personalizzato": {
+          "tone": "personalizzato",
+          "chars": 3658,
+          "refusal": false,
+          "body_ok": true,
+          "faq_order_ok": false,
+          "artifacts": {
+            "bracket_h1": 0,
+            "bracket_title_leak": 5,
+            "ricordat_recall": 0,
+            "dei_smartphone": 0,
+            "crucified": 0,
+            "idroponica_offtopic": 0
+          },
+          "stats": {
+            "words": 366,
+            "h2": 4,
+            "faq_questions": 0
+          },
+          "personalizzato_ok": true,
+          "seconds": 156.3
+        }
+      }
+    },
+    {
+      "label": "lmstudio",
+      "base_url": "http://127.0.0.1:1234",
+      "model": "deepseek-r1-distill-qwen-7b",
+      "reachable": true,
+      "tones": {
+        "divulgativo": {
+          "tone": "divulgativo",
+          "chars": 2589,
+          "refusal": false,
+          "body_ok": true,
+          "faq_order_ok": false,
+          "artifacts": {
+            "bracket_h1": 0,
+            "bracket_title_leak": 0,
+            "ricordat_recall": 0,
+            "dei_smartphone": 0,
+            "crucified": 0,
+            "idroponica_offtopic": 0
+          },
+          "stats": {
+            "words": 284,
+            "h2": 4,
+            "faq_questions": 0
+          },
+          "seconds": 904.7
+        },
+        "personalizzato": {
+          "tone": "personalizzato",
+          "chars": 3594,
+          "refusal": false,
+          "body_ok": true,
+          "faq_order_ok": false,
+          "artifacts": {
+            "bracket_h1": 0,
+            "bracket_title_leak": 0,
+            "ricordat_recall": 0,
+            "dei_smartphone": 0,
+            "crucified": 0,
+            "idroponica_offtopic": 0
+          },
+          "stats": {
+            "words": 370,
+            "h2": 7,
+            "faq_questions": 0
+          },
+          "personalizzato_ok": true,
+          "seconds": 1465.8
+        }
+      }
+    }
+  ]
+}
