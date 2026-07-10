@@ -1,6 +1,8 @@
 # Sensori: Guida Completa al Mondo che ti Circonda | 2026
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+
 
 
 
@@ -199,6 +201,8 @@ Un sensore a fibra ottica utilizza la luce trasmessa attraverso una fibra ottica
 ### Quali sono le applicazioni dei sensori nell'automazione industriale?
 
 I sensori sono ampiamente utilizzati nell'automazione industriale per il controllo di processi, il monitoraggio delle macchine, la robotica e l'assemblaggio. Permettono di migliorare l'efficienza, la precisione e la sicurezza dei processi produttivi.
+
+
 
 
 

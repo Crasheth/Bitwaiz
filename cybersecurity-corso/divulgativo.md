@@ -1,6 +1,8 @@
 # Impara a Proteggere la Tua Vita Digitale: Una Guida Pratica alla Sicurezza Informatica
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -229,6 +231,8 @@ Puoi proteggere i tuoi dispositivi da malware utilizzando un buon software antiv
 ### Cosa fare in caso di violazione dei dati?
 
 Se sospetti di aver subito una violazione dei dati, cambia immediatamente le tue password, monitora i tuoi account per attività sospette e segnala l'incidente alle autorità competenti.
+
+
 
 
 

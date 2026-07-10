@@ -1,6 +1,8 @@
 # Windows 10: Fine del Supporto e Nuove Strategie di Difesa
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
+
 
 
 
@@ -105,6 +107,8 @@ I sistemi operativi non supportati sono vulnerabili a nuove minacce informatiche
 ### Come posso garantire la sicurezza del mio sistema Windows 10?
 
 Puoi garantire la sicurezza del tuo sistema Windows 10 implementando misure di sicurezza aggiuntive, come firewall, software antivirus aggiornato e segmentazione della rete.
+
+
 
 
 

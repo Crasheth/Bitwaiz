@@ -8,6 +8,8 @@
 
 
 
+
+
 ![MITRE ATT&CK](https://assets.website-files.com/5ff66329429d880392f6cba2/63f66cf10c804fd8a6fbd4f2_MITRE+ATT&CK.jpg)
 
 ## Introduzione
@@ -64,6 +66,8 @@ Per implementare gli EDR, dovresti prima valutare la tua infrastruttura e identi
 ### Quali sono i passaggi chiave per un recupero di incidenti efficace secondo il MITRE ATT&CK?
 
 Secondo le linee guida del MITRE ATT&CK, i passaggi chiave includono la documentazione dettagliata dell'incidente, l'isolamento della rete compromessa e la ripristino dei sistemi da un backup sicuro.
+
+
 
 
 
