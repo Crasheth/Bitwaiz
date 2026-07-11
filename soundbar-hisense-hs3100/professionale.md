@@ -90,6 +90,8 @@
 
 
 
+
+
 Una soundbar è un altoparlante compatto progettato per essere posizionato sotto o accanto al televisore, offrendo un'esperienza audio più coinvolgente rispetto agli altoparlanti integrati del televisore.
 
 ## Nota 1: Quali sono le caratteristiche principali di una soundbar di fascia media come l'HS3100?
@@ -162,6 +164,8 @@ Assicurati che il Bluetooth del tuo dispositivo sia attivo, che la soundbar sia 
 
 ### Come posso pulire la soundbar?
 Pulisci la soundbar con un panno morbido e asciutto. Evita l'uso di detergenti abrasivi.
+
+
 
 
 
