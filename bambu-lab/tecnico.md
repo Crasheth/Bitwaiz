@@ -1,6 +1,7 @@
 # Bambu lab
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
 
 
 
@@ -170,6 +171,7 @@ Le stampanti Bambu Lab possono essere monitorate tramite l'app Bambu Studio, che
 
 *   [Stampa 3D: Guida per Principianti](https://www.arduino.cc/en/Guide/3DPrinting) - Una guida completa per chi si avvicina alla stampa 3D.
 *   [Ricerca di materiali per la stampa 3D](https://www.matterhackers.com/blog/materials-3d-printing) - Informazioni sui diversi materiali disponibili per la stampa 3D e le loro applicazioni.
+
 
 
 

@@ -121,6 +121,7 @@
 
 
 
+
 Secondo le fonti, Information Security si riferisce all'insieme di politiche, procedure e tecnologie utilizzate per proteggere le informazioni da accessi non autorizzati, usi impropri, divulgazione, interruzione, modifica o distruzione.
 
 ## Nota 1: Quali sono le principali minacce alla sicurezza delle informazioni
@@ -176,6 +177,7 @@ I principali rischi includono malware, phishing, ransomware, attacchi di ingegne
 
 ### Come posso sapere se il mio dispositivo è stato compromesso?
 Puoi monitorare l'attività del tuo dispositivo, controllare il traffico di rete e utilizzare strumenti di scansione antivirus per rilevare eventuali minacce.
+
 
 
 

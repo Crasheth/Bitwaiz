@@ -1,6 +1,7 @@
 # manifolds # Titolo
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
 
 
 
@@ -112,6 +113,7 @@ I prezzi degli smartphone 5G di fascia alta nel 2026 si aggirano tra i 1000 e i 
 ### Quali sono i vantaggi della rete 5G rispetto alla rete 4G?
 
 La rete 5G offre velocità di download e upload significativamente più elevate rispetto alla rete 4G, oltre a una latenza inferiore e una maggiore capacità di rete.
+
 
 
 

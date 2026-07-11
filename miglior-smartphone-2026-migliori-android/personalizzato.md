@@ -1,6 +1,7 @@
 # Smartphone 2026: Un Giardino di Possibilità – Idroponica, Cicli e l'Impermanenza del Digitale
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 
 
@@ -105,6 +106,7 @@ Gli aggiornamenti software sono fondamentali per correggere le vulnerabilità di
 
 ### Come posso monitorare l'attività di sicurezza sul mio smartphone Android?
 È possibile monitorare l'attività di sicurezza utilizzando app di sicurezza, strumenti di monitoraggio e analisi dei log.
+
 
 
 

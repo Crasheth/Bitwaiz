@@ -17,6 +17,7 @@
 
 
 
+
 ## Introduzione
 
 Ti stai chiedendo cosa sia l'Endpoint Detection and Response (EDR) e come funziona in un mondo sempre più connesso. Forse hai sentito parlare di antivirus o firewall, ma forse non sai proprio cosa è EDR. In questo articolo ti spiegheremo le basi dell'EDR, perché dovresti preoccuparti di esso e quali strumenti potrebbero essere i più adatti per te.
@@ -59,6 +60,7 @@ L'uso di EDR offre diversi vantaggi come un monitoraggio continuo degli endpoint
 
 ### Come si differenzia l'EDR dagli altri strumenti di sicurezza?
 L'EDR è diverso dagli antivirus tradizionali in quanto agisce come un sistema di rilevamento di comportamenti anomali, monitorando i processi e le attività sui dispositivi. Invece degli antivirus che si basano principalmente su definizioni di malware, l'EDR utilizza tecniche avanzate come l'intelligenza artificiale per identificare minacce nuove o sconosciute.
+
 
 
 

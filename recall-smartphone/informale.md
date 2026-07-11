@@ -1,6 +1,7 @@
 # La fine dell'era Xperia? Sony e i problemi degli smartphone
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
 
 
 
@@ -52,6 +53,7 @@ Sony sembra decisa a fare un ultimo sforzo con l'Xperia prima di chiudere le por
 ### Qual è stata l'accoglienza negativa più significativa dell'Xperia?
 
 **Le critiche alla batteria, al design e all'hardware hanno costantemente minacciato la popolarità dell'Xperia. Inoltre, il recente caso del Pixel 6a ha evidenziato problemi di sicurezza che potrebbero avere impatto sulla reputazione della marca.**
+
 
 
 

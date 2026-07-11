@@ -1,6 +1,7 @@
 # 5G: Cosa Significa e Come Funziona (Guida 2026)
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
 
 
 
@@ -152,6 +153,7 @@ Puoi utilizzare app di test della velocità per confrontare le velocità di conn
 
 
 ![5G](https://etimg.etb2bimg.com/photo/92005566.cms)
+
 
 
 

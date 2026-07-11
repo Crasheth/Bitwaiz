@@ -1,6 +1,7 @@
 # Hisense HS3100 Soundbar: Guida completa 2026
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
 
 
 
@@ -169,6 +170,7 @@ Assicurati che il Bluetooth del tuo dispositivo sia attivo, che la soundbar sia 
 
 ### Come posso pulire la soundbar?
 Pulisci la soundbar con un panno morbido e asciutto. Evita l’uso di detergenti abrasivi.
+
 
 
 
