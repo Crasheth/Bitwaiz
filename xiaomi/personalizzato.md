@@ -1,6 +1,7 @@
 # Xiaomi: Il Giardino dell’Innovazione – Immanenza e Riqualificazione
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
 
 
 
@@ -195,6 +196,7 @@ Xiaomi si differenzia dalla concorrenza grazie alla sua strategia di "valore", a
 ### Quali sono i mercati geografici più importanti per Xiaomi?
 
 I mercati geografici più importanti per Xiaomi sono la Cina, l'India, l'Europa e il Sud-Est asiatico. L'azienda sta espandendo la sua presenza in nuovi mercati, come il Nord America, per aumentare la sua quota di mercato globale.
+
 
 
 

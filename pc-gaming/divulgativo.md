@@ -1,6 +1,7 @@
 # Costruisci il tuo PC Gaming: Guida per Principianti (2026)
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 
@@ -224,6 +225,7 @@ Il refresh rate del monitor indica quanti volte al secondo il monitor aggiorna l
 ### Come posso migliorare le prestazioni del mio PC gaming?
 
 Puoi migliorare le prestazioni del tuo PC gaming aggiornando le componenti hardware, ottimizzando le impostazioni grafiche dei giochi e chiudendo le applicazioni non necessarie.
+
 
 
 

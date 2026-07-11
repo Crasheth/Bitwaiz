@@ -1,6 +1,7 @@
 # Proteggere le organizzazioni nel 2026 con l'ATT&CK (58
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
 
 
 
@@ -68,6 +69,7 @@ Per implementare gli EDR, dovresti prima valutare la tua infrastruttura e identi
 ### Quali sono i passaggi chiave per un recupero di incidenti efficace secondo il MITRE ATT&CK?
 
 Secondo le linee guida del MITRE ATT&CK, i passaggi chiave includono la documentazione dettagliata dell'incidente, l'isolamento della rete compromessa e la ripristino dei sistemi da un backup sicuro.
+
 
 
 

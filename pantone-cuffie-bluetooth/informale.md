@@ -1,6 +1,7 @@
 # Cuffie Pantone PT-WH005N1 Blu: Quando il comfort incontra la tecnologia
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
 
 
 
@@ -115,6 +116,7 @@ Il prezzo di queste cuffie è di 25,51 euro.
 ### Dove posso acquistare queste cuffie?
 
 Queste cuffie sono disponibili su Amazon e Ciaoone.
+
 
 
 

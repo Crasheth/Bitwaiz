@@ -1,6 +1,7 @@
 # Generazione di Password Casuali: Sicurezza e Best Practice
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 
@@ -205,6 +206,7 @@ Utilizza un password manager per memorizzare e generare password complesse.
 ### Cosa succede se dimentico la mia password?
 
 Utilizza la funzione di recupero password fornita dal servizio a cui stai tentando di accedere.
+
 
 
 

@@ -1,6 +1,7 @@
 # Diversità obbligatoria nel team di sicurezza operativa 2026 🚀
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 
 
@@ -36,29 +37,29 @@ Immagina di essere responsabile della sicurezza digitale di una grande organizza
 
 ## Domande frequenti
 
-### Quali sono gli indicatori operativi (IOC) e perché sono importanti per la sicurezza delle reti?
+# Quali sono gli indicatori operativi (IOC) e perché sono importanti per la sicurezza delle reti?
 
 Gli indicatori operativi (IOC) sono elementi specifici che possono segnalare l'attività malvagia su una rete. Sono fondamentali perché consentono di identificare, prevenire e rispondere rapidamente alle minacce. Può sembrare ovvio, ma la loro utilità sta nel fatto che permettono ai team di sicurezza di monitorare in tempo reale i comportamenti sospetti.
 
-### Come si possono rilevare gli IOC?
+# Come si possono rilevare gli IOC?
 
 Gli IOC possono essere rilevati attraverso diversi metodi. Può sembrare complesso, ma la procedura richiede l'implementazione di strumenti come EDR (Endpoint Detection and Response) e MFA (Multi-Factor Authentication). Inoltre, il monitoraggio costante delle attività sull'infrastruttura può aiutare a identificare comportamenti anomali.
 
-### Quali sono i principali tipi di IOC?
+# Quali sono i principali tipi di IOC?
 
 Gli IOC possono essere classificati in vari tipi:
 1. **IOC basati su indirizzi**: come IP o MAC address.
 2. **IOC basati sul comportamento**: come file eseguibili sospetti, accesso non autorizzato a risorse criticali.
 3. **IOC temporali**: come accessi durante periodi di attività normale ridotta.
 
-### Come si possono implementare gli IOC in una rete aziendale?
+# Come si possono implementare gli IOC in una rete aziendale?
 
 Per implementare efficacemente gli IOC in una rete aziendale, è necessario:
 1. **Identificare le minacce relevanti** specifiche per l'azienda.
 2. **Implementare strumenti di rilevamento e risposta** come EDR.
 3. **Creare un processo di monitoraggio costante** utilizzando tecniche come la threat hunting.
 
-### Quali sono i vantaggi della gestione degli IOC?
+# Quali sono i vantaggi della gestione degli IOC?
 
 La gestione corretta degli IOC offre diversi vantaggi, tra cui:
 1. **Rapida identificazione e risposta alle minacce**.
@@ -67,6 +68,7 @@ La gestione corretta degli IOC offre diversi vantaggi, tra cui:
 ---
 
 ![ESP32](https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5971/ESP32-S3-DEVKITM-1-N8.jpg)
+
 
 
 
