@@ -1,6 +1,8 @@
 # Generazione di Password Casuali: Sicurezza e Best Practice
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -207,6 +209,8 @@ Utilizza un password manager per memorizzare e generare password complesse.
 ### Cosa succede se dimentico la mia password?
 
 Utilizza la funzione di recupero password fornita dal servizio a cui stai tentando di accedere.
+
+
 
 
 

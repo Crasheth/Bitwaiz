@@ -1,6 +1,8 @@
 # Proteggi i tuoi dati con l'EDR nel 2026
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -63,6 +65,8 @@ L'uso di EDR offre diversi vantaggi come un monitoraggio continuo degli endpoint
 
 ### Come si differenzia l'EDR dagli altri strumenti di sicurezza?
 L'EDR è diverso dagli antivirus tradizionali in quanto agisce come un sistema di rilevamento di comportamenti anomali, monitorando i processi e le attività sui dispositivi. Invece degli antivirus che si basano principalmente su definizioni di malware, l'EDR utilizza tecniche avanzate come l'intelligenza artificiale per identificare minacce nuove o sconosciute.
+
+
 
 
 

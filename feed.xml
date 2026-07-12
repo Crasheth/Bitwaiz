@@ -5,8 +5,15 @@
     <link>https://bitwaiz.it/</link>
     <description>Articoli su trend tech, cybersecurity, elettronica e innovazione.</description>
     <language>it-it</language>
-    <lastBuildDate>Sat, 11 Jul 2026 06:59:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 06:35:22 GMT</lastBuildDate>
     <atom:link href="https://bitwaiz.it/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>La sicurezza dei dispositivi Raspberry Pi nel 2026: una guida per decision maker e stakeholder</title>
+    <link>https://bitwaiz.it/raspberry-pi/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/raspberry-pi/</guid>
+    <pubDate>Sun, 12 Jul 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[Se stai cercando informazioni su come accrescere la diversità all'interno delle tue organizzazioni, questo articolo è per te. Scopri perché …]]></description>
+  </item>
   <item>
     <title>ESP32: microcontrollore Wi-Fi e Bluetooth per l&#x27;IoT</title>
     <link>https://bitwaiz.it/esp32/</link>
