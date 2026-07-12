@@ -20,6 +20,7 @@
 
 
 
+
 L'Endpoint Detection and Response (EDR), una tecnologia avanzata di sicurezza, rappresenta uno strumento fondamentale per le piccole e medie imprese (PMI) che vogliono proteggersi contro minacce cyber. In un mondo sempre più connesso, la gestione della sicurezza dei dispositivi è diventata cruciale per evitare danni finanziari e reputazionali.
 
 ![EDR](https://www.openedr.com/blog/wp-content/uploads/2023/03/Primary-Functions-of-EDR.png)
@@ -65,6 +66,7 @@ L'uso di EDR offre diversi vantaggi come un monitoraggio continuo degli endpoint
 
 ### Come si differenzia l'EDR dagli altri strumenti di sicurezza?
 L'EDR è diverso dagli antivirus tradizionali in quanto agisce come un sistema di rilevamento di comportamenti anomali, monitorando i processi e le attività sui dispositivi. Invece degli antivirus che si basano principalmente su definizioni di malware, l'EDR utilizza tecniche avanzate come l'intelligenza artificiale per identificare minacce nuove o sconosciute.
+
 
 
 

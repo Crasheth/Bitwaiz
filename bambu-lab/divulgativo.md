@@ -1,6 +1,7 @@
 # Bambu Lab: La Stampa 3D Rende Possibile il Tuo Sogno
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
 
 
 
@@ -189,6 +190,7 @@ Bambu Lab non è solo un produttore di stampanti 3D, ma un'azienda che si impegn
 
 *   [Stampa 3D: Guida per Principianti](https://www.arduino.cc/en/Guide/3DPrinting) - Una guida completa per chi si avvicina alla stampa 3D.
 *   [Ricerca di materiali per la stampa 3D](https://www.matterhackers.com/blog/materials-3d-printing) - Informazioni sui diversi materiali disponibili per la stampa 3D e le loro applicazioni.
+
 
 
 

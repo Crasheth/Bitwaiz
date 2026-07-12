@@ -1,6 +1,7 @@
 # Come Scegliere il Monitor Perfetto per il Gaming (2026)
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
 
 
 
@@ -218,6 +219,7 @@ Dipende dalle tue preferenze e dal tuo budget. I pannelli IPS sono ideali per la
 ### Cosa sono FreeSync e G-Sync?
 
 FreeSync e G-Sync sono tecnologie che sincronizzano il refresh rate del monitor con la frequenza di aggiornamento della scheda grafica, eliminando il tearing e il stuttering.
+
 
 
 
