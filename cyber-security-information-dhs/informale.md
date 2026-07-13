@@ -125,6 +125,8 @@
 
 
 
+
+
 Secondo Wikipedia, la sicurezza informatica è l'insieme delle pratiche e delle tecnologie utilizzate per proteggere i sistemi informatici, le reti e i dati da accessi non autorizzati, danni o furti.
 
 ## Nota 1: Perché la sicurezza informatica è importante
@@ -157,6 +159,8 @@ I principali rischi includono malware, phishing, ransomware, attacchi di ingegne
 
 ### Come posso sapere se il mio dispositivo è stato compromesso?
 Puoi monitorare l'attività del tuo dispositivo, controllare il traffico di rete e utilizzare strumenti di scansione antivirus per rilevare eventuali minacce.
+
+
 
 
 

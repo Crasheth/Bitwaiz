@@ -1,6 +1,8 @@
 # Genera Password Forti: La Guida per Non Farti Rubare l'Identità
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -212,6 +214,8 @@ Utilizza un password manager per memorizzare e generare password complesse.
 ### Cosa succede se dimentico la mia password?
 
 Utilizza la funzione di recupero password fornita dal servizio a cui stai tentando di accedere.
+
+
 
 
 

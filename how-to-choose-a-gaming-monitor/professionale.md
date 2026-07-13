@@ -1,6 +1,8 @@
 # Come Scegliere il Monitor per Gaming: Guida Completa
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -170,6 +172,8 @@ Queste tecnologie sincronizzano la frequenza di aggiornamento del monitor con la
 
 ### Quali sono le dimensioni del monitor ideali per il gaming?
 Le dimensioni ideali dipendono dalla tua distanza di visione e dalle tue preferenze personali, ma i monitor da 24-27 pollici sono i più comuni per il gaming.
+
+
 
 
 

@@ -83,6 +83,8 @@
 
 
 
+
+
 Secondo le fonti, i fattori principali includono la potenza del processore (CPU), la scheda grafica (GPU), la quantità di memoria RAM, la capacità del disco rigido (SSD), la qualità del display (risoluzione, refresh rate, tecnologia) e il sistema di raffreddamento. La scelta dipende dal budget e dalle esigenze specifiche del giocatore.
 
 ## Nota 1: Qual è il ruolo del sistema di raffreddamento in un notebook gaming
@@ -120,6 +122,8 @@ La RTX 5090 offre prestazioni superiori rispetto alla RTX 5080, grazie a un magg
 
 ### Qual è il display ideale per un notebook gaming?
 Un display 4K con un refresh rate di 120Hz o superiore offre la migliore esperienza di gioco, garantendo immagini fluide e dettagliate.
+
+
 
 
 
