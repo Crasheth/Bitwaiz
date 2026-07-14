@@ -43,6 +43,8 @@
 
 
 
+
+
 ![vulnerabilità CVE](https://mlfk3cv5yvnx.i.optimale.com/cb:k-rC.2fd1d/w:auto/h:auto/q:mauto/f:best/https://www.ninjaone.com/wp-content/uploads/2024/02/Common-Vulnerabilities-and-Exposures-What-They-Are-and-Notable-CVEs-to-Be-Aware-Of-1.png)
 
 ## Problema tecnico e implicazioni
@@ -80,6 +82,8 @@ I CVE sono importanti perché:
 - **Standardizzazione**: consentono una comunicazione univoca e comprensibile tra gli esperti di sicurezza.
 - **Priorità**: aiutano le organizzazioni a priorizzare la gestione delle vulnerabilità basandosi sulla criticità e l'impatto.
 - **Risposta rapida**: facilitano il processo di identificazione e risoluzione delle vulnerabilità, migliorando la sicurezza globale.
+
+
 
 
 
