@@ -1,6 +1,8 @@
 # Smart Home: la casa intelligente e connessa
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -367,6 +369,8 @@ Per scoprire di più sulle soluzioni Smart Home di Bticino e come possono miglio
 
 
 ![bticino smart home](https://professionisti.bticino.it/sites/default/files/2022-05/03_SMARTHOME_1.jpg)
+
+
 
 
 

@@ -5,8 +5,15 @@
     <link>https://bitwaiz.it/</link>
     <description>Articoli su trend tech, cybersecurity, elettronica e innovazione.</description>
     <language>it-it</language>
-    <lastBuildDate>Tue, 14 Jul 2026 06:30:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:24:27 GMT</lastBuildDate>
     <atom:link href="https://bitwaiz.it/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>Come aggiornare il firmware per migliorare le prestazioni del dispositivo</title>
+    <link>https://bitwaiz.it/aggiornamento-firmware/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/aggiornamento-firmware/</guid>
+    <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[Questo articolo è pensato per chiunque abbia un dispositivo con firmware. Scopriremo come aggiornare il firmware per migliorare le prestazio…]]></description>
+  </item>
   <item>
     <title>Raspberry Pi: guida per progetti maker e IoT nel 2026</title>
     <link>https://bitwaiz.it/raspberry-pi/</link>

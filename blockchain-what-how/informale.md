@@ -1,6 +1,8 @@
 # Blockchain: La Rivoluzione Digitale che Sta Cambiando Tutto (e Perché Non Sei un Esperto)
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
+
 
 
 
@@ -194,6 +196,8 @@ La decentralizzazione offre numerosi vantaggi, tra cui maggiore sicurezza, resil
 ### Come la blockchain può essere utilizzata nella gestione della supply chain?
 
 La blockchain può essere utilizzata per tracciare i prodotti lungo l'intera supply chain, fornendo informazioni dettagliate sulla loro origine, movimento e condizioni di conservazione. Questo aumenta la trasparenza, la tracciabilità e l'autenticità dei prodotti, riducendo il rischio di contraffazione e frodi.
+
+
 
 
 

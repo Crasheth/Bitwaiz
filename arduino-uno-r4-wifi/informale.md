@@ -83,6 +83,8 @@
 
 
 
+
+
 Il principale vantaggio dell'Arduino Uno R4 Wifi è la sua capacità di connettersi direttamente a Internet tramite il suo chip Wifi integrato. Questo elimina la necessità di utilizzare un modulo Wifi aggiuntivo e semplifica la creazione di progetti IoT.
 
 ## Quanto costa l'Arduino Uno R4 Wifi?
@@ -138,6 +140,8 @@ Le dimensioni sono di 65.0 mm x 53.0 mm e il peso è di circa 30 grammi.
 
 ### Quali sono le certificazioni di conformità dell'Arduino Uno R4 Wifi?
 È conforme alle normative CE, FCC e RoHS.
+
+
 
 
 

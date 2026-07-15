@@ -1,6 +1,8 @@
 # SIEM: la montagna di pietre della sicurezza digitale - 2026
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -57,6 +59,8 @@ Può essere utilizzato per l'analisi di eventi in tempo reale e la raccolta di d
 ### Come si differenzia il SIEM dalle soluzioni antivirus?
 
 Il SIEM monitora e analizza i log e i flussi di eventi in tempo reale, mentre le soluzioni antivirus sono concentrate sulla protezione statica dei file e delle applicazioni.
+
+
 
 
 

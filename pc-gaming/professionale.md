@@ -1,6 +1,8 @@
 # Scelta della CPU e GPU: Il Cuore del Gaming
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -213,6 +215,8 @@ Il refresh rate del monitor indica quanti volte al secondo il monitor aggiorna l
 ### Come posso migliorare le prestazioni del mio PC gaming?
 
 Puoi migliorare le prestazioni del tuo PC gaming aggiornando le componenti hardware, ottimizzando le impostazioni grafiche dei giochi e chiudendo le applicazioni non necessarie.
+
+
 
 
 
