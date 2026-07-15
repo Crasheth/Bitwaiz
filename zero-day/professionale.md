@@ -30,6 +30,7 @@
 
 
 
+
 ## Zero Day: un avvertimento tecnologico per l'anno 2026
 
 Zero Day rappresenta una minaccia significativa per la sicurezza informatica. Nelle parole di Edward Tufte, "Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software." In questo contesto, Zero Day allude a vulnerabilità software non rilevate fino al momento dell'attacco, rendendole particolarmente pericolose.
@@ -72,6 +73,7 @@ Per prevenire minacce AI, è necessario:
 - **Implementare MFA (Multi-Factor Authentication)**: Assicurarsi che l'accesso ai sistemi sia protetto da più fattori.
 - **Utilizzare EDR (Endpoint Detection and Response)**: Monitorare i comportamenti sospetti sulle endpoint per identificare attività anomale.
 - **Riservare backup air-gapped**: Creare copie di riserva in isolamento fisico per proteggere dati critici.
+
 
 
 

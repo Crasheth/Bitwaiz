@@ -1,6 +1,7 @@
 # Come mantenere il tuo dispositivo sempre aggiornato: l'importanza dei firmware
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
 
 
 Nel mondo tecnologico, i dispositivi come smartphone, smartwatch o impianti di ciclismo non sono solo strumenti; sono organismi viventi che richiedono cura e attenzione. Uno dei processi più importanti per mantenere la salute del dispositivo è l'aggiornamento del firmware. Questo articolo ti guiderà attraverso il processo, spiegando cosa sia un firmware, a cosa serve e come si aggiorna.
@@ -48,6 +49,7 @@ Durante l'aggiornamento del firmware, potresti imbatterti in alcuni problemi. Ec
 
 - Aggiornamenti software
 - Sicurezza del dispositivo
+
 
 
 ## Fonti

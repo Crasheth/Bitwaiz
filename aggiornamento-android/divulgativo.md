@@ -1,6 +1,7 @@
 # Il grande aggiornamento di Android 2026 - "The Biggest
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -49,6 +50,7 @@ Le ultime statistiche mostrano una crescita significativa delle minacce ransomwa
 ### Quali sono i principali indicatori di compromissione (IOC) da monitorare?
 
 Gli IOC chiave includono l'esecuzione di file sospetti, accesso non autorizzato a risorse critiche e comportamenti anomali dei processi. È importante configurare strumenti di sicurezza come EDR per identificare questi segnali.
+
 
 
 

@@ -1,6 +1,7 @@
 # La fine dell'era Xperia? Sony e i problemi degli smartphone
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -74,6 +75,7 @@ La gestione corretta delle sfide attuali potrebbe rafforzare la reputazione di S
 ### Qual è stata l'accoglienza negativa più significativa dell'Xperia?
 
 **Le critiche alla batteria, al design e all'hardware hanno costantemente minacciato la popolarità dell'Xperia. Inoltre, il recente caso del Pixel 6a ha evidenziato problemi di sicurezza che potrebbero avere impatto sulla reputazione della marca.**
+
 
 
 

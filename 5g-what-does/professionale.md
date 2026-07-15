@@ -1,6 +1,7 @@
 # 5G: Cosa Significa e Come Funziona (Guida 2026)
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
 
 
 
@@ -174,6 +175,7 @@ Puoi utilizzare app di test della velocità per confrontare le velocità di conn
 
 
 ![5G](https://etimg.etb2bimg.com/photo/92005566.cms)
+
 
 
 

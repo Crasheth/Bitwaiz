@@ -29,6 +29,7 @@
 
 
 
+
 ## Contesto e problema
 
 Il tema della sicurezza contro le minacce AI è diventato sempre più rilevante con l'aumento dell'uso di tecnologie avanzate. La citazione famosa di Edward Tufte suggerisce che la comprensione e la gestione delle minacce digitali richiede una profonda conoscenza del comportamento degli utenti e dei sistemi, simile a quella necessaria per comprendere le dinamiche del mercato del software.
@@ -80,6 +81,7 @@ Per prevenire minacce AI, è necessario:
 - **Implementare MFA (Multi-Factor Authentication)**: Assicurarsi che l'accesso ai sistemi sia protetto da più fattori.
 - **Utilizzare EDR (Endpoint Detection and Response)**: Monitorare i comportamenti sospetti sulle endpoint per identificare attività anomale.
 - **Riservare backup air-gapped**: Creare copie di riserva in isolamento fisico per proteggere dati critici.
+
 
 
 

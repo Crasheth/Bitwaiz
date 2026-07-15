@@ -1,6 +1,7 @@
 # ESP32: microcontrollore Wi-Fi e Bluetooth per l'IoT
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
 
 
 
@@ -45,6 +46,7 @@ L'ESP32 ha un set più amplo di funzionalità rispetto all'ESP8266. Ha due proce
 ### Come programmare l'ESP32?
 
 Per iniziare a programmare l'ESP32, è necessario installare un software come Arduino IDE o PlatformIO. Puoi utilizzare linguaggi come C/C++, Python o Lua. Ci sono anche molti tutorial online che ti guideranno passo dopo passo.
+
 
 
 

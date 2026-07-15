@@ -1,6 +1,7 @@
 # Smartphone e Cellulari: Guida all'acquisto e Modelli più Popolari 2026
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+
 
 
 
@@ -190,6 +191,7 @@ Storicamente, "cellulare" si riferiva a un telefono che funzionava solo per la v
 ### Qual è il migliore smartphone per la fotografia?
 
 Attualmente, i Google Pixel 7 e i Samsung Galaxy S26 sono considerati tra i migliori smartphone per la fotografia, grazie alle loro potenti fotocamere e alle loro avanzate funzionalità di elaborazione delle immagini.
+
 
 
 

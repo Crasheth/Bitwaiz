@@ -1,6 +1,7 @@
 # Aggiornamento firmware: perché e come farlo
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
 
 
 Tu hai un dispositivo che non funziona come dovrebbe, magari dà errori o non ti risolve i problemi in modo efficiente. Cosa fai? Provi a fare l'aggiornamento firmware! Ma perché lo devi fare e come farlo correttamente? Ecco le nostre risposte.
@@ -32,6 +33,7 @@ Per informazioni aggiuntive e dettagli tecnici riguardo l'aggiornamento firmware
 
 - Aggiornamenti software
 - Sicurezza del dispositivo
+
 
 ## Fonti
 
