@@ -1,6 +1,8 @@
 # Blockchain: Un Registro Immutabile
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+
 
 
 
@@ -322,6 +324,8 @@ Il concetto è simile al principio buddista del "non-attaccamento": una volta ch
 
 
 ![blockchain technology](https://static.vecteezy.com/system/resources/previews/011/494/437/original/blockchain-technology-isometric-flat-illustration-concept-hi-tech-block-chain-data-structure-visualization-vector.jpg)
+
+
 
 
 

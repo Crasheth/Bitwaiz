@@ -14,6 +14,8 @@
 
 
 
+
+
 Il microcontrollore ESP32 è una soluzione popolare per applicazioni Internet delle cose (IoT) a causa della sua compattezza, prestazioni e costi contenuti. Tuttavia, la natura sempre più connessa di questi dispositivi introduce nuovi rischi di sicurezza che richiedono un approccio rigoroso alla protezione.
 
 
@@ -63,6 +65,8 @@ L'ESP32 ha un set più amplo di funzionalità rispetto all'ESP8266. Ha due proce
 ### Come programmare l'ESP32?
 
 Per iniziare a programmare l'ESP32, è necessario installare un software come Arduino IDE o PlatformIO. Puoi utilizzare linguaggi come C/C++, Python o Lua. Ci sono anche molti tutorial online che ti guideranno passo dopo passo.
+
+
 
 
 

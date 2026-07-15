@@ -1,6 +1,8 @@
 # La sicurezza dei router WiFi 7: come proteggere i dispositivi con le nuove tecnologie
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -64,6 +66,8 @@ Il protocollo WiFi 7 introduce nuove funzionalità come OFDMA e Multi-RU, che au
 
 ### Come posso proteggere i miei router WiFi 7?
 Per proteggere i router, è importante mantenere aggiornamenti software regolari, disattivare funzionalità non utilizzate e utilizzare strumenti avanzati come MITRE ATT&CK per identificare comportamenti anomali.
+
+
 
 
 

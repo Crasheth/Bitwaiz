@@ -1,6 +1,8 @@
 # Introduzione alla sicurezza informatica: comprendere la minaccia e le soluzioni
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -89,6 +91,8 @@ Secondo le fonti, gli strumenti comuni includono EDR (Endpoint Detection and Res
 
 
 ![threat hunting](https://www.crowdstrike.com/wp-content/uploads/2019/06/where-does-threat-hunting-fit-graphic.png)
+
+
 
 
 

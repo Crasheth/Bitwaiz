@@ -14,6 +14,8 @@
 
 
 
+
+
 Il **ESP32** di Espressif Systems è diventato uno dei microcontrolatori più popolari per progetti IoT e applicazioni di smart home grazie alla sua combinazione di potenza computazionale, connettività Wi-Fi e Bluetooth, e basso costo. Tuttavia, con la crescente importanza della sicurezza digitale, è fondamentale garantire che il nostro dispositivo sia protetto contro eventuali minacce senza compromettere le sue prestazioni.
 
 
@@ -63,6 +65,8 @@ L'ESP32 ha un set più amplo di funzionalità rispetto all'ESP8266. Ha due proce
 ### Come programmare l'ESP32?
 
 Per iniziare a programmare l'ESP32, è necessario installare un software come Arduino IDE o PlatformIO. Puoi utilizzare linguaggi come C/C++, Python o Lua. Ci sono anche molti tutorial online che ti guideranno passo dopo passo.
+
+
 
 
 
