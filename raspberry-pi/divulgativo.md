@@ -13,6 +13,8 @@
 
 
 
+
+
 Il Raspberry Pi è un piccolo computer open source progettato per essere facile da usare e accessibile a tutti. Nel 2026, il suo utilizzo continua a espandersi in molti settori, dalla programmazione educativa alle soluzioni di IoT.
 
 ## Problema affrontato
@@ -43,6 +45,8 @@ Il Raspberry Pi 4 ha un processore quad-core ARM Cortex-A72 a 1.5 GHz, 1 GB o 2 
 
 ### Come connettere il Raspberry Pi all'HDMI?
 Connetti il cavo HDMI del tuo monitor o TV al porto HDMI sul Raspberry Pi. Accendi il Raspberry Pi e seleziona la risoluzione video desiderata dal menu di avvio.
+
+
 
 
 

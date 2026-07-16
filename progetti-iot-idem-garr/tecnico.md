@@ -121,6 +121,8 @@
 
 
 
+
+
 La gestione di progetti IoT, specialmente in contesti accademici come quello dell'Università di Torino, richiede un approccio metodico e una profonda consapevolezza dei rischi. L'obiettivo primario è garantire l'accesso sicuro e controllato ai dispositivi IoT distribuiti, minimizzando le vulnerabilità e proteggendo i dati. Questo articolo analizza le prime fasi di un tale processo, focalizzandosi sulla verifica dell'identità dell'utente e sulla sicurezza della connessione.
 
 La crescente diffusione dei dispositivi IoT introduce nuove sfide per la sicurezza informatica. Questi dispositivi, spesso con funzionalità limitate e aggiornamenti software rari, diventano punti di ingresso per attacchi informatici. La gestione di questi progetti richiede un'attenzione particolare alla segmentazione della rete, al monitoraggio continuo e alla risposta agli incidenti. Un approccio rigoroso, come quello implementato dalla Federazione IDEM dell'Università di Torino, è fondamentale per mitigare questi rischi.
@@ -157,6 +159,8 @@ La verifica richiesta (come il controllo della connessione sicura su Vimeo) è u
 
 ### Quali tipi di dispositivi IoT possono essere gestiti tramite questa risorsa?
 La risorsa gestisce oggetti IoT dislocati presso l'Università di Torino, suggerendo un focus su dispositivi e sensori utilizzati all'interno dell'istituzione.
+
+
 
 
 

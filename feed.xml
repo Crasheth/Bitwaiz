@@ -5,14 +5,28 @@
     <link>https://bitwaiz.it/</link>
     <description>Articoli su trend tech, cybersecurity, elettronica e innovazione.</description>
     <language>it-it</language>
-    <lastBuildDate>Wed, 15 Jul 2026 10:56:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 06:26:31 GMT</lastBuildDate>
     <atom:link href="https://bitwaiz.it/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>L&#x27;evoluzione del handheld gaming: da retro ai moderni dispositivi</title>
+    <link>https://bitwaiz.it/handheld-gaming/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/handheld-gaming/</guid>
+    <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[Il mondo del *handheld gaming* ha subito una rivoluzione negli ultimi anni grazie a sviluppi tecnologici che rendono possibile un'esperienza…]]></description>
+  </item>
   <item>
     <title>Come aggiornare il firmware per migliorare le prestazioni del dispositivo</title>
     <link>https://bitwaiz.it/aggiornamento-firmware/</link>
     <guid isPermaLink="true">https://bitwaiz.it/aggiornamento-firmware/</guid>
     <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
     <description><![CDATA[Questo articolo è pensato per chiunque abbia un dispositivo con firmware. Scopriremo come aggiornare il firmware per migliorare le prestazio…]]></description>
+  </item>
+  <item>
+    <title>Analisi Malware — Malware moderno: tipologie, attori, TTP</title>
+    <link>https://bitwaiz.it/analisi-malware-malware-moderno-tipologie-attori/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/analisi-malware-malware-moderno-tipologie-attori/</guid>
+    <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[Il malware è una minaccia sempre più sofisticata e innovativa. In questo articolo esploreremo le principali famiglie di malware moderne, gli…]]></description>
   </item>
   <item>
     <title>Come sfruttare al massimo la Steam Summer Sale 2026</title>
