@@ -107,6 +107,8 @@
 
 
 
+
+
 Ma seriamente, queste cuffie di Sony costano poco e fanno il loro lavoro. Se cerchi un paio di cuffie Bluetooth decenti per ascoltare musica, podcast o chiacchiere con gli amici senza fili, le Sony WH-CH520 potrebbero essere esattamente quello che fa per te. Non aspettarti miracoli, ma per il prezzo, sono un affare.
 
 ![sony cuffie bluetooth wireless wh-ch520](https://sony.scene7.com/is/image/sonyglobalsolutions/wh-ch520_Primary_image?$categorypdpnav$&fmt=png-alpha)
@@ -170,6 +172,8 @@ Sì, hanno una funzione di riduzione del rumore che aiuta a isolarti dal rumore 
 ### Sono impermeabili le Sony WH-CH520?
 
 No, non sono impermeabili. Sono resistenti a schizzi d'acqua, ma non dovrebbero essere immerse in acqua.
+
+
 
 
 

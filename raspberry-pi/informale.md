@@ -14,6 +14,8 @@
 
 
 
+
+
 ## Citazione famosa
 
 ## Che cos'è un Raspberry Pi?
@@ -42,6 +44,8 @@ Il Raspberry Pi 4 ha un processore quad-core ARM Cortex-A72 a 1.5 GHz, 1 GB o 2 
 
 ### Come connettere il Raspberry Pi all'HDMI?
 Connetti il cavo HDMI del tuo monitor o TV al porto HDMI sul Raspberry Pi. Accendi il Raspberry Pi e seleziona la risoluzione video desiderata dal menu di avvio.
+
+
 
 
 
