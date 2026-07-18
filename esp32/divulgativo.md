@@ -19,6 +19,8 @@
 
 
 
+
+
 ![ESP32](https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/5971/ESP32-S3-DEVKITM-1-N8.jpg)
 
 ## Introduzione
@@ -58,6 +60,8 @@ L'ESP32 offre due core, Bluetooth, più GPIO e più memoria rispetto all'ESP8266
 ### Come programmare l'ESP32?
 
 Si usa spesso Arduino IDE, ESP-IDF o PlatformIO con C/C++. Espressif e la community pubblicano guide e esempi per flash, debug e aggiornamenti OTA.
+
+
 
 
 

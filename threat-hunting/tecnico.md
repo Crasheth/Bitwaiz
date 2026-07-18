@@ -44,6 +44,8 @@
 
 
 
+
+
 ## Contesto del problema
 
 La sicurezza delle informazioni è un tema cruciale per ogni organizzazione. Con l'aumento della complessità delle minacce cibernetiche, la necessità di implementare strategie proattive come il threat hunting diventa sempre più urgente. Questo articolo esplora i concetti chiave e le pratiche adottate nella sicurezza informatica moderna.
@@ -90,6 +92,8 @@ Threat hunting è un processo manuale o semiammanco per identificare minacce non
 Secondo le fonti, gli strumenti comuni includono EDR (Endpoint Detection and Response), SIEM (Security Information and Event Management) e analisi forensiche dei log.
 
 ![threat hunting](https://www.crowdstrike.com/wp-content/uploads/2019/06/where-does-threat-hunting-fit-graphic.png)
+
+
 
 
 

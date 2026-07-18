@@ -29,6 +29,8 @@
 
 
 
+
+
 MITRE ATT&CK è un progetto che fornisce informazioni dettagliate sulle tecniche utilizzate dai cattivi attori per compromettere sistemi informativi. È essenziale per le aziende per migliorare la loro sicurezza, poiché aiuta a identificare e prevenire attacchi.
 
 
@@ -83,6 +85,8 @@ Per implementare gli EDR, dovresti prima valutare la tua infrastruttura e identi
 ### Quali sono i passaggi chiave per un recupero di incidenti efficace secondo il MITRE ATT&CK?
 
 Secondo le linee guida del MITRE ATT&CK, i passaggi chiave includono la documentazione dettagliata dell'incidente, l'isolamento della rete compromessa e il ripristino dei sistemi da un backup sicuro.
+
+
 
 
 

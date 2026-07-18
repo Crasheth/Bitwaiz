@@ -23,6 +23,8 @@
 
 
 
+
+
 ## Introduzione
 
 Questo articolo è rivolto a professionisti della sicurezza informatica e amministratori di rete, fornendo una guida tecnica per la protezione dei router WiFi 7. Esploriamo i rischi associati alle nuove funzionalità del protocollo WiFi 7 e come implementare misure di sicurezza efficaci.
@@ -70,6 +72,8 @@ Il protocollo WiFi 7 introduce nuove funzionalità come OFDMA e Multi-RU, che au
 
 ### Come posso proteggere i miei router WiFi 7?
 Per proteggere i router, è importante mantenere aggiornamenti software regolari, disattivare funzionalità non utilizzate e utilizzare strumenti avanzati come MITRE ATT&CK per identificare comportamenti anomali.
+
+
 
 
 
