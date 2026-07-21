@@ -87,6 +87,12 @@
 
 
 
+
+
+
+
+
+
 «Ma che vuoi, si fa così», pensi, quando ti accorgi che la tua vecchia action camera è ormai da rottamare. Vuoi filmare le tue avventure, i tuoi figli che fanno parkour, i tuoi viaggi... ma il budget è stretto, eh? Ecco, la Kozenix S8 6K potrebbe essere la soluzione, soprattutto se non vuoi spendere un patrimonio.
 
 
@@ -134,6 +140,12 @@ Sì, la Kozenix S8 è dotata di un'interfaccia intuitiva e di numerosi controlli
 
 ### Quali accessori sono inclusi?
 La confezione include una custodia di trasporto, un supporto per il casco, una tracolla e un adattatore per il microfono esterno.
+
+
+
+
+
+
 
 
 

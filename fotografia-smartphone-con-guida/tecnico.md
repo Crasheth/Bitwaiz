@@ -1,6 +1,12 @@
 # Fotografia smartphone
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
+
+
+
+
 
 
 
@@ -190,6 +196,12 @@ Puoi migliorare i colori nelle tue foto usando un'app di editing fotografico. Qu
 
 ### Qual è la risoluzione migliore per le foto che scatto con il mio smartphone?
 La risoluzione migliore per le foto che scatti con il tuo smartphone è quella massima che offre il tuo telefono. Questo ti garantirà le foto più dettagliate e offre maggiore flessibilità per la stampa o la modifica.
+
+
+
+
+
+
 
 
 

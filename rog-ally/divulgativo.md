@@ -1,6 +1,12 @@
 # Come funziona l'ROG Ally e perché scegliermelo nel 2026
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
+
+
+
+
+
 
 
 
@@ -63,6 +69,12 @@ In sintesi, l'ROG Ally è un dispositivo ideale per chi cerca portabilità senza
 - **Cyberpunk 2077**
 - **The Witcher 3: Wild Hunt**
 - **Death Stranding**
+
+
+
+
+
+
 
 
 

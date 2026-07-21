@@ -11,6 +11,12 @@
 
 
 
+
+
+
+
+
+
 ![Steam Summer Sale](https://cdn.images.express.co.uk/img/dynamic/143/590x/secondary/Steam-Summer-Sale-7030031.jpg?r=1783548943391)
 
 ## Introduzione
@@ -71,6 +77,12 @@ Sì, ma ricorda di controllare se ci sono aggiornamenti o versioni migliorate di
 
 ### Devo comprare subito per risparmiare?
 Non necessariamente. Alcuni giochi rimangono a sconto anche dopo la fine della vendita, ma non sempre.
+
+
+
+
+
+
 
 
 
