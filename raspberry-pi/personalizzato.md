@@ -25,6 +25,8 @@
 
 
 
+
+
 Il Raspberry Pi è diventato una piattaforma popolare per sviluppatori, studenti e professionisti che desiderano esplorare l'elettronica e lo sviluppo software. Questo microcomputer a basso costo offre un'ampia gamma di funzionalità, da processori potenti a interfacce di input/output versatile. In questo articolo, scopriremo come utilizzare il Raspberry Pi per progetti di elettronica avanzati, esplorando i suoi limiti e le sue possibilità.
 
 Il Raspberry Pi è un microcomputer basato su ARM che include una CPU, RAM, interfaccia di rete, slot per la cartella SD e connettività USB. Essendo open source, può essere personalizzato in molti modi, da aggiungere sensori fino a creare piccoli computer autonomi. Un esempio interessante è l'utilizzo del Raspberry Pi come base per un progetto di controllo remoto di dispositivi domestici.
@@ -97,6 +99,8 @@ Il Raspberry Pi 4 ha un processore quad-core ARM Cortex-A72 a 1.5 GHz, 1 GB o 2 
 
 ### Come connettere il Raspberry Pi all'HDMI?
 Connetti il cavo HDMI del tuo monitor o TV al porto HDMI sul Raspberry Pi. Accendi il Raspberry Pi e seleziona la risoluzione video desiderata dal menu di avvio.
+
+
 
 
 

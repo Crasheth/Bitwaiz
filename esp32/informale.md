@@ -28,6 +28,8 @@
 
 
 
+
+
 Tu sei a corto di idee per il tuo progetto del weekend? Vuoi capire cosa sia l'ESP32? Oppure hai bisogno di un piccolo microcontrollore da inserire nel tuo progetto di robotica? Questa guida ti aiuterà a iniziare con l'ESP32, un chip multiprotocollo popolare per i progetti DIY.
 
 
@@ -54,6 +56,8 @@ L'ESP32 ha un set più amplo di funzionalità rispetto all'ESP8266. Ha due proce
 ### Come programmare l'ESP32?
 
 Per iniziare a programmare l'ESP32, è necessario installare un software come Arduino IDE o PlatformIO. Puoi utilizzare linguaggi come C/C++, Python o Lua. Ci sono anche molti tutorial online che ti guideranno passo dopo passo.
+
+
 
 
 

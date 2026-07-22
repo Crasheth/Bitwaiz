@@ -1,6 +1,8 @@
 # Comprendere le Common Vulnerabilities and Exposures (CVE): La Chiave per la Sicurezza delle Tue Applicazioni
 
-> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -100,6 +102,8 @@ I CVE sono importanti perché:
 - **Standardizzazione**: consentono una comunicazione univoca e comprensibile tra gli esperti di sicurezza.
 - **Priorità**: aiutano le organizzazioni a priorizzare la gestione delle vulnerabilità basandosi sulla criticità e l'impatto.
 - **Risposta rapida**: facilitano il processo di identificazione e risoluzione delle vulnerabilità, migliorando la sicurezza globale.
+
+
 
 
 
