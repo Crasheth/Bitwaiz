@@ -26,6 +26,8 @@
 
 
 
+
+
 ## Introduzione
 
 Questo articolo è rivolto ai difensori della sicurezza informatica, in particolare alle blue team e ai SOC (Security Operations Center). Esploriamo come le organizzazioni possono utilizzare i Raspberry Pi in modo sicuro, fornendo una serie di consigli tecnici per la protezione delle piattaforme Raspberry Pi. Scoprirete come implementare controlli di sicurezza efficaci, rilevare minacce e gestire eventi di sicurezza.
@@ -108,6 +110,8 @@ Il Raspberry Pi 4 ha un processore quad-core ARM Cortex-A72 a 1.5 GHz, 1 GB o 2 
 
 ### Come connettere il Raspberry Pi all'HDMI?
 Connetti il cavo HDMI del tuo monitor o TV al porto HDMI sul Raspberry Pi. Accendi il Raspberry Pi e seleziona la risoluzione video desiderata dal menu di avvio.
+
+
 
 
 

@@ -34,6 +34,8 @@
 
 
 
+
+
 ![router WiFi 7](https://cdn.mos.cms.futurecdn.net/rP2Pog9A95pAKdoJhPMbGW.jpg)
 
 ## Introduzione
@@ -74,6 +76,8 @@ Il protocollo WiFi 7 introduce nuove funzionalità come OFDMA e Multi-RU, che au
 
 ### Come posso proteggere i miei router WiFi 7?
 Per proteggere i router, è importante mantenere aggiornamenti software regolari, disattivare funzionalità non utilizzate e utilizzare strumenti avanzati come MITRE ATT&CK per identificare comportamenti anomali.
+
+
 
 
 

@@ -12,6 +12,8 @@
 
 
 
+
+
 Se stai cercando una console gaming portatile che combini prestazioni di alta gamma con un design elegante, l'ROG Ally 2023 potrebbe essere la scelta perfetta per te. Questo dispositivo ha rivoluzionato il panorama dei videogiochi mobile grazie alla combinazione di hardware di punta e software ottimizzato.
 
 ![ROG Ally](https://dlcdnwebimgs.asus.com/files/media/92A296C4-BA56-40C2-A462-AE2729261A0B/main/v1/images/large/1x/pic_kv.jpg)
@@ -71,6 +73,8 @@ In sintesi, l'ROG Ally è un dispositivo ideale per chi cerca portabilità senza
 - **Cyberpunk 2077**
 - **The Witcher 3: Wild Hunt**
 - **Death Stranding**
+
+
 
 
 
