@@ -1,6 +1,7 @@
 # Startup Ecosystem in India 2026: Guida Completa alle Startup
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
 
 
 
@@ -231,6 +232,7 @@ Le fonti indicano che le principali fonti di finanziamento includono venture cap
 
 ### Come possono le startup indiane accedere a talenti qualificati?
 Le fonti suggeriscono l'investimento nella formazione dei dipendenti, la collaborazione con università e istituti di ricerca, e l'esportazione di talenti da altri paesi.
+
 
 
 

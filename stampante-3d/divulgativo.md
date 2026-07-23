@@ -1,6 +1,7 @@
 # Guida all'acquisto di stampante 3D 2026 | Modelli, materiali
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
 
 
 
@@ -256,6 +257,7 @@ Il costo delle stampanti 3D varia notevolmente a seconda della tecnologia, delle
 ### Quali materiali posso usare in una stampante 3D?
 
 Le stampanti 3D possono utilizzare una vasta gamma di materiali, tra cui PLA, ABS, PETG, TPU, resine e materiali compositi. La scelta del materiale dipende dall'applicazione prevista e dalle proprietà desiderate, come resistenza, flessibilità e resistenza al calore.
+
 
 
 

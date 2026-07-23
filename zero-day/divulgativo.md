@@ -1,6 +1,7 @@
 # Introduzione
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
 
 
 
@@ -89,6 +90,7 @@ Per prevenire minacce AI, è necessario:
 - **Implementare MFA (Multi-Factor Authentication)**: Assicurarsi che l'accesso ai sistemi sia protetto da più fattori.
 - **Utilizzare EDR (Endpoint Detection and Response)**: Monitorare i comportamenti sospetti sulle endpoint per identificare attività anomale.
 - **Riservare backup air-gapped**: Creare copie di riserva in isolamento fisico per proteggere dati critici.
+
 
 
 

@@ -54,6 +54,7 @@ h3 { font-size: 1.25rem; }
   display: flex;
   gap: 2rem;
   list-style: none;
+  align-items: center;
 }
 
 .nav-links a {
@@ -66,6 +67,90 @@ h3 { font-size: 1.25rem; }
 
 .nav-links a:hover { color: var(--fg); }
 
+.nav-item.nav-dropdown {
+  position: relative;
+}
+
+.nav-dropdown-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.nav-dropdown-toggle::after {
+  content: '';
+  width: 0;
+  height: 0;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-top: 5px solid currentColor;
+  opacity: 0.7;
+}
+
+.nav-dropdown-panel {
+  display: none;
+  position: absolute;
+  top: calc(100% + 0.55rem);
+  left: 50%;
+  transform: translateX(-50%);
+  min-width: 280px;
+  max-width: min(360px, 90vw);
+  background: #111;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: var(--radius);
+  padding: 0.85rem 0.9rem 0.75rem;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.45);
+  z-index: 40;
+}
+
+.nav-dropdown:hover .nav-dropdown-panel,
+.nav-dropdown:focus-within .nav-dropdown-panel {
+  display: block;
+}
+
+.nav-bucket-title {
+  display: block;
+  font-family: 'Playfair Display', Georgia, serif;
+  font-size: 1rem;
+  color: var(--accent-light) !important;
+  margin-bottom: 0.45rem;
+}
+
+.nav-bucket-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.35rem;
+  max-height: 280px;
+  overflow-y: auto;
+}
+
+.nav-bucket-list a {
+  display: block;
+  font-size: 0.82rem;
+  line-height: 1.35;
+  color: var(--fg-muted);
+  padding: 0.25rem 0;
+}
+
+.nav-bucket-list a:hover {
+  color: var(--fg);
+}
+
+.nav-bucket-empty {
+  color: var(--fg-muted);
+  font-size: 0.82rem;
+  padding: 0.25rem 0;
+}
+
+.nav-bucket-all {
+  display: inline-block;
+  margin-top: 0.65rem;
+  font-size: 0.8rem;
+  color: var(--accent-light) !important;
+}
+
 .nav-links a.nav-feed {
   display: inline-flex;
   align-items: center;
@@ -75,6 +160,45 @@ h3 { font-size: 1.25rem; }
 .nav-feed .nav-feed-icon {
   display: block;
   flex-shrink: 0;
+}
+
+/* Rubrica: sezione + basket Malware */
+.rubrica-section {
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.rubrica-bucket {
+  background: rgba(168, 85, 247, 0.06);
+  border: 1px solid rgba(168, 85, 247, 0.18);
+  border-radius: var(--radius-lg);
+  padding: 1.25rem 1.25rem 1rem;
+}
+
+.rubrica-bucket-header {
+  margin-bottom: 1rem;
+}
+
+.rubrica-bucket-title {
+  margin: 0 0 0.35rem;
+  font-size: 1.35rem;
+  color: var(--accent-light);
+}
+
+.rubrica-bucket-sub {
+  margin: 0;
+  color: var(--fg-muted);
+  font-size: 0.95rem;
+  max-width: 52rem;
+}
+
+.rubrica-note {
+  margin: 1rem 0 0;
+  color: var(--fg-muted);
+  font-size: 0.85rem;
+}
+
+.rubrica-grid .rubrica-card {
+  border-color: rgba(168, 85, 247, 0.22);
 }
 
 .btn {
@@ -887,5 +1011,11 @@ h3 { font-size: 1.25rem; }
   .brevo-newsletter .g-recaptcha {
     transform: scale(0.9);
     transform-origin: top center;
+  }
+
+  .nav-dropdown-panel {
+    left: 0;
+    transform: none;
+    min-width: min(280px, 85vw);
   }
 }

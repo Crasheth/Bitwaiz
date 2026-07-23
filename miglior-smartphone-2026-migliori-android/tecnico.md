@@ -1,6 +1,7 @@
 # Modelli in Analisi
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
 
 
 
@@ -149,6 +150,7 @@ Gli aggiornamenti software sono fondamentali per correggere le vulnerabilità di
 
 ### Come posso monitorare l'attività di sicurezza sul mio smartphone Android?
 È possibile monitorare l'attività di sicurezza utilizzando app di sicurezza, strumenti di monitoraggio e analisi dei log.
+
 
 
 

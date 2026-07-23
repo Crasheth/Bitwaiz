@@ -1,6 +1,7 @@
 # Come prepararsi al lancio del nuovo smartphone della tua azienda
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -62,6 +63,7 @@ La formazione del personale è importante. Le fonti suggeriscono che la combinaz
 
 ### Quali sono le minacce emergenti che devo preoccuparmi in questo momento?
 Secondo le fonti, le minacce emergenti richiedono risposte coordinate a livello settoriale e internazionale. È importante restare attenti e preparati.
+
 
 
 

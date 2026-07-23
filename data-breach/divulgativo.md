@@ -60,6 +60,7 @@
 
 
 
+
 In un mondo sempre più digitale, i nostri dati diventano una risorsa preziosa. Ma come siamo noi a gestirli? E chi ce ne ruba dietro le schermate? Scopriamo insieme le minacce che circondano la nostra privacy e impariamo ad affrontarle.
 
 
@@ -129,6 +130,7 @@ Per prevenire i **data breach**, è importante:
 1. Implementare controlli di sicurezza robusti, come autenticazione multifattoriale (MFA).
 2. Mantenere software e sistemi aggiornati.
 3. Educare l'intera organizzazione sulle buone pratiche di sicurezza.
+
 
 
 

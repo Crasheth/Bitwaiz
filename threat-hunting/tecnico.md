@@ -1,6 +1,7 @@
 # La sicurezza è un processo, non un prodotto. — Bruce Schneier
 
-> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
 
 
 
@@ -102,6 +103,7 @@ Threat hunting è un processo manuale o semiammanco per identificare minacce non
 Secondo le fonti, gli strumenti comuni includono EDR (Endpoint Detection and Response), SIEM (Security Information and Event Management) e analisi forensiche dei log.
 
 ![threat hunting](https://www.crowdstrike.com/wp-content/uploads/2019/06/where-does-threat-hunting-fit-graphic.png)
+
 
 
 
