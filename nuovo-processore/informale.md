@@ -9,6 +9,8 @@
 
 
 
+
+
 Tu hai un PC vecchio e lentissimo, magari con dei problemi di rendimento? Oppure stai per acquistare un nuovo computer e ti chiedi quale sia il migliore processore da scelgere? Siamo qui per risponderti a tutte le tue domande!
 
 ![nuovo processore](https://techprincess.it/wp-content/uploads/2022/01/Intel-Core-dodicesima-generazione-1.jpg)
@@ -31,6 +33,8 @@ Una CPU con più core e thread offre prestazioni superiori in multitasking e app
 
 ### 3. Come posso verificare la compatibilità del nuovo processore con il PC attuale?
 Controllare i requisiti hardware sul sito ufficiale del produttore e assicurarsi che il PC supporti il tipo di slot di montaggio e l'alimentazione richiesti.
+
+
 
 
 

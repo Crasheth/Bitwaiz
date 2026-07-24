@@ -60,6 +60,8 @@
 
 
 
+
+
 ![data breach](https://imgproxy.divecdn.com/DJoE63ht7_SBlXcIKoLiStdb7GLnVXWf0B2n_TArKjU/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9icmVhY2hfLmpwZw==.webp)
 
 ## Introduzione
@@ -143,6 +145,8 @@ Per prevenire i **data breach**, è importante:
 1. Implementare controlli di sicurezza robusti, come autenticazione multifattoriale (MFA).
 2. Mantenere software e sistemi aggiornati.
 3. Educare l'intera organizzazione sulle buone pratiche di sicurezza.
+
+
 
 
 

@@ -1,6 +1,8 @@
 # Difesa contro minacce AI: indicatori operativi e controlli
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -100,6 +102,8 @@ Per prevenire minacce AI, è necessario:
 - **Implementare MFA (Multi-Factor Authentication)**: Assicurarsi che l'accesso ai sistemi sia protetto da più fattori.
 - **Utilizzare EDR (Endpoint Detection and Response)**: Monitorare i comportamenti sospetti sulle endpoint per identificare attività anomale.
 - **Riservare backup air-gapped**: Creare copie di riserva in isolamento fisico per proteggere dati critici.
+
+
 
 
 

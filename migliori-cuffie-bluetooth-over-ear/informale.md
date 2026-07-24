@@ -1,6 +1,8 @@
 # Migliori cuffie bluetooth over-ear
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
+
 
 
 
@@ -186,6 +188,8 @@ Le Jabra Elite 7i sono considerate le migliori cuffie Bluetooth per gli sport, g
 ### Qual è la cuffia Bluetooth più economica con una buona qualità audio?
 
 Le Anker Soundcore Liberty 4 NC rappresentano un'ottima opzione per chi cerca una cuffia Bluetooth con una buona qualità audio a un prezzo accessibile. Offrono un buon rapporto qualità-prezzo, con una cancellazione del rumore decente e una lunga durata della batteria.
+
+
 
 
 
