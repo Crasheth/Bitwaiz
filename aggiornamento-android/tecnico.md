@@ -41,6 +41,12 @@
 
 
 
+
+
+
+
+
+
 ![aggiornamento Android](https://img.tuttoandroid.net/wp-content/uploads/2019/05/come-aggiornare-android.jpg)
 
 ## Contesto/problema
@@ -77,6 +83,12 @@ Le ultime statistiche mostrano una crescita significativa delle minacce ransomwa
 ### Quali sono i principali indicatori di compromissione (IOC) da monitorare?
 
 Gli IOC chiave includono l'esecuzione di file sospetti, accesso non autorizzato a risorse critiche e comportamenti anomali dei processi. È importante configurare strumenti di sicurezza come EDR per identificare questi segnali.
+
+
+
+
+
+
 
 
 
