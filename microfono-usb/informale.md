@@ -144,6 +144,7 @@
 
 
 
+
 Secondo le fonti, potete controllare nelle impostazioni di Windows 11, nella sezione "Dispositivi" > "Audio". Verificate che il microfono sia elencato e che non sia disattivato.
 
 ## Nota 1: Quali sono i passaggi per risolvere un microfono non riconosciuto

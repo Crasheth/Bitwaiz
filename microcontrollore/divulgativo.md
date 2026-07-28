@@ -198,6 +198,7 @@
 
 
 
+
 Hai mai pensato a cosa rende possibile il tuo smartphone, la tua auto elettrica o il sistema di controllo del traffico cittadino? La risposta spesso risiede in un piccolo chip: il microcontrollore. Questi dispositivi incredibilmente potenti e versatili sono i cuori silenziose di un'enorme varietà di applicazioni, e capire come funzionano è fondamentale per comprendere il futuro dell'innovazione.
 
 

@@ -198,6 +198,7 @@
 
 
 
+
 Se ti sei mai chiesto come fanno i tuoi smartphone, automobili o robot a fare cose incredibili, la risposta potrebbe essere un piccolo chip chiamato microcontrollore. Non preoccuparti, non è magia, ma ingegneria! In questo articolo, ti spiegheremo cos’è un microcontrollore, perché sono così importanti e perché a volte ti sembra di essere in una specie di film di fantascienza.
 
 

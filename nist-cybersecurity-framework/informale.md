@@ -321,6 +321,7 @@
 
 
 
+
 Il NIST Cybersecurity Framework (CSF) è un'iniziativa del National Institute of Standards and Technology (NIST) degli Stati Uniti, nato per aiutare organizzazioni di tutte le dimensioni e settori a gestire i rischi informatici in modo più efficace. In parole povere, si tratta di un insieme di linee guida e best practice che aiutano a strutturare la gestione della sicurezza, rendendola più chiara e applicabile. Ma a cosa serve esattamente e perché è così importante?
 
 Il CSF nasce dalla necessità di fornire un approccio standardizzato alla sicurezza informatica, superando la frammentazione di standard e linee guida esistenti. Non impone regole rigide, ma offre un framework flessibile che può essere adattato alle specifiche esigenze di ogni organizzazione. Il framework si basa su due componenti principali: il *Core* e il *Supplements*. Il *Core* definisce cinque funzioni di sicurezza fondamentali: Identità (Identify), Protezione (Protect), Rilevamento (Detect), Risposta (Respond) e Ripristino (Recover). Il *Supplements* fornisce indicazioni più specifiche su come implementare queste funzioni, tenendo conto di fattori come il rischio, la conformità normativa e le caratteristiche dell’organizzazione.

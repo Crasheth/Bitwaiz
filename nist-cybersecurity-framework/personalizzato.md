@@ -289,6 +289,7 @@
 
 
 
+
 La sicurezza informatica è spesso vista come un prodotto, una soluzione tecnologica definitiva che garantisce protezione a lungo termine. Tuttavia, la realtà è diversa: la sicurezza informatica è un processo continuo di miglioramento e adattamento alle nuove minacce.
 
 ## Introduzione

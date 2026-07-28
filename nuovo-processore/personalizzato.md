@@ -18,6 +18,7 @@
 
 
 
+
 Il mondo dei computer sta per assistere a uno sconvolgimento maggiore con l'arrivo del nuovo processore. Questo componente centrale, che governa ogni aspetto delle prestazioni di un PC, sta per riscrivere le regole del gioco. Ma come funziona esattamente questo chip? Quali sono i suoi benefici e in quale modo influirà sulla tua vita quotidiana?
 
 ![nuovo processore](https://techprincess.it/wp-content/uploads/2022/01/Intel-Core-dodicesima-generazione-1.jpg)

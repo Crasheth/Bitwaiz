@@ -182,6 +182,7 @@
 
 
 
+
 La risoluzione 4K (3840x2160) offre il massimo livello di dettaglio per un monitor gaming, consentendo di apprezzare appieno la grafica dei giochi moderni. Tuttavia, richiede una scheda grafica potente per garantire prestazioni fluide.
 
 ## Nota 1: Cosa significa "tempo di risposta" in un monitor gaming

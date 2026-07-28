@@ -20,6 +20,7 @@
 
 
 
+
 Può sembrare ovvio, ma la maggiore innovazione sarà l'evoluzione delle soluzioni di sicurezza e della cybersecurity. Le organizzazioni devono essere pronte a implementare nuovi sistemi di protezione che si adattano alla crescente complessità del cybercriminale.
 
 ## Per quali aspetti specifici dovrebbero preoccuparsi?

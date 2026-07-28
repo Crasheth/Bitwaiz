@@ -18,6 +18,7 @@
 
 
 
+
 ## Introduzione
 
 Questa guida è destinata a decision maker e stakeholder che cercano di scegliere il migliore processore per i propri progetti tecnologici. Vi aiuterà a comprendere quali caratteristiche sono fondamentali in un nuovo processore, come valutarle e perché la scelta giusta può significare una differenza sostanziale nelle prestazioni del sistema.

@@ -20,6 +20,7 @@
 
 
 
+
 La tecnologia del 2026 è come un smartwatch all'inverno tardivo: ha maturato i cicli della sua evoluzione, preparando il terreno per nuove piante di innovazione. Le PMI, in particolare, devono adattarsi a queste novità o rischiano di trovarsi fuori dal gioco.
 
 ## Il panorama tecnologico 2026

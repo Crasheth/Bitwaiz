@@ -103,6 +103,7 @@
 
 
 
+
 Anche se non possiamo sapere con certezza quali saranno i migliori smartphone del 2026, possiamo fare delle previsioni basate sulle tendenze attuali. Ci aspettiamo che i modelli più popolari saranno:
 
 *   **Samsung Galaxy X:** Il classico flagship di Samsung, sempre con un ottimo display e fotocamera.

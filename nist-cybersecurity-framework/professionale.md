@@ -318,6 +318,7 @@
 
 
 
+
 ## NIST Cybersecurity Framework
 
 Il NIST Cybersecurity Framework (CSF) è un modello volontario sviluppato dal National Institute of Standards and Technology (NIST) per aiutare organizzazioni di tutte le dimensioni e settori a gestire i rischi per la sicurezza informatica.  Fornisce un linguaggio comune e un insieme di best practice per valutare, mitigare e monitorare le minacce informatiche, consentendo alle aziende di migliorare la propria postura di sicurezza in modo più efficace e trasparente. Il framework si basa su principi di gestione del rischio e si adatta alle specifiche esigenze di ogni organizzazione, offrendo flessibilità e scalabilità.  La sua natura volontaria e l’assenza di requisiti normativi lo rendono uno strumento accessibile e pragmatico per qualsiasi azienda che desideri rafforzare la propria sicurezza informatica.

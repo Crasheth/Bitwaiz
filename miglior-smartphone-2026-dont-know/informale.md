@@ -121,6 +121,7 @@
 
 
 
+
 Ma seriamente, scegliere uno smartphone nel 2026 sarà un casino. I modelli che oggi ci sembrano top di gamma saranno già vecchiotti, e le novità saranno tante, tantissime. Quindi, facciamo un po’ di chiarezza su cosa ci aspettiamo e su come orientarci.
 
 ![miglior smartphone 2026](https://mobileos.it/wp-content/uploads/2026/01/miglior-smartphone-2026-by-mobileos-850x1275.png)

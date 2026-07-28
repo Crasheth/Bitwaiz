@@ -118,6 +118,7 @@
 
 
 
+
 Secondo Tom's Hardware, il frame rate (FPS) indica il numero di immagini che il tuo schermo visualizza al secondo. Più alto è il frame rate, più fluido e reattivo sarà il gioco.
 
 ## Nota 1: Qual è la differenza tra un SSD e un HDD

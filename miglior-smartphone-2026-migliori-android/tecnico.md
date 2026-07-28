@@ -105,6 +105,7 @@
 
 
 
+
 La seguente analisi si concentra su tre modelli che si distinguono per le loro caratteristiche tecniche e i loro punti di forza:
 
 1.  **Nova X50:** Questo smartphone di fascia alta offre un processore di ultima generazione, una fotocamera avanzata con stabilizzazione ottica e un display AMOLED ad alta risoluzione. La sicurezza è garantita da un Secure Element hardware e da un sistema operativo Android con patch di sicurezza aggiornate regolarmente.

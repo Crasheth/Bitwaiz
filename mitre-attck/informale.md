@@ -51,6 +51,7 @@
 
 
 
+
 MITRE ATT&CK è un progetto che fornisce informazioni dettagliate sulle tecniche utilizzate dai cattivi attori per compromettere sistemi informativi. È essenziale per le aziende per migliorare la loro sicurezza, poiché aiuta a identificare e prevenire attacchi.
 
 

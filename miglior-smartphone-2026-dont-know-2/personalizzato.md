@@ -102,6 +102,7 @@
 
 
 
+
 Puoi utilizzare un'app idroponica dedicata o creare la tua. Queste app spesso includono sensori Bluetooth per misurare il pH, la temperatura, l'EC (conduttività elettrica) e altri parametri. Gli smartphone possono visualizzare questi dati in tempo reale, aiutandoti a identificare eventuali problemi e a intervenire tempestivamente. Alcune app permettono anche di impostare allarmi per quando i valori superano o scendono al di sotto di determinati limiti.
 
 ## Nota 1: Quali sensori sono necessari per un sistema idroponico

@@ -53,6 +53,7 @@
 
 
 
+
 ![MITRE ATT&CK](https://assets.website-files.com/5ff66329429d880392f6cba2/63f66cf10c804fd8a6fbd4f2_MITRE+ATT&CK.jpg)
 
 ## Introduzione
