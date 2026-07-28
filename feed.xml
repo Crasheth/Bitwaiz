@@ -5,8 +5,15 @@
     <link>https://bitwaiz.it/</link>
     <description>Articoli su trend tech, cybersecurity, elettronica e innovazione.</description>
     <language>it-it</language>
-    <lastBuildDate>Mon, 27 Jul 2026 06:20:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 06:17:31 GMT</lastBuildDate>
     <atom:link href="https://bitwaiz.it/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>Analisi Malware — Triage iniziale: VT, sandbox, stringhe, YARA</title>
+    <link>https://bitwaiz.it/analisi-malware-triage-iniziale-vt-sandbox/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/analisi-malware-triage-iniziale-vt-sandbox/</guid>
+    <pubDate>Mon, 27 Jul 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[Questo articolo si concentra sulla triage iniziale di malware utilizzando vari strumenti e tecniche. La triage iniziale è cruciale per capir…]]></description>
+  </item>
   <item>
     <title>Scheda grafica integrata vs dedicata: qual è la migliore per le tue esigenze? — 2026</title>
     <link>https://bitwaiz.it/scheda-grafica/</link>
