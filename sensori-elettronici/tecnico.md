@@ -179,6 +179,7 @@
 
 
 
+
 1.  **Sensori Wireless:** La proliferazione di sensori wireless, alimentati a batteria o tramite energia solare, consente la raccolta di dati in tempo reale da luoghi remoti o difficili da raggiungere.
 2.  **Sensori Miniaturizzati:** Lo sviluppo di sensori sempre più piccoli e compatti consente la loro integrazione in dispositivi indossabili, robot e altri sistemi embedded.
 3.  **Sensori Intelligenti:** I sensori intelligenti combinano la capacità di acquisire dati con l'elaborazione locale, consentendo l'analisi in tempo reale e l'azione automatica.

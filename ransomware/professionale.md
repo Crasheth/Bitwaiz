@@ -184,6 +184,7 @@
 
 
 
+
 WannaCry è un tipo di malware ransomware che crittografa i file delle vittime e richiede un riscatto per la loro decrittazione. È stato diffuso attraverso una vulnerabilità del sistema operativo Windows.
 
 ## Nota 1: Qual è stata l'impatto di WannaCry

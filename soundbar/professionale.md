@@ -176,6 +176,7 @@
 
 
 
+
 Secondo le fonti, una soundbar è un altoparlante compatto progettato per migliorare la qualità del suono di un televisore, soprattutto in ambienti dove è difficile installare sistemi audio tradizionali. Offre un suono più ricco e potente rispetto agli altoparlanti integrati nel televisore.
 
 ## Nota 1: Quali sono i principali marchi di soundbar

@@ -215,6 +215,7 @@
 
 
 
+
 Un power bank, o batterie esterne, è un dispositivo portatile che immagazzina energia elettrica e la fornisce a dispositivi elettronici come smartphone, tablet e fotocamere.
 
 ## Nota 1: Quali sono i tipi di power bank

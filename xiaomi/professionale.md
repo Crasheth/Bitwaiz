@@ -186,6 +186,7 @@
 
 
 
+
 Secondo le fonti, Xiaomi si distingue per un approccio diretto al consumatore (DTC), minimizzando i costi di marketing tradizionali e concentrandosi su prezzi competitivi e prodotti di alta qualità.
 
 ![xiaomi](https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2018/08/xiaomi-mi-a2-review-1.jpg?itok=8HzhG5Nf)

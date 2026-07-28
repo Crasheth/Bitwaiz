@@ -108,6 +108,7 @@
 
 
 
+
 Una soundbar è un dispositivo audio compatto progettato per migliorare l’audio di un televisore. Offre un suono più ricco e immersivo rispetto agli altoparlanti integrati del televisore, migliorando l’esperienza di visione.
 
 ## Nota 1: Quali sono le differenze tra una soundbar e un impianto audio tradizionale?

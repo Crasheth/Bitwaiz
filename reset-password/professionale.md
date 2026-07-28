@@ -245,6 +245,7 @@
 
 
 
+
 Il processo di reset password di solito prevede i seguenti passaggi: l'utente richiede il reset password, il sistema verifica l'identità dell'utente (tramite email, SMS o domande di sicurezza), l'utente imposta una nuova password e la nuova password viene salvata nel sistema. È fondamentale che il processo sia semplice da seguire per l'utente finale, ma al contempo sicuro per proteggere l'account.
 
 # Quali sono le Best Practice per il Reset Password?

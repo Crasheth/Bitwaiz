@@ -62,6 +62,7 @@
 
 
 
+
 Sony è noto per i suoi prodotti elettronici altamente tecnologici, ma nel campo del telefonino ha vissuto anni difficili. Il richiamo del Xperia segna un punto di non ritorno: se questa serie verrà definitivamente smessa, sarà l'ultima grande innovazione della marca in questo settore.
 
 ## Problemi e richiami

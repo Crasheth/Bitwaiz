@@ -141,6 +141,7 @@
 
 
 
+
 L'UVC (USB Video Class) è uno standard USB che definisce le specifiche per le webcam, consentendo la comunicazione tra la webcam e il sistema host. Definisce i protocolli di comunicazione, i formati dei dati e le funzionalità supportate.
 
 ## Nota 1: Come posso proteggere la mia webcam da accessi non autorizzati

@@ -54,6 +54,7 @@
 
 
 
+
 Tu: Ciao, team! Oggi discutiamo di un argomento cruciale per chi lavora in informatica e sicurezza aziendale: il SIEM. Conosci quel che c'è sotto?
 
 Team: Sì, ma spiegaci meglio!

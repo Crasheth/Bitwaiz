@@ -100,6 +100,7 @@
 
 
 
+
 Secondo le fonti, una smart home è un sistema che integra dispositivi e apparecchi elettrici per automatizzare e controllare vari aspetti della casa, come l’illuminazione, il riscaldamento, la sicurezza e l’intrattenimento, migliorando l’efficienza energetica e il comfort degli abitanti.
 
 ## Nota 1: Quali sono i componenti principali di una smart home

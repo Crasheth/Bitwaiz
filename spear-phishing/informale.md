@@ -195,6 +195,7 @@
 
 
 
+
 Il phishing è una tecnica di ingegneria sociale in cui i criminali informatici si travestono da entità affidabili (banche, aziende, servizi online) per indurti a rivelare informazioni personali come password, numeri di carta di credito o dati sensibili.
 
 ![spear phishing](https://www.itarian.com/blog/wp-content/uploads/2025/06/what-is-spear-phishing-attack.png)

@@ -14,6 +14,7 @@
 
 
 
+
 ![scheda grafica](https://m.media-amazon.com/images/I/71g2Lc8urJL._AC_SL1500_.jpg)
 
 ## Introduzione

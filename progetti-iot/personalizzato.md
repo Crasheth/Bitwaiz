@@ -211,6 +211,7 @@
 
 
 
+
 Mi chiedo se l'Internet delle cose (IoT) sia davvero accessibile a tutti, o se rimanga un campo riservato solo agli esperti. Tuttavia, con i progetti IoT per principianti come quelli che utilizzano Arduino e Raspberry Pi, la barriera di ingresso sembra diventare meno alta.
 
 

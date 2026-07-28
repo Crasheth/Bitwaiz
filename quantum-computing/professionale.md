@@ -373,6 +373,7 @@
 
 
 
+
 Il calcolo quantistico rappresenta un paradigma computazionale rivoluzionario, sfruttando i principi della meccanica quantistica per risolvere problemi che sono intrattabili per i computer classici. A differenza dei computer tradizionali che utilizzano bit per rappresentare informazioni come 0 o 1, i computer quantistici impiegano qubit, che possono esistere in una sovrapposizione di stati 0 e 1 contemporaneamente. Questa capacità, unita al fenomeno dell'entanglement quantistico, consente ai computer quantistici di eseguire calcoli complessi in modo esponenzialmente più veloce.
 
 ## I Principi Fondamentali

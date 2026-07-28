@@ -54,6 +54,7 @@
 
 
 
+
 Il mondo del business moderno si trova sempre più a dover affrontare sfide di natura tecnologica e digitale. Lo smartwatch dei nosti sistemi aziendali monitora continuamente le attività, ma come gestire efficacemente queste informazioni per garantire la sicurezza dell'organizzazione? Questo è il problema che solleva l'implementazione del SIEM (Security Information and Event Management), un sistema di grande importanza per PMI e grandi aziende.
 
 ![SIEM](https://assets.website-files.com/5ff66329429d880392f6cba2/60618622150ebe949eed6e3c_components+siem.jpg)

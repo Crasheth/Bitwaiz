@@ -39,6 +39,7 @@
 
 
 
+
 Il Raspberry Pi è un piccolo computer open source progettato per essere facile da usare e accessibile a tutti. Nel 2026, il suo utilizzo continua a espandersi in molti settori, dalla programmazione educativa alle soluzioni di IoT.
 
 ## Problema affrontato

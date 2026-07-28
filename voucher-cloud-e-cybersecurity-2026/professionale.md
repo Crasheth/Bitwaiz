@@ -215,6 +215,7 @@
 
 
 
+
 Il bando mira a incentivare l'adozione di servizi cloud e di soluzioni di cybersecurity da parte delle PMI italiane, promuovendo la digitalizzazione del tessuto produttivo nazionale e rafforzando la sicurezza informatica delle imprese.
 
 ## Approfondimento 1

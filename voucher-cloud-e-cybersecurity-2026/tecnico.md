@@ -215,6 +215,7 @@
 
 
 
+
 Secondo il bando MIMIT 2026, i requisiti principali riguardano l'attività svolta dall'impresa (attività di interesse generale, ricerca e sviluppo, ecc.), la presenza di un piano di cybersecurity e la conformità alle normative vigenti in materia di protezione dei dati.
 
 ## Approfondimento 1

@@ -46,6 +46,7 @@
 
 
 
+
 ![router WiFi 7](https://cdn.mos.cms.futurecdn.net/rP2Pog9A95pAKdoJhPMbGW.jpg)
 
 ## Introduzione

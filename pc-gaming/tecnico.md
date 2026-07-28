@@ -192,6 +192,7 @@
 
 
 
+
 Attualmente, i modelli con GPU NVIDIA GeForce RTX 4090 o AMD Radeon RX 7900MXS offrono le migliori prestazioni per il gaming in 4K nei PC gaming portatili. Tuttavia, questi modelli tendono ad essere più costosi e generano più calore.
 
 ## Quanto RAM è necessario per un PC gaming portatile?

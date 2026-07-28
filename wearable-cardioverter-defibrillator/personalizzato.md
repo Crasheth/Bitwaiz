@@ -213,6 +213,7 @@
 
 
 
+
 ![wearable](https://hitech.net.au/wp-content/uploads/2024/01/ac39357e-f6ef-4c47-b0ef-fd3cb760d5e9.png)
 
 ## Introduzione

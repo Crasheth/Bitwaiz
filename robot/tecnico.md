@@ -1,6 +1,7 @@
 # Robot
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> La tecnologia migliore è quella che scompare. — Mark Weiser.
+
 
 
 

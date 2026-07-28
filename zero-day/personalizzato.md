@@ -58,6 +58,7 @@
 
 
 
+
 ![zero day](https://m.media-amazon.com/images/M/MV5BMmYwNWM3ZWEtMmRlMi00MTA5LWFlY2QtMGI2MTdjOWFiZjgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg)
 
 ## Introduzione al Problema

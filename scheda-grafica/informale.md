@@ -13,6 +13,7 @@
 
 
 
+
 Ti chiedi se una scheda grafica per PC integrazione o dedicata sia il giusto per te. In questo pezzo ti aiuteremo a capire le differenze e scegliere quella più adatta al tuo setup.
 
 ![scheda grafica](https://m.media-amazon.com/images/I/71g2Lc8urJL._AC_SL1500_.jpg)

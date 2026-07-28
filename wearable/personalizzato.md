@@ -373,6 +373,7 @@
 
 
 
+
 La tecnologia indossabile, nata per monitorare parametri vitali e migliorare la salute, ha compiuto un'evoluzione sorprendente, arrivando a offrire un intervento immediato in caso di arresto cardiaco. Il cardiovertere portatile, o ICD (Implantable Cardioverter Defibrillator), rappresenta un punto di svolta, un dispositivo che, secondo le fonti, si inserisce in un flusso continuo di innovazione, tanto quanto il fiume si adatta al suo letto. La sua efficacia, pur non garantendo la sopravvivenza, offre una finestra preziosa, un respiro nel sistema, per ripristinare il ritmo cardiaco.
 
 *   **La necessità di un intervento tempestivo:** Le fonti indicano che l'arresto cardiaco improvviso rimane una delle principali cause di morte, spesso senza preavviso. L'ICD, inserito chirurgicamente, funge da sentinella, rilevando anomalie elettriche e intervenendo con una scarica elettrica per ripristinare il normale ritmo.

@@ -132,6 +132,7 @@
 
 
 
+
 I modelli linguistici di grandi dimensioni (LLM) come questo possono "allucinare" generando informazioni false o senza fondamento, presentandole come fatti reali. Questo è dovuto al modo in cui sono addestrati su enormi quantità di dati, dove possono imparare a generare testo coerente ma non necessariamente accurato.
 
 ## Nota 1: Come posso verificare l'accuratezza delle informazioni generate da un...

@@ -190,6 +190,7 @@
 
 
 
+
 La RAM (Random Access Memory) è la memoria a breve termine del telefono. Più RAM hai, più app puoi usare contemporaneamente senza che il telefono rallenti.
 
 ## Nota 1: Qual è la differenza tra 4G e 5G

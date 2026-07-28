@@ -201,6 +201,7 @@
 
 
 
+
 Secondo le fonti, prima di scegliere una stampante 3D, devi considerare il tuo budget, il tipo di materiali che vuoi usare e la complessità dei progetti che vuoi stampare. Ricorda, una stampante 3D più costosa non significa necessariamente una migliore qualità di stampa.
 
 ## Nota 1: Quali sono le migliori stampanti 3D per principianti

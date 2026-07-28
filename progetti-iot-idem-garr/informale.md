@@ -1,6 +1,7 @@
 # Verifica del Tuo Progetto IoT: Un Passo di Sicurezza
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
 
 
 

@@ -14,6 +14,7 @@
 
 
 
+
 La scelta tra una scheda grafica integrata e una dedicata può avere un impatto significativo sulle prestazioni del tuo computer. Ma quale opzione scegliere?
 
 ## Contesto e problema

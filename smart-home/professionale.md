@@ -100,6 +100,7 @@
 
 
 
+
 Un sistema domotico è un insieme di dispositivi e tecnologie interconnesse che automatizzano e controllano vari aspetti della casa, come l'illuminazione, il riscaldamento, la sicurezza e l'intrattenimento.
 
 ![smart home](https://techprorepair.com/wp-content/uploads/2020/05/Home-Automation.jpg)

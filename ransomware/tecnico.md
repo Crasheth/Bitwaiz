@@ -184,6 +184,7 @@
 
 
 
+
 La vulnerabilità principale risiede in un buffer overflow nel protocollo SMBv1 di Microsoft Windows, che consente l'esecuzione di codice arbitrario.
 
 ## Nota 1: Come si diffonde WannaCry

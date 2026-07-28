@@ -332,6 +332,7 @@
 
 
 
+
 Redmi, la divisione smartphone di Xiaomi, ha rapidamente guadagnato terreno nel mercato, diventando una delle marche più popolari, soprattutto in Cina, India ed Europa. La sua strategia si basa su dispositivi di alta qualità a prezzi accessibili, un elemento chiave per la sua crescita esponenziale. Il brand si concentra su serie come Redmi Note e Redmi K, che hanno raggiunto traguardi significativi, come la leadership globale di vendite nel 2019 con il Redmi Note 7.
 
 Ecco i punti chiave da tenere a mente:

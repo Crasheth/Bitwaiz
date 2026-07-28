@@ -58,6 +58,7 @@
 
 
 
+
 ![zero day](https://m.media-amazon.com/images/M/MV5BMmYwNWM3ZWEtMmRlMi00MTA5LWFlY2QtMGI2MTdjOWFiZjgxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg)
 
 Il romanzo _Zero Day_, primo volume della serie _Slow Burn_, propone un approccio unico alla narrativa e alla rappresentazione dei rischi informatici. Il testo ci mette in grado di comprendere meglio le dinamiche del cyberattacco e del suo impatto nella società, sottolineando l'importanza di una gestione continua e dinamica della sicurezza.

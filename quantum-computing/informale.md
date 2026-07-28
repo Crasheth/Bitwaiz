@@ -371,6 +371,7 @@
 
 
 
+
 Il calcolo quantistico è un campo in rapida evoluzione che promette di rivoluzionare l'informatica, ma anche di sollevare interrogativi profondi. Invece di operare con bit che rappresentano 0 o 1, i computer quantistici sfruttano i principi della meccanica quantistica per manipolare informazioni in forma di "qubit", che possono essere 0, 1 o una combinazione di entrambi contemporaneamente. Questo permette di risolvere problemi che sono intrattabili per i computer classici, aprendo la strada a nuove scoperte in campi come la medicina, la scienza dei materiali e la crittografia.
 
 Ma questa potenza ha un lato oscuro. La capacità di decifrare algoritmi di crittografia attualmente utilizzati per proteggere dati sensibili rappresenta una minaccia reale. Inoltre, la complessità dei sistemi quantistici e la loro dipendenza da condizioni ambientali estreme (temperature vicine allo zero assoluto) rendono la loro costruzione e il loro funzionamento estremamente difficili e costosi.

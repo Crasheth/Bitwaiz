@@ -97,6 +97,7 @@
 
 
 
+
 Stanco di rimanere a secco quando la batteria del telefono si scarica? Con il Ridge Power Bank, non dovrai più preoccuparti. Questo piccolo accessorio ti permette di ricaricare i tuoi dispositivi ovunque tu sia, trasformando qualsiasi superficie in una stazione di ricarica. E non solo: con il suo design minimalista e le sue tante opzioni di personalizzazione, diventa un accessorio che ti rappresenta. Scopriamo insieme come funziona e perché potrebbe fare al caso tuo.
 
 

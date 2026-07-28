@@ -226,6 +226,7 @@
 
 
 
+
 L'Apple Watch offre un'ampia gamma di funzionalità, tra cui monitoraggio della frequenza cardiaca, GPS, notifiche, chiamate, messaggi, musica, e la possibilità di utilizzare app di terze parti. È sincronizzato con l'iPhone e l'ecosistema Apple, consentendo un'esperienza utente fluida e integrata.
 
 ## Nota 1: Quali modelli di Apple Watch sono disponibili

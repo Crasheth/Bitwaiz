@@ -373,6 +373,7 @@
 
 
 
+
 I computer quantistici rappresentano un paradigma di calcolo radicalmente diverso dai computer classici, sfruttando i principi della meccanica quantistica per risolvere problemi che sono intrattabili per i computer tradizionali. Questa capacità deriva dall'utilizzo di bit quantistici (qubit) che, a differenza dei bit classici che rappresentano 0 o 1, possono esistere in una sovrapposizione di entrambi gli stati contemporaneamente.
 
 ## Principi Fondamentali

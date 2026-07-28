@@ -179,6 +179,7 @@
 
 
 
+
 Se ti sei mai chiesto come un termostato sa quanto fa freddo, o come un sensore di movimento accende la luce, la risposta sta nei sensori. Questi piccoli dispositivi sono ovunque, trasformando dati invisibili in informazioni che usiamo ogni giorno. Ma cosa fanno esattamente e perché sono così importanti?
 
 Questo articolo ti guiderà attraverso il mondo dei sensori, spiegando come funzionano, quali tipi esistono e come vengono utilizzati in una vasta gamma di applicazioni, dalla tua casa all'industria. Imparerai a capire come questi dispositivi silenziosi stanno plasmando il nostro mondo.

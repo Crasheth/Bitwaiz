@@ -54,6 +54,7 @@
 
 
 
+
 ![SIEM](https://assets.website-files.com/5ff66329429d880392f6cba2/60618622150ebe949eed6e3c_components+siem.jpg)
 
 ## Introduzione

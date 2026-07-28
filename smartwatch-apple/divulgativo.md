@@ -226,6 +226,7 @@
 
 
 
+
 Il lancio dell'Apple Watch nel 2015 ha rappresentato una svolta nel settore degli smartwatch, trasformando un mercato ancora agli albori in una vera e propria competizione. Ma come è nato questo dispositivo che ora è onnipresente nelle nostre cinture e ci offre un'infinità di funzionalità? Comprendere la sua storia ci aiuta a capire come Apple ha saputo anticipare le esigenze dei consumatori e ridefinire il concetto di "wearable".
 
 

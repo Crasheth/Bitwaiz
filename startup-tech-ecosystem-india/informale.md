@@ -180,6 +180,7 @@
 
 
 
+
 Le startup indiane sono piccole imprese in fase iniziale, spesso basate sulla tecnologia, che hanno il potenziale per crescere rapidamente e creare valore. Sono caratterizzate da un alto grado di innovazione, flessibilità e capacità di adattamento.
 
 ## Nota 1: Quali sono i settori più importanti per le startup indiane

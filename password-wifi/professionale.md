@@ -258,6 +258,7 @@
 
 
 
+
 La cosa più importante è cambiare la password predefinita del router con una password complessa. Questo impedisce a chiunque di accedere alla tua rete senza autorizzazione.
 
 ## Punto chiave

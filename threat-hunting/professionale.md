@@ -66,6 +66,7 @@
 
 
 
+
 La citazione famosa pertinente all'argomento è: "Ci sono solo due tipi di aziende: quelle che hanno subito un attacco, e quelle che non lo sanno." — John Chambers.
 
 

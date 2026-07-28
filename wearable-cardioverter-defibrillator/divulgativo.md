@@ -211,6 +211,7 @@
 
 
 
+
 Un WCD è un dispositivo medico indossabile che monitora continuamente l'attività elettrica del cuore e, in caso di necessità, può erogare una scarica elettrica per ripristinare un ritmo cardiaco normale. Questi dispositivi sono progettati per essere utilizzati da persone con un alto rischio di sviluppare aritmie o che hanno già una storia di problemi cardiaci.
 
 ![wearable](https://www.electroniclinic.com/wp-content/uploads/2020/12/wearable-technology.jpg)

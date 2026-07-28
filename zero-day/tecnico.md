@@ -58,6 +58,7 @@
 
 
 
+
 ## Contesto e problema
 
 Il tema della sicurezza contro le minacce AI è diventato sempre più rilevante con l'aumento dell'uso di tecnologie avanzate. La citazione famosa di Edward Tufte suggerisce che la comprensione e la gestione delle minacce digitali richiede una profonda conoscenza del comportamento degli utenti e dei sistemi, simile a quella necessaria per comprendere le dinamiche del mercato del software.

@@ -162,6 +162,7 @@
 
 
 
+
 Secondo le fonti, le principali minacce includono malware, phishing, attacchi di social engineering, accesso non autorizzato a dati sensibili e vulnerabilità nel software e nell'hardware. La proliferazione di app di terze parti e la mancanza di consapevolezza degli utenti aumentano il rischio.
 
 ## Nota 1: Come posso proteggere il mio smartphone da attacchi informatici

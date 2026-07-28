@@ -141,6 +141,7 @@
 
 
 
+
 Le webcam, dispositivi che catturano immagini o video e le trasmettono su una rete, hanno subito una notevole evoluzione dalla loro nascita come esperimento accademico. Inizialmente, nel 1994, Connectix introdusse la QuickCam, rendendo accessibile la tecnologia al grande pubblico. Questa prima webcam, collegata a un computer, consentiva di visualizzare in tempo reale le immagini catturate, aprendo la strada a nuove applicazioni come la sorveglianza remota e la comunicazione visiva.
 
 ![webcam](https://m.media-amazon.com/images/I/61o5uDZ9buL._AC_SL1500_.jpg)

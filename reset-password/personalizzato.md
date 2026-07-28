@@ -244,6 +244,7 @@
 
 
 
+
 Un reset di password è un processo che permette all'utente di recuperare l'accesso al proprio account in caso di dimenticanza della password. Secondo le fonti, il sistema richiede generalmente un'email di conferma o una risposta a domande segrete per verificare l'identità dell'utente prima di inviare una nuova password.
 
 # Perché è importante utilizzare self-service password reset?

@@ -155,6 +155,7 @@
 
 
 
+
 Se il tuo telefono è sempre scarico, sai già cosa dire: è un incubo. Ma hai presente quando vuoi usare il telefono e vedi quella barra che scende lentamente, lentamente, lentamente? E poi ti accorgi che il cavo è da qualche parte sotto il divano... Ecco, i charger wireless sono la soluzione. Ma cosa sono esattamente e come funzionano? Cerchiamo di fare chiarezza, senza tecnicismi eccessivi.
 
 ![ricarica wireless](https://www.tindarobattaglia.it/wp-content/uploads/2017/11/smartphone-ricarica-wireless.jpg)

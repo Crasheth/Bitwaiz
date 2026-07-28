@@ -1,6 +1,7 @@
 # Verifica dell'Identità per Progetti IoT: Un Approccio Sicuro
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
 
 
 

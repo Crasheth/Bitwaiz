@@ -1,6 +1,7 @@
 # Cos'è un CVE? Introduzione alla Gestione delle Vulnerabilità
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+
 
 
 

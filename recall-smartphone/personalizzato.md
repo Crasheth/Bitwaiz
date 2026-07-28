@@ -62,6 +62,7 @@
 
 
 
+
 Il mondo dello smartphone è in costante evoluzione, ma non sempre le aziende riescono a mantenere la loro posizione di leadership. Sony, una volta famosa per i suoi dispositivi elettronici di alta qualità, sembra essere al centro di un'importante crisi con il recall dei suoi smartphone. In questo articolo esploreremo il contesto del problema, le conseguenze del recall, e quali possibili future mosse la compagnia potrebbe intraprendere.
 
 ![recall smartphone](https://cdn.mos.cms.futurecdn.net/jmsLoombaHZD6o93d3Lgx7.jpg)

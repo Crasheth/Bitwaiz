@@ -226,6 +226,7 @@
 
 
 
+
 L'amore per gli smartwatch, Apple Watch compreso, è in fondo fame di precisione: sensori, notifiche, misure. Questo dispositivo, con i suoi numerosi sensori, ci permette di controllare molti aspetti della giornata dal polso. Ma al di là delle funzionalità tecniche, l'Apple Watch può essere letto anche come metafora della nostra relazione con la natura: un equilibrio precario tra tecnologia e mondo fisico.
 
 

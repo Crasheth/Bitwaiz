@@ -66,6 +66,7 @@
 
 
 
+
 ## Contesto del problema
 
 La sicurezza delle informazioni è un tema cruciale per ogni organizzazione. Con l'aumento della complessità delle minacce cibernetiche, la necessità di implementare strategie proattive come il threat hunting diventa sempre più urgente. Questo articolo esplora i concetti chiave e le pratiche adottate nella sicurezza informatica moderna.

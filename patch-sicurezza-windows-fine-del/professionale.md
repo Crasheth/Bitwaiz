@@ -90,6 +90,7 @@
 
 
 
+
 *   **Windows 10’dan Windows 11’e geçiş için ne kadar süre var?** Microsoft, 14 Ekim 2025 tarihinde Windows 10’a yönelik destek durduracağını duyurdu. Bu tarihe kadar geçişinizi planlamanız önemlidir.
 *   **Windows 11’e geçiş ücretsiz mi?** Windows 11, Microsoft tarafından ücretsiz olarak sunuluyor.
 *   **Windows 10’u Windows 11’e geçirmek için ne yapmalıyım?** Windows 10’u Windows 11’e geçirmek için Microsoft’un sağladığı talimatları takip etmeniz ve sisteminizi güncellemeniz gerekiyor.

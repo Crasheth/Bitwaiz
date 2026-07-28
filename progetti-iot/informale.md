@@ -211,6 +211,7 @@
 
 
 
+
 Se sei qui, probabilmente ti sei chiesto perché i progetti IoT (Internet of Things) sono così spesso un disastro. Non è solo questione di tecnologia, ma di come le cose vengono pianificate, implementate e gestite. Cerchiamo di capire cosa va storto e come fare meglio.
 
 

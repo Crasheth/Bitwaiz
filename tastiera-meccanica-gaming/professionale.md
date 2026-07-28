@@ -189,6 +189,7 @@
 
 
 
+
 Secondo le fonti, le tastiere meccaniche utilizzano interruttori individuali per ogni tasto, offrendo una risposta tattile e un feedback più preciso, mentre le tastiere a membrana impiegano una singola membrana per rilevare la pressione dei tasti, risultando in un'esperienza di digitazione più uniforme ma meno precisa.
 
 ## Nota 1: Quali sono i principali tipi di interruttori meccanici

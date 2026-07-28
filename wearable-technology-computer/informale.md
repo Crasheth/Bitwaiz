@@ -152,6 +152,7 @@
 
 
 
+
 La wearable tech si riferisce a dispositivi elettronici indossabili, come smartwatch, fitness tracker e dispositivi biometrici, progettati per monitorare e migliorare vari aspetti della vita quotidiana, dalla salute al fitness.
 
 ## Nota 1: Quali sono le principali categorie di wearable tech

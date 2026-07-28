@@ -192,6 +192,7 @@
 
 
 
+
 Ok, quindi vuoi fare il gamer? Ma seriamente, il mondo del PC gaming può sembrare un buco nero di numeri, componenti e budget. Non preoccuparti, ti darò una mano a orientarti, senza tecnicismi inutili. Questa guida è per chi vuole semplicemente giocare bene, senza diventare un ingegnere informatico. Parleremo di cosa serve, quanto costa e come scegliere le componenti giuste per il tuo budget.
 
 ![pc gaming](https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/10/pc-gaming-platform-computer.jpg)

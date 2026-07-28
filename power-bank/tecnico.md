@@ -215,6 +215,7 @@
 
 
 
+
 Un power bank es un dispositivo portátil que almacena energía eléctrica para cargar dispositivos electrónicos como smartphones, tablets y auriculares. Sirve como una fuente de energía de respaldo cuando no se dispone de una toma de corriente.
 
 ## ¿Cómo se mide la capacidad de un power bank?

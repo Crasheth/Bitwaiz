@@ -186,6 +186,7 @@
 
 
 
+
 MIUI è il sistema operativo personalizzato di Xiaomi basato su Android. È caratterizzato da un'interfaccia utente intuitiva, numerose funzionalità aggiuntive e aggiornamenti regolari, grazie al contributo della community.
 
 ## Nota 1: Come Xiaomi ha costruito la sua community

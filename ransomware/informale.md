@@ -184,6 +184,7 @@
 
 
 
+
 Il ransomware WannaCry è un tipo di malware che crittografa i file di un computer infetto e chiede un riscatto per la loro decrittazione. Utilizza una vulnerabilità nel sistema operativo Windows chiamata EternalBlue.
 
 ![ransomware](https://image-optimizer.cyberriskalliance.com/unsafe/1920x0/https://files.scmagazine.com/wp-content/uploads/2024/01/012324_ransomware.jpg)

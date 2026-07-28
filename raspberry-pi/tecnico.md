@@ -38,6 +38,7 @@
 
 
 
+
 ## Introduzione
 
 Questo articolo è rivolto ai difensori della sicurezza informatica, in particolare alle blue team e ai SOC (Security Operations Center). Esploriamo come le organizzazioni possono utilizzare i Raspberry Pi in modo sicuro, fornendo una serie di consigli tecnici per la protezione delle piattaforme Raspberry Pi. Scoprirete come implementare controlli di sicurezza efficaci, rilevare minacce e gestire eventi di sicurezza.

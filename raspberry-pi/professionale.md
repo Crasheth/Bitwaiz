@@ -38,6 +38,7 @@
 
 
 
+
 Il Raspberry Pi è una famiglia di computer minicompatti, adatti a vari tipi di applicazioni, tra cui la programmazione, l'ingegneria del software, il prototipaggio e le soluzioni IoT. Questo articolo si rivolge a chiunque desideri iniziare o migliorare i propri progetti maker utilizzando un Raspberry Pi.
 
 Il Raspberry Pi offre una soluzione economica e potente per sviluppatori e appassionati di tecnologia, consentendo l'implementazione di vari tipi di progetti come sistemi di controllo domestico, robotici, applicazioni di analisi dei dati o semplici giochi.

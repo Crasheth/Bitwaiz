@@ -14,6 +14,7 @@
 
 
 
+
 ## Introduzione
 
 Questo articolo è rivolto a chi sta considerando l'acquisto di un nuovo computer o ha bisogno di informazioni su come scegliere tra una scheda grafica (GPU) integrata e una dedicata. Analizziamo i punti chiave per aiutarti a prendere la decisione più adatta al tuo dispositivo.

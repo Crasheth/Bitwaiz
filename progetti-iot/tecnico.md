@@ -209,6 +209,7 @@
 
 
 
+
 Secondo ZeroUno, l'IoT si riferisce alla rete di dispositivi fisici, veicoli, elettrodomestici e altri oggetti integrati con sensori, software e altre tecnologie che consentono loro di raccogliere e scambiare dati. I componenti principali includono dispositivi IoT, reti di comunicazione, piattaforme IoT e applicazioni.
 
 ## 2. Quali sono i principali rischi associati all'implementazione dell'IoT?

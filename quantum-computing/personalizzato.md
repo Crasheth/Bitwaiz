@@ -374,6 +374,7 @@
 
 
 
+
 I computer quantistici, con la loro promessa di rivoluzionare la computazione, evocano immagini di un futuro in cui i problemi più complessi diventano risolvibili in un batter d'occhio. Ma cosa sono realmente questi dispositivi, e come sfruttano le leggi della fisica quantistica per ottenere un potere di calcolo inimmaginabile?
 
 *   **Sovrapposizione:** Come un moneta che gira in aria, un qubit (l'unità di informazione quantistica) può esistere in una sovrapposizione di stati, rappresentando 0 e 1 contemporaneamente. Questa capacità, un po' come il flusso del Tao, permette ai computer quantistici di esplorare molteplici soluzioni simultaneamente.

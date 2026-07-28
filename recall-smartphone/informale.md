@@ -62,6 +62,7 @@
 
 
 
+
 ## Il destino dell'Xperia
 
 Secondo le fonti, Sony sta per fare un ultimo tentativo con l'Xperia prima di chiudere definitivamente il capitolo. Questa decisione non è sorprendente considerando l'insuccesso del marchio su vari fronti.

@@ -58,6 +58,7 @@
 
 
 
+
 ## Zero Day: il libro e la sua sfida alla privacy
 
 Secondo le fonti, "Zero Day" di Max Brooks è una storia fantastica che si scontra con problemi reali legati alla privacy digitale. Il libro esplora come un virus digitale possa minacciare l'umanità, provocando una crisi mondiale. Tu puoi immaginare un mondo dove la privacy non è più garantita e le tecnologie vengono impiegate per controllare la popolazione.

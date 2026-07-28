@@ -59,6 +59,7 @@
 
 
 
+
 ## Zero Day: un avvertimento tecnologico per l'anno 2026
 
 Zero Day rappresenta una minaccia significativa per la sicurezza informatica. Nelle parole di Edward Tufte, "Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software." In questo contesto, Zero Day allude a vulnerabilità software non rilevate fino al momento dell'attacco, rendendole particolarmente pericolose.

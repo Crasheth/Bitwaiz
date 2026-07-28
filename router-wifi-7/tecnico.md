@@ -45,6 +45,7 @@
 
 
 
+
 ## Introduzione
 
 Questo articolo è rivolto a professionisti della sicurezza informatica e amministratori di rete, fornendo una guida tecnica per la protezione dei router WiFi 7. Esploriamo i rischi associati alle nuove funzionalità del protocollo WiFi 7 e come implementare misure di sicurezza efficaci.

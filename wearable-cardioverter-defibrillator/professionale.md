@@ -211,6 +211,7 @@
 
 
 
+
 Un cardioverter defibrillatore indossabile (ICD) è un dispositivo che aiuta a prevenire e trattare aritmie cardiache pericolose per la vita. A differenza degli ICD tradizionali, un ICD indossabile può essere indossato sotto i vestiti, consentendo alle persone di vivere la loro vita normalmente.
 
 ## Nota 1: Come funzionano gli ICD indossabili

@@ -132,6 +132,7 @@
 
 
 
+
 Una soundbar è un altoparlante compatto progettato per essere posizionato sotto o accanto al televisore, offrendo un'esperienza audio più coinvolgente rispetto agli altoparlanti integrati del televisore.
 
 ## Nota 1: Quali sono le caratteristiche principali di una soundbar di fascia media come l'HS3100?

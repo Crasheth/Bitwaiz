@@ -215,6 +215,7 @@
 
 
 
+
 Secondo la reteagevolazioni.it, i requisiti principali sono l'essere un'azienda italiana, avere una partita IVA attiva e un fatturato annuo inferiore a 50 milioni di euro. Inoltre, è richiesta la dimostrazione di una reale necessità di investire in servizi cloud o cybersecurity.
 
 ## Approfondimento 1

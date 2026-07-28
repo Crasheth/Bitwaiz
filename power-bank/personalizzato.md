@@ -217,6 +217,7 @@
 
 
 
+
 Nel mondo digitale di oggi, le piccole cose possono fare grandi differenze. Uno dei tanti esempi ne sono i **power banks**: dispositivi portatili che forniscono energia alle nostre apparecchiature tecnologiche, garantendo la connettività e l'autonomia dove ci troviamo. Ma se pensi solo alla loro funzione pratiche, sottovaluti il potenziale di questi piccoli oggetti per rinnovare le nostre interazioni con l'informazione.
 
 

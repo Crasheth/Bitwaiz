@@ -195,6 +195,7 @@
 
 
 
+
 Secondo Fortinet, il phishing è una tecnica di ingegneria sociale che sfrutta la fiducia e l'ingenuità delle vittime per ottenere informazioni sensibili, come nomi utente, password e dettagli della carta di credito. Gli attaccanti simulano comunicazioni legittime da fonti affidabili per indurre le vittime a rivelare queste informazioni.
 
 ## Nota 1: Quali sono i tipi di phishing più comuni

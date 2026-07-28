@@ -141,6 +141,7 @@
 
 
 
+
 Ehi, quindi hai mai pensato a come puoi vedere il mondo senza uscire di casa? Le webcam sono diventate super comuni, ma sai davvero da dove vengono e come sono cambiate? In questo articolo, ti spieghiamo la storia delle webcam, dai primi esperimenti a quello che le rende oggi così diffuse, e ti facciamo un po' di idea di cosa ci riserva il futuro.
 
 ![webcam](https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6080/6080602_sd.jpg)
