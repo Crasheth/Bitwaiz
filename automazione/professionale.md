@@ -1,6 +1,10 @@
 # Auntonazione
 
-> La tecnologia migliore è quella che scompare. — Mark Weiser.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
+
+
 
 
 
@@ -397,6 +401,10 @@ L'automazione ha un impatto significativo su diversi settori, dalla produzione a
 
 
 ![automazione](https://www.kablator.com/wp-content/uploads/2024/03/Automazione-robotica-industriale-Kablator.png)
+
+
+
+
 
 
 

@@ -1,6 +1,10 @@
 # Gestire Progetti IoT: Oltre la Verifica di Sicurezza
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
+
+
 
 
 
@@ -185,6 +189,10 @@ La verifica richiesta (come il controllo della connessione sicura su Vimeo) è u
 
 ### Quali tipi di dispositivi IoT possono essere gestiti tramite questa risorsa?
 La risorsa gestisce oggetti IoT dislocati presso l’Università di Torino, suggerendo un focus su dispositivi e sensori utilizzati all’interno dell’istituzione.
+
+
+
+
 
 
 

@@ -1,6 +1,10 @@
 # Aggiornamento firmware: perché e come farlo
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
+
+
 
 
 
@@ -62,6 +66,10 @@ Per informazioni aggiuntive e dettagli tecnici riguardo l'aggiornamento firmware
 
 - Aggiornamenti software
 - Sicurezza del dispositivo
+
+
+
+
 
 
 

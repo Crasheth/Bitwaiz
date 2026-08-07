@@ -1,6 +1,10 @@
 # Data breach: il pericolo che non vedi
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
+
+
 
 
 
@@ -135,6 +139,10 @@ Per prevenire i **data breach**, è importante:
 1. Implementare controlli di sicurezza robusti, come autenticazione multifattoriale (MFA).
 2. Mantenere software e sistemi aggiornati.
 3. Educare l'intera organizzazione sulle buone pratiche di sicurezza.
+
+
+
+
 
 
 

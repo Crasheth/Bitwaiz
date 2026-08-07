@@ -1,6 +1,10 @@
 # API
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
+
+
 
 
 
@@ -259,6 +263,10 @@ Un API Gateway è un componente software che funge da punto di ingresso per tutt
 ### Come posso testare un'API?
 
 Esistono diversi strumenti per testare un'API, tra cui Postman, Insomnia e strumenti integrati nei browser web. Questi strumenti consentono di inviare richieste all'API, analizzare le risposte e verificare che l'API funzioni correttamente.
+
+
+
+
 
 
 

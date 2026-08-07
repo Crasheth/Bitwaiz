@@ -1,6 +1,10 @@
 # Cybersecurity Information Sharing Act
 
-> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+> Ci sono solo due tipi di aziende: quelle che sono state hackerate e quelle che non sanno di esserlo. — John Chambers.
+
+
+
+
 
 
 
@@ -370,6 +374,10 @@ Secondo le fonti, il CISA prevede la creazione di un'agenzia governativa (Cyber 
 ## Vedi anche
 
 *   EU Cybersecurity Act | Shaping Europe’s digital future
+
+
+
+
 
 
 

@@ -5,8 +5,15 @@
     <link>https://bitwaiz.it/</link>
     <description>Articoli su trend tech, cybersecurity, elettronica e innovazione.</description>
     <language>it-it</language>
-    <lastBuildDate>Tue, 28 Jul 2026 06:20:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 07:41:01 GMT</lastBuildDate>
     <atom:link href="https://bitwaiz.it/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>Gamescom: la fiera che trasforma l&#x27;industria del gaming</title>
+    <link>https://bitwaiz.it/gamescom/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/gamescom/</guid>
+    <pubDate>Fri, 07 Aug 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[Il Gamescom 2026 è il più grande evento annuale dedicato al mondo dei videogiochi, che si svolgerà a Francoforte, Germania. Questo evento no…]]></description>
+  </item>
   <item>
     <title>Analisi Malware — Triage iniziale: VT, sandbox, stringhe, YARA</title>
     <link>https://bitwaiz.it/analisi-malware-triage-iniziale-vt-sandbox/</link>
