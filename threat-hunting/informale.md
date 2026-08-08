@@ -71,6 +71,8 @@
 
 
 
+
+
 ## Citazione famosa pertinente all'argomento
 
 Ciao! Come stai? Ho una domanda su threat hunting. Potresti spiegarmi cosa sia?
@@ -110,6 +112,8 @@ Threat hunting è un processo manuale o semiammanco per identificare minacce non
 Secondo le fonti, gli strumenti comuni includono EDR (Endpoint Detection and Response), SIEM (Security Information and Event Management) e analisi forensiche dei log.
 
 ![threat hunting](https://www.crowdstrike.com/wp-content/uploads/2019/06/where-does-threat-hunting-fit-graphic.png)
+
+
 
 
 

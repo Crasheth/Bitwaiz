@@ -5,8 +5,15 @@
     <link>https://bitwaiz.it/</link>
     <description>Articoli su trend tech, cybersecurity, elettronica e innovazione.</description>
     <language>it-it</language>
-    <lastBuildDate>Fri, 07 Aug 2026 07:41:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 06:40:04 GMT</lastBuildDate>
     <atom:link href="https://bitwaiz.it/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>GPU: Tutto ciò che devi sapere per proteggere le tue applicazioni grafiche</title>
+    <link>https://bitwaiz.it/gpu/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/gpu/</guid>
+    <pubDate>Sat, 08 Aug 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[Le Grafical Processing Units (GPU) sono diventate fondamentali non solo nel mondo del gioco, ma anche nell'elaborazione dei dati e nella mac…]]></description>
+  </item>
   <item>
     <title>Gamescom: la fiera che trasforma l&#x27;industria del gaming</title>
     <link>https://bitwaiz.it/gamescom/</link>
