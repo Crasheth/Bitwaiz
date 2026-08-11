@@ -10,6 +10,8 @@
 
 
 
+
+
 Gamescom è l'evento annuale più importante per i video-game, un incontro tra sviluppatori e appassionati che si tiene a Francoforte in Germania. Questo evento non solo dimostra le ultime innovazioni tecnologiche, ma anche come la industria del gioco stia diventando sempre più sofisticata.
 
 ![Gamescom](https://blog.just-in-media.de/wp-content/uploads/2025/02/DALL·E-2025-02-21-16.19.49-A-unique-and-precisely-designed-thumbnail-for-a-press-article-about-gamescom-2024-in-Cologne.-The-image-features-a-large-gaming-convention-at-Koelnmes.webp)
@@ -29,6 +31,8 @@ Il Gamescom 2026 sarà aperto dal giovedì 15 al lunedì 19 settembre, con orari
 ### Cosa devo portare con me per partecipare?
 
 Porta il tuo biglietto d'ingresso e un documento di identità validi. Inoltre, è consigliabile indossare abbigliamento comodo e portare una borsa per le piccole cose.
+
+
 
 
 

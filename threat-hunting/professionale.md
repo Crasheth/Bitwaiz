@@ -77,6 +77,8 @@
 
 
 
+
+
 La citazione famosa pertinente all'argomento è: "Ci sono solo due tipi di aziende: quelle che hanno subito un attacco, e quelle che non lo sanno." — John Chambers.
 
 
@@ -128,6 +130,8 @@ Secondo le fonti, gli strumenti comuni includono EDR (Endpoint Detection and Res
 
 
 ![threat hunting](https://www.crowdstrike.com/wp-content/uploads/2019/06/where-does-threat-hunting-fit-graphic.png)
+
+
 
 
 
