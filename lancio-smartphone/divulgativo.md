@@ -1,6 +1,8 @@
 # Come prepararsi al lancio del nuovo smartphone aziendale
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -76,6 +78,8 @@ La formazione del personale è importante. Le fonti suggeriscono che la combinaz
 
 ### Quali sono le minacce emergenti che devo preoccuparmi in questo momento?
 Secondo le fonti, le minacce emergenti richiedono risposte coordinate a livello settoriale e internazionale. È importante restare attenti e preparati.
+
+
 
 
 

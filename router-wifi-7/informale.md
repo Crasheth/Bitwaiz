@@ -1,6 +1,8 @@
 # Come scegliere un router WiFi 7 in modo efficace nel 2026
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -85,6 +87,8 @@ Il protocollo WiFi 7 introduce nuove funzionalità come OFDMA e Multi-RU, che au
 
 ### Come posso proteggere i miei router WiFi 7?
 Per proteggere i router, è importante mantenere aggiornamenti software regolari, disattivare funzionalità non utilizzate e utilizzare strumenti avanzati come MITRE ATT&CK per identificare comportamenti anomali.
+
+
 
 
 

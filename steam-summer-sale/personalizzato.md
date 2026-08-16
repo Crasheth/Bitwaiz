@@ -1,6 +1,8 @@
 # Steam Summer Sale 2026: Offerte Immani per i Giocatori
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+
 
 
 
@@ -104,6 +106,8 @@ Sì, ma ricorda di controllare se ci sono aggiornamenti o versioni migliorate di
 
 ### Devo comprare subito per risparmiare?
 Non necessariamente. Alcuni giochi rimangono a sconto anche dopo la fine della vendita, ma non sempre.
+
+
 
 
 

@@ -1,6 +1,8 @@
 # Introduzione al mondo del gaming portatile: come la tecnologia sta trasformando le tue partite
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
+
 
 
 
@@ -84,6 +86,8 @@ I controlli essenziali includono la scansione regolare per malware, l'uso di ant
 ### Come si può gestire una compromissione dei dati nei dispositivi gaming handheld?
 
 In caso di compromissione, è fondamentale seguire un piano di risposta ai vettori di attacco. Questo include la notifica immediata degli utenti, l'isolamento del dispositivo e il ripristino dei dati da backup recenti.
+
+
 
 
 

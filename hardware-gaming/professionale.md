@@ -1,6 +1,8 @@
 # Il hardware gaming: cosa è e perché conti
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -42,6 +44,8 @@ Indicizzatori come l'attività anomala del disco, l'aumento improvviso della tem
 ### Quali sono i vantaggi della threat hunting nel contesto del hardware gaming?
 
 La threat hunting ti permette di identificare minacce in anticipo, attraverso l'analisi attiva dei log e delle attività sospette. Questa pratica può aiutarti a prevenire incidenti e a mantenere un ambiente sicuro.
+
+
 
 
 
