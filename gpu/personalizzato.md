@@ -12,6 +12,8 @@
 
 
 
+
+
 ![GPU](https://img.freepik.com/premium-photo/closeup-graphics-processing-unit-gpu-circuit-board_1004086-3771.jpg?w=2000)
 
 ## Introduzione
@@ -54,6 +56,8 @@ Una GPU è progettata per elaborare compiti paralleli, mentre il CPU gestisce le
 
 ### Come posso monitorare le GPU per identificare eventuali attacchi?
 Utilizza strumenti di EDR (Endpoint Detection and Response) e regolare threat hunting per analizzare l'utilizzo delle risorse GPU. Monitora i log e le tracce di rete per rilevare comportamenti sospetti.
+
+
 
 
 
