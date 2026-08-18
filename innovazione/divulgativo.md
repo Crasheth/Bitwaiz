@@ -217,6 +217,8 @@
 
 
 
+
+
 Esistono diversi modi per classificare l'innovazione, tra cui:
 
 *   **Innovazione di prodotto:** Creazione di nuovi prodotti o miglioramento di quelli esistenti.
@@ -259,6 +261,8 @@ Supportano un'ampia gamma di settori, tra cui l'automotive, l'energia, l'ambient
 ### Dove si trova la sede di TEC4I FVG?
 
 La sede principale è situata a Udine, Friuli Venezia Giulia, Italia.
+
+
 
 
 
