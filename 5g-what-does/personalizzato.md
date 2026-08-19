@@ -1,6 +1,8 @@
 # aniskin # 5G+: Un’Immersione Tecnica e Personale
 
-> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+
+
 
 
 
@@ -231,6 +233,8 @@ Puoi utilizzare app di test della velocità per confrontare le velocità di conn
 
 
 ![5G](https://etimg.etb2bimg.com/photo/92005566.cms)
+
+
 
 
 

@@ -1,6 +1,8 @@
 # Implementare l'IoT: un viaggio alla scoperta delle sfide e delle opportunità
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -273,6 +275,8 @@ Esistono diversi tipi di dispositivi IoT, tra cui sensori, attuatori, gateway e 
 
 ### Quali sono i vantaggi dell'IoT?
 I vantaggi dell'IoT includono l'aumento dell'efficienza operativa, il miglioramento della sicurezza, la creazione di nuovi servizi e prodotti e la raccolta di dati preziosi per il processo decisionale.
+
+
 
 
 

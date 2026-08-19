@@ -1,6 +1,8 @@
 # Nuovo processore 2026: la selezione - TuttoTech.net
 
-> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
+
 
 
 
@@ -77,6 +79,8 @@ Una CPU con più core e thread offre prestazioni superiori in multitasking e app
 
 ### 3. Come posso verificare la compatibilità del nuovo processore con il PC attuale?
 Controllare i requisiti hardware sul sito ufficiale del produttore e assicurarsi che il PC supporti il tipo di slot di montaggio e l'alimentazione richiesti.
+
+
 
 
 

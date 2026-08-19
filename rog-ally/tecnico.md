@@ -1,6 +1,8 @@
 # Come proteggere l'Asus ROG Ally da attacchi cybercriminali
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
+
 
 
 
@@ -98,6 +100,8 @@ Implementare sistemi di monitoraggio come EDR (Endpoint Detection and Response) 
 - **Cyberpunk 2077**
 - **The Witcher 3: Wild Hunt**
 - **Death Stranding**
+
+
 
 
 
