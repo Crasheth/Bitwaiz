@@ -1,6 +1,7 @@
 # Novità tech 2026: Le nuove sfide della sicurezza digitale
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
 
 
 
@@ -86,6 +87,7 @@ Per proteggere i dati, le organizzazioni devono monitorare la rete in tempo real
 ### Qual'è l'importanza della formazione del personale?
 
 La formazione continua è essenziale per mantenere il personale aggiornato sulle nuove minacce e pratiche di sicurezza. Non ci sono alternative a una buona istruzione quando si parla di sicurezza.
+
 
 
 

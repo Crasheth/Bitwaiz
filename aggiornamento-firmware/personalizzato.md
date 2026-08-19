@@ -1,6 +1,7 @@
 # Come mantenere il tuo dispositivo sempre aggiornato: l'importanza dei firmware
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
 
 
 
@@ -98,6 +99,7 @@ Durante l'aggiornamento del firmware, potresti imbatterti in alcuni problemi. Ec
 
 - Aggiornamenti software
 - Sicurezza del dispositivo
+
 
 
 

@@ -1,6 +1,7 @@
 # Come scegliere il hardware giusto per un gioco di altissima qualità
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
 
 
 
@@ -65,6 +66,7 @@ Indicizzatori come l'attività anomala del disco, l'aumento improvviso della tem
 ### Quali sono i vantaggi della threat hunting nel contesto del hardware gaming?
 
 La threat hunting ti permette di identificare minacce in anticipo, attraverso l'analisi attiva dei log e delle attività sospette. Questa pratica può aiutarti a prevenire incidenti e a mantenere un ambiente sicuro.
+
 
 
 
