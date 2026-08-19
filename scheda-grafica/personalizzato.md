@@ -33,6 +33,8 @@
 
 
 
+
+
 ![scheda grafica](https://m.media-amazon.com/images/I/71g2Lc8urJL._AC_SL1500_.jpg)
 
 ## Introduzione
@@ -84,6 +86,8 @@ Una scheda grafica integrata consuma meno energia, riducendo i costi di riscalda
 
 ### Quali sono i limiti delle schede grafiche integrate?
 Le performance della scheda integrata possono essere limitate per le attività pesanti e il gioco. Non è adatta per videogiochi richiesti da grandi titoli o lavori professionali come l'editing video a alta definizione.
+
+
 
 
 

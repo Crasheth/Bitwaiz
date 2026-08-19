@@ -16,6 +16,8 @@
 
 
 
+
+
 Le Grafical Processing Units (GPU) sono diventate fondamentali non solo nel mondo del gioco, ma anche nell'elaborazione dei dati e nella machine learning. In questo articolo esploreremo i principi di base delle GPU, le loro applicazioni attuali e future, e come la tecnologia stia cambiando l'industria.
 
 ![GPU](https://img.freepik.com/premium-photo/closeup-graphics-processing-unit-gpu-circuit-board_1004086-3771.jpg?w=2000)
@@ -48,6 +50,8 @@ Una GPU è progettata per elaborare compiti paralleli, mentre il CPU gestisce le
 
 ### Come posso monitorare le GPU per identificare eventuali attacchi?
 Utilizza strumenti di EDR (Endpoint Detection and Response) e regolare threat hunting per analizzare l'utilizzo delle risorse GPU. Monitora i log e le tracce di rete per rilevare comportamenti sospetti.
+
+
 
 
 

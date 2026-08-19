@@ -18,6 +18,8 @@
 
 
 
+
+
 La Gamescom, fiera internazionale dedicata ai videogiochi, si siede come un gigante digitale in Europa, sfidando ogni anno le sue stesse dimensioni record per trasformare l'esperienza del giocatore e di chiunque ami il mondo dei giochi. Questo evento non è solo una mostra di hardware e software avanzati; è un vero e proprio spettacolo tecnologico che svela nuove potenzialità dell'intelligenza artificiale (IA) nelle esplorazioni virtuali.
 
 ![Gamescom](https://blog.just-in-media.de/wp-content/uploads/2025/02/DALL·E-2025-02-21-16.19.49-A-unique-and-precisely-designed-thumbnail-for-a-press-article-about-gamescom-2024-in-Cologne.-The-image-features-a-large-gaming-convention-at-Koelnmesse.webp)
@@ -73,6 +75,8 @@ Il Gamescom 2026 sarà aperto dal giovedì 15 al lunedì 19 settembre, con orari
 ### Cosa devo portare con me per partecipare?
 
 Porta il tuo biglietto d'ingresso e un documento di identità validi. Inoltre, è consigliabile indossare abbigliamento comodo e portare una borsa per le piccole cose.
+
+
 
 
 
