@@ -23,6 +23,8 @@
 
 
 
+
+
 ---
 
 Tu: Ciao, come stai? Ultimamente mi sono imbattuto in un po' di problemi con il mio hardware. Mi hai sentito parlare di GPU e volevo capire un po' meglio cosa sono e come funzionano. Tu sai qualcosa su questo?
@@ -59,6 +61,8 @@ Una GPU è progettata per elaborare compiti paralleli, mentre il CPU gestisce le
 
 ### Come posso monitorare le GPU per identificare eventuali attacchi?
 Utilizza strumenti di EDR (Endpoint Detection and Response) e regolare threat hunting per analizzare l'utilizzo delle risorse GPU. Monitora i log e le tracce di rete per rilevare comportamenti sospetti.
+
+
 
 
 

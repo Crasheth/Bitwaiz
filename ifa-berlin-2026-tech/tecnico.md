@@ -6,6 +6,8 @@
 
 
 
+
+
 ![IFA Berlin 2026 tech](https://www.zealdesign.de/assets/blogs/exhibition-stand-ifa-berlin-2026-show-.webp)
 
 ## Introduzione
@@ -56,6 +58,8 @@ Gli ospiti potranno interagire con prodotti che usano l'IA in modo più intuitiv
 ### Quali saranno le tendenze di design?
 
 Design futuristici, minimalisti e personalizzati con IA che adattano l'esperienza in base alle preferenze dell'utente.
+
+
 
 
 
