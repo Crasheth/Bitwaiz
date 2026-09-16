@@ -1,6 +1,8 @@
 # Il telefono che ha cambiato il mondo: iPhone e l’evoluzione di un’idea  
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -66,6 +68,9 @@ Grazie ai chip Apple A19 e A19 Pro, il nuovo iPhone offre una durata della batte
 
 ### Quali aggiornamenti riceve l’iPhone?
 L’iPhone riceve aggiornamenti periodici di iOS, garantendo sempre le ultime funzionalità e miglioramenti della sicurezza. È come mantenere un giardino: ogni mese si tagliano i rami secchi per far crescere nuovi fiori.
+
+
+
 
 
 

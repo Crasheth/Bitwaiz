@@ -1,6 +1,9 @@
 # Aggiornamento firmware: perché e come farlo
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
+
 
 
 
@@ -148,6 +151,9 @@ Per informazioni aggiuntive e dettagli tecnici riguardo l'aggiornamento firmware
 
 - Aggiornamenti software
 - Sicurezza del dispositivo
+
+
+
 
 
 

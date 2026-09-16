@@ -1,6 +1,8 @@
 # La tecnologia ci aiuta a prevenire minacce invisibili — Bruce Schneier
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -197,6 +199,9 @@ Secondo le fonti, gli strumenti comuni includono EDR (Endpoint Detection and Res
 
 
 ![threat hunting](https://www.crowdstrike.com/wp-content/uploads/2019/06/where-does-threat-hunting-fit-graphic.png)
+
+
+
 
 
 

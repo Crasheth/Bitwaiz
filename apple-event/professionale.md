@@ -1,6 +1,9 @@
 # Apple event: la comunicazione interprocesso nel sistema operativo macOS  
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
+
+
 
 
 
@@ -67,6 +70,9 @@ Fanno lavorare in modo più fluido le applicazioni, permettendo compiti compless
 
 ### Cosa succede se non funzionano?
 Le app potrebbero non rispondere correttamente alle richieste, causando errori o interruzioni nel lavoro.
+
+
+
 
 
 

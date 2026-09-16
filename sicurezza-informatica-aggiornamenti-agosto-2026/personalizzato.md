@@ -1,6 +1,8 @@
 # Sicurezza informatica aggiornamenti agosto 2026
 
-> L'unico sistema sicuro è quello spento, sigillato in un bunker e custodito da orsi. — Gene Spafford.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -110,6 +112,9 @@ Gli aggiornamenti introdurranno l'obbligo di implementare soluzioni avanzate di 
 
 ### Come si possono preparare in anticipo?
 Le organizzazioni dovrebbero pianificare attivamente la transizione verso i nuovi standard, implementando piattaforme di deteczione in tempo reale e sistemi di sicurezza integrale (IPS).
+
+
+
 
 
 
