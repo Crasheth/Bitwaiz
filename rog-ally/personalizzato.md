@@ -1,6 +1,8 @@
 # Intelligenza artificiale per la tua guida personale: il ROG Ally
 
-> L'IA è probabilmente la cosa migliore o la peggiore che sia mai successa all'umanità. — Stephen Hawking.
+> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+
+
 
 
 
@@ -154,6 +156,8 @@ Il ROG Ally rappresenta un passo avanti significativo non solo nel campo del gam
 - **Cyberpunk 2077**
 - **The Witcher 3: Wild Hunt**
 - **Death Stranding**
+
+
 
 
 

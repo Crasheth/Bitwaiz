@@ -1,6 +1,8 @@
 # ESP32: microcontrollore Wi-Fi e Bluetooth per l'IoT
 
-> La tecnologia migliore è quella che scompare. — Mark Weiser.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -165,6 +167,8 @@ L'ESP32 offre due core, Bluetooth, più GPIO e più memoria rispetto all'ESP8266
 ### Come programmare l'ESP32?
 
 Si usa spesso Arduino IDE, ESP-IDF o PlatformIO con C/C++. Espressif e la community pubblicano guide e esempi per flash, debug e aggiornamenti OTA.
+
+
 
 
 

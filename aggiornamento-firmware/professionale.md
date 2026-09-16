@@ -1,6 +1,8 @@
 # Aggiornamento firmware: cosa è e perché è importante per la tua azienda
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -139,6 +141,8 @@ L'aggiornamento del firmware rappresenta un aspetto fondamentale della gestione 
 
 - Aggiornamenti software
 - Sicurezza del dispositivo
+
+
 
 
 

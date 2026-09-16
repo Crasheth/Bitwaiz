@@ -1,6 +1,8 @@
 # La sicurezza delle reti Wi-Fi 7: cosa devi sapere
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -170,6 +172,8 @@ Il protocollo WiFi 7 introduce nuove funzionalità come OFDMA e Multi-RU, che au
 
 ### Come posso proteggere i miei router WiFi 7?
 Per proteggere i router, è importante mantenere aggiornamenti software regolari, disattivare funzionalità non utilizzate e utilizzare strumenti avanzati come MITRE ATT&CK per identificare comportamenti anomali.
+
+
 
 
 

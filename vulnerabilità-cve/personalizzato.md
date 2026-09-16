@@ -1,6 +1,8 @@
 # La sicurezza informatica: un viaggio attraverso i Common Vulnerabilities and Exposures
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+
+
 
 
 
@@ -207,6 +209,8 @@ I CVE sono importanti perché:
 - **Standardizzazione**: consentono una comunicazione univoca e comprensibile tra gli esperti di sicurezza.
 - **Priorità**: aiutano le organizzazioni a priorizzare la gestione delle vulnerabilità basandosi sulla criticità e l'impatto.
 - **Risposta rapida**: facilitano il processo di identificazione e risoluzione delle vulnerabilità, migliorando la sicurezza globale.
+
+
 
 
 

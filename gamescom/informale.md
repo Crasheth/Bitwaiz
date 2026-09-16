@@ -1,6 +1,8 @@
 # Gamescom: la grande festa del gioco
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -102,6 +104,8 @@ Il Gamescom 2026 sarà aperto dal giovedì 15 al lunedì 19 settembre, con orari
 ### Cosa devo portare con me per partecipare?
 
 Porta il tuo biglietto d'ingresso e un documento di identità validi. Inoltre, è consigliabile indossare abbigliamento comodo e portare una borsa per le piccole cose.
+
+
 
 
 
