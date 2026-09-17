@@ -1,6 +1,8 @@
 # Cloud security best practice 2026
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> Il cloud è solo il computer di qualcun altro. — Variante di Larry Ellison.
+
+
 
 
 
@@ -91,6 +93,8 @@ Costruisci una rete di **condivisione delle informazioni** con altri provider e 
 3. Quali standard di sicurezza dovrei seguire?
 
 Vedi anche: **Cloud migration best practices 2026** | **Data protection regulations 2026**
+
+
 
 
 

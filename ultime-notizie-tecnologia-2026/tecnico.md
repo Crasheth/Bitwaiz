@@ -1,6 +1,8 @@
 # La tecnologia 2026: le ultime novità e i loro impatti
 
-> L'innovazione distingue un leader da un follower. — Steve Jobs.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
+
 
 
 
@@ -162,6 +164,8 @@ Molti servizi streaming non offrono ancora un sufficiente catalogo di programmi 
 ### Quali sono le sfide per la produzione e distribuzione?
 
 La diffusione del 4K richiede una rete di produzione e distribuzione di alta qualità, un aspetto che molti produttori ancora non hanno pienamente affrontato. La mancanza di contenuti è un problema chiave.
+
+
 
 
 

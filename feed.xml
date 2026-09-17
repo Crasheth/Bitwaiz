@@ -5,8 +5,15 @@
     <link>https://bitwaiz.it/</link>
     <description>Articoli su trend tech, cybersecurity, elettronica e innovazione. I testi sono generati da intelligenza artificiale dopo la raccolta di informazioni da fonti pubbliche (AI Act art. 50).</description>
     <language>it-it</language>
-    <lastBuildDate>Wed, 16 Sep 2026 17:40:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:37:08 GMT</lastBuildDate>
     <atom:link href="https://bitwaiz.it/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>NIS2 compliance: un percorso verso la resilienza digitale</title>
+    <link>https://bitwaiz.it/nis2-compliance/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/nis2-compliance/</guid>
+    <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[Questo articolo è stato generato da AI dopo la raccolta di informazioni da fonti pubbliche. Se sei un’azienda che opera in settori chiave come energia, sanità o finanza, il NIS2 Directive rappresenta un cambiamento di paradigma. Non…]]></description>
+  </item>
   <item>
     <title>Container Escape Kubernetes: come un fiume trova la via più facile</title>
     <link>https://bitwaiz.it/container-escape-kubernetes/</link>

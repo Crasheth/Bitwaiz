@@ -1,6 +1,8 @@
 # Come aggiornare il firmware per migliorare le prestazioni del dispositivo
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -167,6 +169,8 @@ Il firmware è il software che controlla le funzioni fondamentali del tuo dispos
 
 - Aggiornamenti software
 - Sicurezza del dispositivo
+
+
 
 
 

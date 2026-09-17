@@ -1,6 +1,8 @@
 # L’iPhone: un simbolo di innovazione e connessione nel 2026  
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -70,6 +72,8 @@ Grazie ai chip Apple A19 e A19 Pro, il nuovo iPhone offre una durata della batte
 
 ### Quali aggiornamenti riceve l’iPhone?
 L’iPhone riceve aggiornamenti periodici di iOS, garantendo sempre le ultime funzionalità e miglioramenti della sicurezza. È come mantenere un giardino: ogni mese si tagliano i rami secchi per far crescere nuovi fiori.
+
+
 
 
 
