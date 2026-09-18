@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://bitwaiz.it/</loc><lastmod>2026-09-17</lastmod><changefreq>daily</changefreq></url>
-  <url><loc>https://bitwaiz.it/privacy.html</loc><lastmod>2026-09-17</lastmod><changefreq>monthly</changefreq></url>
+  <url><loc>https://bitwaiz.it/</loc><lastmod>2026-09-18</lastmod><changefreq>daily</changefreq></url>
+  <url><loc>https://bitwaiz.it/privacy.html</loc><lastmod>2026-09-18</lastmod><changefreq>monthly</changefreq></url>
+  <url><loc>https://bitwaiz.it/fido2-yubikey/</loc><lastmod>2026-09-18</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://bitwaiz.it/nis2-compliance/</loc><lastmod>2026-09-17</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://bitwaiz.it/container-escape-kubernetes/</loc><lastmod>2026-09-16</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://bitwaiz.it/apple-event/</loc><lastmod>2026-09-02</lastmod><changefreq>weekly</changefreq></url>

@@ -64,6 +64,8 @@
 
 
 
+
+
 L'ultima versione di Chrome, uscita nel mese di agosto 2026, ha un aggiornamento di sicurezza che risolve due vulnerabilità critiche. È una buona notizia per tutti noi, vero?
 
 Secondo il sito di Malwarebytes, in questa versione sono state corrette due vulnerabilità critiche. È un passo importante per migliorare la protezione degli utenti.
@@ -85,6 +87,8 @@ Dopo l'aggiornamento, è consigliabile eseguire un'analisi di conformità e sicu
 ### Come posso informare i miei dipendenti sui passi necessari?
 
 Inviare un'email o un messaggio interno ai dipendenti con istruzioni chiare su come verificare e aggiornare il browser Chrome, e suggerire misure di sicurezza aggiuntive come l'utilizzo di password complesse e la disabilitazione di funzionalità non necessarie.
+
+
 
 
 
