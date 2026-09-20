@@ -9,6 +9,8 @@
 
 
 
+
+
 Se sei un’azienda che opera in settori chiave come energia, sanità o finanza, il **NIS2 Directive** rappresenta un cambiamento di paradigma. Non si tratta solo di nuove regole: è una ristrutturazione radicale del modo in cui le organizzazioni devono gestire i rischi informatici, con obblighi più stringenti e tempi di reazione ridotti al minimo. Immaginalo come un fiume che scorre sempre verso il punto più basso: non puoi fermarlo, ma puoi guidarlo lungo una strada che eviti le rocce.  
 
 ---
@@ -80,6 +82,8 @@ La conformità deve essere completata entro il 17 ottobre 2024, ma alcuni paesi 
 Le aziende potrebbero subire sanzioni, inclusi blocchi temporanei per i dirigenti responsabili.
 
 ---
+
+
 
 
 

@@ -11,6 +11,8 @@
 
 
 
+
+
 ![container escape Kubernetes](https://blogs.jsmon.sh/content/images/size/w1200/2026/03/feature-image-docker.png)
 
 ## Contesto e rischi  
@@ -52,6 +54,8 @@ Pod con capacità come `cap_sys_ptrace` o accesso a `/host-system`, spesso usati
 
 
 ![container escape Kubernetes](https://blogs.jsmon.sh/content/images/size/w1200/2026/03/feature-image-docker.png)
+
+
 
 
 

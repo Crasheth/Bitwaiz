@@ -41,6 +41,8 @@
 
 
 
+
+
 ![Apple event](https://bandwidthblog.co.za/wp-content/uploads/2026/08/apple-event-iphone-18-foldable.jpg)
 
 ## Introduzione  
@@ -76,6 +78,8 @@ Fanno lavorare in modo più fluido le applicazioni, permettendo compiti compless
 
 ### Cosa succede se non funzionano?
 Le app potrebbero non rispondere correttamente alle richieste, causando errori o interruzioni nel lavoro.
+
+
 
 
 

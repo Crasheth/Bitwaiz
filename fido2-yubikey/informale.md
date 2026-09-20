@@ -7,6 +7,8 @@
 
 
 
+
+
 Se hai mai pensato che la protezione delle password sia come combattere un incendio con una bottiglia d’acqua, FIDO2 e YubiKey ti offrono una soluzione più radicata. Non si tratta di aggiungere strati sull’incendio, ma di ristrutturare il sistema in modo che non esista mai un fuoco da spegnere.  
 
 
@@ -41,6 +43,8 @@ I codici OTP (One-Time Password) sono vulnerabili a phishing e attacchi di tipo 
 
 ### Cosa succede se perdo il YubiKey?
 Se non hai configurato un backup (come un PIN o un altro autenticatore), potresti rimanere bloccato. Per questo motivo, è sempre consigliabile registrare almeno due tipi di autenticazione: un passkey e un sistema tradizionale come SMS o app authenticator.
+
+
 
 
 
