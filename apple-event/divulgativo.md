@@ -42,6 +42,8 @@
 
 
 
+
+
 Se hai mai usato una macchina da scrivere o un programma per disegnare, probabilmente hai sentito parlare di Apple Events. Non si tratta di un evento come quelli del 9 settembre, ma di una tecnologia invisibile che permette alle app di parlarsi tra loro. Immaginalo come un sistema di posta interna: ogni applicazione invia messaggi per chiedere qualcosa (es. "apri questo documento") o rispondere a una richiesta (es. "il file è stato salvato"). Questi messaggi, detti Apple Events, sono il cuore del sistema operativo Mac OS da anni.  
 
 
@@ -80,6 +82,8 @@ Fanno lavorare in modo più fluido le applicazioni, permettendo compiti compless
 
 ### Cosa succede se non funzionano?
 Le app potrebbero non rispondere correttamente alle richieste, causando errori o interruzioni nel lavoro.
+
+
 
 
 

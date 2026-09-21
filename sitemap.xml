@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://bitwaiz.it/</loc><lastmod>2026-09-20</lastmod><changefreq>daily</changefreq></url>
-  <url><loc>https://bitwaiz.it/privacy.html</loc><lastmod>2026-09-20</lastmod><changefreq>monthly</changefreq></url>
+  <url><loc>https://bitwaiz.it/</loc><lastmod>2026-09-21</lastmod><changefreq>daily</changefreq></url>
+  <url><loc>https://bitwaiz.it/privacy.html</loc><lastmod>2026-09-21</lastmod><changefreq>monthly</changefreq></url>
+  <url><loc>https://bitwaiz.it/analisi-malware-decompilazione-con-ghidra/</loc><lastmod>2026-09-21</lastmod><changefreq>weekly</changefreq></url>
+  <url><loc>https://bitwaiz.it/matter-thread-smart-home/</loc><lastmod>2026-09-21</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://bitwaiz.it/post-quantum-cryptography/</loc><lastmod>2026-09-19</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://bitwaiz.it/fido2-yubikey/</loc><lastmod>2026-09-18</lastmod><changefreq>weekly</changefreq></url>
   <url><loc>https://bitwaiz.it/nis2-compliance/</loc><lastmod>2026-09-17</lastmod><changefreq>weekly</changefreq></url>

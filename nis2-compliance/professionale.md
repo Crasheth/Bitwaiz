@@ -11,6 +11,8 @@
 
 
 
+
+
 La direttiva NIS2 rappresenta una svolta significativa per la regolamentazione della cybersecurity in Europa. Entrando in vigore nel 2024 e completata entro il 2026, questa normativa amplia gli obblighi di conformità rispetto alla precedente NIS1, introducendo misure più rigorose su risk management, reporting degli incidenti, sicurezza delle catene di approvvigionamento e accountability aziendale. Per le organizzazioni, il compito non è solo adattarsi alle nuove regole, ma rivedere i processi esistenti per garantire una risposta efficace a minacce sempre più complesse.  
 
 
@@ -52,6 +54,8 @@ La conformità deve essere completata entro il 17 ottobre 2024, ma alcuni paesi 
 Le aziende potrebbero subire sanzioni, inclusi blocchi temporanei per i dirigenti responsabili.
 
 ---
+
+
 
 
 

@@ -5,8 +5,22 @@
     <link>https://bitwaiz.it/</link>
     <description>Articoli su trend tech, cybersecurity, elettronica e innovazione. I testi sono generati da intelligenza artificiale dopo la raccolta di informazioni da fonti pubbliche (AI Act art. 50).</description>
     <language>it-it</language>
-    <lastBuildDate>Sun, 20 Sep 2026 08:20:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 07:12:01 GMT</lastBuildDate>
     <atom:link href="https://bitwaiz.it/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>Analisi Malware con Ghidra: Tecnica e Filosofia</title>
+    <link>https://bitwaiz.it/analisi-malware-decompilazione-con-ghidra/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/analisi-malware-decompilazione-con-ghidra/</guid>
+    <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[Questo articolo è stato generato da AI dopo la raccolta di informazioni da fonti pubbliche. L’analisi del malware richiede una combinazione di precisione tecnica e intuizione. Ghidra, il decompiler open source sviluppato da NSA, off…]]></description>
+  </item>
+  <item>
+    <title>Matter Thread smart home: una connessione più intelligente</title>
+    <link>https://bitwaiz.it/matter-thread-smart-home/</link>
+    <guid isPermaLink="true">https://bitwaiz.it/matter-thread-smart-home/</guid>
+    <pubDate>Mon, 21 Sep 2026 12:00:00 GMT</pubDate>
+    <description><![CDATA[Questo articolo è stato generato da AI dopo la raccolta di informazioni da fonti pubbliche. Immagina una casa che respira. Non solo in senso letterale: ogni dispositivo, da un sensore di umidità a una lampadina intelligente, si muov…]]></description>
+  </item>
   <item>
     <title>La sicurezza del futuro: come prepararsi al dominio dei quanti</title>
     <link>https://bitwaiz.it/post-quantum-cryptography/</link>

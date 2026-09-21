@@ -70,6 +70,8 @@
 
 
 
+
+
 ## Introduzione
 
 Questo memorandum è rivolto alle decision maker e stakeholder che si occupano della sicurezza digitale. Affronta l'aggiornamento di sicurezza del browser Google Chrome del mese di agosto 2026, concentrando l'attenzione su due vulnerabilità critiche che sono state risolte. Il documento fornisce un'analisi dettagliata dell'importanza di questi aggiornamenti per l'organizzazione.
@@ -104,6 +106,8 @@ Dopo l'aggiornamento, è consigliabile eseguire un'analisi di conformità e sicu
 ### Come posso informare i miei dipendenti sui passi necessari?
 
 Inviare un'email o un messaggio interno ai dipendenti con istruzioni chiare su come verificare e aggiornare il browser Chrome, e suggerire misure di sicurezza aggiuntive come l'utilizzo di password complesse e la disabilitazione di funzionalità non necessarie.
+
+
 
 
 
