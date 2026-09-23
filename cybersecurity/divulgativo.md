@@ -472,6 +472,10 @@
 
 
 
+
+
+
+
 linecap # Cybersecurity: Proteggere il Mondo Digitale
 
 
@@ -489,6 +493,10 @@ La cybersecurity è diventata un aspetto essenziale della nostra vita quotidiana
 
 
 ![cybersecurity](https://invortech.com/wp-content/uploads/2024/03/DALL·E-2024-07-05-21.53.06-An-engaging-image-depicting-the-five-types-of-cybersecurity-working-together.-Represent-network-security-with-a-firewall-or-fortress-application-secu-e1720198477628.webp)
+
+
+
+
 
 
 

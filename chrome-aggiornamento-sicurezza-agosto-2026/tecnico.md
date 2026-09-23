@@ -72,6 +72,10 @@
 
 
 
+
+
+
+
 ## Introduzione
 
 Questo articolo si concentra sull'aggiornamento di sicurezza del browser Google Chrome del mese di agosto 2026. Analizzeremo i dettagli tecnici dell'aggiornamento, i passi operativi per i gestori di sicurezza e le implicazioni per l'organizzazione. Scoprirete come gestire l'aggiornamento, i controlli necessari e la comunicazione interna.
@@ -120,6 +124,10 @@ Dopo l'aggiornamento, è consigliabile eseguire un'analisi di conformità e sicu
 ### Come posso informare i miei dipendenti sui passi necessari?
 
 Inviare un'email o un messaggio interno ai dipendenti con istruzioni chiare su come verificare e aggiornare il browser Chrome, e suggerire misure di sicurezza aggiuntive come l'utilizzo di password complesse e la disabilitazione di funzionalità non necessarie.
+
+
+
+
 
 
 

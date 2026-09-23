@@ -15,6 +15,10 @@
 
 
 
+
+
+
+
 Se ti capita di lavorare in un ambiente Kubernetes, una configurazione sbagliata può far scivolare il sistema come un fiume che cerca sempre il punto più basso. I container sono progettati per isolarsi, ma quando si concede troppi privilegi – come *HostPath* o capacità superflue – diventano una porta aperta.  
 
 
@@ -65,6 +69,10 @@ Pod con capacità come `cap_sys_ptrace` o accesso a `/host-system`, spesso usati
 
 
 ![container escape Kubernetes](https://blogs.jsmon.sh/content/images/size/w1200/2026/03/feature-image-docker.png)
+
+
+
+
 
 
 

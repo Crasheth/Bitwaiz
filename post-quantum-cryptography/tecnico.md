@@ -9,6 +9,10 @@
 
 
 
+
+
+
+
 ---
 
 ![post-quantum cryptography](https://postquantum.com/wp-content/uploads/2025/04/Post-Quantum-Cryptography-PQC.jpg)
@@ -65,6 +69,10 @@ NIST ha selezionato algoritmi come Kyber, Dilithium e SPHINCS+ per la crittograf
 
 #### Come posso iniziare a prepararmi?  
 Le aziende dovrebbero valutare i propri sistemi e iniziare a testare algoritmi PQC per la crittografia a chiave pubblica. Questo è un passo necessario per garantire la sicurezza futura dei dati sensibili.
+
+
+
+
 
 
 

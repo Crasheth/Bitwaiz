@@ -8,6 +8,10 @@
 
 
 
+
+
+
+
 L’era dei computer quantistici sta arrivando. Non si tratta di fantascienza, ma di una realtà che già oggi influenza il modo in cui proteggiamo i dati. I sistemi crittografici attuali, basati su algoritmi come RSA o ECC, rischiano di essere compromessi da algoritmi quantistici come Shor’s, capaci di rompere la complessità matematica che li rende sicuri. La risposta? L’**criptografia post-quantum (PQC)**, un settore in crescita che si concentra su soluzioni resilienti a queste minacce.  
 
 ---
@@ -56,6 +60,10 @@ NIST ha selezionato algoritmi come Kyber, Dilithium e SPHINCS+ per la crittograf
 
 #### Come posso iniziare a prepararmi?  
 Le aziende dovrebbero valutare i propri sistemi e iniziare a testare algoritmi PQC per la crittografia a chiave pubblica. Questo è un passo necessario per garantire la sicurezza futura dei dati sensibili.
+
+
+
+
 
 
 

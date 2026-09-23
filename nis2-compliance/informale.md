@@ -13,6 +13,10 @@
 
 
 
+
+
+
+
 Se hai un’azienda in Europa e ti preoccupi della cybersecurity, la NIS2 è una pietra miliare che non puoi ignorare. Dopo anni di regole frammentarie (NIS1), il nuovo quadro normativo mira a creare un sistema unico, più severo e centrato sull’effettiva protezione dei dati. Non si tratta solo di nuove regole: è una rivoluzione silenziosa che richiede preparazione, attenzione e una mentalità diversa.  
 
 
@@ -67,6 +71,10 @@ La conformità deve essere completata entro il 17 ottobre 2024, ma alcuni paesi 
 Le aziende potrebbero subire sanzioni, inclusi blocchi temporanei per i dirigenti responsabili.
 
 ---
+
+
+
+
 
 
 

@@ -45,6 +45,10 @@
 
 
 
+
+
+
+
 Se hai mai usato macOS, probabilmente non ti sei mai chiesto come le app si parlino tra loro. Ecco dove entra in gioco il concetto di *Apple event*. Immaginalo come una sorta di "messaggio segreto" che permette a un programma di chiedere a un altro di fare qualcosa, tipo chiedere a Word di aprire un documento o a Safari di scaricare una pagina web. È la base di molte funzionalità che prendi per scontate: script, automazione e persino la gestione dei file tra app diverse.  
 
 
@@ -85,6 +89,10 @@ Fanno lavorare in modo più fluido le applicazioni, permettendo compiti compless
 
 ### Cosa succede se non funzionano?
 Le app potrebbero non rispondere correttamente alle richieste, causando errori o interruzioni nel lavoro.
+
+
+
+
 
 
 

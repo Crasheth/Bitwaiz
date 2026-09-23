@@ -15,6 +15,10 @@
 
 
 
+
+
+
+
 Se immagini un sistema come una montagna, il container escape Kubernetes è come un’alpine che trova una via segreta per scendere senza passare per la strada principale. Non si tratta di un attacco violento, ma di un sfruttamento delle debolezze inaspettate. I container sono progettati per isolare processi, ma quando le configurazioni non sono precise, possono diventare una porta aperta per chiunque abbia la pazienza di cercarla.  
 
 ## Perché i container non sono sempre al sicuro  
@@ -49,6 +53,10 @@ Pod con capacità come `cap_sys_ptrace` o accesso a `/host-system`, spesso usati
 
 
 ![container escape Kubernetes](https://blogs.jsmon.sh/content/images/size/w1200/2026/03/feature-image-docker.png)
+
+
+
+
 
 
 

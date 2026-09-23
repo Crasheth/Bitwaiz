@@ -173,6 +173,10 @@
 
 
 
+
+
+
+
 Un Common Vulnerabilities and Exposures (CVE) è una nomenclatura standardizzata per descrivere vulnerabilità e esposizione di software. Ecco come funziona.
 
 
@@ -214,6 +218,10 @@ I CVE sono importanti perché:
 - **Standardizzazione**: consentono una comunicazione univoca e comprensibile tra gli esperti di sicurezza.
 - **Priorità**: aiutano le organizzazioni a priorizzare la gestione delle vulnerabilità basandosi sulla criticità e l'impatto.
 - **Risposta rapida**: facilitano il processo di identificazione e risoluzione delle vulnerabilità, migliorando la sicurezza globale.
+
+
+
+
 
 
 
