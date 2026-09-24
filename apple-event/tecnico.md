@@ -49,6 +49,8 @@
 
 
 
+
+
 Apple events sono un meccanismo di comunicazione interprocesso (IPC) basato su messaggi, introdotto nel sistema operativo Mac OS con la versione **System 7** (1991). Questa tecnologia permette alle applicazioni di scambiare comandi, dati e risposte tra processi diversi, facilitando l’automazione, lo scripting e l’integrazione software. Funziona come un linguaggio standardizzato per la gestione di operazioni complesse, come l’apertura di documenti o il calcolo matematico, attraverso strutture dati estensibili denominate **AEDesc** (Apple Event Descriptor).  
 
 
@@ -95,6 +97,8 @@ Fanno lavorare in modo più fluido le applicazioni, permettendo compiti compless
 
 ### Cosa succede se non funzionano?
 Le app potrebbero non rispondere correttamente alle richieste, causando errori o interruzioni nel lavoro.
+
+
 
 
 

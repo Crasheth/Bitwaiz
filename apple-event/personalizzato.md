@@ -49,6 +49,8 @@
 
 
 
+
+
 Se hai mai provato a automatizzare un compito su macOS, probabilmente hai incrociato il termine *Apple event*. Non si tratta di un evento in senso letterale, ma di una forma di comunicazione tra applicazioni, come un linguaggio segreto che permette ai software di parlare tra loro. È questa la base del sistema operativo Apple, un meccanismo che sembra semplice ma è in realtà un'infrastruttura complessa, simile a una rete di fili sotterranei che alimentano le funzionalità quotidiane dei dispositivi.  
 
 
@@ -94,6 +96,8 @@ Fanno lavorare in modo più fluido le applicazioni, permettendo compiti compless
 
 ### Cosa succede se non funzionano?
 Le app potrebbero non rispondere correttamente alle richieste, causando errori o interruzioni nel lavoro.
+
+
 
 
 

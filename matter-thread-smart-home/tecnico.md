@@ -9,6 +9,8 @@
 
 
 
+
+
 Matter e Thread si incontrano nel cuore delle case intelligenti come due correnti che scorrono in direzioni diverse ma convergono in uno stesso obiettivo: rendere le tecnologie domestiche più sicure, interoperate e resilienti. Se Matter è il protocollo universale per la connessione tra dispositivi smart (che permette a una lampadina Philips di parlare con un sensore Xiaomi), Thread è la rete sottile che trasporta quel protocollo, come un fiume che porta acqua alle radici di un albero. Senza uno, l’altro non potrebbe esistere in modo pieno.  
 
 ---
@@ -84,6 +86,8 @@ Sì, ma non otterrai la piena compatibilità tra dispositivi. Matter è necessar
 
 ### Quanti dispositivi posso collegare a una rete Thread?
 Secondo le fonti, Thread può gestire centinaia di dispositivi contemporaneamente, rendendolo ideale per case intelligenti complesse.
+
+
 
 
 
