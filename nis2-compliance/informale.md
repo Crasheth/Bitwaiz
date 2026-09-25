@@ -1,6 +1,8 @@
 # NIS2 compliance: il nuovo quadro di sicurezza per le aziende europee  
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+
+
 
 
 
@@ -73,6 +75,8 @@ La conformità deve essere completata entro il 17 ottobre 2024, ma alcuni paesi 
 Le aziende potrebbero subire sanzioni, inclusi blocchi temporanei per i dirigenti responsabili.
 
 ---
+
+
 
 
 

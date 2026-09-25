@@ -1,6 +1,8 @@
 # Aggiornamento firmware: perché e come farlo
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -167,6 +169,8 @@ Per informazioni aggiuntive e dettagli tecnici riguardo l'aggiornamento firmware
 
 - Aggiornamenti software
 - Sicurezza del dispositivo
+
+
 
 
 

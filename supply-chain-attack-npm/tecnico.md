@@ -1,6 +1,8 @@
 # **Supply Chain Attack NPM: Il rischio del "fiume che scorre"**  
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> I computer sono incredibilmente veloci, accurati e stupidi. Gli uomini sono incredibilmente lenti, inaccurati e intelligenti. — Leo Cherne.
+
+
 
 
 
@@ -59,6 +61,8 @@ Monitora i log di installazione e cerca script preinstall sospetti, repository a
 Pacchetti come **angulartics2**, **ngx-toastr**, e **@ctrl/tinycolor** sono stati colpiti, con oltre 187 package interessati in totale.
 
 ---
+
+
 
 
 

@@ -1,6 +1,8 @@
 # Aggiornamento firmware: cosa è e perché è importante per la tua azienda
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -160,6 +162,8 @@ L'aggiornamento del firmware rappresenta un aspetto fondamentale della gestione 
 
 - Aggiornamenti software
 - Sicurezza del dispositivo
+
+
 
 
 

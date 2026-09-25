@@ -1,6 +1,8 @@
 # Come funziona l'ROG Ally e perché scegliermelo nel 2026
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
+
 
 
 
@@ -187,6 +189,8 @@ In sintesi, l'ROG Ally è un dispositivo ideale per chi cerca portabilità senza
 - **Cyberpunk 2077**
 - **The Witcher 3: Wild Hunt**
 - **Death Stranding**
+
+
 
 
 

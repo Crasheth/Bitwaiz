@@ -1,6 +1,8 @@
 # Matter Thread smart home: una connessione più intelligente  
 
-> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+
+
 
 
 
@@ -30,6 +32,8 @@ Sì, ma non otterrai la piena compatibilità tra dispositivi. Matter è necessar
 
 ### Quanti dispositivi posso collegare a una rete Thread?
 Secondo le fonti, Thread può gestire centinaia di dispositivi contemporaneamente, rendendolo ideale per case intelligenti complesse.
+
+
 
 
 

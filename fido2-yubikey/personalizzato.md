@@ -1,6 +1,8 @@
 # FIDO2 YubiKey: La chiave che protegge il tuo accesso senza password  
 
-> L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.
+> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+
+
 
 
 
@@ -77,6 +79,8 @@ I codici OTP (One-Time Password) sono vulnerabili a phishing e attacchi di tipo 
 
 ### Cosa succede se perdo il YubiKey?
 Se non hai configurato un backup (come un PIN o un altro autenticatore), potresti rimanere bloccato. Per questo motivo, è sempre consigliabile registrare almeno due tipi di autenticazione: un passkey e un sistema tradizionale come SMS o app authenticator.
+
+
 
 
 

@@ -1,6 +1,8 @@
 # La sicurezza come un flusso: il Google Pixel 10 e la sua strada  
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -29,6 +31,8 @@ Seguire le best practice suggerite dalle fonti, come la segmentazione della rete
 Sì, grazie alla sua interfaccia intuitiva e alle funzionalità di sicurezza automatiche, il Pixel 10 è progettato per essere accessibile anche a chi non ha un’esperienza tecnica avanzata.  
 
 ---
+
+
 
 
 

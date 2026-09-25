@@ -1,6 +1,8 @@
 # API: Un Ponte tra Applicazioni – Comprendere il Concetto Fondamentale
 
-> Il modo migliore per predire il futuro è inventarlo. — Alan Kay.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -358,6 +360,8 @@ Un API Gateway è un componente software che funge da punto di ingresso per tutt
 ### Come posso testare un'API?
 
 Esistono diversi strumenti per testare un'API, tra cui Postman, Insomnia e strumenti integrati nei browser web. Questi strumenti consentono di inviare richieste all'API, analizzare le risposte e verificare che l'API funzioni correttamente.
+
+
 
 
 

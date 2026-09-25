@@ -1,6 +1,8 @@
 # Aggiornamento firmware: come proteggere i sistemi da eventuali vulnerabilità
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> L'innovazione distingue un leader da un follower. — Steve Jobs.
+
+
 
 
 
@@ -173,6 +175,8 @@ Il firmware è il software preinstallato nei dispositivi hardware. Se non viene 
 
 - Aggiornamenti software
 - Sicurezza del dispositivo
+
+
 
 
 

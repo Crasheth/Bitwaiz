@@ -1,6 +1,8 @@
 # **NIS2 Compliance: Come Affrontare la Nuova Normativa Europea per la Sicurezza Informatica nel 2026**  
 
-> La sicurezza è un processo, non un prodotto. — Bruce Schneier.
+> La catena è forte quanto il suo anello più debole. — Variante di John C. Maxwell.
+
+
 
 
 
@@ -90,6 +92,8 @@ La conformità deve essere completata entro il 17 ottobre 2024, ma alcuni paesi 
 Le aziende potrebbero subire sanzioni, inclusi blocchi temporanei per i dirigenti responsabili.
 
 ---
+
+
 
 
 

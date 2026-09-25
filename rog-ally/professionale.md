@@ -1,6 +1,8 @@
 # ROG Ally: Perché scegliere la console gaming più potente del 2023
 
-> Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.
+> Ci sono solo due industrie che chiamano i propri clienti 'utenti': la droga e il software. — Edward Tufte.
+
+
 
 
 
@@ -159,6 +161,8 @@ Questo articolo è orientato ai decision makers e stakeholder che cercano inform
 - **Cyberpunk 2077**
 - **The Witcher 3: Wild Hunt**
 - **Death Stranding**
+
+
 
 
 

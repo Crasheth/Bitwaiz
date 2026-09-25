@@ -1,6 +1,8 @@
 # Post-quantum cryptography: preparazione per un futuro quantico  
 
-> La semplicità è la massima sofisticazione. — Leonardo da Vinci.
+> Il futuro appartiene a coloro che credono nella bellezza dei propri sogni. — Eleanor Roosevelt.
+
+
 
 
 
@@ -71,6 +73,8 @@ NIST ha selezionato algoritmi come Kyber, Dilithium e SPHINCS+ per la crittograf
 
 #### Come posso iniziare a prepararmi?  
 Le aziende dovrebbero valutare i propri sistemi e iniziare a testare algoritmi PQC per la crittografia a chiave pubblica. Questo è un passo necessario per garantire la sicurezza futura dei dati sensibili.
+
+
 
 
 
