@@ -17,6 +17,8 @@
 
 
 
+
+
 Se hai un sistema che respira, devi imparare a capire il suo respiro. La crittografia moderna funziona così: ogni volta che mandi un messaggio, sei in una danza con il tempo. Ma il tempo potrebbe cambiare. Il quantum computing non è solo un’idea futura: è un fiume che scorre, e il nostro lavoro è capire dove andrà a finire.  
 
 
@@ -56,6 +58,8 @@ NIST ha selezionato algoritmi come Kyber, Dilithium e SPHINCS+ per la crittograf
 
 #### Come posso iniziare a prepararmi?  
 Le aziende dovrebbero valutare i propri sistemi e iniziare a testare algoritmi PQC per la crittografia a chiave pubblica. Questo è un passo necessario per garantire la sicurezza futura dei dati sensibili.
+
+
 
 
 

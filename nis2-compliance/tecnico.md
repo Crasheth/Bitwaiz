@@ -21,6 +21,8 @@
 
 
 
+
+
 La direttiva NIS2 (Network and Information Security Directive 2) rappresenta una svolta radicale nella gestione della cybersecurity in Europa. Con l’obiettivo di rafforzare la resilienza contro minacce sempre più complesse, il testo introduce obblighi rigorosi per organizzazioni che operano in settori chiave. Per comprendere come prepararsi a questa normativa, è fondamentale analizzare i requisiti e le implicazioni operative.  
 
 
@@ -71,6 +73,8 @@ La conformità deve essere completata entro il 17 ottobre 2024, ma alcuni paesi 
 Le aziende potrebbero subire sanzioni, inclusi blocchi temporanei per i dirigenti responsabili.
 
 ---
+
+
 
 
 

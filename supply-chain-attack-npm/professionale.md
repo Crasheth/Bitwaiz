@@ -7,6 +7,8 @@
 
 
 
+
+
 L’attacco al registro npm denominato **Sha1-Hulud** rappresenta una delle minacce più complesse mai registrate nell’ecosistema open-source. Tra novembre 2025 e settembre dello stesso anno, il malware si è propagato autonomamente attraverso migliaia di pacchetti npm, sfruttando la fiducia implicita dei sviluppatori nei confronti delle dipendenze esterne. L’incidenza ha colpito oltre 187 pacchetti popolari, tra cui **angulartics2**, **ngx-toastr** e **@ctrl/tinycolor**, con conseguenze significative per le infrastrutture di sviluppo e i sistemi CI/CD.  
 
 ---
@@ -67,6 +69,8 @@ Monitora i log di installazione e cerca script preinstall sospetti, repository a
 Pacchetti come **angulartics2**, **ngx-toastr**, e **@ctrl/tinycolor** sono stati colpiti, con oltre 187 package interessati in totale.  
 
 ---
+
+
 
 
 

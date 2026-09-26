@@ -19,6 +19,8 @@
 
 
 
+
+
 Se hai mai pensato che le password siano una maledizione, sei nel posto giusto. Il mondo della cybersecurity sta cambiando radicalmente: i sistemi di autenticazione basati su password sono diventati obsoleti, e il FIDO2 YubiKey è un esempio perfetto di come la tecnologia possa proteggere le tue credenziali senza ricorrere a segreti vulnerabili.  
 
 ---
@@ -73,6 +75,8 @@ I codici OTP (One-Time Password) sono vulnerabili a phishing e attacchi di tipo 
 
 ### Cosa succede se perdo il YubiKey?
 Se non hai configurato un backup (come un PIN o un altro autenticatore), potresti rimanere bloccato. Per questo motivo, è sempre consigliabile registrare almeno due tipi di autenticazione: un passkey e un sistema tradizionale come SMS o app authenticator.
+
+
 
 
 

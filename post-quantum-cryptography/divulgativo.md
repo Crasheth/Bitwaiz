@@ -17,6 +17,8 @@
 
 
 
+
+
 Immagina una città che si prepara a un alluvione. I cittadini non costruiscono muri altissimi, ma riconoscono i segni del fiume e modificano le loro abitudini per sopravvivere. Così è la crittografia post-quantum: non una soluzione perfetta, ma un adattamento al cambiamento inevitabile della tecnologia.  
 
 
@@ -56,6 +58,8 @@ NIST ha selezionato algoritmi come Kyber, Dilithium e SPHINCS+ per la crittograf
 
 #### Come posso iniziare a prepararmi?  
 Le aziende dovrebbero valutare i propri sistemi e iniziare a testare algoritmi PQC per la crittografia a chiave pubblica. Questo è un passo necessario per garantire la sicurezza futura dei dati sensibili.
+
+
 
 
 

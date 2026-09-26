@@ -6,6 +6,8 @@
 
 
 
+
+
 Negli ultimi mesi, il mondo della cybersecurity ha visto un attacco senza precedenti all'interno del cosiddetto "ecosistema npm", la rete di librerie JavaScript più usata al mondo. Non si tratta di una semplice violazione: è come se un virus si fosse infiltrato nei circuiti di un'azienda, sfruttando le sue stesse regole per propagarsi in modo invisibile. Questo attacco, noto come **Sha1-Hulud**, ha messo a nudo le fragilità di un sistema che sembra sicuro ma è in realtà pieno di buchi.  
 
 La cosa più preoccupante non è la tecnologia usata (script automatici, GitHub Actions, script automatici), ma il modo in cui l'attaccante ha sfruttato la stessa logica del sistema per farlo funzionare a suo favore. È come se un monaco taoista avesse capito che il fiume scorre sempre verso il punto più basso, e si fosse messo a guidarlo con una bussola invisibile. L'attacco ha sfruttato la fiducia dei programmatori nei confronti delle dipendenze automatiche, trasformando l'ecosistema npm in un terreno fertile per la diffusione di malware.  
@@ -44,6 +46,8 @@ Monitora i log di installazione e cerca script preinstall sospetti, repository a
 Pacchetti come **angulartics2**, **ngx-toastr**, e **@ctrl/tinycolor** sono stati colpiti, con oltre 187 package interessati in totale.  
 
 ---
+
+
 
 
 

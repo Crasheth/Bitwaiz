@@ -6,6 +6,8 @@
 
 
 
+
+
 ---
 
 ![supply chain attack npm](https://www.gep.com/prod/s3fs-public/blog-1199-npm-supply-chain-attack-risks-visual-selection.webp)
@@ -61,6 +63,8 @@ Monitora i log di installazione e cerca script preinstall sospetti, repository a
 Pacchetti come **angulartics2**, **ngx-toastr**, e **@ctrl/tinycolor** sono stati colpiti, con oltre 187 package interessati in totale.
 
 ---
+
+
 
 
 

@@ -4,6 +4,8 @@
 
 
 
+
+
 Apple Intelligence è progettata per offrire funzionalità personalizzate senza compromettere la privacy. Il sistema utilizza dati locali sul dispositivo per adattare servizi come la gestione delle notifiche o l'editing fotografico, evitando di memorizzare informazioni sensibili. Tuttavia, in alcuni casi richiede l’uso di Private Cloud Compute (PCC), un server dedicato che elabora dati senza conservarli, garantendo una protezione della riservatezza.
 
 ---
@@ -50,6 +52,8 @@ Puoi abilitare log di trasparenza e modificare le impostazioni per limitare l’
 ---
 
 ![Apple Intelligence privacy](https://api.pixelcommercestudio.com/storage/uploads/blog/how-to-use-apple-ai-for-your-daily-productivity-img-01_20251211_090821.jpg)
+
+
 
 
 

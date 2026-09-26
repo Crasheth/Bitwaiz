@@ -7,6 +7,8 @@
 
 
 
+
+
 Quando parliamo di supply chain attacks su npm, siamo di fronte a una realtà che sembra esistere da sempre, ma in modo invisibile: come un fiume che scorre senza rumore, il malware si muove nel sistema, trovando i punti più deboli. Sha1-Hulud è stato uno dei casi più estesi mai registrati, con centinaia di pacchetti compromessi e migliaia di credenziali rubate. Non un attacco improvvisato, ma una strategia che segue il principio taoista del "fiume che non si scontra con le rocce".  
 
 
@@ -42,6 +44,8 @@ Monitora i log di installazione e cerca script preinstall sospetti, repository a
 Pacchetti come **angulartics2**, **ngx-toastr**, e **@ctrl/tinycolor** sono stati colpiti, con oltre 187 package interessati in totale.  
 
 ---
+
+
 
 
 

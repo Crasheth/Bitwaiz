@@ -5,6 +5,8 @@
 
 
 
+
+
 Se hai mai chiesto a Siri di riscrivere un'email o usato Image Playground per generare un'immagine, sai che Apple Intelligence fa parte del tuo iPhone. Ma come funziona? E soprattutto: chi controlla i tuoi dati? La risposta non è banale.  
 
 Apple spiega che il sistema usa informazioni locali – come gli appuntamenti in calendario o le app usate – per addestrare modelli di intelligenza artificiale. Questo significa che, in molti casi, i dati non lasciano mai il tuo dispositivo. Per esempio, quando Priority Notifications decide quali notifiche mostrare, il calcolo avviene *solo* sul telefono.  
@@ -42,6 +44,8 @@ Puoi abilitare log di trasparenza e modificare le impostazioni per limitare l’
 
 
 ![Apple Intelligence privacy](https://api.pixelcommercestudio.com/storage/uploads/blog/how-to-use-apple-ai-for-your-daily-productivity-img-01_20251211_090821.jpg)
+
+
 
 
 
