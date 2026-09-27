@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" href="../favicon.png">
+  <link rel="stylesheet" href="../style.css">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://bitwaiz.it/passkey-webauthn/">
+  <meta name="description" content="Passkey WebAuthn: La chiave digitale che cambia il modo di accedere al web - articolo disponibile in più toni">
+  <meta name="ai-generated" content="true">
+  <meta name="ai-content-declaration" content="AI-generated text after collecting information from public sources; publisher editorial responsibility. EU AI Act Art. 50.">
+<title>Passkey WebAuthn: La chiave digitale che cambia il modo di accedere al web | BITWAIZ</title>
+  <script type="application/ld+json">
+{"@context": "https://schema.org", "@graph": [{"@type": "Article", "@id": "https://bitwaiz.it/passkey-webauthn/#article", "headline": "Passkey WebAuthn: La chiave digitale che cambia il modo di accedere al web", "description": "Se hai mai usato l'autenticazione tramite impronta digitale per accedere a un’app o a un sito, probabilmente hai sentito parlare di **passkey**. Ma cosa significa realmente? E come si collega alla tecnologia **WebAuthn**, che permette agli utenti di accedere al web senza password? La risposta è semp", "inLanguage": "it-IT", "isAccessibleForFree": true, "datePublished": "2026-09-27", "dateModified": "2026-09-27", "author": {"@type": "Person", "name": "Christian Cioffi"}, "publisher": {"@type": "Organization", "name": "BITWAIZ", "url": "https://bitwaiz.it", "logo": {"@type": "ImageObject", "url": "https://bitwaiz.it/favicon.png"}}, "articleSection": "Altro", "url": "https://bitwaiz.it/passkey-webauthn/", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://bitwaiz.it/passkey-webauthn/"}, "creditText": "Testo generato da intelligenza artificiale dopo la raccolta di informazioni da fonti pubbliche.", "additionalProperty": {"@type": "PropertyValue", "name": "aiContentDisclosure", "value": "AI-generated text after collecting information from public third-party sources; publisher editorial responsibility (EU AI Act Art. 50)."}, "image": ["https://www.c-sharpcorner.com/article/two-factor-authentication-2fa-and-passkey-authentication-in-asp-net-core/Images/Passkey.png"]}, {"@type": "BreadcrumbList", "@id": "https://bitwaiz.it/passkey-webauthn/#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://bitwaiz.it/"}, {"@type": "ListItem", "position": 2, "name": "Passkey WebAuthn: La chiave digitale che cambia il modo di accedere al web", "item": "https://bitwaiz.it/passkey-webauthn/"}]}, {"@type": "FAQPage", "@id": "https://bitwaiz.it/passkey-webauthn/#faq", "mainEntity": [{"@type": "Question", "name": "Cos'è un passkey?", "acceptedAnswer": {"@type": "Answer", "text": "Un passkey è una forma di autenticazione senza password che permette agli utenti di accedere ai servizi online usando dispositivi come smartphone, chiavi hardware o impronte digitali."}}, {"@type": "Question", "name": "Come funziona il WebAuthn?", "acceptedAnswer": {"@type": "Answer", "text": "WebAuthn è uno standard tecnico che consente ai browser e alle applicazioni web di verificare l’identità degli utenti utilizzando passkeys. Quando un utente cerca di accedere a un account, il sito invia una richiesta al dispositivo, che usa le chiavi private per firmare la richiesta e inviarla indietro."}}, {"@type": "Question", "name": "Posso usare i passkeys su più dispositivi?", "acceptedAnswer": {"@type": "Answer", "text": "Sì, molti passkeys si sincronizzano tra dispositivi, specialmente se utilizzati all’interno di un'ecosistema come Apple o Google. Tuttavia, alcuni servizi richiedono la creazione di un passkey separato per ogni dispositivo."}}, {"@type": "Question", "name": "WebAuthn è sicuro?", "acceptedAnswer": {"@type": "Answer", "text": "Sì, WebAuthn è progettato per resistere a diverse forme di attacco, inclusi i phishing, grazie all’uso di firme digitali e tecnologie come CTAP (Client to Authenticator Protocol). Tuttavia, non è invulnerabile al 100%, quindi resta sempre vigile."}}, {"@type": "Question", "name": "Quali browser supportano WebAuthn?", "acceptedAnswer": {"@type": "Answer", "text": "I principali browser come Chrome, Firefox e Safari supportano WebAuthn da diversi anni, permettendo agli utenti di utilizzare passkeys per l’autenticazione."}}]}]}
+</script>
+</head>
+<body>
+  <nav class="nav">
+  <a href=".." class="logo">BITWAIZ</a>
+  <div class="nav-links"><a href="../#home">Home</a><a href="../#articoli">Articoli</a><div class="nav-item nav-dropdown">
+    <a href="../#rubrica" class="nav-dropdown-toggle" aria-haspopup="true">Rubrica</a>
+    <div class="nav-dropdown-panel" role="menu">
+      <div class="nav-bucket">
+        <a href="../#rubrica-malware" class="nav-bucket-title">Malware Analysis</a>
+        <ul class="nav-bucket-list"><li><a href="../analisi-malware-decompilazione-con-ghidra/">Analisi Malware con Ghidra: Tecnica e Filosofia</a></li><li><a href="../analisi-malware-stringhe-header-embedded-carving/">Analisi Malware: Stringhe, Header Embedded e Carving per Riconoscere Payloads Nascosti</a></li><li><a href="../analisi-malware-triage-iniziale-vt-sandbox/">Analisi Malware — Triage iniziale: VT, sandbox, stringhe, YARA</a></li><li><a href="../analisi-malware-architettura-pe-e-elf/">Analisi Malware — Architettura PE e ELF</a></li><li><a href="../analisi-malware-malware-moderno-tipologie-attori/">Analisi Malware — Malware moderno: tipologie, attori, TTP</a></li></ul>
+        <a href="../#rubrica-malware" class="nav-bucket-all">Vedi tutti →</a>
+      </div>
+    </div>
+  </div><a href="../#about">Chi sono</a><a href="../#newsletter">Newsletter</a><a href="../feed.xml" class="nav-feed"><svg class="nav-feed-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false"><circle cx="6.18" cy="17.82" r="2.18" fill="currentColor"/><path fill="currentColor" d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.49-6.9-15.39-15.39-15.39zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/></svg><span>RSS</span></a><a href="../privacy.html">Privacy</a></div>
+  <a href="mailto:info@bitwaiz.it" class="btn btn-primary">contattami</a>
+</nav>
+  <main class="article-layout">
+    <a href="../#articoli" class="article-back">← Tutti gli articoli</a>
+    <h1>Passkey WebAuthn: La chiave digitale che cambia il modo di accedere al web</h1>
+    <!-- ai-act:disclosure -->
+    <aside class="ai-disclosure" role="note" data-ai-generated="true"><span class="ai-disclosure-label">Contenuto generato da AI</span> Questo articolo è stato generato da intelligenza artificiale dopo la raccolta di informazioni da fonti pubbliche. La responsabilità editoriale è di BITWAIZ. <a href="../privacy.html#ai-act">Dettagli (AI Act)</a></aside>
+    <p class="article-date">Pubblicato il 27 set 2026</p>
+    <p style="color:var(--fg-muted);margin:0.5rem 0;">Scegli il tono di lettura:</p>
+    <div class="tone-btns"><button class="tone-btn" data-tone="divulgativo" type="button"><span class="tone-name">Divulgativo</span><span class="tone-desc">Accessibile, metafore e analogie</span></button><button class="tone-btn" data-tone="tecnico" type="button"><span class="tone-name">Tecnico</span><span class="tone-desc">Terminologia specialistica</span></button><button class="tone-btn" data-tone="informale" type="button"><span class="tone-name">Informale</span><span class="tone-desc">Conversazionale, stile chat</span></button><button class="tone-btn" data-tone="professionale" type="button"><span class="tone-name">Professionale</span><span class="tone-desc">Registro formale, report aziendali</span></button><button class="tone-btn" data-tone="personalizzato" type="button"><span class="tone-name">Personale</span><span class="tone-desc">A modo mio</span></button></div>
+    <div class="article-body"><div class="tone-content" data-tone="divulgativo"><h1>Passkey WebAuthn: La chiave digitale che cambia il modo di accedere al web</h1>
+<blockquote>
+<p>L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.</p>
+</blockquote>
+<p>Se hai mai usato l'autenticazione tramite impronta digitale per accedere a un’app o a un sito, probabilmente hai sentito parlare di <strong>passkey</strong>. Ma cosa significa realmente? E come si collega alla tecnologia <strong>WebAuthn</strong>, che permette agli utenti di accedere al web senza password? La risposta è semplice: passkey è il "chiave" e WebAuthn è la "regola" per usarla, proprio come un fiume segue la sua strada naturale.  </p>
+<p><img alt="passkey WebAuthn" src="https://www.c-sharpcorner.com/article/two-factor-authentication-2fa-and-passkey-authentication-in-asp-net-core/Images/Passkey.png" /></p>
+<h2>Passkey vs. WebAuthn: Due facce della stessa moneta</h2>
+<p>Passkey non è una password, ma una <strong>credenziale digitale</strong> che si basa su criptografia asimmetrica. Immaginalo come un’unica chiave d’accesso a casa tua: non hai bisogno di un codice segreto per entrare, basta avere la chiave giusta. WebAuthn, invece, è il <strong>protocollo</strong> che permette ai siti web di verificare se quella chiave è reale e sicura.  </p>
+<p>Per esempio, quando usi il riconoscimento delle impronte digitali per accedere a un account, stai usando una passkey (la chiave) e WebAuthn (il sistema che controlla se la chiave è valida). Senza WebAuthn, non potresti usare le tue impronte o lo schermo di sblocco del telefono come metodo d’accesso.  </p>
+<h2>Nota 1: Come funziona un passkey</h2>
+<p>Un passkey si basa su <strong>coppie di chiavi pubbliche e private</strong>. La chiave privata resta sul tuo dispositivo (come la chiave della casa), mentre la chiave pubblica viene registrata nel sito web (come l’indirizzo della casa). Quando devi accedere, il sito invia un “messaggio” al tuo dispositivo, che firma con la chiave privata. Il sito verifica la firma usando la chiave pubblica e ti concede accesso.  </p>
+<p>Questo processo è molto più sicuro delle password tradizionali perché:<br />
+- <strong>Non si possono rubare</strong> (la chiave privata non esiste mai fuori dal dispositivo).<br />
+- <strong>Sono difficili da falsificare</strong> (non basta conoscere la chiave pubblica per usare il passkey).<br />
+- <strong>Resistono al phishing</strong> (l’autenticazione avviene direttamente tra il dispositivo e il sito, non attraverso un’email o un link).  </p>
+<h2>Nota 2: Perché i passkeys sono importanti</h2>
+<p>I passkeys rappresentano una <strong>transizione verso l'autenticazione senza password</strong>, un'idea che ha guadagnato terreno negli ultimi anni. Le password tradizionali sono vulnerabili a attacchi come il <em>credential stuffing</em>, dove i malintenzionati usano combinazioni di credenziali rubate per accedere a account. I passkeys, invece, eliminano questa possibilità.  </p>
+<p>Inoltre, i passkeys <strong>riducono la complessità</strong> del processo d’accesso: non devi ricordare password, non devi preoccuparti di perderle o dimenticarle. Basta usare le tue impronte digitali, lo sblocco del telefono o un dispositivo fisico come una chiave hardware.  </p>
+<h2>Passkeys vs. WebAuthn</h2>
+<p>Molte persone confondono passkey e WebAuthn, ma sono due concetti diversi:<br />
+- <strong>Passkey</strong> è il tipo di autenticazione (come le impronte digitali).<br />
+- <strong>WebAuthn</strong> è la tecnologia che permette ai siti web di implementare passkeys.  </p>
+<p>In pratica, WebAuthn è il "sistema" che permette ai browser e alle applicazioni di comunicare con i dispositivi di autenticazione (come le chiavi hardware), mentre i passkeys sono le credenziali effettive utilizzate per accedere a un account.</p>
+<h2>Domande frequenti</h2>
+<h3>Cos'è un passkey?</h3>
+<p>Un passkey è una forma di autenticazione senza password che permette agli utenti di accedere ai servizi online usando dispositivi come smartphone, chiavi hardware o impronte digitali.  </p>
+<h3>Come funziona il WebAuthn?</h3>
+<p>WebAuthn è uno standard tecnico che consente ai browser e alle applicazioni web di verificare l’identità degli utenti utilizzando passkeys. Quando un utente cerca di accedere a un account, il sito invia una richiesta al dispositivo, che usa le chiavi private per firmare la richiesta e inviarla indietro.  </p>
+<h3>Posso usare i passkeys su più dispositivi?</h3>
+<p>Sì, molti passkeys si sincronizzano tra dispositivi, specialmente se utilizzati all’interno di un'ecosistema come Apple o Google. Tuttavia, alcuni servizi richiedono la creazione di un passkey separato per ogni dispositivo.  </p>
+<h3>WebAuthn è sicuro?</h3>
+<p>Sì, WebAuthn è progettato per resistere a diverse forme di attacco, inclusi i phishing, grazie all’uso di firme digitali e tecnologie come CTAP (Client to Authenticator Protocol). Tuttavia, non è invulnerabile al 100%, quindi resta sempre vigile.  </p>
+<h3>Quali browser supportano WebAuthn?</h3>
+<p>I principali browser come Chrome, Firefox e Safari supportano WebAuthn da diversi anni, permettendo agli utenti di utilizzare passkeys per l’autenticazione.</p>
+<h2>Fonti</h2>
+<ul>
+<li><a href="https://www.webauthn.me/passkeys">WebAuthn and Passkeys</a></li>
+<li><a href="https://www.passkeys.com/what-is-webauthn">What is WebAuthn Standard? Guide to WebAuthn Protocol, API &amp; How It Works</a></li>
+<li><a href="https://en.wikipedia.org/wiki/WebAuthn">WebAuthn - Wikipedia</a></li>
+<li><a href="https://teampassword.com/blog/passkey-vs-webauthn">Passkey vs. WebAuthn: What's the Difference? | TeamPassword</a></li>
+</ul></div><div class="tone-content" data-tone="tecnico"><h1>Passkey WebAuthn: La chiave digitale del futuro</h1>
+<blockquote>
+<p>L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.</p>
+</blockquote>
+<hr />
+<p><img alt="passkey WebAuthn" src="https://www.c-sharpcorner.com/article/two-factor-authentication-2fa-and-passkey-authentication-in-asp-net-core/Images/Passkey.png" /></p>
+<h2>Introduzione</h2>
+<p>Passkey e WebAuthn sono due concetti interconnessi che stanno ridefinendo la gestione delle credenziali digitali. Mentre il primo rappresenta l’identità digitale, il secondo è lo standard tecnico che ne permette l’implementazione. Questo articolo spiega come funzionano, quali vantaggi offrono e perché sono una risposta necessaria alle fragilità dei password-based authentication.  </p>
+<hr />
+<h2>WebAuthn: Lo standard per la sicurezza senza password</h2>
+<p>WebAuthn (Web Authentication) è un <strong>standard W3C</strong> pubblicato nel 2019, che definisce un’API per l’autenticazione tramite credenziali di tipo <em>passkey</em>. Questo protocollo si basa su <strong>criptografia asimmetrica</strong>, dove ogni passkey è una coppia di chiavi: una pubblica (registrata sul server) e una privata (memorizzata sul dispositivo utente).  </p>
+<p>La differenza principale rispetto ai password-based authentication sta nel fatto che WebAuthn non richiede un <strong>password</strong> per l’autenticazione. Invece, utilizza <strong>firma digitale</strong> basata su chiavi pubbliche/privative, rendendo impossibile il furto o la replicazione di credenziali.  </p>
+<h2>Funzionamento in sintesi</h2>
+<ol>
+<li><strong>Registrazione</strong>: Il server genera una firma unica (challenge) e la invia al dispositivo utente.  </li>
+<li><strong>Firma</strong>: Il dispositivo usa la chiave privata per firmare la challenge, creando un’identità digitale.  </li>
+<li><strong>Verifica</strong>: Il server verifica la firma utilizzando la chiave pubblica registrata, confermando l’autenticità dell’utente.  </li>
+</ol>
+<p>Questo processo è resistente a attacchi di phishing, poiché le credenziali sono legate al sito specifico e non possono essere rese operative in contesti diversi.  </p>
+<hr />
+<h2>Passkey: La chiave digitale senza password</h2>
+<p>Un <em>passkey</em> è una <strong>credenziale di autenticazione</strong> basata su WebAuthn. È un’alternativa ai password, che permette l’accesso a servizi online tramite biometria (fingerprint, faccia), PIN o dispositivi hardware (come Windows Hello).  </p>
+<h2>Caratteristiche principali</h2>
+<ul>
+<li><strong>Sincronizzazione multi-device</strong>: I passkey possono essere sincronizzati tra dispositivi, grazie al supporto di password manager o servizi cloud.  </li>
+<li><strong>Compatibilità</strong>: Funzionano su browser moderni (Chrome, Firefox, Safari) e dispositivi con hardware dedicato (smartphone, security keys).  </li>
+<li><strong>Resistenza a phishing</strong>: Le credenziali sono legate al sito specifico, rendendo inutile il furto di password o la manipolazione di URL.  </li>
+</ul>
+<h2>Limitazioni attuali</h2>
+<p>Mentre i passkey offrono maggiore sicurezza, non sostituiscono completamente le password. Molti siti continuano a richiedere password per accessi secondari o funzionalità limitate. Inoltre, la sincronizzazione tra dispositivi e servizi è ancora un problema di gestione, specialmente in contesti aziendali.  </p>
+<hr />
+<h2>Perché WebAuthn e passkey sono una soluzione necessaria</h2>
+<p>I password-based authentication hanno sempre sofferto di <strong>vulnerabilità</strong> come:<br />
+- <strong>Reuso di credenziali</strong>: Le password vengono spesso utilizzate su più siti, aumentando il rischio di compromissione.<br />
+- <strong>Furti di dati</strong>: La memorizzazione in chiaro o la mancanza di hashing salato rende le password facilmente accessibili.<br />
+- <strong>Phishing</strong>: Attacchi mirati a rubare credenziali tramite falsi siti o messaggi.  </p>
+<p>WebAuthn e passkey risolvono questi problemi grazie all’uso di <strong>criptografia asimmetrica</strong> e alla riduzione del numero di dati esposti. Inoltre, il supporto per dispositivi hardware (come security keys) aggiunge un livello di protezione ulteriore contro malware e attacchi locali.  </p>
+<hr />
+<h2>Vedi anche</h2>
+<ul>
+<li><a href="https://www.webauthn.me/passkeys">WebAuthn and Passkeys</a>  </li>
+<li><a href="https://www.passkeys.com/what-is-webauthn">What is WebAuthn Standard? Guide to WebAuthn Protocol, API &amp; How It Works</a>  </li>
+</ul>
+<hr />
+<h2>Domande frequenti</h2>
+<h3>Cos'è un passkey?</h3>
+<p>Un passkey è una forma di autenticazione senza password che permette agli utenti di accedere ai servizi online usando dispositivi come smartphone, chiavi hardware o impronte digitali.  </p>
+<h3>Come funziona il WebAuthn?</h3>
+<p>WebAuthn è uno standard tecnico che consente ai browser e alle applicazioni web di verificare l’identità degli utenti utilizzando passkeys. Quando un utente cerca di accedere a un account, il sito invia una richiesta al dispositivo, che usa le chiavi private per firmare la richiesta e inviarla indietro.  </p>
+<h3>Posso usare i passkeys su più dispositivi?</h3>
+<p>Sì, molti passkey si sincronizzano tra dispositivi, specialmente se utilizzati all’interno di un'ecosistema come Apple o Google. Tuttavia, alcuni servizi richiedono la creazione di un passkey separato per ogni dispositivo.  </p>
+<h3>WebAuthn è sicuro?</h3>
+<p>Sì, WebAuthn è progettato per resistere a diverse forme di attacco, inclusi i phishing, grazie all’uso di firme digitali e tecnologie come CTAP (Client to Authenticator Protocol). Tuttavia, non è invulnerabile al 100%, quindi resta sempre vigile.  </p>
+<h3>Quali browser supportano WebAuthn?</h3>
+<p>I principali browser come Chrome, Firefox e Safari supportano WebAuthn da diversi anni, permettendo agli utenti di utilizzare passkeys per l’autenticazione.</p>
+<h2>Fonti</h2>
+<ul>
+<li><a href="https://www.webauthn.me/passkeys">WebAuthn and Passkeys</a></li>
+<li><a href="https://www.passkeys.com/what-is-webauthn">What is WebAuthn Standard? Guide to WebAuthn Protocol, API &amp; How It Works</a></li>
+<li><a href="https://en.wikipedia.org/wiki/WebAuthn">WebAuthn - Wikipedia</a></li>
+<li><a href="https://teampassword.com/blog/passkey-vs-webauthn">Passkey vs. WebAuthn: What's the Difference? | TeamPassword</a></li>
+</ul></div><div class="tone-content" data-tone="informale"><h1>Passkey WebAuthn: La chiave senza password</h1>
+<blockquote>
+<p>L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.</p>
+</blockquote>
+<p>Se hai mai usato il riconoscimento delle impronte digitali per accedere a un’app, hai già sperimentato un passkey. Ma cosa c’è dietro questa tecnologia? WebAuthn non è semplicemente una “chiave”, ma un sistema che cambia la strada del login digitale.  </p>
+<p><img alt="passkey WebAuthn" src="https://www.c-sharpcorner.com/article/two-factor-authentication-2fa-and-passkey-authentication-in-asp-net-core/Images/Passkey.png" /></p>
+<h2>Cos'è il passkey?</h2>
+<p>Un passkey è una credenziale basata su crittografia asimmetrica. Piuttosto che usare password, si usa una coppia di chiavi: una pubblica registrata sul sito, una privata custodita nel dispositivo (es. smartphone, hardware security key). Quando cerchi di accedere, il sistema invia un “sfida” al tuo device: la chiave privata firma quel messaggio e lo manda indietro. Il server verifica la firma con la chiave pubblica, concedendo l’accesso.  </p>
+<p>Questo processo è simile a una conversazione tra due amici: uno dice qualcosa, l’altro risponde con un segno unico che prova di conoscere il messaggio. Non c’è bisogno di ricordare password, né di preoccuparsi di perderle.  </p>
+<h2>Cos'è WebAuthn?</h2>
+<p>WebAuthn è lo standard tecnico che permette a siti web di usare passkeys. È come un “manuale” per gli sviluppatori: spiega come registrare le credenziali, come gestire il flusso di dati tra browser e device, e come verificare la firma. Senza WebAuthn, i passkeys non esisterebbero.  </p>
+<p>Può sembrare un po’ astratto, ma pensa a quando usi una chiave USB per accedere a un account: il protocollo CTAP (Client to Authenticator Protocol) è parte di WebAuthn e permette al browser di “parlare” con la chiave fisica. È come se il tuo smartphone fosse un intermediario tra te e il sito web, assicurandoti che nessuno possa rubare le tue informazioni.  </p>
+<h2>Nota 1: Perché WebAuthn è diverso dalle password</h2>
+<p>Le password sono vulnerabili a phishing, ruberie di database e reuso su più siti. Un passkey, invece, non è legato a un’unica piattaforma: puoi usare la stessa chiave per accedere a Google, Facebook o Instagram.  </p>
+<p>Ma WebAuthn non elimina del tutto le password. Molti siti continuano a usarle come fallback (ad esempio, se il passkey non è disponibile). È un’evoluzione graduale, non una rivoluzione improvvisa.  </p>
+<h2>Passkey vs. WebAuthn: la differenza</h2>
+<p>Passkey è il “chiave”, WebAuthn è il “modo in cui si usa la chiave”. Il primo è l’oggetto concreto che ti permette di accedere; il secondo è lo standard tecnico che rende possibile quel processo.  </p>
+<p>Un esempio: se un passkey è come una chiave USB, WebAuthn è il sistema che dice al browser “questa chiave è autorizzata a usare questo account”. Senza il secondo, il primo non ha senso.  </p>
+<h2>Nota 2: Cosa cambia con la sincronizzazione</h2>
+<p>Fino a poco tempo fa, i passkey erano limitati all’ecosistema di un provider (es. Apple). Ora, grazie al supporto dei password manager e delle piattaforme multipli, puoi usare lo stesso passkey su Android, iPhone o Windows. È come se avessi una chiave che si adatta a ogni porta: non devi crearne una nuova ogni volta.  </p>
+<h2>Nota 3: Perché è importante</h2>
+<p>WebAuthn resiste a alcuni tipi di phishing, perché le credenziali sono registrate solo sul sito specifico. Un attacco falso non può “fingere” di essere il sito reale – il passkey non lo riconosce. È un’arma contro la frode digitale.  </p>
+<h2>FAQ: domande frequenti</h2>
+<h2>Cos'è un passkey?</h2>
+<p>Un passkey è una chiave digitale che permette l’autenticazione senza password, utilizzando crittografia asimmetrica e dispositivi come fingerprint o PIN.  </p>
+<h2>Nota 1: Cosa significa WebAuthn</h2>
+<p>WebAuthn è il protocollo tecnico che consente ai siti web di verificare le identità degli utenti usando passkeys e altri metodi di autenticazione sicuri.  </p>
+<h2>Passkey e WebAuthn sono la stessa cosa?</h2>
+<p>No, ma si completano: i passkey sono l’oggetto concreto, mentre WebAuthn è il sistema che li rende funzionanti.  </p>
+<h2>Nota 2: Come funziona un passkey</h2>
+<p>Un passkey usa una coppia di chiavi pubbliche e private per autenticare l’utente. La chiave privata rimane sul dispositivo, mentre la pubblica viene registrata dal sito web.  </p>
+<h2>Nota 3: Perché WebAuthn è più sicuro delle password</h2>
+<p>Perché le credenziali non sono legate a un’unica piattaforma e sono protette da tecnologie di crittografia avanzata, rendendo difficile il loro furto o uso improprio.  </p>
+<h2>Vedi anche</h2>
+<ul>
+<li><a href="https://www.webauthn.me/passkeys">WebAuthn and Passkeys</a>  </li>
+<li><a href="https://www.passkeys.com/what-is-webauthn">What is WebAuthn Standard? Guide to WebAuthn Protocol, API &amp; How It Works</a></li>
+</ul>
+<h2>Domande frequenti</h2>
+<h3>Cos'è un passkey?</h3>
+<p>Un passkey è una forma di autenticazione senza password che permette agli utenti di accedere ai servizi online usando dispositivi come smartphone, chiavi hardware o impronte digitali.  </p>
+<h3>Come funziona il WebAuthn?</h3>
+<p>WebAuthn è uno standard tecnico che consente ai browser e alle applicazioni web di verificare l’identità degli utenti utilizzando passkeys. Quando un utente cerca di accedere a un account, il sito invia una richiesta al dispositivo, che usa le chiavi private per firmare la richiesta e inviarla indietro.  </p>
+<h3>Posso usare i passkeys su più dispositivi?</h3>
+<p>Sì, molti passkeys si sincronizzano tra dispositivi, specialmente se utilizzati all’interno di un'ecosistema come Apple o Google. Tuttavia, alcuni servizi richiedono la creazione di un passkey separato per ogni dispositivo.  </p>
+<h3>WebAuthn è sicuro?</h3>
+<p>Sì, WebAuthn è progettato per resistere a diverse forme di attacco, inclusi i phishing, grazie all’uso di firme digitali e tecnologie come CTAP (Client to Authenticator Protocol). Tuttavia, non è invulnerabile al 100%, quindi resta sempre vigile.  </p>
+<h3>Quali browser supportano WebAuthn?</h3>
+<p>I principali browser come Chrome, Firefox e Safari supportano WebAuthn da diversi anni, permettendo agli utenti di utilizzare passkeys per l’autenticazione.</p>
+<h2>Fonti</h2>
+<ul>
+<li><a href="https://www.webauthn.me/passkeys">WebAuthn and Passkeys</a></li>
+<li><a href="https://www.passkeys.com/what-is-webauthn">What is WebAuthn Standard? Guide to WebAuthn Protocol, API &amp; How It Works</a></li>
+<li><a href="https://en.wikipedia.org/wiki/WebAuthn">WebAuthn - Wikipedia</a></li>
+<li><a href="https://teampassword.com/blog/passkey-vs-webauthn">Passkey vs. WebAuthn: What's the Difference? | TeamPassword</a></li>
+</ul></div><div class="tone-content" data-tone="professionale"><h1>Passkey WebAuthn: La chiave digitale per una sicurezza senza password</h1>
+<blockquote>
+<p>L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.</p>
+</blockquote>
+<p>Negli ultimi anni, il passkey (o credenziale WebAuthn) ha rappresentato un passo significativo nella lotta contro le vulnerabilità legate alle password. Un sistema che sfrutta la crittografia asimmetrica e dispositivi hardware per autenticare gli utenti senza richiedere password tradizionali. Questo articolo esplora il concetto di passkey WebAuthn, il suo ruolo nella sicurezza digitale e le implicazioni pratiche per aziende e sviluppatori.  </p>
+<p><img alt="passkey WebAuthn" src="https://www.c-sharpcorner.com/article/two-factor-authentication-2fa-and-passkey-authentication-in-asp-net-core/Images/Passkey.png" /></p>
+<h2>Che cosa è un passkey?</h2>
+<p>Un passkey è una credenziale di autenticazione che sostituisce la password tradizionale. Funziona grazie a una coppia di chiavi pubbliche/privata: la chiave privata rimane protetta sul dispositivo dell’utente, mentre la chiave pubblica viene registrata dal servizio online. Quando un utente cerca di accedere, il sistema invia un "challenge" al dispositivo, che firma con la chiave privata e invia indietro il risultato. Il server verifica la firma utilizzando la chiave pubblica, confermando così l’identità dell’utente senza richiedere una password.  </p>
+<p>Questo modello è reso possibile da <strong>WebAuthn</strong>, uno standard W3C che definisce l’API per implementare passkeys in applicazioni web. WebAuthn non è solo un protocollo tecnico: rappresenta un cambio di paradigma, spostando la sicurezza dal "che cosa" al "chi è".  </p>
+<h2>Passkey vs. WebAuthn: Due facce della stessa moneta</h2>
+<p>Mentre il <strong>passkey</strong> è l’oggetto concreto (la credenziale), il <strong>WebAuthn</strong> è il framework che permette ai siti web di utilizzare passkeys in modo sicuro. Senza WebAuthn, i passkeys non esisterebbero: è proprio questo standard che definisce come le applicazioni devono comunicare con gli authenticatori hardware (come Windows Hello o Apple Keychain) per verificare l’identità degli utenti.  </p>
+<p>In pratica, WebAuthn funziona come un "schema": indica come i browser e i dispositivi devono interagire per garantire che le credenziali siano autentiche e non manipolabili. Questo è particolarmente importante in un contesto dove gli attacchi di phishing (ad esempio) hanno dimostrato la fragilità delle password tradizionali.  </p>
+<h2>Nota 1: Perché WebAuthn è un’evoluzione rispetto ai metodi precedenti</h2>
+<p>WebAuthn non solo elimina le password, ma riduce anche i punti deboli associati a loro:<br />
+- <strong>Riuso di credenziali</strong>: le password vengono spesso condivise tra diversi servizi, aumentando il rischio di compromissione. Con WebAuthn, ogni passkey è unica e legata al dispositivo specifico.<br />
+- <strong>Furti di dati</strong>: la crittografia asimmetrica rende impossibile rubare le credenziali in modo diretto, poiché la chiave privata non è mai esposta.<br />
+- <strong>Phishing</strong>: WebAuthn resiste a certi tipi di attacchi di phishing perché verifica che l’autenticatore sia registrato esclusivamente per il sito specifico.  </p>
+<p>Inoltre, WebAuthn supporta diversi tipi di authenticatori: da quelli integrati nel sistema operativo (come Android o Windows Hello) a dispositivi esterni come smartcard o chiavi hardware. Questa flessibilità consente alle aziende di adottare soluzioni che si adattano al loro contesto tecnologico e ai bisogni degli utenti.  </p>
+<h2>Nota 2: Quali sono i limiti</h2>
+<p>Nonostante i vantaggi, WebAuthn non è una soluzione completa:<br />
+- <strong>Compatibilità</strong>: Non tutti i browser o dispositivi supportano ancora WebAuthn in modo completo. Molti siti web continuano a utilizzare password come backup, rendendo il sistema meno robusto.<br />
+- <strong>Gestione delle credenziali</strong>: Sebbene le chiavi siano sicure, la sincronizzazione tra dispositivi richiede attenzione per evitare errori di configurazione o perdite di dati.<br />
+- <strong>Dependenza hardware</strong>: La sicurezza di WebAuthn è fortemente legata alla qualità e all’affidabilità degli authenticatori. Un dispositivo danneggiato può compromettere l’accesso.</p>
+<h2>Domande frequenti</h2>
+<h3>Cos'è un passkey?</h3>
+<p>Un passkey è una forma di autenticazione senza password che permette agli utenti di accedere ai servizi online usando dispositivi come smartphone, chiavi hardware o impronte digitali.  </p>
+<h3>Come funziona il WebAuthn?</h3>
+<p>WebAuthn è uno standard tecnico che consente ai browser e alle applicazioni web di verificare l’identità degli utenti utilizzando passkeys. Quando un utente cerca di accedere a un account, il sito invia una richiesta al dispositivo, che usa le chiavi private per firmare la richiesta e inviarla indietro.  </p>
+<h3>Posso usare i passkeys su più dispositivi?</h3>
+<p>Sì, molti passkeys si sincronizzano tra dispositivi, specialmente se utilizzati all’interno di un'ecosistema come Apple o Google. Tuttavia, alcuni servizi richiedono la creazione di un passkey separato per ogni dispositivo.  </p>
+<h3>WebAuthn è sicuro?</h3>
+<p>Sì, WebAuthn è progettato per resistere a diverse forme di attacco, inclusi i phishing, grazie all’uso di firme digitali e tecnologie come CTAP (Client to Authenticator Protocol). Tuttavia, non è invulnerabile al 100%, quindi resta sempre vigile.  </p>
+<h3>Quali browser supportano WebAuthn?</h3>
+<p>I principali browser come Chrome, Firefox e Safari supportano WebAuthn da diversi anni, permettendo agli utenti di utilizzare passkeys per l’autenticazione.</p>
+<h2>Fonti</h2>
+<ul>
+<li><a href="https://www.webauthn.me/passkeys">WebAuthn and Passkeys</a></li>
+<li><a href="https://www.passkeys.com/what-is-webauthn">What is WebAuthn Standard? Guide to WebAuthn Protocol, API &amp; How It Works</a></li>
+<li><a href="https://en.wikipedia.org/wiki/WebAuthn">WebAuthn - Wikipedia</a></li>
+<li><a href="https://teampassword.com/blog/passkey-vs-webauthn">Passkey vs. WebAuthn: What's the Difference? | TeamPassword</a></li>
+</ul></div><div class="tone-content" data-tone="personalizzato"><h1>Passkey WebAuthn: La chiave digitale che cambia il modo di accedere al web</h1>
+<blockquote>
+<p>L'intelligenza artificiale è la nuova elettricità. — Andrew Ng.</p>
+</blockquote>
+<p>Se hai mai usato l'autenticazione tramite impronta digitale per accedere a un’app o a un sito, probabilmente hai sentito parlare di <strong>passkey</strong>. Ma cosa significa realmente? E come si collega alla tecnologia <strong>WebAuthn</strong>, che permette agli utenti di accedere al web senza password? La risposta è semplice: passkey è il “chiave” e WebAuthn è la “regola” per usarla, proprio come un fiume segue la sua strada naturale.  </p>
+<p><img alt="passkey WebAuthn" src="https://www.c-sharpcorner.com/article/two-factor-authentication-2fa-and-passkey-authentication-in-asp-net-core/Images/Passkey.png" /></p>
+<h2>Passkey vs. WebAuthn: Due facce della stessa moneta</h2>
+<p>Passkey non è una password, ma una <strong>credenziale digitale</strong> che si basa su criptografia asimmetrica. Immaginalo come un’unica chiave d’accesso a casa tua: non hai bisogno di un codice segreto per entrare, basta avere la chiave giusta. WebAuthn, invece, è il <strong>protocollo</strong> che permette ai siti web di verificare se quella chiave è reale e sicura.  </p>
+<p>Per esempio, quando usi il riconoscimento delle impronte digitali per accedere a un account, stai usando una passkey (la chiave) e WebAuthn (il sistema che controlla se la chiave è valida). Senza WebAuthn, non potresti usare le tue impronte o lo schermo di sblocco del telefono come metodo d’accesso.  </p>
+<h2>Nota 1: Come funziona un passkey</h2>
+<p>Un passkey si basa su <strong>coppie di chiavi pubbliche e private</strong>. La chiave privata resta sul tuo dispositivo (come la chiave della casa), mentre la chiave pubblica viene registrata nel sito web (come l’indirizzo della casa). Quando devi accedere, il sito invia un “messaggio” al tuo dispositivo, che firma con la chiave privata. Il sito verifica la firma usando la chiave pubblica e ti concede accesso.  </p>
+<p>Questo processo è molto più sicuro delle password tradizionali perché:<br />
+- <strong>Non si possono rubare</strong> (la chiave privata non esiste mai fuori dal dispositivo).<br />
+- <strong>Sono difficili da falsificare</strong> (non basta conoscere la chiave pubblica per usare il passkey).<br />
+- <strong>Resistono al phishing</strong> (l’autenticazione avviene direttamente tra il dispositivo e il sito, non attraverso un’email o un link).  </p>
+<h2>Nota 2: Perché i passkeys sono importanti</h2>
+<p>I passkeys rappresentano una <strong>transizione verso l'autenticazione senza password</strong>, un'idea che ha guadagnato terreno negli ultimi anni. Le password tradizionali sono vulnerabili a attacchi come il <em>credential stuffing</em>, dove i malintenzionati usano combinazioni di credenziali rubate per accedere a account. I passkeys, invece, eliminano questa possibilità.  </p>
+<p>Inoltre, i passkeys <strong>riducono la complessità</strong> del processo d’accesso: non devi ricordare password, non devi preoccuparti di perderle o dimenticarle. Basta usare le tue impronte digitali, lo sblocco del telefono o un dispositivo fisico come una chiave hardware.  </p>
+<h2>Passkeys vs. WebAuthn</h2>
+<p>Molte persone confondono passkey e WebAuthn, ma sono due concetti diversi:<br />
+- <strong>Passkey</strong> è il tipo di autenticazione (come le impronte digitali).<br />
+- <strong>WebAuthn</strong> è la tecnologia che permette ai siti web di implementare passkeys.  </p>
+<p>In pratica, WebAuthn è il "sistema" che permette ai browser e alle applicazioni di comunicare con i dispositivi di autenticazione (come le chiavi hardware), mentre i passkeys sono le credenziali effettive utilizzate per accedere a un account.</p>
+<h2>Come la vedo io</h2>
+<p>Su <strong>passkey WebAuthn</strong> il quadro che uso nel <strong>metodo quotidiano</strong> è lineare: osservo i <strong>log</strong>, accetto il <strong>flusso</strong> degli incidenti senza dramma da manuale. La <strong>consapevolezza</strong> qui è operativa — come curare un <strong>giardino</strong>: controlli, correggi, ripeti.</p>
+<h2>Domande frequenti</h2>
+<h3>Cos'è un passkey?</h3>
+<p>Un passkey è una forma di autenticazione senza password che permette agli utenti di accedere ai servizi online usando dispositivi come smartphone, chiavi hardware o impronte digitali.  </p>
+<h3>Come funziona il WebAuthn?</h3>
+<p>WebAuthn è uno standard tecnico che consente ai browser e alle applicazioni web di verificare l’identità degli utenti utilizzando passkeys. Quando un utente cerca di accedere a un account, il sito invia una richiesta al dispositivo, che usa le chiavi private per firmare la richiesta e inviarla indietro.  </p>
+<h3>Posso usare i passkeys su più dispositivi?</h3>
+<p>Sì, molti passkeys si sincronizzano tra dispositivi, specialmente se utilizzati all’interno di un'ecosistema come Apple o Google. Tuttavia, alcuni servizi richiedono la creazione di un passkey separato per ogni dispositivo.  </p>
+<h3>WebAuthn è sicuro?</h3>
+<p>Sì, WebAuthn è progettato per resistere a diverse forme di attacco, inclusi i phishing, grazie all’uso di firme digitali e tecnologie come CTAP (Client to Authenticator Protocol). Tuttavia, non è invulnerabile al 100%, quindi resta sempre vigile.  </p>
+<h3>Quali browser supportano WebAuthn?</h3>
+<p>I principali browser come Chrome, Firefox e Safari supportano WebAuthn da diversi anni, permettendo agli utenti di utilizzare passkeys per l’autenticazione.</p>
+<h2>Fonti</h2>
+<ul>
+<li><a href="https://www.webauthn.me/passkeys">WebAuthn and Passkeys</a></li>
+<li><a href="https://www.passkeys.com/what-is-webauthn">What is WebAuthn Standard? Guide to WebAuthn Protocol, API &amp; How It Works</a></li>
+<li><a href="https://en.wikipedia.org/wiki/WebAuthn">WebAuthn - Wikipedia</a></li>
+<li><a href="https://teampassword.com/blog/passkey-vs-webauthn">Passkey vs. WebAuthn: What's the Difference? | TeamPassword</a></li>
+</ul></div></div>
+    <section class="related-links" aria-label="Articoli correlati"><h2>Articoli correlati</h2><ul><li><a href="../ebpf-security/" title="eBPF security: il nuovo paradigma per la protezione del sistema">eBPF security: il nuovo paradigma per la protezione del sistema</a></li><li><a href="../apple-intelligence-privacy/" title="Apple Intelligence e privacy: come funziona la protezione dei dati">Apple Intelligence e privacy: come funziona la protezione dei dati</a></li><li><a href="../nis2-compliance/" title="NIS2 compliance: un percorso verso la resilienza digitale">NIS2 compliance: un percorso verso la resilienza digitale</a></li><li><a href="../apple-event/" title="Apple Events: come i messaggi fanno funzionare le app su Mac">Apple Events: come i messaggi fanno funzionare le app su Mac</a></li></ul></section>
+    <div class="article-signature"><p class="article-author">Crasheth</p></div>
+    <div class="bmc-section">
+      <!-- bmc-quote:tao-2026 -->
+  <p>Nel flusso del Tao, non accumulo — condivido.</p>
+  <p>"Tesoro condiviso non si esaurisce" — Tao Te Ching</p>
+  <p>Non è astuzia: è ascolto. La stessa chiarezza che arriva quando smetti di spingere e segui il corso delle cose.</p>
+  <p>Così costruiamo la Bitwave: un passo alla volta, un articolo alla volta.</p><div id="bmc-widget"><script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="crasheth" data-color="#FFDD00" data-emoji="💪" data-font="Cookie" data-text="Sostieni il progetto!" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff"></script></div>
+      <section class="supporters-wall"><h3>Messaggi dei Bitwaizers</h3><ul><li><strong>TFireH</strong>: Un piccolo supporto per questo nuovo progetto, per chi sa rendere la curiosità contagiosa e accessibile</li></ul></section>
+    </div>
+    <aside class="flusso-cta" aria-label="Iscrizione newsletter">
+  <div class="flusso-cta-inner">
+    <p class="flusso-cta-text">Non sei ancora nella <span class="accent">Bitwave</span>? Unisciti: aggiornamenti sugli articoli, senza spam.</p>
+    <a href="../#newsletter" class="btn btn-primary flusso-cta-btn">Entra nella Bitwave</a>
+  </div>
+</aside>
+  </main>
+  <section class="section" id="about">
+  <div class="about">
+    <h2>Chi sono?</h2>
+    <div class="about-content">BITWAIZ è la pronuncia letterale di <strong>bitwise</strong>, un termine tecnico in ambito informatico che si riferisce all'elaborazione dei dati "bit per bit".
+    Si collega all'espressione "un passo alla volta": affrontare ogni sfida un bit alla volta.
+    L'approccio sottolinea pazienza (Be Patient) e determinazione (But with Persistence).</div>
+    <p><strong>Christian Cioffi (Crasheth)</strong></p>
+    <div class="expertise-grid"><div class="expertise-item"><strong>Cybersecurity</strong><span>SOC, Incident Handling, SIEM (Splunk, QRadar, ArcSight)</span></div><div class="expertise-item"><strong>EDR/XDR</strong><span>FireEye, CrowdStrike, Microsoft Defender</span></div><div class="expertise-item"><strong>Malware Analysis</strong><span>Analisi statica e dinamica, reverse engineering</span></div><div class="expertise-item"><strong>SPAM & IOC</strong><span>Indicatori di compromissione, threat intelligence</span></div><div class="expertise-item"><strong>Hardware Hacking</strong><span>Passione per l'elettronica e dedizione all'hardware hacking, esplorando nuove frontiere dell'innovazione tecnologica.</span></div><div class="expertise-item"><strong><em>Eye on the Horizon</em></strong><span>Focus su AI/ML, LLM agents, cybersecurity automation e tecnologie emergenti</span></div></div>
+  </div>
+</section>
+  <footer class="footer">
+    <p>© 2026 BITWAIZ — Be Patient, But With Persistence</p>
+    <p class="footer-legal"><a href="../privacy.html#privacy">Privacy</a> · <a href="../privacy.html#cookie">Cookie</a> · <a href="../privacy.html#ai-act">Trasparenza AI</a></p>
+    <p class="footer-cookie-note">Nessun cookie di profilazione. <a href="../privacy.html#cookie">Informativa cookie</a></p>
+  </footer>
+  <script>
+    const btns = document.querySelectorAll('.tone-btn');
+    const contents = document.querySelectorAll('.tone-content');
+    btns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        btns.forEach(b => b.classList.remove('active'));
+        contents.forEach(c => c.classList.remove('active'));
+        btn.classList.add('active');
+        document.querySelector('.tone-content[data-tone="' + btn.dataset.tone + '"]').classList.add('active');
+      });
+    });
+    btns[0]?.click();
+    // Supporters wall live da Netlify Function (se disponibile)
+    (async () => {
+      try {
+        const r = await fetch('/.netlify/functions/bmc-webhook', { method: 'GET' });
+        if (!r.ok) return;
+        const data = await r.json();
+        const items = Array.isArray(data?.items) ? data.items.slice(0, 4) : [];
+        if (!items.length) return;
+        const esc = (s) => String(s ?? '')
+          .replaceAll('&', '&amp;')
+          .replaceAll('<', '&lt;')
+          .replaceAll('>', '&gt;');
+        const lis = items.map((it) => {
+          const n = esc(it.name || 'Bitwaizer');
+          const m = esc(it.message || '').trim();
+          if (!m) return '';
+          return `<li><strong>${n}</strong>: ${m}</li>`;
+        }).filter(Boolean).join('');
+        if (!lis) return;
+        const html = `<section class="supporters-wall"><h3>Messaggi dei Bitwaizers</h3><ul>${lis}</ul></section>`;
+        const mount = document.getElementById('supporters-live');
+        if (mount) mount.innerHTML = html;
+      } catch (_) {}
+    })();
+  </script>
+</body>
+</html>
