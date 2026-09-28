@@ -164,6 +164,8 @@
 
 
 
+
+
 Tu: Ciao, team! Oggi discutiamo di un argomento cruciale per chi lavora in informatica e sicurezza aziendale: il SIEM. Conosci quel che c'è sotto?
 
 Team: Sì, ma spiegaci meglio!
@@ -187,6 +189,8 @@ Può essere utilizzato per l'analisi di eventi in tempo reale e la raccolta di d
 ### Come si differenzia il SIEM dalle soluzioni antivirus?
 
 Il SIEM monitora e analizza i log e i flussi di eventi in tempo reale, mentre le soluzioni antivirus sono concentrate sulla protezione statica dei file e delle applicazioni.
+
+
 
 
 
