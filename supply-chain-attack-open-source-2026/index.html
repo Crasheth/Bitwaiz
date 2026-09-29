@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" href="../favicon.png">
+  <link rel="stylesheet" href="../style.css">
+  <meta name="robots" content="index, follow">
+  <link rel="canonical" href="https://bitwaiz.it/supply-chain-attack-open-source-2026/">
+  <meta name="description" content="La crisi della fiducia nel software open source nel 2026 - articolo disponibile in più toni">
+  <meta name="ai-generated" content="true">
+  <meta name="ai-content-declaration" content="AI-generated text after collecting information from public sources; publisher editorial responsibility. EU AI Act Art. 50.">
+<title>La crisi della fiducia nel software open source nel 2026 | BITWAIZ</title>
+  <script type="application/ld+json">
+{"@context": "https://schema.org", "@graph": [{"@type": "Article", "@id": "https://bitwaiz.it/supply-chain-attack-open-source-2026/#article", "headline": "La crisi della fiducia nel software open source nel 2026", "description": "Immagina una rete di acqua che scorre in silenzio. Ogni goccia è un dato, ogni flusso un’azione. Ma se qualcuno aggiunge un veleno al rubinetto, il sistema si contamina senza rumore. Questo è il rischio del software open source nel 2026: una rete di dipendenze invisibili che può essere manipolata da", "inLanguage": "it-IT", "isAccessibleForFree": true, "datePublished": "2026-09-29", "dateModified": "2026-09-29", "author": {"@type": "Person", "name": "Christian Cioffi"}, "publisher": {"@type": "Organization", "name": "BITWAIZ", "url": "https://bitwaiz.it", "logo": {"@type": "ImageObject", "url": "https://bitwaiz.it/favicon.png"}}, "articleSection": "Altro", "url": "https://bitwaiz.it/supply-chain-attack-open-source-2026/", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://bitwaiz.it/supply-chain-attack-open-source-2026/"}, "creditText": "Testo generato da intelligenza artificiale dopo la raccolta di informazioni da fonti pubbliche.", "additionalProperty": {"@type": "PropertyValue", "name": "aiContentDisclosure", "value": "AI-generated text after collecting information from public third-party sources; publisher editorial responsibility (EU AI Act Art. 50)."}, "image": ["https://cybertechnologyinsights.com/wp-content/uploads/2026/05/The-Open-Source-Trust-Crisis-Supply-Chain-Attacks-in-2026-1-1024x576.png"]}, {"@type": "BreadcrumbList", "@id": "https://bitwaiz.it/supply-chain-attack-open-source-2026/#breadcrumb", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://bitwaiz.it/"}, {"@type": "ListItem", "position": 2, "name": "La crisi della fiducia nel software open source nel 2026", "item": "https://bitwaiz.it/supply-chain-attack-open-source-2026/"}]}, {"@type": "FAQPage", "@id": "https://bitwaiz.it/supply-chain-attack-open-source-2026/#faq", "mainEntity": [{"@type": "Question", "name": "Qual è la principale vulnerabilità esposta dagli attacchi del 2026?", "acceptedAnswer": {"@type": "Answer", "text": "La debolezza principale era il maneggio delle credenziali in ambienti di build e runtime, che ha permesso agli aggressori di compromettere pacchetti open source senza essere rilevati."}}, {"@type": "Question", "name": "Cosa hanno in comune gli attacchi su Trivy, Checkmarx e LiteLLM?", "acceptedAnswer": {"@type": "Answer", "text": "Tutti si sono avvalsi di una cascata di fiducia che ha permesso agli aggressori di sfruttare credenziali ottenute da un target precedente per attaccarne uno successivo."}}, {"@type": "Question", "name": "Quali strumenti possono aiutare a rilevare questi tipi di attacchi?", "acceptedAnswer": {"@type": "Answer", "text": "Strumenti come SBOM, SCA e runtime monitoring sono fondamentali per tracciare le dipendenze, identificare vulnerabilità e monitorare comportamenti anomali."}}, {"@type": "Question", "name": "Perché Axios è stato un bersaglio particolare?", "acceptedAnswer": {"@type": "Answer", "text": "Axios è uno dei pacchetti più scaricati su npm, il che lo rende una target di alto valore per gli aggressori che cercano di compromettere la base delle comunicazioni e delle richieste HTTP."}}, {"@type": "Question", "name": "Quali misure si possono adottare per prevenire futuri attacchi?", "acceptedAnswer": {"@type": "Answer", "text": "Implementare un controllo rigoroso su CI/CD, usare MFA e monitorare in tempo reale le attività di installazione sono passaggi chiave per ridurre il rischio di attacchi supply chain."}}]}]}
+</script>
+</head>
+<body>
+  <nav class="nav">
+  <a href=".." class="logo">BITWAIZ</a>
+  <div class="nav-links"><a href="../#home">Home</a><a href="../#articoli">Articoli</a><div class="nav-item nav-dropdown">
+    <a href="../#rubrica" class="nav-dropdown-toggle" aria-haspopup="true">Rubrica</a>
+    <div class="nav-dropdown-panel" role="menu">
+      <div class="nav-bucket">
+        <a href="../#rubrica-malware" class="nav-bucket-title">Malware Analysis</a>
+        <ul class="nav-bucket-list"><li><a href="../analisi-malware-decompilazione-con-ghidra/">Analisi Malware con Ghidra: Tecnica e Filosofia</a></li><li><a href="../analisi-malware-stringhe-header-embedded-carving/">Analisi Malware: Stringhe, Header Embedded e Carving per Riconoscere Payloads Nascosti</a></li><li><a href="../analisi-malware-triage-iniziale-vt-sandbox/">Analisi Malware — Triage iniziale: VT, sandbox, stringhe, YARA</a></li><li><a href="../analisi-malware-architettura-pe-e-elf/">Analisi Malware — Architettura PE e ELF</a></li><li><a href="../analisi-malware-malware-moderno-tipologie-attori/">Analisi Malware — Malware moderno: tipologie, attori, TTP</a></li></ul>
+        <a href="../#rubrica-malware" class="nav-bucket-all">Vedi tutti →</a>
+      </div>
+    </div>
+  </div><a href="../#about">Chi sono</a><a href="../#newsletter">Newsletter</a><a href="../feed.xml" class="nav-feed"><svg class="nav-feed-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" aria-hidden="true" focusable="false"><circle cx="6.18" cy="17.82" r="2.18" fill="currentColor"/><path fill="currentColor" d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.49-6.9-15.39-15.39-15.39zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/></svg><span>RSS</span></a><a href="../privacy.html">Privacy</a></div>
+  <a href="mailto:info@bitwaiz.it" class="btn btn-primary">contattami</a>
+</nav>
+  <main class="article-layout">
+    <a href="../#articoli" class="article-back">← Tutti gli articoli</a>
+    <h1>La crisi della fiducia nel software open source nel 2026</h1>
+    <!-- ai-act:disclosure -->
+    <aside class="ai-disclosure" role="note" data-ai-generated="true"><span class="ai-disclosure-label">Contenuto generato da AI</span> Questo articolo è stato generato da intelligenza artificiale dopo la raccolta di informazioni da fonti pubbliche. La responsabilità editoriale è di BITWAIZ. <a href="../privacy.html#ai-act">Dettagli (AI Act)</a></aside>
+    <p class="article-date">Pubblicato il 29 set 2026</p>
+    <p style="color:var(--fg-muted);margin:0.5rem 0;">Scegli il tono di lettura:</p>
+    <div class="tone-btns"><button class="tone-btn" data-tone="divulgativo" type="button"><span class="tone-name">Divulgativo</span><span class="tone-desc">Accessibile, metafore e analogie</span></button><button class="tone-btn" data-tone="tecnico" type="button"><span class="tone-name">Tecnico</span><span class="tone-desc">Terminologia specialistica</span></button><button class="tone-btn" data-tone="informale" type="button"><span class="tone-name">Informale</span><span class="tone-desc">Conversazionale, stile chat</span></button><button class="tone-btn" data-tone="professionale" type="button"><span class="tone-name">Professionale</span><span class="tone-desc">Registro formale, report aziendali</span></button><button class="tone-btn" data-tone="personalizzato" type="button"><span class="tone-name">Personale</span><span class="tone-desc">A modo mio</span></button></div>
+    <div class="article-body"><div class="tone-content" data-tone="divulgativo"><h1>La crisi della fiducia nel software open source nel 2026</h1>
+<blockquote>
+<p>Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.</p>
+</blockquote>
+<p>Immagina una rete di acqua che scorre in silenzio. Ogni goccia è un dato, ogni flusso un’azione. Ma se qualcuno aggiunge un veleno al rubinetto, il sistema si contamina senza rumore. Questo è il rischio del software open source nel 2026: una rete di dipendenze invisibili che può essere manipolata da chiunque abbia accesso al "rubinetto".  </p>
+<p>Tra marzo e aprile 2026, cinque progetti open source hanno subito attacchi devastanti. Non si tratta di un incidente isolato: è una guerra silenziosa tra i codici che alimentano il mondo digitale. Il problema non è solo la tecnologia, ma come le aziende affidano a strumenti "puliti" per costruire sistemi complessi.  </p>
+<hr />
+<p><img alt="supply chain attack open source 2026" src="https://cybertechnologyinsights.com/wp-content/uploads/2026/05/The-Open-Source-Trust-Crisis-Supply-Chain-Attacks-in-2026-1-1024x576.png" /></p>
+<h2>Un’onda di attacchi in dodici giorni</h2>
+<p>Tra il 19 e il 31 marzo 2026, cinque progetti open source hanno subito intrusioni che hanno messo a rischio milioni di installazioni. Tra questi: <strong>Trivy</strong>, lo scanner di vulnerabilità; <strong>Checkmarx AST</strong>, un tool per l’analisi del codice; <strong>LiteLLM</strong>, una proxy AI; <strong>Telnyx</strong>, una libreria per le comunicazioni, e <strong>Axios</strong>, il client HTTP più scaricato su npm.  </p>
+<p>I criminali hanno sfruttato la fiducia nei processi automatici: GitHub Actions, PyPI, e npm sono diventati i loro strumenti preferiti. L’attacco non è stato un evento singolo, ma una <strong>cascata di intrusioni</strong>. Prima si comprometteva uno strumento di sicurezza (come Trivy), poi si usavano le credenziali rubate per attaccare sistemi più importanti.  </p>
+<hr />
+<h2>La trama: fiducia e vulnerabilità</h2>
+<p>L’attacco ha sfruttato una <strong>debolezza architetturale</strong>: la gestione delle credenziali. I criminali hanno accesso a chiavi API, token di autenticazione, e password di sistemi aziendali. Questo non è un bug tecnico, ma una conseguenza della fiducia in strumenti open source che non vengono controllati abbastanza.  </p>
+<p>Per esempio: <strong>Trivy</strong> ha subito un attacco tramite GitHub Actions. Un bot ha sfruttato una configurazione errata per rubare token di accesso. Poi, questi token sono stati usati per compromettere altri strumenti come Checkmarx e LiteLLM. L’idea è semplice: <strong>spostarsi lungo la catena delle dipendenze</strong>, usando ogni passo per arrivare al sistema più vulnerabile.  </p>
+<hr />
+<h2>La soluzione: guardare oltre l’errore</h2>
+<p>Per contrastare queste minacce, le aziende devono <strong>vedere il problema in modo diverso</strong>. Non basta rivedere i processi di sicurezza; bisogna capire come i criminali si muovono.  </p>
+<p>Un buon approccio è <strong>la trasparenza</strong>: gestire le dipendenze con una visione chiara, usare strumenti che permettono di monitorare ogni passaggio. Inoltre, la collaborazione tra aziende e community open source è fondamentale per migliorare la sicurezza collettiva.  </p>
+<hr />
+<h2>FAQ: risposte rapide alle domande principali</h2>
+<h2>Che cosa sono gli attacchi supply chain?</h2>
+<p>Gli attacchi supply chain si riferiscono a un tipo di cyberattacco in cui i criminali sfruttano le vulnerabilità nei processi di distribuzione o gestione delle dipendenze software. Questo include il compromettere strumenti open source, come GitHub Actions o npm, per infiltrarsi negli sistemi aziendali.  </p>
+<h2>Nota 1: Perché 2026 è un anno significativo</h2>
+<p>Nel 2026 si sono verificati diversi attacchi di supply chain che hanno sottolineato la crescita del rischio legato agli strumenti open source. Questo periodo ha visto una serie di incidenti che hanno portato a un maggiore interesse e controllo sulle vulnerabilità del software.  </p>
+<h2>Quali sono le conseguenze degli attacchi supply chain?</h2>
+<p>Le conseguenze possono includere la violazione di dati sensibili, il furto di credenziali e l'interferenza con processi aziendali chiave. In alcuni casi, gli attacchi hanno portato a interruzioni significative nei sistemi informatici delle aziende.  </p>
+<h2>Nota 2: Cosa si può fare per proteggersi</h2>
+<p>Le aziende possono adottare strategie come la gestione delle dipendenze, l'uso di strumenti di analisi e monitoraggio, e la collaborazione con community open source per migliorare la sicurezza del software.  </p>
+<h2>Nota 3: Come riconoscere un attacco supply chain</h2>
+<p>I segni comuni includono comportamenti anomali nel sistema, accessi non autorizzati a repository o dipendenze, e attività dietro le quinte che non sono visibili al momento dell’installazione.</p>
+<h2>Domande frequenti</h2>
+<h3>Qual è la principale vulnerabilità esposta dagli attacchi del 2026?</h3>
+<p>La debolezza principale era il <strong>maneggio delle credenziali in ambienti di build e runtime</strong>, che ha permesso agli aggressori di compromettere pacchetti open source senza essere rilevati.  </p>
+<h3>Cosa hanno in comune gli attacchi su Trivy, Checkmarx e LiteLLM?</h3>
+<p>Tutti si sono avvalsi di una <strong>cascata di fiducia</strong> che ha permesso agli aggressori di sfruttare credenziali ottenute da un target precedente per attaccarne uno successivo.  </p>
+<h3>Quali strumenti possono aiutare a rilevare questi tipi di attacchi?</h3>
+<p>Strumenti come <strong>SBOM</strong>, <strong>SCA</strong> e <strong>runtime monitoring</strong> sono fondamentali per tracciare le dipendenze, identificare vulnerabilità e monitorare comportamenti anomali.  </p>
+<h3>Perché Axios è stato un bersaglio particolare?</h3>
+<p>Axios è uno dei pacchetti più scaricati su npm, il che lo rende una <strong>target di alto valore</strong> per gli aggressori che cercano di compromettere la base delle comunicazioni e delle richieste HTTP.  </p>
+<h3>Quali misure si possono adottare per prevenire futuri attacchi?</h3>
+<p>Implementare un <strong>controllo rigoroso su CI/CD</strong>, usare <strong>MFA</strong> e monitorare in tempo reale le attività di installazione sono passaggi chiave per ridurre il rischio di attacchi supply chain.</p>
+<h2>Fonti</h2>
+<ul>
+<li><a href="https://blog.dreamfactory.com/five-supply-chain-attacks-in-twelve-days-how-march-2026-broke-open-source-trust-and-what-comes-next">Five Supply Chain Attacks in Twelve Days: How March 2026 ...</a></li>
+<li><a href="https://cybertechnologyinsights.com/whitepaper/the-open-source-trust-crisis-supply-chain-attacks-in-2026/">Open-Source Supply Chain Attacks in 2026</a></li>
+<li><a href="https://phoenix.security/accelerating-supply-chain-attacks-npm-pypi-vsx-ai-enabled-2026/">Supply Chain Attacks 2026: npm, PyPI, VS Code, AI Agents — 0 CVEs</a></li>
+<li><a href="https://phoenix.security/open-source-supply-chain-attacks-2024-2026/">Open Source Supply Chain Attacks: 2024–2026 Report</a></li>
+</ul></div><div class="tone-content" data-tone="tecnico"><h1>Supply Chain Attack Open Source 2026: La vulnerabilità del trust</h1>
+<blockquote>
+<p>Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.</p>
+</blockquote>
+<p>Negli ultimi mesi del 2026, il mondo della cybersecurity ha assistito a una serie di attacchi di supply chain che hanno messo in discussione la fiducia nei software open source. Tra marzo e aprile, cinque progetti open source sono stati compromessi in meno di due settimane, svelando una vulnerabilità strutturale nel modo in cui le aziende gestiscono i dipendenze e i flussi di lavoro automatizzati. Questo articolo esamina i dettagli degli attacchi, le tecniche utilizzate e le misure necessarie per mitigare il rischio.  </p>
+<hr />
+<p><img alt="supply chain attack open source 2026" src="https://cybertechnologyinsights.com/wp-content/uploads/2026/05/The-Open-Source-Trust-Crisis-Supply-Chain-Attacks-in-2026-1-1024x576.png" /></p>
+<h2>Il contesto: un ecosistema in bilico</h2>
+<p>La supply chain open source è diventata una priorità critica per le aziende moderne. I progetti come Trivy, Checkmarx AST, LiteLLM, Telnyx e Axios sono utilizzati da milioni di organizzazioni, integrando funzionalità essenziali come la scansione delle vulnerabilità, l'analisi del codice e il routing degli AI models. Tuttavia, questa dipendenza ha creato un punto debole: <strong>la fiducia nel sistema non è mai stata verificata</strong>.  </p>
+<p>Secondo le fonti, tra marzo 19 e marzo 31, 2026, cinque attacchi hanno sfruttato la stessa vulnerabilità: <strong>credenziali memorizzate in ambienti di CI/CD</strong>, che gli aggressori hanno sfruttato per infiltrarsi nei sistemi. Questo ha permesso a TeamPCP e altri attori di distribuire malware, rubare dati sensibili e compromettere la sicurezza di infrastrutture enterprise.  </p>
+<hr />
+<h2>I cinque attacchi: una cascata di danni</h2>
+<h2>1. <strong>Trivy (GitHub Actions / Docker)</strong></h2>
+<p>L’attacco ha iniziato con un errore nella configurazione del workflow <code>pull_request_target</code> su GitHub, permettendo a un bot autonomo (hackerbot-claw) di rubare token PAT. Aqua Security ha rilevato e rotto le credenziali, ma la rotazione non era completa. TeamPCP ha sfruttato quelle residue per iniettare strumenti di furto di credenziali in 75 tag falsi e repository defaced.  </p>
+<p><strong>Vettore</strong>: Spoofed commits + tag hijacking<br />
+<strong>Impatto</strong>: Over 1,000 ambienti cloud infetti  </p>
+<h2>2. <strong>Checkmarx AST (GitHub Actions)</strong></h2>
+<p>Usando lo stesso schema di furto delle credenziali, TeamPCP ha sfruttato le informazioni ottenute da Trivy per rubare segreti di pipeline CI/CD a livello globale.  </p>
+<p><strong>Vettore</strong>: Identical credential stealer pattern<br />
+<strong>Impatto</strong>: Sistemi di analisi del codice compromessi  </p>
+<h2>3. <strong>LiteLLM (PyPI)</strong></h2>
+<p>Le credenziali ottenute da Trivy sono state usate per pubblicare versioni maliziose su PyPI, sfruttando il file <code>.pth</code> che esegue automaticamente ogni avvio di Python. Il malware ha rubato variabili d’ambiente, chiavi SSH e configurazioni Kubernetes.  </p>
+<p><strong>Vettore</strong>: Iniezione di <code>.pth</code> + proxy_server.py<br />
+<strong>Impatto</strong>: 97M installazioni mensili a rischio  </p>
+<h2>4. <strong>Telnyx (PyPI)</strong></h2>
+<p>L’attacco si è esteso all’ecosistema SDK di comunicazione, sfruttando la catena di fiducia iniziale.  </p>
+<p><strong>Vettore</strong>: Compromised package con furto di credenziali<br />
+<strong>Impatto</strong>: Sistemi di comunicazione compromessi  </p>
+<h2>5. <strong>Axios (npm)</strong></h2>
+<p>L’ultimo attacco ha sfruttato un account mantenuto rubato su npm, permettendo agli aggressori di iniettare un payload RAT (Remote Access Trojan) durante l’installazione. L’attacco è stato lanciato tardi la sera UTC, quando le squadre di risposta erano a minima capacità.  </p>
+<p><strong>Vettore</strong>: Hijacked maintainer account + postinstall hook<br />
+<strong>Impatto</strong>: 100M installazioni settimanali a rischio  </p>
+<hr />
+<h2>Le due campagne: un’unica vulnerabilità</h2>
+<p>I due attacchi (TeamPCP e Axios) hanno sfruttato <strong>la stessa debolezza architetturale</strong>: <strong>credenziali memorizzate in ambienti di build e runtime</strong>. Mentre TeamPCP ha usato una cascata di fiducia, l’attacco su Axios è stato più preciso, con un approccio di tipo APT (Advanced Persistent Threat).  </p>
+<h2><strong>Misure di difesa: cosa fare?</strong></h2>
+<ol>
+<li><strong>Implementare SBOM (Software Bill of Materials)</strong> per tracciare ogni dipendenza.  </li>
+<li><strong>Usare tool SCA (Software Composition Analysis)</strong> per monitorare le vulnerabilità.  </li>
+<li><strong>Verificare la provenienza dei pacchetti</strong> con checksum e digital signatures.  </li>
+<li><strong>Aumentare il controllo sui CI/CD pipelines</strong>, usando MFA (Multi-Factor Authentication) e limitando i privilegi.  </li>
+<li><strong>Monitorare in tempo reale le attività di installazione</strong> per rilevare comportamenti anomali.  </li>
+</ol>
+<hr />
+<h2>Domande frequenti</h2>
+<h3>Qual è la principale vulnerabilità esposta dagli attacchi del 2026?</h3>
+<p>La debolezza principale era il <strong>maneggio delle credenziali in ambienti di build e runtime</strong>, che ha permesso agli aggressori di compromettere pacchetti open source senza essere rilevati.  </p>
+<h3>Cosa hanno in comune gli attacchi su Trivy, Checkmarx e LiteLLM?</h3>
+<p>Tutti si sono avvalsi di una <strong>cascata di fiducia</strong> che ha permesso agli aggressori di sfruttare credenziali ottenute da un target precedente per attaccarne uno successivo.  </p>
+<h3>Quali strumenti possono aiutare a rilevare questi tipi di attacchi?</h3>
+<p>Strumenti come <strong>SBOM</strong>, <strong>SCA</strong> e <strong>runtime monitoring</strong> sono fondamentali per tracciare le dipendenze, identificare vulnerabilità e monitorare comportamenti anomali.  </p>
+<h3>Perché Axios è stato un bersaglio particolare?</h3>
+<p>Axios è uno dei pacchetti più scaricati su npm, il che lo rende una <strong>target di alto valore</strong> per gli aggressori che cercano di compromettere la base delle comunicazioni e delle richieste HTTP.  </p>
+<h3>Quali misure si possono adottare per prevenire futuri attacchi?</h3>
+<p>Implementare un <strong>controllo rigoroso su CI/CD</strong>, usare <strong>MFA</strong> e monitorare in tempo reale le attività di installazione sono passaggi chiave per ridurre il rischio di attacchi supply chain.</p>
+<h2>Fonti</h2>
+<ul>
+<li><a href="https://blog.dreamfactory.com/five-supply-chain-attacks-in-twelve-days-how-march-2026-broke-open-source-trust-and-what-comes-next">Five Supply Chain Attacks in Twelve Days: How March 2026 ...</a></li>
+<li><a href="https://cybertechnologyinsights.com/whitepaper/the-open-source-trust-crisis-supply-chain-attacks-in-2026/">Open-Source Supply Chain Attacks in 2026</a></li>
+<li><a href="https://phoenix.security/accelerating-supply-chain-attacks-npm-pypi-vsx-ai-enabled-2026/">Supply Chain Attacks 2026: npm, PyPI, VS Code, AI Agents — 0 CVEs</a></li>
+<li><a href="https://phoenix.security/open-source-supply-chain-attacks-2024-2026/">Open Source Supply Chain Attacks: 2024–2026 Report</a></li>
+</ul></div><div class="tone-content" data-tone="informale"><h1>Supply Chain Attacks Open Source 2026: Come un fiume si scava intorno alle rocce</h1>
+<blockquote>
+<p>Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.</p>
+</blockquote>
+<p>Se ti capita di lavorare in un SOC o in un team CTI, probabilmente hai già sentito parlare di <strong>supply chain attacks</strong>. Questi attacchi non sono nuovi, ma nel 2026 si sono fatti strada come una tempesta di ghiaccio: rapidi, insidiosi e difficili da bloccare. Il problema? L’open source, che dovrebbe essere un alleato, è diventato un bersaglio privilegiato.  </p>
+<h2>Cinque attacchi in dodici giorni</h2>
+<p>Tra il 19 e il 31 marzo 2026, cinque progetti open source hanno subìto intrusioni mirate: Trivy (Aqua Security), AST di Checkmarx, LiteLLM su PyPI, Telnyx e Axios. Il colpo è stato concentrato su due ecosistemi (npm e PyPI) con tecniche diverse: tag hijacking su GitHub Actions, iniezione di file .pth, e exploit di postinstall hooks su npm.  </p>
+<p>Il problema non era solo la tecnica usata, ma il <strong>fatto che ogni attacco si basava su credenziali rubate</strong>. TeamPCP (o UNC6780), un gruppo sospetto, ha messo a segno una strategia di cascading trust chain: compromettere prima strumenti di sicurezza per ottenere accesso ai sistemi aziendali.  </p>
+<h2>Il problema non è la tecnologia</h2>
+<p>L’errore principale? La <strong>mancanza di visibilità</strong> sulle dipendenze open source. Molti team usano pacchetti senza controllare cosa si nasconde dentro. Ad esempio, un progetto che usa Axios come HTTP client potrebbe non sapere che il codice è stato modificato per rubare credenziali.  </p>
+<p>Il tao insegna che il fiume non si scontra con le rocce: si scava intorno. In cybersecurity, però, l’attaccante non cerca di rompere la barriera, ma <strong>si infila dentro</strong>. Ecco perché è così difficile rilevarlo: l’attacco sembra parte del flusso normale.  </p>
+<h2>Nota 1: Cosa ha causato questa ondata</h2>
+<p>Tre motivi principali:<br />
+1. <strong>L’adozione di AI e agenti</strong> ha amplificato la capacità degli attaccanti di automatizzare i processi.<br />
+2. <strong>La mancanza di governance</strong> sui pacchetti open source permette a chiunque di modificare codice senza controlli.<br />
+3. <strong>Le credenziali non protette</strong> su CI/CD runners e server di build sono state sfruttate come porte d’ingresso.  </p>
+<h2>Nota 2: Come difendersi</h2>
+<p>L’unica soluzione è <strong>ridurre la complessità delle dipendenze</strong> e aumentare la trasparenza. Ecco alcuni passaggi chiave:<br />
+- Usare SBOM (Software Bill of Materials) per tracciare ogni dipendenza.<br />
+- Verificare le credenziali usate nei CI/CD e non fidarsi solo di tag GitHub.<br />
+- Monitorare in tempo reale il comportamento delle applicazioni in esecuzione.</p>
+<h2>Domande frequenti</h2>
+<h3>Qual è la principale vulnerabilità esposta dagli attacchi del 2026?</h3>
+<p>La debolezza principale era il <strong>maneggio delle credenziali in ambienti di build e runtime</strong>, che ha permesso agli aggressori di compromettere pacchetti open source senza essere rilevati.  </p>
+<h3>Cosa hanno in comune gli attacchi su Trivy, Checkmarx e LiteLLM?</h3>
+<p>Tutti si sono avvalsi di una <strong>cascata di fiducia</strong> che ha permesso agli aggressori di sfruttare credenziali ottenute da un target precedente per attaccarne uno successivo.  </p>
+<h3>Quali strumenti possono aiutare a rilevare questi tipi di attacchi?</h3>
+<p>Strumenti come <strong>SBOM</strong>, <strong>SCA</strong> e <strong>runtime monitoring</strong> sono fondamentali per tracciare le dipendenze, identificare vulnerabilità e monitorare comportamenti anomali.  </p>
+<h3>Perché Axios è stato un bersaglio particolare?</h3>
+<p>Axios è uno dei pacchetti più scaricati su npm, il che lo rende una <strong>target di alto valore</strong> per gli aggressori che cercano di compromettere la base delle comunicazioni e delle richieste HTTP.  </p>
+<h3>Quali misure si possono adottare per prevenire futuri attacchi?</h3>
+<p>Implementare un <strong>controllo rigoroso su CI/CD</strong>, usare <strong>MFA</strong> e monitorare in tempo reale le attività di installazione sono passaggi chiave per ridurre il rischio di attacchi supply chain.</p>
+<h2>Fonti</h2>
+<ul>
+<li><a href="https://blog.dreamfactory.com/five-supply-chain-attacks-in-twelve-days-how-march-2026-broke-open-source-trust-and-what-comes-next">Five Supply Chain Attacks in Twelve Days: How March 2026 ...</a></li>
+<li><a href="https://cybertechnologyinsights.com/whitepaper/the-open-source-trust-crisis-supply-chain-attacks-in-2026/">Open-Source Supply Chain Attacks in 2026</a></li>
+<li><a href="https://phoenix.security/accelerating-supply-chain-attacks-npm-pypi-vsx-ai-enabled-2026/">Supply Chain Attacks 2026: npm, PyPI, VS Code, AI Agents — 0 CVEs</a></li>
+<li><a href="https://phoenix.security/open-source-supply-chain-attacks-2024-2026/">Open Source Supply Chain Attacks: 2024–2026 Report</a></li>
+</ul></div><div class="tone-content" data-tone="professionale"><h1>Supply Chain Attack Open Source 2026: Un’analisi strutturata del rischio emergente</h1>
+<blockquote>
+<p>Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.</p>
+</blockquote>
+<hr />
+<p><img alt="supply chain attack open source 2026" src="https://cybertechnologyinsights.com/wp-content/uploads/2026/05/The-Open-Source-Trust-Crisis-Supply-Chain-Attacks-in-2026-1-1024x576.png" /></p>
+<h2>Introduzione</h2>
+<p>Nel marzo 2026, il mondo della cybersecurity ha visto una serie di attacchi a catena di fornitura open source che hanno messo in discussione la fiducia nei repository pubblici e nelle pratiche di sviluppo collaborativo. Cinque progetti chiave — Trivy, Checkmarx AST, LiteLLM, Telnyx e Axios — sono stati compromessi in dodici giorni, svelando una vulnerabilità strutturale nel modo in cui le aziende gestiscono dipendenze esterne. Questo articolo analizza i pattern attaccanti, l’impatto su infrastrutture enterprise e le strategie per mitigare il rischio.  </p>
+<hr />
+<h2>Il problema: Vulnerabilità architetturali</h2>
+<p>I cinque attacchi del marzo 2026 hanno sfruttato un’unica debolezza: <strong>la gestione delle credenziali</strong> in ambienti di sviluppo automatizzati. L’attacco ha seguito due modelli distinti, ma entrambi hanno ripiegato su una base comune — la compromissione di strumenti di sicurezza per accedere a target più sensibili.  </p>
+<h2><strong>Campagna 1: La catena di fiducia cascata</strong></h2>
+<p>TeamPCP ha sfruttato un errore nella configurazione di Trivy (un scanner di vulnerabilità) per rubare credenziali tramite GitHub Actions. Queste sono state poi utilizzate per attaccare Checkmarx, LiteLLM e Telnyx, creando una catena di dipendenza in cui ogni passo si basava su quello precedente.  </p>
+<ul>
+<li><strong>Trivy (19 marzo)</strong>: Spoofing di commit e tag hijacking per rubare token PAT.  </li>
+<li><strong>Checkmarx AST (21 marzo)</strong>: Utilizzo dello stesso schema per compromettere pipeline CI/CD.  </li>
+<li><strong>LiteLLM (24 marzo)</strong>: Iniezione di file .pth per eseguire codice in background, sfruttando credenziali rubate.  </li>
+<li><strong>Telnyx (27 marzo)</strong>: Estensione dell’attacco al settore SDK di comunicazione.  </li>
+</ul>
+<h2><strong>Campagna 2: L’attacco mirato a Axios</strong></h2>
+<p>L’attacco su Axios (31 marzo) ha seguito un profilo diverso, ma con lo stesso obiettivo: sfruttare credenziali memorizzate in ambienti di sviluppo. Questa volta, l’attaccante ha rubato il token npm del maintainer principale, bypassando i controlli OIDC.  </p>
+<ul>
+<li><strong>Tecnica</strong>: Inserimento di un payload RAT (Remote Access Trojan) tramite hook postinstall.  </li>
+<li><strong>Timing</strong>: Pubblicazione in orario di minima attività per incident response.  </li>
+<li><strong>Obiettivo</strong>: Raccogliere credenziali e mantenere accesso persistente, senza scopi finanziari evidenti.  </li>
+</ul>
+<hr />
+<h2>Le conseguenze: Un impatto globale</h2>
+<p>I progetti compromessi servono a milioni di aziende in settori chiave come finanza, sanità e manifattura. L’attacco ha messo a rischio <strong>dipendenze transitive</strong> non sempre visibili, esponendo organizzazioni a rischi che non avevano controllo diretto.  </p>
+<ul>
+<li><strong>Trivy</strong>: Scansione di vulnerabilità in ambiente CI/CD.  </li>
+<li><strong>Checkmarx AST</strong>: Analisi statica del codice.  </li>
+<li><strong>LiteLLM</strong>: Routing di modelli AI.  </li>
+<li><strong>Telny, x</strong>: SDK per comunicazioni.  </li>
+<li><strong>Axios</strong>: Client HTTP utilizzato da milioni di applicazioni.  </li>
+</ul>
+<hr />
+<h2>Le soluzioni: Come proteggersi</h2>
+<p>Per mitigare il rischio, le aziende devono adottare una serie di controlli strutturali e tecnici.  </p>
+<h2>1. <strong>Visibilità delle dipendenze</strong></h2>
+<ul>
+<li>Utilizzare tool per mappare completamente le dipendenze (SBOM, Software Composition Analysis).  </li>
+<li>Identificare transitive non note che potrebbero introdurre rischi.  </li>
+</ul>
+<h2>2. <strong>Validazione della provenienza</strong></h2>
+<ul>
+<li>Verificare la provenienza di ogni componente prima dell’integrazione.  </li>
+<li>Implementare controlli di autenticità per repository e pacchetti.  </li>
+</ul>
+<h2>3. <strong>Rafforzamento delle pipeline CI/CD</strong></h2>
+<ul>
+<li>Limitare l’accesso alle credenziali in ambienti di build.  </li>
+<li>Utilizzare token temporanei e scadenti per ridurre la superficie d’attacco.  </li>
+</ul>
+<h2>4. <strong>Monitoraggio runtime</strong></h2>
+<ul>
+<li>Monitorare il comportamento del codice eseguito in tempo reale, non solo durante lo sviluppo.  </li>
+<li>Rilevare attività anomale che potrebbero indicare un attacco in corso.  </li>
+</ul>
+<hr />
+<h2>Domande frequenti</h2>
+<h3>Qual è la principale vulnerabilità esposta dagli attacchi del 2026?</h3>
+<p>La debolezza principale era il <strong>maneggio delle credenziali in ambienti di build e runtime</strong>, che ha permesso agli aggressori di compromettere pacchetti open source senza essere rilevati.  </p>
+<h3>Cosa hanno in comune gli attacchi su Trivy, Checkmarx e LiteLLM?</h3>
+<p>Tutti si sono avvalsi di una <strong>cascata di fiducia</strong> che ha permesso agli aggressori di sfruttare credenziali ottenute da un target precedente per attaccarne uno successivo.  </p>
+<h3>Quali strumenti possono aiutare a rilevare questi tipi di attacchi?</h3>
+<p>Strumenti come <strong>SBOM</strong>, <strong>SCA</strong> e <strong>runtime monitoring</strong> sono fondamentali per tracciare le dipendenze, identificare vulnerabilità e monitorare comportamenti anomali.  </p>
+<h3>Perché Axios è stato un bersaglio particolare?</h3>
+<p>Axios è uno dei pacchetti più scaricati su npm, il che lo rende una <strong>target di alto valore</strong> per gli aggressori che cercano di compromettere la base delle comunicazioni e delle richieste HTTP.  </p>
+<h3>Quali misure si possono adottare per prevenire futuri attacchi?</h3>
+<p>Implementare un <strong>controllo rigoroso su CI/CD</strong>, usare <strong>MFA</strong> e monitorare in tempo reale le attività di installazione sono passaggi chiave per ridurre il rischio di attacchi supply chain.</p>
+<h2>Fonti</h2>
+<ul>
+<li><a href="https://blog.dreamfactory.com/five-supply-chain-attacks-in-twelve-days-how-march-2026-broke-open-source-trust-and-what-comes-next">Five Supply Chain Attacks in Twelve Days: How March 2026 ...</a></li>
+<li><a href="https://cybertechnologyinsights.com/whitepaper/the-open-source-trust-crisis-supply-chain-attacks-in-2026/">Open-Source Supply Chain Attacks in 2026</a></li>
+<li><a href="https://phoenix.security/accelerating-supply-chain-attacks-npm-pypi-vsx-ai-enabled-2026/">Supply Chain Attacks 2026: npm, PyPI, VS Code, AI Agents — 0 CVEs</a></li>
+<li><a href="https://phoenix.security/open-source-supply-chain-attacks-2024-2026/">Open Source Supply Chain Attacks: 2024–2026 Report</a></li>
+</ul></div><div class="tone-content" data-tone="personalizzato"><h1>La crisi della fiducia nel software open source nel 2026</h1>
+<blockquote>
+<p>Un giorno le macchine avranno tutti i lavori e dovremo solo pensare. — Bill Gates.</p>
+</blockquote>
+<p>Immagina una rete di acqua che scorre in silenzio. Ogni goccia è un dato, ogni flusso un’azione. Ma se qualcuno aggiunge un veleno al rubinetto, il sistema si contamina senza rumore. Questo è il rischio del software open source nel 2026: una rete di dipendenze invisibili che può essere manipolata da chiunque abbia accesso al "rubinetto".  </p>
+<p>Tra marzo e aprile 2026, cinque progetti open source hanno subito attacchi devastanti. Non si tratta di un incidente isolato: è una guerra silenziosa tra i codici che alimentano il mondo digitale. Il problema non è solo la tecnologia, ma come le aziende affidano a strumenti "puliti" per costruire sistemi complessi.  </p>
+<hr />
+<p><img alt="supply chain attack open source 2026" src="https://cybertechnologyinsights.com/wp-content/uploads/2026/05/The-Open-Source-Trust-Crisis-Supply-Chain-Attacks-in-2026-1-1024x576.png" /></p>
+<h2>Un’onda di attacchi in dodici giorni</h2>
+<p>Tra il 19 e il 31 marzo 2026, cinque progetti open source hanno subito intrusioni che hanno messo a rischio milioni di installazioni. Tra questi: <strong>Trivy</strong>, lo scanner di vulnerabilità; <strong>Checkmarx AST</strong>, un tool per l’analisi del codice; <strong>LiteLLM</strong>, una proxy AI; <strong>Telnyx</strong>, una libreria per le comunicazioni, e <strong>Axios</strong>, il client HTTP più scaricato su npm.  </p>
+<p>I criminali hanno sfruttato la fiducia nei processi automatici: GitHub Actions, PyPI, e npm sono diventati i loro strumenti preferiti. L’attacco non è stato un evento singolo, ma una <strong>cascata di attacchi</strong>. Prima si comprometteva uno strumento di sicurezza (come Trivy), poi si usavano le credenziali rubate per attaccare sistemi più importanti.  </p>
+<hr />
+<h2>La trama: fiducia e vulnerabilità</h2>
+<p>L’attacco ha sfruttato una <strong>debolezza architetturale</strong>: la gestione delle credenziali. I criminali hanno accesso a chiavi API, token di autenticazione, e password di sistemi aziendali. Questo non è un bug tecnico, ma una conseguenza della fiducia in strumenti open source che non vengono controllati abbastanza.  </p>
+<p>Per esempio: <strong>Trivy</strong> ha subito un attacco tramite GitHub Actions. Un bot ha sfruttato una configurazione errata per rubare token di accesso. Poi, questi token sono stati usati per compromettere altri strumenti come Checkmarx e LiteLLM. L’idea è semplice: <strong>spostarsi lungo la catena delle dipendenze</strong>, usando ogni passo per arrivare al sistema più vulnerabile.  </p>
+<hr />
+<h2>La soluzione: guardare oltre l’errore</h2>
+<p>Per contrastare queste minacce, le aziende devono <strong>vedere il problema in modo diverso</strong>. Non basta rivedere i processi di sicurezza; bisogna capire come i criminali si muovono.  </p>
+<p>Un buon approccio è <strong>la trasparenza</strong>: gestire le dipendenze con una visione chiara, usare strumenti che permettono di monitorare ogni passaggio. Inoltre, la collaborazione tra aziende e community open source è fondamentale per migliorare la sicurezza collettiva.  </p>
+<hr />
+<h2>Come la vedo io</h2>
+<p>Su <strong>attacchi supply chain open source 2026</strong> il quadro che uso nel <strong>playbook</strong> quotidiano è lineare: osservo i <strong>log</strong>, accetto il <strong>flusso</strong> degli incidenti senza dramma da manuale. La <strong>consapevolezza</strong> qui è operativa — come curare un <strong>giardino</strong>: controlli, correggi, ripeti.</p>
+<h2>FAQ: risposte rapide alle domande principali</h2>
+<h2>Che cosa sono gli attacchi supply chain?</h2>
+<p>Gli attacchi supply chain si riferiscono a un tipo di cyberattacco in cui i criminali sfruttano le vulnerabilità nei processi di distribuzione o gestione delle dipendenze software. Questo include il compromettere strumenti open source, come GitHub Actions o npm, per infiltrarsi negli sistemi aziendali.  </p>
+<h2>Perché 2026 è un anno significativo</h2>
+<p>Nel 2026 si sono verificati diversi attacchi di supply chain che hanno sottolineato la crescita del rischio legato agli strumenti open source. Questo periodo ha visto una serie di incidenti che hanno portato a un maggiore interesse e controllo sulle vulnerabilità del software.  </p>
+<h2>Quali sono le conseguenze degli attacchi supply chain?</h2>
+<p>Le conseguenze possono includere la violazione di dati sensibili, il furto di credenziali e l'interferenza con processi aziendali chiave. In alcuni casi, gli attacchi hanno portato a interruzioni significative nei sistemi informatici delle aziende.  </p>
+<h2>Cosa si può fare per proteggersi</h2>
+<p>Le aziende possono adottare strategie come la gestione delle dipendenze, l'uso di strumenti di analisi e monitoraggio, e la collaborazione con community open source per migliorare la sicurezza del software.  </p>
+<h2>Come riconoscere un attacco supply chain</h2>
+<p>I segni comuni includono comportamenti anomali nel sistema, accessi non autorizzati a repository o dipendenze, e attività dietro le quinte che non sono visibili al momento dell’installazione.</p>
+<h2>Domande frequenti</h2>
+<h3>Qual è la principale vulnerabilità esposta dagli attacchi del 2026?</h3>
+<p>La debolezza principale era il <strong>maneggio delle credenziali in ambienti di build e runtime</strong>, che ha permesso agli aggressori di compromettere pacchetti open source senza essere rilevati.  </p>
+<h3>Cosa hanno in comune gli attacchi su Trivy, Checkmarx e LiteLLM?</h3>
+<p>Tutti si sono avvalsi di una <strong>cascata di fiducia</strong> che ha permesso agli aggressori di sfruttare credenziali ottenute da un target precedente per attaccarne uno successivo.  </p>
+<h3>Quali strumenti possono aiutare a rilevare questi tipi di attacchi?</h3>
+<p>Strumenti come <strong>SBOM</strong>, <strong>SCA</strong> e <strong>runtime monitoring</strong> sono fondamentali per tracciare le dipendenze, identificare vulnerabilità e monitorare comportamenti anomali.  </p>
+<h3>Perché Axios è stato un bersaglio particolare?</h3>
+<p>Axios è uno dei pacchetti più scaricati su npm, il che lo rende una <strong>target di alto valore</strong> per gli aggressori che cercano di compromettere la base delle comunicazioni e delle richieste HTTP.  </p>
+<h3>Quali misure si possono adottare per prevenire futuri attacchi?</h3>
+<p>Implementare un <strong>controllo rigoroso su CI/CD</strong>, usare <strong>MFA</strong> e monitorare in tempo reale le attività di installazione sono passaggi chiave per ridurre il rischio di attacchi supply chain.</p>
+<h2>Fonti</h2>
+<ul>
+<li><a href="https://blog.dreamfactory.com/five-supply-chain-attacks-in-twelve-days-how-march-2026-broke-open-source-trust-and-what-comes-next">Five Supply Chain Attacks in Twelve Days: How March 2026 ...</a></li>
+<li><a href="https://cybertechnologyinsights.com/whitepaper/the-open-source-trust-crisis-supply-chain-attacks-in-2026/">Open-Source Supply Chain Attacks in 2026</a></li>
+<li><a href="https://phoenix.security/accelerating-supply-chain-attacks-npm-pypi-vsx-ai-enabled-2026/">Supply Chain Attacks 2026: npm, PyPI, VS Code, AI Agents — 0 CVEs</a></li>
+<li><a href="https://phoenix.security/open-source-supply-chain-attacks-2024-2026/">Open Source Supply Chain Attacks: 2024–2026 Report</a></li>
+</ul></div></div>
+    <section class="related-links" aria-label="Articoli correlati"><h2>Articoli correlati</h2><ul><li><a href="../dora-regulation-fintech/" title="DORA regulation fintech: un framework per la resilienza digitale nel settore finanziario">DORA regulation fintech: un framework per la resilienza digitale nel settore finanziario</a></li><li><a href="../passkey-webauthn/" title="Passkey WebAuthn: La chiave digitale che cambia il modo di accedere al web">Passkey WebAuthn: La chiave digitale che cambia il modo di accedere al web</a></li><li><a href="../ebpf-security/" title="eBPF security: il nuovo paradigma per la protezione del sistema">eBPF security: il nuovo paradigma per la protezione del sistema</a></li><li><a href="../apple-intelligence-privacy/" title="Apple Intelligence e privacy: come funziona la protezione dei dati">Apple Intelligence e privacy: come funziona la protezione dei dati</a></li></ul></section>
+    <div class="article-signature"><p class="article-author">Crasheth</p></div>
+    <div class="bmc-section">
+      <!-- bmc-quote:tao-2026 -->
+  <p>Nel flusso del Tao, non accumulo — condivido.</p>
+  <p>"Tesoro condiviso non si esaurisce" — Tao Te Ching</p>
+  <p>Non è astuzia: è ascolto. La stessa chiarezza che arriva quando smetti di spingere e segui il corso delle cose.</p>
+  <p>Così costruiamo la Bitwave: un passo alla volta, un articolo alla volta.</p><div id="bmc-widget"><script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="crasheth" data-color="#FFDD00" data-emoji="💪" data-font="Cookie" data-text="Sostieni il progetto!" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff"></script></div>
+      <section class="supporters-wall"><h3>Messaggi dei Bitwaizers</h3><ul><li><strong>TFireH</strong>: Un piccolo supporto per questo nuovo progetto, per chi sa rendere la curiosità contagiosa e accessibile</li></ul></section>
+    </div>
+    <aside class="flusso-cta" aria-label="Iscrizione newsletter">
+  <div class="flusso-cta-inner">
+    <p class="flusso-cta-text">Non sei ancora nella <span class="accent">Bitwave</span>? Unisciti: aggiornamenti sugli articoli, senza spam.</p>
+    <a href="../#newsletter" class="btn btn-primary flusso-cta-btn">Entra nella Bitwave</a>
+  </div>
+</aside>
+  </main>
+  <section class="section" id="about">
+  <div class="about">
+    <h2>Chi sono?</h2>
+    <div class="about-content">BITWAIZ è la pronuncia letterale di <strong>bitwise</strong>, un termine tecnico in ambito informatico che si riferisce all'elaborazione dei dati "bit per bit".
+    Si collega all'espressione "un passo alla volta": affrontare ogni sfida un bit alla volta.
+    L'approccio sottolinea pazienza (Be Patient) e determinazione (But with Persistence).</div>
+    <p><strong>Christian Cioffi (Crasheth)</strong></p>
+    <div class="expertise-grid"><div class="expertise-item"><strong>Cybersecurity</strong><span>SOC, Incident Handling, SIEM (Splunk, QRadar, ArcSight)</span></div><div class="expertise-item"><strong>EDR/XDR</strong><span>FireEye, CrowdStrike, Microsoft Defender</span></div><div class="expertise-item"><strong>Malware Analysis</strong><span>Analisi statica e dinamica, reverse engineering</span></div><div class="expertise-item"><strong>SPAM & IOC</strong><span>Indicatori di compromissione, threat intelligence</span></div><div class="expertise-item"><strong>Hardware Hacking</strong><span>Passione per l'elettronica e dedizione all'hardware hacking, esplorando nuove frontiere dell'innovazione tecnologica.</span></div><div class="expertise-item"><strong><em>Eye on the Horizon</em></strong><span>Focus su AI/ML, LLM agents, cybersecurity automation e tecnologie emergenti</span></div></div>
+  </div>
+</section>
+  <footer class="footer">
+    <p>© 2026 BITWAIZ — Be Patient, But With Persistence</p>
+    <p class="footer-legal"><a href="../privacy.html#privacy">Privacy</a> · <a href="../privacy.html#cookie">Cookie</a> · <a href="../privacy.html#ai-act">Trasparenza AI</a></p>
+    <p class="footer-cookie-note">Nessun cookie di profilazione. <a href="../privacy.html#cookie">Informativa cookie</a></p>
+  </footer>
+  <script>
+    const btns = document.querySelectorAll('.tone-btn');
+    const contents = document.querySelectorAll('.tone-content');
+    btns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        btns.forEach(b => b.classList.remove('active'));
+        contents.forEach(c => c.classList.remove('active'));
+        btn.classList.add('active');
+        document.querySelector('.tone-content[data-tone="' + btn.dataset.tone + '"]').classList.add('active');
+      });
+    });
+    btns[0]?.click();
+    // Supporters wall live da Netlify Function (se disponibile)
+    (async () => {
+      try {
+        const r = await fetch('/.netlify/functions/bmc-webhook', { method: 'GET' });
+        if (!r.ok) return;
+        const data = await r.json();
+        const items = Array.isArray(data?.items) ? data.items.slice(0, 4) : [];
+        if (!items.length) return;
+        const esc = (s) => String(s ?? '')
+          .replaceAll('&', '&amp;')
+          .replaceAll('<', '&lt;')
+          .replaceAll('>', '&gt;');
+        const lis = items.map((it) => {
+          const n = esc(it.name || 'Bitwaizer');
+          const m = esc(it.message || '').trim();
+          if (!m) return '';
+          return `<li><strong>${n}</strong>: ${m}</li>`;
+        }).filter(Boolean).join('');
+        if (!lis) return;
+        const html = `<section class="supporters-wall"><h3>Messaggi dei Bitwaizers</h3><ul>${lis}</ul></section>`;
+        const mount = document.getElementById('supporters-live');
+        if (mount) mount.innerHTML = html;
+      } catch (_) {}
+    })();
+  </script>
+</body>
+</html>

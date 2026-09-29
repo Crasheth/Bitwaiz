@@ -7,6 +7,8 @@
 
 
 
+
+
 Se hai mai usato l'autenticazione tramite impronta digitale per accedere a un’app o a un sito, probabilmente hai sentito parlare di **passkey**. Ma cosa significa realmente? E come si collega alla tecnologia **WebAuthn**, che permette agli utenti di accedere al web senza password? La risposta è semplice: passkey è il "chiave" e WebAuthn è la "regola" per usarla, proprio come un fiume segue la sua strada naturale.  
 
 
@@ -53,6 +55,8 @@ Sì, WebAuthn è progettato per resistere a diverse forme di attacco, inclusi i 
 
 ### Quali browser supportano WebAuthn?
 I principali browser come Chrome, Firefox e Safari supportano WebAuthn da diversi anni, permettendo agli utenti di utilizzare passkeys per l’autenticazione.
+
+
 
 
 
