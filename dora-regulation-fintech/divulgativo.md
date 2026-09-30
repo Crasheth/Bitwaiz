@@ -7,6 +7,8 @@
 
 
 
+
+
 Quando parliamo di finanza digitale, la resilienza non è solo una caratteristica tecnica. È un’abitudine che si forma come un fiume scorre: lenta, ma costante, senza mai smettere di cercare il punto più basso. DORA (Digital Operational Resilience Act) è proprio questa abitudine, incisa in legge per garantire che i sistemi finanziari non cadano in pozze di rischio quando un’onda di cyberattacchi arriva.  
 
 
@@ -57,6 +59,8 @@ DORA applica obblighi a 21 tipi diversi di istituzioni finanziarie, tra cui banc
 DORA prevede l’uso di tecnologie come SIEM, log analytics e test avanzati (TLPT) per monitorare e mitigare minacce.  
 
 ---
+
+
 
 
 

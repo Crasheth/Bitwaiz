@@ -9,6 +9,8 @@
 
 
 
+
+
 ---
 
 ![passkey WebAuthn](https://www.c-sharpcorner.com/article/two-factor-authentication-2fa-and-passkey-authentication-in-asp-net-core/Images/Passkey.png)
@@ -77,6 +79,8 @@ Sì, WebAuthn è progettato per resistere a diverse forme di attacco, inclusi i 
 
 ### Quali browser supportano WebAuthn?
 I principali browser come Chrome, Firefox e Safari supportano WebAuthn da diversi anni, permettendo agli utenti di utilizzare passkeys per l’autenticazione.
+
+
 
 
 

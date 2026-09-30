@@ -95,6 +95,8 @@
 
 
 
+
+
 ## Citazione famosa pertinente all'argomento.
 
 Tu sei preparato per un viaggio tecnologico? L'IFA Berlin 2026 tech sarà il luogo dove vengono esposti i prodotti futuri che rivoluzioneranno le nostre vite. In questo articolo ti spieghiamo cosa aspettarti e perché dovresti partecipare.
@@ -118,6 +120,8 @@ Gli ospiti potranno interagire con prodotti che usano l'IA in modo più intuitiv
 ### Quali saranno le tendenze di design?
 
 Design futuristici, minimalisti e personalizzati con IA che adattano l'esperienza in base alle preferenze dell'utente.
+
+
 
 
 

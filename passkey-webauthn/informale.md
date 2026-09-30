@@ -9,6 +9,8 @@
 
 
 
+
+
 Se hai mai usato il riconoscimento delle impronte digitali per accedere a un’app, hai già sperimentato un passkey. Ma cosa c’è dietro questa tecnologia? WebAuthn non è semplicemente una “chiave”, ma un sistema che cambia la strada del login digitale.  
 
 
@@ -76,6 +78,8 @@ Sì, WebAuthn è progettato per resistere a diverse forme di attacco, inclusi i 
 
 ### Quali browser supportano WebAuthn?
 I principali browser come Chrome, Firefox e Safari supportano WebAuthn da diversi anni, permettendo agli utenti di utilizzare passkeys per l’autenticazione.
+
+
 
 
 
