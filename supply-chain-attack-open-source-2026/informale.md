@@ -7,6 +7,8 @@
 
 
 
+
+
 Se ti capita di lavorare in un SOC o in un team CTI, probabilmente hai già sentito parlare di **supply chain attacks**. Questi attacchi non sono nuovi, ma nel 2026 si sono fatti strada come una tempesta di ghiaccio: rapidi, insidiosi e difficili da bloccare. Il problema? L’open source, che dovrebbe essere un alleato, è diventato un bersaglio privilegiato.  
 
 ## Cinque attacchi in dodici giorni
@@ -47,6 +49,8 @@ Axios è uno dei pacchetti più scaricati su npm, il che lo rende una **target d
 
 ### Quali misure si possono adottare per prevenire futuri attacchi?
 Implementare un **controllo rigoroso su CI/CD**, usare **MFA** e monitorare in tempo reale le attività di installazione sono passaggi chiave per ridurre il rischio di attacchi supply chain.
+
+
 
 
 
