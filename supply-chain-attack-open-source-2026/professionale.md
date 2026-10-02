@@ -9,6 +9,8 @@
 
 
 
+
+
 ---
 
 ![supply chain attack open source 2026](https://cybertechnologyinsights.com/wp-content/uploads/2026/05/The-Open-Source-Trust-Crisis-Supply-Chain-Attacks-in-2026-1-1024x576.png)
@@ -86,6 +88,8 @@ Axios è uno dei pacchetti più scaricati su npm, il che lo rende una **target d
 
 ### Quali misure si possono adottare per prevenire futuri attacchi?
 Implementare un **controllo rigoroso su CI/CD**, usare **MFA** e monitorare in tempo reale le attività di installazione sono passaggi chiave per ridurre il rischio di attacchi supply chain.
+
+
 
 
 

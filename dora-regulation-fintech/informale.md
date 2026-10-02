@@ -11,6 +11,8 @@
 
 
 
+
+
 Se ti immagini la finanza come una montagna di ghiaccio, DORA è quel sasso che ti aiuta a stare in equilibrio. Non è un muro alto quanto il Monte Bianco, ma un sistema di regole che ti dice: “Guarda dove vai, non solo dove sei”. Il Digital Operational Resilience Act (DORA) entra in gioco da gennaio 2025 per rendere i servizi finanziari più resistenti ai colpi del cyber. Non è solo una legge, ma un modo di pensare: **come un monaco che osserva il respiro senza giudicare**, DORA ti chiede di tenere d’occhio ogni dettaglio del flusso digitale, da un attacco a un guasto improvviso.  
 
 ---
@@ -77,6 +79,8 @@ DORA applica obblighi a 21 tipi diversi di istituzioni finanziarie, tra cui banc
 DORA prevede l’uso di tecnologie come SIEM, log analytics e test avanzati (TLPT) per monitorare e mitigare minacce.  
 
 ---
+
+
 
 
 

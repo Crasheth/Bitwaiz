@@ -9,6 +9,8 @@
 
 
 
+
+
 Negli ultimi mesi del 2026, il mondo della cybersecurity ha assistito a una serie di attacchi di supply chain che hanno messo in discussione la fiducia nei software open source. Tra marzo e aprile, cinque progetti open source sono stati compromessi in meno di due settimane, svelando una vulnerabilità strutturale nel modo in cui le aziende gestiscono i dipendenze e i flussi di lavoro automatizzati. Questo articolo esamina i dettagli degli attacchi, le tecniche utilizzate e le misure necessarie per mitigare il rischio.  
 
 ---
@@ -87,6 +89,8 @@ Axios è uno dei pacchetti più scaricati su npm, il che lo rende una **target d
 
 ### Quali misure si possono adottare per prevenire futuri attacchi?
 Implementare un **controllo rigoroso su CI/CD**, usare **MFA** e monitorare in tempo reale le attività di installazione sono passaggi chiave per ridurre il rischio di attacchi supply chain.
+
+
 
 
 
