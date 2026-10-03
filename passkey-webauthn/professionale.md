@@ -15,6 +15,8 @@
 
 
 
+
+
 Negli ultimi anni, il passkey (o credenziale WebAuthn) ha rappresentato un passo significativo nella lotta contro le vulnerabilità legate alle password. Un sistema che sfrutta la crittografia asimmetrica e dispositivi hardware per autenticare gli utenti senza richiedere password tradizionali. Questo articolo esplora il concetto di passkey WebAuthn, il suo ruolo nella sicurezza digitale e le implicazioni pratiche per aziende e sviluppatori.  
 
 
@@ -60,6 +62,8 @@ Sì, WebAuthn è progettato per resistere a diverse forme di attacco, inclusi i 
 
 ### Quali browser supportano WebAuthn?
 I principali browser come Chrome, Firefox e Safari supportano WebAuthn da diversi anni, permettendo agli utenti di utilizzare passkeys per l’autenticazione.
+
+
 
 
 

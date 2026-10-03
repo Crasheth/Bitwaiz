@@ -13,6 +13,8 @@
 
 
 
+
+
 ---
 
 ![DORA regulation fintech](https://assets-global.website-files.com/633d92770fc68507890ca62d/65d4a978a264fac351794da2_2.+The+5+Pillars+of+DORA+Regulation.png)
@@ -80,6 +82,8 @@ DORA applica obblighi a 21 tipi diversi di istituzioni finanziarie, tra cui banc
 DORA prevede l’uso di tecnologie come SIEM, log analytics e test avanzati (TLPT) per monitorare e mitigare minacce.  
 
 ---
+
+
 
 
 

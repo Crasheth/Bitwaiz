@@ -13,6 +13,8 @@
 
 
 
+
+
 Dalla fine del 2024, il **Digital Operational Resilience Act (DORA)** ha introdotto una serie di obblighi legali per le istituzioni finanziarie nell’Unione Europea. Questo regolamento mira a garantire che banche, assicurazioni, investitori e fornitori di servizi digitali siano in grado di resistere, rispondere e riprendersi da interruzioni tecnologiche, come attacchi informatici o guasti sistematici. Con l’entrata in vigore il 17 gennaio 2025, DORA rappresenta un passo fondamentale per ridurre i rischi sistemici legati alla dipendenza digitale del settore finanziario.  
 
 ---
@@ -61,6 +63,8 @@ Il DORA applica obblighi a 21 tipi diversi di istituzioni finanziarie, tra cui b
 Il DORA prevede l’uso di tecnologie come SIEM, log analytics e test avanzati (TLPT) per monitorare e mitigare minacce.  
 
 ---
+
+
 
 
 

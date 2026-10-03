@@ -11,6 +11,8 @@
 
 
 
+
+
 Immagina una rete di acqua che scorre in silenzio. Ogni goccia è un dato, ogni flusso un’azione. Ma se qualcuno aggiunge un veleno al rubinetto, il sistema si contamina senza rumore. Questo è il rischio del software open source nel 2026: una rete di dipendenze invisibili che può essere manipolata da chiunque abbia accesso al "rubinetto".  
 
 Tra marzo e aprile 2026, cinque progetti open source hanno subito attacchi devastanti. Non si tratta di un incidente isolato: è una guerra silenziosa tra i codici che alimentano il mondo digitale. Il problema non è solo la tecnologia, ma come le aziende affidano a strumenti "puliti" per costruire sistemi complessi.  
@@ -77,6 +79,8 @@ Axios è uno dei pacchetti più scaricati su npm, il che lo rende una **target d
 
 ### Quali misure si possono adottare per prevenire futuri attacchi?
 Implementare un **controllo rigoroso su CI/CD**, usare **MFA** e monitorare in tempo reale le attività di installazione sono passaggi chiave per ridurre il rischio di attacchi supply chain.
+
+
 
 
 
